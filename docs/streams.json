@@ -2,19 +2,22 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
+      "live": {
+        "started_at": "2026-09-08T13:01:31Z",
+        "title": "【初配信！？】こんにちは！ときのそらです！！～告知もあるよ～【ときのそら/ホロライブ】",
+        "video_id": "lvrGmIqRZg4"
+      },
       "name": "ときのそら"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-08T11:00:00Z",
-          "title": "【7Days to Die】#ホロ7大豆劇場 DAY4🔥あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
-          "video_id": "sS5I-EUFfJc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-08T11:01:49Z",
+        "title": "【7Days to Die】#ホロ7大豆劇場 DAY９🔥あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+        "video_id": "sS5I-EUFfJc"
+      },
+      "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-08T08:52:28Z"
+  "generated_at": "2026-09-08T13:08:01Z"
 }
