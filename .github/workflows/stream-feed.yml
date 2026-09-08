@@ -1,0 +1,55 @@
+# 配信フィードを定期生成するワークフロー。
+#
+# **このファイルはこのリポジトリでは動かさない。別に作る公開リポジトリへ
+# .github/workflows/stream-feed.yml として置く。** 理由は2つ:
+#   1. GitHub Pages を無料で使えるのは公開リポジトリだけ
+#   2. Actions の実行時間は非公開リポジトリだと従量(無料枠2,000分/月)。
+#      10分間隔＝月4,320回なので、非公開のままだと無料枠を使い切る。
+#      公開リポジトリなら実行時間は無料
+# 手順は .company/engineering/docs/stream-feed.md を参照。
+name: stream-feed
+
+on:
+  schedule:
+    # 10分間隔。GitHub の cron はベストエフォートで、混雑時は数分〜十数分
+    # 遅れる。配信開始の通知が数分遅れても実用上は問題ない前提で選んでいる。
+    - cron: "*/10 * * * *"
+  # 手動実行。初回の動作確認とチャンネル追加直後に使う。
+  workflow_dispatch:
+
+permissions:
+  # streams.json をリポジトリへ書き戻すために必要。これ以外の権限は要らない。
+  contents: write
+
+concurrency:
+  # 前回の実行が長引いたときに二重で走らせない(同じファイルを押し合う)。
+  group: stream-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build streams.json
+        env:
+          # APIキーはここにしか現れない。配布するアプリには一切入らない。
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python build_feed.py --channels channels.json --out docs/streams.json
+
+      - name: Commit when the feed actually changed
+        run: |
+          if [ -z "$(git status --porcelain docs/streams.json)" ]; then
+            echo "no change; nothing to commit"
+            exit 0
+          fi
+          git config user.name "stream-feed bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/streams.json
+          git commit -m "update streams.json"
+          git push
