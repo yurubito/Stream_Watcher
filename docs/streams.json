@@ -6,15 +6,13 @@
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-09T13:00:00Z",
-          "title": "【7Days to Die】#ホロ7大豆劇場 DAY１０🔥あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
-          "video_id": "L-c8R712bXc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-09T13:29:03Z",
+        "title": "【7Days to Die】#ホロ7大豆劇場 DAY１０🔥あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+        "video_id": "L-c8R712bXc"
+      },
+      "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-09T09:08:05Z"
+  "generated_at": "2026-09-09T13:40:16Z"
 }
