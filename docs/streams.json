@@ -2,12 +2,19 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-11T12:00:00Z",
+          "title": "【期間限定公開】ときのそら New Year’s Party 2026「Dreams in Motion」NIGHT",
+          "video_id": "QYFokdBCPWs"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-09T17:18:29Z"
+  "generated_at": "2026-09-10T11:47:06Z"
 }
