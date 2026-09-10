@@ -2,6 +2,11 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
+      "live": {
+        "started_at": "2026-09-10T14:01:41Z",
+        "title": "【Fesメドレー】フルで歌っていきたい！【ときのそら/ホロライブ】",
+        "video_id": "sKnnNqCFEkU"
+      },
       "name": "ときのそら",
       "upcoming": [
         {
@@ -16,5 +21,5 @@
       "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-10T11:47:06Z"
+  "generated_at": "2026-09-10T15:12:03Z"
 }
