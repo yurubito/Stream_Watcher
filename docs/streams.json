@@ -2,22 +2,12 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
-      "live": {
-        "started_at": "2026-09-12T14:15:58Z",
-        "title": "【ポニテのそら】おしゃべりしよ♪【ときのそら/ホロライブ】",
-        "video_id": "ihJXtjPdmh8"
-      },
       "name": "ときのそら"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "live": {
-        "started_at": "2026-09-12T11:02:53Z",
-        "title": "【キャプテン翼２】帰ってきたエゴイスト‼⚽ サッカー知識０で完全初見のキャプテン翼２ WORLD FIGHTERS【ホロライブ/さくらみこ】",
-        "video_id": "g1aSMIVHDYs"
-      },
       "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-12T15:41:57Z"
+  "generated_at": "2026-09-12T17:50:59Z"
 }
