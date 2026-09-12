@@ -2,12 +2,24 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
+      "live": {
+        "started_at": "2026-09-12T07:21:15Z",
+        "title": "【ゼルダの伝説 神々のトライフォース 】リンクといく新しい世界の旅【ホロライブ/ときのそら】",
+        "video_id": "3XlT-WWSbN8"
+      },
       "name": "ときのそら"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-12T11:00:00Z",
+          "title": "【キャプテン翼２】帰ってきたエゴイスト‼⚽ サッカー知識０で完全初見のキャプテン翼２ WORLD FIGHTERS【ホロライブ/さくらみこ】",
+          "video_id": "g1aSMIVHDYs"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-09-11T14:02:39Z"
+  "generated_at": "2026-09-12T08:52:15Z"
 }
