@@ -2,6 +2,11 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
+      "live": {
+        "started_at": "2026-09-12T14:15:58Z",
+        "title": "【ポニテのそら】おしゃべりしよ♪【ときのそら/ホロライブ】",
+        "video_id": "ihJXtjPdmh8"
+      },
       "name": "ときのそら"
     },
     {
@@ -14,5 +19,5 @@
       "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-12T12:27:57Z"
+  "generated_at": "2026-09-12T15:41:57Z"
 }
