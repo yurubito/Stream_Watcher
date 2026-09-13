@@ -2,17 +2,19 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-14T10:30:00Z",
+          "title": "【重大告知】このシルエットは一体・・・！？【ときのそら/ホロライブ】",
+          "video_id": "IkaiVFEeJFE"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "live": {
-        "started_at": "2026-09-13T13:47:41Z",
-        "title": "【ホロドリ】ホロドリ大会前日練習🔥みこトワでやるでぇえええええええ～～～！【ホロライブ/さくらみこ/常闇トワ】",
-        "video_id": "KhULmqdZRfw"
-      },
       "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-13T15:11:06Z"
+  "generated_at": "2026-09-13T18:12:36Z"
 }
