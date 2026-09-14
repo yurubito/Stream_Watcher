@@ -2,19 +2,17 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-14T10:30:00Z",
-          "title": "【重大告知】このシルエットは一体・・・！？【ときのそら/ホロライブ】",
-          "video_id": "IkaiVFEeJFE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-14T10:32:15Z",
+        "title": "【重大告知】このシルエットは一体・・・！？【ときのそら/ホロライブ】",
+        "video_id": "IkaiVFEeJFE"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-13T18:12:36Z"
+  "generated_at": "2026-09-14T10:42:00Z"
 }
