@@ -6,8 +6,20 @@
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "さくらみこ"
+      "live": {
+        "started_at": "2026-09-16T10:00:06Z",
+        "title": "さくらみこ 2nd Album 『Blooming Cinderella』クロスフェード - 2026年10月14日発売",
+        "video_id": "YbmIqHwIr3w"
+      },
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-16T11:00:00Z",
+          "title": "#2【キャプテン翼２】帰ってきたエゴイスト‼⚽2 サッカー知識０で完全初見のキャプテン翼２ WORLD FIGHTERS【ホロライブ/さくらみこ】",
+          "video_id": "xGYZe-8cbRs"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-09-15T16:50:41Z"
+  "generated_at": "2026-09-16T10:00:45Z"
 }
