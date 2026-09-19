@@ -6,15 +6,13 @@
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-19T12:00:00Z",
-          "title": "【7Days to Die】#ホロ7大豆劇場 最終回🔥みんなで生き残れ！！！！！！！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "gZDi81cBtSE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-19T12:00:27Z",
+        "title": "【7Days to Die】#ホロ7大豆劇場 最終回🔥みんなで生き残れ！！！！！！！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "gZDi81cBtSE"
+      },
+      "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-19T11:26:23Z"
+  "generated_at": "2026-09-19T14:34:44Z"
 }
