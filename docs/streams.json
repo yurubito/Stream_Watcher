@@ -6,8 +6,15 @@
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-22T11:00:00Z",
+          "title": "#4【キャプテン翼２】帰ってきたエゴイスト‼⚽2 サッカー知識０で完全初見のキャプテン翼２ WORLD FIGHTERS【ホロライブ/さくらみこ】※ネタバレあり",
+          "video_id": "4bdwabptqqI"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-09-21T18:59:26Z"
+  "generated_at": "2026-09-22T10:27:20Z"
 }
