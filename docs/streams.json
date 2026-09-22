@@ -2,19 +2,22 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
+      "live": {
+        "started_at": "2026-09-22T13:03:00Z",
+        "title": "【ゼルダの伝説 神々のトライフォース 】多分今日で最終回！！【ときのそら/ホロライブ】",
+        "video_id": "azXKoIiKNeA"
+      },
       "name": "ときのそら"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-22T11:00:00Z",
-          "title": "#4【キャプテン翼２】帰ってきたエゴイスト‼⚽2 サッカー知識０で完全初見のキャプテン翼２ WORLD FIGHTERS【ホロライブ/さくらみこ】※ネタバレあり",
-          "video_id": "4bdwabptqqI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-22T11:04:06Z",
+        "title": "#4【キャプテン翼２】帰ってきたエゴイスト‼⚽2 サッカー知識０で完全初見のキャプテン翼２ WORLD FIGHTERS【ホロライブ/さくらみこ】※ネタバレあり",
+        "video_id": "4bdwabptqqI"
+      },
+      "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-22T10:27:20Z"
+  "generated_at": "2026-09-22T15:05:30Z"
 }
