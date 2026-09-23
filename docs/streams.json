@@ -2,24 +2,12 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
-      "live": {
-        "started_at": "2026-09-23T12:32:31Z",
-        "title": "【新曲出ました】スキ⇄スキ☆うろぼろす【ときのそら/ホロライブ】",
-        "video_id": "46PcUHOfrnM"
-      },
       "name": "ときのそら"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-23T13:00:00Z",
-          "title": "【BOMBANANA!】聞か猿見え猿言わ猿、きんじょーーーず！！！！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "Q_XKhVZZ8I8"
-        }
-      ]
+      "name": "さくらみこ"
     }
   ],
-  "generated_at": "2026-09-23T13:01:15Z"
+  "generated_at": "2026-09-23T17:49:20Z"
 }
