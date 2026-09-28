@@ -20,11 +20,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-09-28T13:01:13Z",
-        "title": "【GeoGuessr】緊急！ジオゲッサー好きな新人ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!【ホロライブ / AZKi】",
-        "video_id": "LXtVPFgiCNA"
-      },
       "name": "AZKi"
     },
     {
@@ -40,7 +35,14 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール"
+      "name": "アキ・ローゼンタール",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T14:40:00Z",
+          "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
+          "video_id": "WjNxzPtIHhI"
+        }
+      ]
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -80,16 +82,23 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ"
+      "name": "猫又おかゆ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T11:00:00Z",
+          "title": "【 🔵steam 】ホロメンちゃんにプレゼント送るぞｵｵｵｵｵ😸🎁ˊ˗ 【 猫又おかゆ/ホロライブ 】",
+          "video_id": "5JhyDHpdBJs"
+        },
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【 💜メンバーシップ限定 】一か月休みの前にらぶらぶ補給しなきゃネ⸝⸝【 猫又おかゆ/ホロライブ 】",
+          "video_id": "0XfSSfCjakE"
+        }
+      ]
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-09-28T12:00:15Z",
-        "title": "【バイオハザード HDリマスター】やるです。経験者です。楽勝です。",
-        "video_id": "h3joGokdAiM"
-      },
       "name": "戌神ころね"
     },
     {
@@ -115,11 +124,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-09-28T12:07:32Z",
-        "title": "【 #マイクラ肝試し2026 】フレわたーニャで！肝試し～👻✨【角巻わため/ホロライブ４期生】",
-        "video_id": "CiAFlzipOCY"
-      },
       "name": "角巻わため"
     },
     {
@@ -130,11 +134,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-09-28T09:59:09Z",
-        "title": "【 サイレントヒル タウンフォール 】最新作「SILENT HILL: Townfall」で遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】※ネタバレあり",
-        "video_id": "FE_EOCv-TmE"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -162,6 +161,11 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-09-28T20:59:42Z",
+        "title": "【OHAPOL】#207 9/29火曜日！それでも地球は回っている #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+        "video_id": "Hy-Q7BedPLY"
+      },
       "name": "尾丸ポルカ"
     },
     {
@@ -172,11 +176,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-09-28T13:01:51Z",
-        "title": "【 ダービースタリオン２ 】はじめてのダビスタやってみるぞ🏇【鷹嶺ルイ/ホロライブ】",
-        "video_id": "HHjN6svDtvg"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -373,7 +372,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T01:00:00Z",
+          "title": "【FORTNITE】Let's play Kingdom Hearts *in fortnite",
+          "video_id": "PjjnGS9hBsA"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -395,6 +401,11 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-09-28T19:40:18Z",
+        "title": "🔴LIVE |【FORTNITE】Thank the bus  | 💄",
+        "video_id": "XYwybBVbNTI"
+      },
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
         {
@@ -407,14 +418,7 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-28T16:00:00Z",
-          "title": "【HEAVY RAIN】CCGG MADNESS! sleep deprived & with drinks!",
-          "video_id": "futPd6f5Gl4"
-        }
-      ]
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -441,11 +445,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-09-28T14:32:15Z",
-        "title": "【Dressmaker】more design!【hololive | moona】",
-        "video_id": "t_qQV2iih8Q"
-      },
       "name": "ムーナ・ホシノヴァ",
       "upcoming": [
         {
@@ -463,11 +462,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-09-28T13:02:29Z",
-        "title": "【Dressmaker】 Pt.3: MORE DRESSES MORE DRESSES!! 【Kureiji Ollie】",
-        "video_id": "X4dshhIBUjI"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -480,11 +474,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-09-28T12:01:57Z",
-        "title": "【Minecraft #マイクラ肝試し2026】今日もまたふれわたーニャで肝試しのお散歩など！！！！！ 【hololive holoro | Anya Melfissa】",
-        "video_id": "DsQ8TKxy4Jg"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -519,18 +508,20 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-09-28T13:31:12Z",
-        "title": "【How to Fish】too much for a normal fishing day【SKJ】",
-        "video_id": "GO18VweQQOE"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T06:10:00Z",
+          "title": "【hololive Dreams】NEW AREA !!! GACHA !!! CHILLING WITH DA GIRLS if they still streaming...",
+          "video_id": "1jpKlGbDQNk"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-09-28T15:20:30Z"
+  "generated_at": "2026-09-28T21:17:45Z"
 }
