@@ -11,10 +11,13 @@ name: stream-feed
 
 on:
   schedule:
-    # 10分間隔。GitHub の cron はベストエフォートで、混雑時は数分〜十数分
-    # 遅れる。配信開始の通知が数分遅れても実用上は問題ない前提で選んでいる。
+    # 10分間隔のつもりだが、GitHub の cron はベストエフォートで、実測では
+    # 2〜7時間おきにしか動かなかった(debug-log 2026-09-27)。
+    # **主な起動は外部の cron(cron-job.org)からの workflow_dispatch に任せ、
+    # これは外部 cron が止まったときの保険として残す。**
     - cron: "*/10 * * * *"
-  # 手動実行。初回の動作確認とチャンネル追加直後に使う。
+  # 外部 cron(10分おき)からの起動、初回の動作確認、チャンネル追加直後の手動実行。
+  # 手順は .company/engineering/docs/stream-feed.md の「外部 cron で10分おきに起動する」。
   workflow_dispatch:
 
 permissions:

@@ -1,10 +1,337 @@
 [
   {
     "id": "UCp6993wxpyDPHUpavwDFqgg",
-    "name": "ときのそら"
+    "name": "ときのそら",
+    "group": "JP 0期生"
+  },
+  {
+    "id": "UCDqI2jOz0weumE8s7paEk6g",
+    "name": "ロボ子さん",
+    "group": "JP 0期生"
+  },
+  {
+    "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+    "name": "AZKi",
+    "group": "JP 0期生"
   },
   {
     "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-    "name": "さくらみこ"
+    "name": "さくらみこ",
+    "group": "JP 0期生"
+  },
+  {
+    "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+    "name": "星街すいせい",
+    "group": "JP 0期生"
+  },
+  {
+    "id": "UCFTLzh12_nrtzqBPsTCqenA",
+    "name": "アキ・ローゼンタール",
+    "group": "JP 1期生"
+  },
+  {
+    "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+    "name": "赤井はあと",
+    "group": "JP 1期生"
+  },
+  {
+    "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "name": "白上フブキ",
+    "group": "JP 1期生"
+  },
+  {
+    "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+    "name": "夏色まつり",
+    "group": "JP 1期生"
+  },
+  {
+    "id": "UC7fk0CB07ly8oSl0aqKkqFg",
+    "name": "百鬼あやめ",
+    "group": "JP 2期生"
+  },
+  {
+    "id": "UC1suqwovbL1kzsoaZgFZLKg",
+    "name": "癒月ちょこ",
+    "group": "JP 2期生"
+  },
+  {
+    "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+    "name": "大空スバル",
+    "group": "JP 2期生"
+  },
+  {
+    "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+    "name": "大神ミオ",
+    "group": "JP ゲーマーズ"
+  },
+  {
+    "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+    "name": "猫又おかゆ",
+    "group": "JP ゲーマーズ"
+  },
+  {
+    "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+    "name": "戌神ころね",
+    "group": "JP ゲーマーズ"
+  },
+  {
+    "id": "UC1DCedRgGHBdm81E1llLhOQ",
+    "name": "兎田ぺこら",
+    "group": "JP 3期生"
+  },
+  {
+    "id": "UCvInZx9h3jC2JzsIzoOebWg",
+    "name": "不知火フレア",
+    "group": "JP 3期生"
+  },
+  {
+    "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+    "name": "白銀ノエル",
+    "group": "JP 3期生"
+  },
+  {
+    "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+    "name": "宝鐘マリン",
+    "group": "JP 3期生"
+  },
+  {
+    "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+    "name": "角巻わため",
+    "group": "JP 4期生"
+  },
+  {
+    "id": "UC1uv2Oq6kNxgATlCiez59hw",
+    "name": "常闇トワ",
+    "group": "JP 4期生"
+  },
+  {
+    "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+    "name": "姫森ルーナ",
+    "group": "JP 4期生"
+  },
+  {
+    "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+    "name": "雪花ラミィ",
+    "group": "JP 5期生"
+  },
+  {
+    "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+    "name": "桃鈴ねね",
+    "group": "JP 5期生"
+  },
+  {
+    "id": "UCUKD-uaobj9jiqB-VXt71mA",
+    "name": "獅白ぼたん",
+    "group": "JP 5期生"
+  },
+  {
+    "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+    "name": "尾丸ポルカ",
+    "group": "JP 5期生"
+  },
+  {
+    "id": "UCENwRMx5Yh42zWpzURebzTw",
+    "name": "ラプラス・ダークネス",
+    "group": "JP holoX"
+  },
+  {
+    "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+    "name": "鷹嶺ルイ",
+    "group": "JP holoX"
+  },
+  {
+    "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+    "name": "博衣こより",
+    "group": "JP holoX"
+  },
+  {
+    "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは",
+    "group": "JP holoX"
+  },
+  {
+    "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+    "name": "音乃瀬奏",
+    "group": "DEV_IS ReGLOSS"
+  },
+  {
+    "id": "UCtyWhCj3AqKh2dXctLkDtng",
+    "name": "一条莉々華",
+    "group": "DEV_IS ReGLOSS"
+  },
+  {
+    "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+    "name": "儒烏風亭らでん",
+    "group": "DEV_IS ReGLOSS"
+  },
+  {
+    "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+    "name": "轟はじめ",
+    "group": "DEV_IS ReGLOSS"
+  },
+  {
+    "id": "UC9LSiN9hXI55svYEBrrK-tw",
+    "name": "響咲リオナ",
+    "group": "DEV_IS FLOW GLOW"
+  },
+  {
+    "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+    "name": "虎金妃笑虎",
+    "group": "DEV_IS FLOW GLOW"
+  },
+  {
+    "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+    "name": "水宮枢",
+    "group": "DEV_IS FLOW GLOW"
+  },
+  {
+    "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+    "name": "輪堂千速",
+    "group": "DEV_IS FLOW GLOW"
+  },
+  {
+    "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+    "name": "綺々羅々ヴィヴィ",
+    "group": "DEV_IS FLOW GLOW"
+  },
+  {
+    "id": "UC8eitCE9Z6EwUCs-VUi1blg",
+    "name": "熱千めら",
+    "group": "アソビ★まわり隊！"
+  },
+  {
+    "id": "UCROQtXcp2loQEmvpe5rhJzQ",
+    "name": "宙科そぴあ",
+    "group": "アソビ★まわり隊！"
+  },
+  {
+    "id": "UCy9mgxB8pn2C4aNK_MPthDQ",
+    "name": "鈴鳴つづり",
+    "group": "アソビ★まわり隊！"
+  },
+  {
+    "id": "UCSjQDxud2HkAO2DVD3lwxmw",
+    "name": "百灯キョーコ",
+    "group": "アソビ★まわり隊！"
+  },
+  {
+    "id": "UCozx5csNhCx1wsVq3SZVkBQ",
+    "name": "井月みちる",
+    "group": "holoAN"
+  },
+  {
+    "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+    "name": "森カリオペ",
+    "group": "EN Myth"
+  },
+  {
+    "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+    "name": "小鳥遊キアラ",
+    "group": "EN Myth"
+  },
+  {
+    "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+    "name": "一伊那尓栖",
+    "group": "EN Myth"
+  },
+  {
+    "id": "UC8rcEBzJSleTkf_-agPM20g",
+    "name": "IRyS",
+    "group": "EN Promise"
+  },
+  {
+    "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+    "name": "オーロ・クロニー",
+    "group": "EN Promise"
+  },
+  {
+    "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "name": "ハコス・ベールズ",
+    "group": "EN Promise"
+  },
+  {
+    "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+    "name": "シオリ・ノヴェラ",
+    "group": "EN Advent"
+  },
+  {
+    "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+    "name": "古石ビジュー",
+    "group": "EN Advent"
+  },
+  {
+    "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+    "name": "ネリッサ・レイヴンクロフト",
+    "group": "EN Advent"
+  },
+  {
+    "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+    "name": "フワワ＆モココ・アビスガード",
+    "group": "EN Advent"
+  },
+  {
+    "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "group": "EN Justice"
+  },
+  {
+    "id": "UCDHABijvPBnJm7F-KlNME3w",
+    "name": "ジジ・ムリン",
+    "group": "EN Justice"
+  },
+  {
+    "id": "UCvN5h1ShZtc7nly3pezRayg",
+    "name": "セシリア・イマーグリーン",
+    "group": "EN Justice"
+  },
+  {
+    "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+    "name": "ラオーラ・パンテーラ",
+    "group": "EN Justice"
+  },
+  {
+    "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+    "name": "アユンダ・リス",
+    "group": "ID AREA15"
+  },
+  {
+    "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+    "name": "ムーナ・ホシノヴァ",
+    "group": "ID AREA15"
+  },
+  {
+    "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+    "name": "アイラニ・イオフィフティーン",
+    "group": "ID AREA15"
+  },
+  {
+    "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+    "name": "クレイジー・オリー",
+    "group": "ID holoro"
+  },
+  {
+    "id": "UC727SQYUvx5pDDGQpTICNWg",
+    "name": "アーニャ・メルフィッサ",
+    "group": "ID holoro"
+  },
+  {
+    "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+    "name": "パヴォリア・レイネ",
+    "group": "ID holoro"
+  },
+  {
+    "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+    "name": "ベスティア・ゼータ",
+    "group": "ID holoh3ro"
+  },
+  {
+    "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+    "name": "カエラ・コヴァルスキア",
+    "group": "ID holoh3ro"
+  },
+  {
+    "id": "UCjLEmnpCNeisMxy134KPwWw",
+    "name": "こぼ・かなえる",
+    "group": "ID holoh3ro"
   }
 ]

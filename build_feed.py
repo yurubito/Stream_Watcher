@@ -12,8 +12,9 @@ APIキーに触れる。** キーはサーバ側の秘密として GitHub Secret
   - ライブ状態と予定開始時刻は **videos.list**。50件まとめて **1ユニット**。
   - search.list は使わない。1回100ユニットに加え、2026年6月の変更で
     新規プロジェクトは1日100回に制限されており、定期ポーリングには使えない。
-  → 5チャンネル/15動画なら1回あたり2ユニット程度。1日144回動かしても
-    300ユニット弱で、既定枠10,000に対して十分な余裕がある。
+  → 1チャンネルあたりRSSの15本。ホロライブ JP・EN・ID の約70チャンネルで
+    約1,000本＝1回あたり約20ユニット。10分おき(1日144回)でも約3,000ユニットで、
+    既定枠10,000に収まる(2026-09-28 に全員へ広げたときの見積もり)。
 
 依存はPython標準ライブラリのみ。pip install を挟まないぶん、
 ジョブが壊れる原因を1つ減らせる。
@@ -109,13 +110,25 @@ def video_details(api_key, video_ids):
     return details
 
 
-def classify(channel_id, name, video_ids, details):
+def base_entry(channel):
+    """フィード項目の、配信状態によらない部分(ID・表示名・グループ)。
+
+    group は設定画面でチャンネルを期・ユニットごとにまとめるための見出し
+    (例: "JP 3期生")。channels.json に無ければ出さない(古いアプリは読み飛ばす)。
+    """
+    entry = {"channel_id": channel["id"], "name": channel.get("name", channel["id"])}
+    if channel.get("group"):
+        entry["group"] = channel["group"]
+    return entry
+
+
+def classify(channel, video_ids, details):
     """1チャンネルぶんのフィード項目を組み立てる。
 
     live は高々1件。YouTubeの仕様上ひとつのチャンネルが同時に複数の配信を
     持つことはあり得るが、デスクトップマスコットが伝えるのは1件で足りる。
     """
-    entry = {"channel_id": channel_id, "name": name}
+    entry = base_entry(channel)
     upcoming = []
 
     for video_id in video_ids:
@@ -217,20 +230,23 @@ def main():
     entries = []
     for channel in channels:
         channel_id = channel["id"]
-        name = channel.get("name", channel_id)
         ids = per_channel_ids.get(channel_id)
         if ids is None:
-            # このチャンネルだけRSSが取れなかった。前回の内容を引き継ぐ。
+            # このチャンネルだけRSSが取れなかった。前回の配信状態を引き継ぐ。
             # 空で出すと、クライアント側では配信が終わったように見え、
             # 復旧時に同じ配信をもう一度通知してしまう。
+            # 表示名・グループは channels.json の最新を使う(書き換えた直後にRSSが
+            # 落ちても、古い名前やグループが残り続けないように)。
             carried = previous.get(channel_id)
+            entry = base_entry(channel)
             if carried:
                 log(f"  carrying over previous entry for {channel_id}")
-                entries.append(carried)
-            else:
-                entries.append({"channel_id": channel_id, "name": name})
+                for key in ("live", "upcoming"):
+                    if key in carried:
+                        entry[key] = carried[key]
+            entries.append(entry)
             continue
-        entries.append(classify(channel_id, name, ids, details))
+        entries.append(classify(channel, ids, details))
 
     # 内容が変わっていなければファイルに触らない。定期ジョブは10分おきに
     # 走るので、毎回書き換えるとリポジトリが無意味なコミットで膨らむ。
