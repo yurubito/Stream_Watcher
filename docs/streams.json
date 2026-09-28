@@ -2,12 +2,535 @@
   "channels": [
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
+      "group": "JP 0期生",
       "name": "ときのそら"
     },
     {
+      "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
+      "group": "JP 0期生",
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T13:30:00Z",
+          "title": "【  ＃ホロドリ 】新エリア解放した～い！ビンゴもしたい！まだまだホロライブサマーって事！？【ホロライブ/ ロボ子さん 】",
+          "video_id": "kectzZz4WlA"
+        }
+      ]
+    },
+    {
+      "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-09-28T13:01:13Z",
+        "title": "【GeoGuessr】緊急！ジオゲッサー好きな新人ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!【ホロライブ / AZKi】",
+        "video_id": "LXtVPFgiCNA"
+      },
+      "name": "AZKi"
+    },
+    {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "group": "JP 0期生",
       "name": "さくらみこ"
+    },
+    {
+      "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "group": "JP 0期生",
+      "name": "星街すいせい"
+    },
+    {
+      "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
+      "group": "JP 1期生",
+      "name": "アキ・ローゼンタール"
+    },
+    {
+      "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "group": "JP 1期生",
+      "name": "赤井はあと"
+    },
+    {
+      "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "group": "JP 1期生",
+      "name": "白上フブキ"
+    },
+    {
+      "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "group": "JP 1期生",
+      "name": "夏色まつり"
+    },
+    {
+      "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
+      "group": "JP 2期生",
+      "name": "百鬼あやめ"
+    },
+    {
+      "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "group": "JP 2期生",
+      "name": "癒月ちょこ"
+    },
+    {
+      "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
+      "group": "JP 2期生",
+      "name": "大空スバル"
+    },
+    {
+      "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "group": "JP ゲーマーズ",
+      "name": "大神ミオ"
+    },
+    {
+      "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "group": "JP ゲーマーズ",
+      "name": "猫又おかゆ"
+    },
+    {
+      "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
+      "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-09-28T12:00:15Z",
+        "title": "【バイオハザード HDリマスター】やるです。経験者です。楽勝です。",
+        "video_id": "h3joGokdAiM"
+      },
+      "name": "戌神ころね"
+    },
+    {
+      "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "group": "JP 3期生",
+      "name": "兎田ぺこら"
+    },
+    {
+      "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "group": "JP 3期生",
+      "name": "不知火フレア"
+    },
+    {
+      "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "group": "JP 3期生",
+      "name": "白銀ノエル"
+    },
+    {
+      "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "group": "JP 3期生",
+      "name": "宝鐘マリン"
+    },
+    {
+      "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-09-28T12:07:32Z",
+        "title": "【 #マイクラ肝試し2026 】フレわたーニャで！肝試し～👻✨【角巻わため/ホロライブ４期生】",
+        "video_id": "CiAFlzipOCY"
+      },
+      "name": "角巻わため"
+    },
+    {
+      "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "group": "JP 4期生",
+      "name": "常闇トワ"
+    },
+    {
+      "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-09-28T09:59:09Z",
+        "title": "【 サイレントヒル タウンフォール 】最新作「SILENT HILL: Townfall」で遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】※ネタバレあり",
+        "video_id": "FE_EOCv-TmE"
+      },
+      "name": "姫森ルーナ"
+    },
+    {
+      "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "group": "JP 5期生",
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T13:00:00Z",
+          "title": "【#ねぽっくす！】告知あり！！ねぽっくす！振り返り雑談【​雪花ラミィ /ホロライブ】",
+          "video_id": "2UMrw0y88oQ"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "group": "JP 5期生",
+      "name": "桃鈴ねね"
+    },
+    {
+      "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
+      "group": "JP 5期生",
+      "name": "獅白ぼたん"
+    },
+    {
+      "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "group": "JP 5期生",
+      "name": "尾丸ポルカ"
+    },
+    {
+      "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
+      "group": "JP holoX",
+      "name": "ラプラス・ダークネス"
+    },
+    {
+      "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+      "group": "JP holoX",
+      "live": {
+        "started_at": "2026-09-28T13:01:51Z",
+        "title": "【 ダービースタリオン２ 】はじめてのダビスタやってみるぞ🏇【鷹嶺ルイ/ホロライブ】",
+        "video_id": "HHjN6svDtvg"
+      },
+      "name": "鷹嶺ルイ"
+    },
+    {
+      "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "group": "JP holoX",
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-28T22:00:00Z",
+          "title": "【 #朝こよ 】㊗300回‼️ホロメンからのお祝いも⁉️火曜日の朝も朝こよ～！☀ #300 【博衣こより/hololive】",
+          "video_id": "m0wMAE1en5E"
+        },
+        {
+          "scheduled_at": "2026-09-29T02:00:00Z",
+          "title": "【 #ホロドリ 】新エリア＆新水着ガチャきちゃああ！遂にこより水着‼️コンプ＆完凸したいぞ‼️【博衣こより/ホロライブ】",
+          "video_id": "DXYF7bJeDy4"
+        }
+      ]
+    },
+    {
+      "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "group": "JP holoX",
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T02:00:00Z",
+          "title": "【#ホロドリ】釣りに取りつかれてる人の最速釣り解放チャレンジ（この後仕事）【風真いろは/ホロライブ】",
+          "video_id": "PcfrGvqD2Cg"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "group": "DEV_IS ReGLOSS",
+      "name": "音乃瀬奏"
+    },
+    {
+      "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "group": "DEV_IS ReGLOSS",
+      "name": "一条莉々華"
+    },
+    {
+      "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "group": "DEV_IS ReGLOSS",
+      "name": "儒烏風亭らでん"
+    },
+    {
+      "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "group": "DEV_IS ReGLOSS",
+      "name": "轟はじめ"
+    },
+    {
+      "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "group": "DEV_IS FLOW GLOW",
+      "name": "響咲リオナ"
+    },
+    {
+      "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "group": "DEV_IS FLOW GLOW",
+      "name": "虎金妃笑虎"
+    },
+    {
+      "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "group": "DEV_IS FLOW GLOW",
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T10:00:00Z",
+          "title": "【 #マイクラ肝試し2026 】ビビりが行く「南ノ迷宮・北ノ迷宮」【水宮枢視点／ホロライブ】",
+          "video_id": "a7gN7nU0cr8"
+        },
+        {
+          "scheduled_at": "2026-10-01T13:30:00Z",
+          "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#7【水宮枢／ホロライブDEV_IS】※ネタバレ有",
+          "video_id": "LKWMaCecqBw"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "group": "DEV_IS FLOW GLOW",
+      "name": "輪堂千速"
+    },
+    {
+      "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "group": "DEV_IS FLOW GLOW",
+      "name": "綺々羅々ヴィヴィ"
+    },
+    {
+      "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
+      "group": "アソビ★まわり隊！",
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T10:00:00Z",
+          "title": "【インターネット防災訓練】炎上から学ぶのじゃ。【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "enA66OJbYmU"
+        },
+        {
+          "scheduled_at": "2026-09-29T22:00:00Z",
+          "title": "【#のじゃEnglish】Duolingoで英語を勉強しますのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "6dLFYgSqSl0"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
+      "group": "アソビ★まわり隊！",
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T11:00:00Z",
+          "title": "【マシュマロ配信】博士だけど、質問ある？【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "DTq-SAZFOVk"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
+      "group": "アソビ★まわり隊！",
+      "name": "鈴鳴つづり"
+    },
+    {
+      "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
+      "group": "アソビ★まわり隊！",
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T02:00:00Z",
+          "title": "【EN】I'M FEELING LUCKY TODAY - Buckshot Roulette【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
+          "video_id": "ibspKFhZnfM"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
+      "group": "holoAN",
+      "name": "井月みちる"
+    },
+    {
+      "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "group": "EN Myth",
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T08:00:00Z",
+          "title": "【hololive Dreams】bingo bango bongo. #calliolive #holodori",
+          "video_id": "ASIjjf6jKUg"
+        },
+        {
+          "scheduled_at": "2026-09-29T10:00:00Z",
+          "title": "【members only】movie night!! we are watching....?? #calliolive",
+          "video_id": "Cs7QI0hZ4XM"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "group": "EN Myth",
+      "name": "小鳥遊キアラ"
+    },
+    {
+      "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "group": "EN Myth",
+      "name": "一伊那尓栖"
+    },
+    {
+      "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
+      "group": "EN Promise",
+      "name": "IRyS"
+    },
+    {
+      "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "group": "EN Promise",
+      "name": "オーロ・クロニー"
+    },
+    {
+      "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "group": "EN Promise",
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T07:00:00Z",
+          "title": "≪#マイクラ肝試し2026≫ MINECRAFT TEST OF COURAGE 2026 w/ Ina & CC",
+          "video_id": "ucVbmV0bflw"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+      "group": "EN Advent",
+      "name": "シオリ・ノヴェラ"
+    },
+    {
+      "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+      "group": "EN Advent",
+      "name": "古石ビジュー"
+    },
+    {
+      "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "group": "EN Advent",
+      "name": "ネリッサ・レイヴンクロフト"
+    },
+    {
+      "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "group": "EN Advent",
+      "name": "フワワ＆モココ・アビスガード",
+      "upcoming": [
+        {
+          "scheduled_at": "2027-02-03T14:59:00Z",
+          "title": "【INFO🐾お知らせ】𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭𝘀𝘁 𝗔𝗹𝗯𝘂𝗺 💿「FUWAMOCO à la mode ～いつだってあなたの笑顔を守るのッ～」予約受付中✨ ON PRE-ORDER NOW🩵🩷",
+          "video_id": "bWmsSF2NCeE"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "group": "EN Justice",
+      "name": "エリザベス・ローズ・ブラッドフレイム",
+      "upcoming": [
+        {
+          "scheduled_at": "2027-04-25T18:00:00Z",
+          "title": "🛡🌹 Rosarian Common Room ❤️ Community Hangout 🌹 🛡",
+          "video_id": "BG1PnrEgNMY"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
+      "group": "EN Justice",
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-28T16:00:00Z",
+          "title": "【HEAVY RAIN】CCGG MADNESS! sleep deprived & with drinks!",
+          "video_id": "futPd6f5Gl4"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
+      "group": "EN Justice",
+      "name": "セシリア・イマーグリーン"
+    },
+    {
+      "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "group": "EN Justice",
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T14:00:00Z",
+          "title": "【HOLOLIVE DREAM】UUUUUUUUUUUHM I NEED ELP? #holodori",
+          "video_id": "wmSgbULXun4"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
+      "group": "ID AREA15",
+      "name": "アユンダ・リス"
+    },
+    {
+      "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-09-28T14:32:15Z",
+        "title": "【Dressmaker】more design!【hololive | moona】",
+        "video_id": "t_qQV2iih8Q"
+      },
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T04:00:00Z",
+          "title": "【Hololive Dreams】OOH!! NEW AREA LET'S GO!【hololive | moona】",
+          "video_id": "5kt7cbUiDJk"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "group": "ID AREA15",
+      "name": "アイラニ・イオフィフティーン"
+    },
+    {
+      "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "group": "ID holoro",
+      "live": {
+        "started_at": "2026-09-28T13:02:29Z",
+        "title": "【Dressmaker】 Pt.3: MORE DRESSES MORE DRESSES!! 【Kureiji Ollie】",
+        "video_id": "X4dshhIBUjI"
+      },
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T04:00:00Z",
+          "title": "【hololive Dreams】 UNLOCKING AREA 3 TOGETHER!! #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "9etqj1gIM74"
+        }
+      ]
+    },
+    {
+      "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
+      "group": "ID holoro",
+      "live": {
+        "started_at": "2026-09-28T12:01:57Z",
+        "title": "【Minecraft #マイクラ肝試し2026】今日もまたふれわたーニャで肝試しのお散歩など！！！！！ 【hololive holoro | Anya Melfissa】",
+        "video_id": "DsQ8TKxy4Jg"
+      },
+      "name": "アーニャ・メルフィッサ"
+    },
+    {
+      "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "group": "ID holoro",
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T04:00:00Z",
+          "title": "【hololive Dreams】Area 3 \"Soda Pop Lagoon\"! Good Thing I'm Thirsty  #holodori【Pavolia Reine/hololive】",
+          "video_id": "egLGTVyvEz4"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
+      "group": "ID holoh3ro",
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T04:00:00Z",
+          "title": "【hololive Dreams】 Splash! NEW AREA UNLOCK! 新しいエリア! #holodori #ホロドリ",
+          "video_id": "QiATSYtmze4"
+        },
+        {
+          "scheduled_at": "2026-09-29T11:00:00Z",
+          "title": "【Dressmaker】FASHION.",
+          "video_id": "SYXMI5oCT0M"
+        }
+      ]
+    },
+    {
+      "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+      "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-09-28T13:31:12Z",
+        "title": "【How to Fish】too much for a normal fishing day【SKJ】",
+        "video_id": "GO18VweQQOE"
+      },
+      "name": "カエラ・コヴァルスキア"
+    },
+    {
+      "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
+      "group": "ID holoh3ro",
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-27T17:08:16Z"
+  "generated_at": "2026-09-28T15:20:30Z"
 }
