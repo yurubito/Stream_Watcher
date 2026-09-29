@@ -86,7 +86,14 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T11:00:00Z",
+          "title": "【】【ホロライブ/大空スバル】",
+          "video_id": "D8rrDy4nFrQ"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -202,14 +209,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-29T22:00:00Z",
-          "title": "【#ホロドリ】朝釣り雑談ストーリーを添えて【風真いろは/ホロライブ】",
-          "video_id": "wRNO-yz4f20"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-29T22:00:53Z",
+        "title": "【#ホロドリ】朝釣り雑談ストーリーを添えて【風真いろは/ホロライブ】",
+        "video_id": "wRNO-yz4f20"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -283,14 +288,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-29T22:00:00Z",
-          "title": "【#のじゃEnglish】Duolingoで英語を勉強しますのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "6dLFYgSqSl0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-29T21:59:35Z",
+        "title": "【#のじゃEnglish】Duolingoで英語を勉強しますのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "6dLFYgSqSl0"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -327,12 +330,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-09-29T18:00:48Z",
-        "title": "【holodori】NEED TO CATCH UPPPPP #kfp #キアライブ",
-        "video_id": "Kr5SOpX7Tfk"
-      },
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T14:00:00Z",
+          "title": "【holodori】my cat teaches me all the games #kfp #キアライブ",
+          "video_id": "gJYSjJTHIOw"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -420,7 +425,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T14:00:00Z",
+          "title": "【HOLOLIVE DREAM】GACHA GACHA WITH YURIPEANS!! #holodori",
+          "video_id": "aGHE6jSxncw"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -537,5 +549,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-29T18:43:57Z"
+  "generated_at": "2026-09-29T22:39:04Z"
 }
