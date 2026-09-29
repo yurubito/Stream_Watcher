@@ -161,12 +161,19 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-09-28T20:59:42Z",
-        "title": "【OHAPOL】#207 9/29火曜日！それでも地球は回っている #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-        "video_id": "Hy-Q7BedPLY"
-      },
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T12:00:00Z",
+          "title": "【ホロドリ】今日からはじまった「スプラッシュボール」で遊ぼう！ホロ花火2026の告知もあるよ！！【尾丸ポルカ/博衣こより/ホロライブ】",
+          "video_id": "x0NWlpVEqD8"
+        },
+        {
+          "scheduled_at": "2026-09-30T05:00:00Z",
+          "title": "【鳴潮】ついに「Ver.3.7」が解禁…！！その時ポルカは。【尾丸ポルカ/ホロライブ】",
+          "video_id": "jYzhcVoSE0E"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -183,11 +190,6 @@
       "group": "JP holoX",
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-28T22:00:00Z",
-          "title": "【 #朝こよ 】㊗300回‼️ホロメンからのお祝いも⁉️火曜日の朝も朝こよ～！☀ #300 【博衣こより/hololive】",
-          "video_id": "m0wMAE1en5E"
-        },
         {
           "scheduled_at": "2026-09-29T02:00:00Z",
           "title": "【 #ホロドリ 】新エリア＆新水着ガチャきちゃああ！遂にこより水着‼️コンプ＆完凸したいぞ‼️【博衣こより/ホロライブ】",
@@ -372,14 +374,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-29T01:00:00Z",
-          "title": "【FORTNITE】Let's play Kingdom Hearts *in fortnite",
-          "video_id": "PjjnGS9hBsA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-29T00:59:22Z",
+        "title": "【FORTNITE】Let's play Kingdom Hearts *in fortnite",
+        "video_id": "PjjnGS9hBsA"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -401,11 +401,6 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-09-28T19:40:18Z",
-        "title": "🔴LIVE |【FORTNITE】Thank the bus  | 💄",
-        "video_id": "XYwybBVbNTI"
-      },
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
         {
@@ -423,7 +418,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T07:00:00Z",
+          "title": "【MINECRAFT】TEST OF COURAGE 2026! with ⁨@HakosBaelz & @NinomaeInanis  #マイクラ肝試し2026",
+          "video_id": "NjvAkQy9FBI"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -523,5 +525,5 @@
       ]
     }
   ],
-  "generated_at": "2026-09-28T21:17:45Z"
+  "generated_at": "2026-09-29T01:01:35Z"
 }
