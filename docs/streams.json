@@ -8,38 +8,16 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-29T13:30:00Z",
-          "title": "【  ＃ホロドリ 】新エリア解放した～い！ビンゴもしたい！なんか後ろから気配が…【ホロライブ/ ロボ子さん 】",
-          "video_id": "kectzZz4WlA"
-        },
-        {
-          "scheduled_at": "2026-09-29T15:00:00Z",
-          "title": "【 ＃ホロドリ 】#お子様バッテリー は天井バッテリーじゃありません！いちぬーけた！！【ホロライブ/ ロボ子さん＆水宮枢 】",
-          "video_id": "nUK_QjYgHbs"
-        }
-      ]
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-09-29T13:01:25Z",
-        "title": "【ホロライブ ドリームス】#ホロドリ 新エリア登場🌊 夏だ！海だ！釣りだ！hololive Dreams【ホロライブ / AZKi】",
-        "video_id": "N0DoPlSbigE"
-      },
       "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-09-29T13:02:24Z",
-        "title": "【ホロドリ】新ガチャ！！新エリアで遊ぶにぇええええぇええええええええ！！！！！【ホロライブ/さくらみこ】",
-        "video_id": "FG2F8NEAIck"
-      },
       "name": "さくらみこ"
     },
     {
@@ -50,11 +28,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-09-29T13:04:26Z",
-        "title": "【ホロライブドリームス】新エリア遊びにいく！後半はメンバー限定でミニゲーム一緒にやりたい【ホロライブ/アキロゼ】",
-        "video_id": "V65I-HIZsHw"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -79,12 +52,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-09-29T11:01:04Z",
-        "title": "【#ホロドリ】　ホロドリガチ対談!!!　新要素！魚釣りもしつつ質問募集や編成話等【ホロライブ/白上フブキ/不知火フレア】",
-        "video_id": "-9wy23Zk-CI"
-      },
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T11:00:00Z",
+          "title": "【運ゲー】第六回　サイコロ９個ゾロ目出す２時間配信。【白上フブキ/ホロライブ】",
+          "video_id": "yt8KlLj8_Do"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -138,21 +113,11 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-09-29T12:00:44Z",
-        "title": "【Machine Party】#いぬたかししらむ でガチやり合いするぞ",
-        "video_id": "Wc1kJDN-xtQ"
-      },
       "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-09-29T11:00:54Z",
-        "title": "ホロライブの新人がどんな子か初配信を見て調査する！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "XJW52751rEE"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -168,11 +133,6 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-09-29T10:00:04Z",
-        "title": "【#ホロ甲2026】3年目新入生入学！！キャAに転生ふたり…レギュラーはどうなる！？【ホロライブ/宝鐘マリン】",
-        "video_id": "hiftM9MxlCs"
-      },
       "name": "宝鐘マリン"
     },
     {
@@ -200,11 +160,6 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-09-29T13:01:44Z",
-        "title": "【#ねぽっくす！】告知あり！！ねぽっくす！振り返り雑談【​雪花ラミィ /ホロライブ】",
-        "video_id": "2UMrw0y88oQ"
-      },
       "name": "雪花ラミィ"
     },
     {
@@ -247,12 +202,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-09-29T11:01:50Z",
-        "title": "【#マイクラ肝試し2026】今日も探索！！そしてつり！！【風真いろは/ホロライブ】",
-        "video_id": "Mni1bSVdcSQ"
-      },
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T22:00:00Z",
+          "title": "【#ホロドリ】朝釣り雑談ストーリーを添えて【風真いろは/ホロライブ】",
+          "video_id": "wRNO-yz4f20"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -302,16 +259,6 @@
       "name": "水宮枢",
       "upcoming": [
         {
-          "scheduled_at": "2026-09-29T13:30:00Z",
-          "title": "【ホロドリ】新エリアに行きたーーい！！＃11【水宮枢／ホロライブ】",
-          "video_id": "fMuuGaJz_Ok"
-        },
-        {
-          "scheduled_at": "2026-09-29T15:00:00Z",
-          "title": "【ホロドリ】ガチャ🌟お子様バッテリー100連対決❕天井はみない【水宮枢／ホロライブ】",
-          "video_id": "XHb1GeACFjM"
-        },
-        {
           "scheduled_at": "2026-09-30T10:00:00Z",
           "title": "【 #マイクラ肝試し2026 】ビビりが行く「南ノ迷宮・北ノ迷宮」【水宮枢視点／ホロライブ】",
           "video_id": "a7gN7nU0cr8"
@@ -353,11 +300,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-09-29T12:00:16Z",
-        "title": "VALORANT イモータルを目指す!! 　#２【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "8w3b1H5ww5Q"
-      },
       "name": "鈴鳴つづり",
       "upcoming": [
         {
@@ -370,11 +312,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-09-29T12:59:21Z",
-        "title": "#1  自分の性格がわかるゲーム！チルくプレイしたい！ - Refind Self: 性格診断ゲーム【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "sBzaLh_-sXs"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -390,6 +327,11 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-09-29T18:00:48Z",
+        "title": "【holodori】NEED TO CATCH UPPPPP #kfp #キアライブ",
+        "video_id": "Kr5SOpX7Tfk"
+      },
       "name": "小鳥遊キアラ"
     },
     {
@@ -400,7 +342,14 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS"
+      "name": "IRyS",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T12:00:00Z",
+          "title": "【CHADCast】EPISODE 2 - Falling into FALL",
+          "video_id": "VToHFrkPpW0"
+        }
+      ]
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -420,7 +369,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-29T23:00:00Z",
+          "title": "【Onimusha: Way of the Sword】WAY OF THE ISSEN",
+          "video_id": "Ig-fbNUYYFY"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -464,14 +420,7 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-29T14:00:00Z",
-          "title": "【HOLOLIVE DREAM】UUUUUUUUUUUHM I NEED ELP? #holodori",
-          "video_id": "wmSgbULXun4"
-        }
-      ]
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -481,7 +430,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T12:00:00Z",
+          "title": "【Hololive Dreams】Can we clear this AREA 3 Story?!【hololive | moona】",
+          "video_id": "Ql-R2AG8KAM"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -491,11 +447,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-09-29T12:03:51Z",
-        "title": "【FREETALK - RAKU】 MESSING AROUND IN THE NEW 3D ROOM!! 【Kureiji Ollie】",
-        "video_id": "Ci0ZDtpeays"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -573,24 +524,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-09-29T11:59:03Z",
-        "title": "【Dressmaker】FASHION.",
-        "video_id": "SYXMI5oCT0M"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-29T14:00:00Z",
-          "title": "【hololive Dreams】thanks Raora for the luck so i can pull the banner hehe【SMITTEN】  #holodori",
-          "video_id": "AN6UQsz2FrU"
-        }
-      ]
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -598,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-29T13:22:30Z"
+  "generated_at": "2026-09-29T18:43:57Z"
 }
