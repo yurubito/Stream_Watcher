@@ -113,13 +113,13 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-09-30T13:00:15Z",
+        "title": "【Balatro】イカサマでポーカーに勝ちまくる？！ビルド系ポーカーです【ホロライブ/大神ミオ】",
+        "video_id": "2brEL3HQ-88"
+      },
       "name": "大神ミオ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【Balatro】イカサマでポーカーに勝ちまくる？！ビルド系ポーカーです【ホロライブ/大神ミオ】",
-          "video_id": "2brEL3HQ-88"
-        },
         {
           "scheduled_at": "2026-10-01T09:00:00Z",
           "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺最後の甲子園！【 ホロライブ / 大神ミオ 】",
@@ -488,7 +488,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T22:00:00Z",
+          "title": "【TRAILS IN THE SKY: 1ST CHAPTER】CHAPTER THREE START!!!!!",
+          "video_id": "KpCdU2wEHYs"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -621,12 +628,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-09-30T09:03:28Z",
-        "title": "Vacation With Crush Goes Wrong in Blood Lily: Killers Can't Sink a Yuri Ship【Pavolia Reine/hololive】",
-        "video_id": "enOCOvvHWII"
-      },
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T14:00:00Z",
+          "title": "【hololive Dreams】1-Hour Fishing #holodori【Pavolia Reine/hololive】",
+          "video_id": "Ha4tLWbWnnE"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -663,5 +672,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T12:50:36Z"
+  "generated_at": "2026-09-30T13:00:55Z"
 }
