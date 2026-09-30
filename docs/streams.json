@@ -223,11 +223,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-09-30T13:03:54Z",
-        "title": "【メンバーシップ限定】まったりおはなししましょう 【鷹嶺ルイ/ホロライブ】",
-        "video_id": "2_U35KjQBKo"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -612,14 +607,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:30:00Z",
-          "title": "【hololive Dreams】GRINDSTONE is back after 67000 years  #holodori",
-          "video_id": "B7fT6-qr-Ds"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:30:06Z",
+        "title": "【hololive Dreams】GRINDSTONE is back after 67000 years  #holodori",
+        "video_id": "B7fT6-qr-Ds"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -632,5 +625,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T13:20:38Z"
+  "generated_at": "2026-09-30T13:31:04Z"
 }
