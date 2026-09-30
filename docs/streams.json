@@ -64,14 +64,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T07:00:00Z",
-          "title": "【鳴潮】ストーリーとガチャいくぞ！！【ホロライブ/夏色まつり】",
-          "video_id": "oIDOMuxSz8I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T07:01:10Z",
+        "title": "【鳴潮】ストーリーとガチャいくぞ！！【ホロライブ/夏色まつり】",
+        "video_id": "oIDOMuxSz8I"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -81,7 +79,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T10:00:00Z",
+          "title": "【 #マイクラ肝試し2026 】お子様引率お任せあれ！「南ノ迷宮・北ノ迷宮」 【ホロライブ/癒月ちょこ】",
+          "video_id": "m03oad5dRIw"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -125,7 +130,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T12:30:00Z",
+          "title": "【＃マイクラ肝試し2026】ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "B5Mv14_L7aA"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -172,7 +184,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T09:00:00Z",
+          "title": "【 #ホロドリ 】新エリア！？みんなと★アソビ隊【 桃鈴ねね / hololive 】",
+          "video_id": "pu31iRgCeWg"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -185,9 +204,14 @@
       "name": "尾丸ポルカ",
       "upcoming": [
         {
-          "scheduled_at": "2026-09-30T05:00:00Z",
-          "title": "【鳴潮】ついに「Ver.3.7」が解禁…！！その時ポルカは。【尾丸ポルカ/ホロライブ】",
-          "video_id": "jYzhcVoSE0E"
+          "scheduled_at": "2026-09-30T10:00:00Z",
+          "title": "【ホロドリ】夏は終わらない！！新エリアに新水着ガチャ！！！！【尾丸ポルカ/ホロライブ】",
+          "video_id": "nbj6P1YQ7Dw"
+        },
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【MemberOnly】KU100使用ASMR✨️今月もお疲れ様🛌💤ささやき/耳かき【尾丸ポルカ/ホロライブ】",
+          "video_id": "yZYwtj4cdvY"
         }
       ]
     },
@@ -199,7 +223,19 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T10:00:00Z",
+          "title": "【 ホロドリ 】推しガチャは回さねばな・・・【鷹嶺ルイ/ホロライブ】",
+          "video_id": "ujPNZtIb1d8"
+        },
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【メンバーシップ限定】まったりおはなししましょう 【鷹嶺ルイ/ホロライブ】",
+          "video_id": "2_U35KjQBKo"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -209,12 +245,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-09-29T22:00:53Z",
-        "title": "【#ホロドリ】朝釣り雑談ストーリーを添えて【風真いろは/ホロライブ】",
-        "video_id": "wRNO-yz4f20"
-      },
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T10:00:00Z",
+          "title": "【#マイクラ肝試し2026】本編行くぞ！何が来たってビビらないぞ・・・【風真いろは/ホロライブ】",
+          "video_id": "9_3NHA6Amgw"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -278,22 +316,43 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T12:30:00Z",
+          "title": "【#マイクラ肝試し2026】肝試しいくぞ～～～！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "JT0OscpSP5Y"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T09:00:00Z",
+          "title": "【ホロライブ ドリームス】ガチャ！#ホロドリ 【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+          "video_id": "NOUsKrydlsA"
+        },
+        {
+          "scheduled_at": "2026-09-30T12:30:00Z",
+          "title": "【#マイクラ肝試し2026】【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+          "video_id": "kodrrCjkOM4"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-09-29T21:59:35Z",
-        "title": "【#のじゃEnglish】Duolingoで英語を勉強しますのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "6dLFYgSqSl0"
-      },
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T10:00:00Z",
+          "title": "【歌枠】はじめての歌枠なのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "_RP6UbtnO3k"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -374,14 +433,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-29T23:00:00Z",
-          "title": "【Onimusha: Way of the Sword】WAY OF THE ISSEN",
-          "video_id": "Ig-fbNUYYFY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-29T22:56:29Z",
+        "title": "【Onimusha: Way of the Sword】WAY OF THE ISSEN",
+        "video_id": "Ig-fbNUYYFY"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -546,8 +603,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T12:00:00Z",
+          "title": "【hololive Dreams】DAILY HOLODORI, WE GOING FISHING!!! #holodori #ホロドリ",
+          "video_id": "7XrTMlJ0lLM"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-09-29T22:39:04Z"
+  "generated_at": "2026-09-30T07:19:05Z"
 }
