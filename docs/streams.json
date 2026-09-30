@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-09-30T13:00:51Z",
-        "title": "【ホロライブ ドリームス】#ホロドリ 新エリア登場🌊 夏だ！海だ！釣りだ！#2 hololive Dreams【ホロライブ / AZKi】",
-        "video_id": "ytzyqPbu6aY"
-      },
       "name": "AZKi"
     },
     {
@@ -75,11 +70,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-09-30T13:00:15Z",
-        "title": "【Balatro】イカサマでポーカーに勝ちまくる？！ビルド系ポーカーです【ホロライブ/大神ミオ】",
-        "video_id": "2brEL3HQ-88"
-      },
       "name": "大神ミオ",
       "upcoming": [
         {
@@ -207,11 +197,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-09-30T14:02:35Z",
-        "title": "【お披露目と雑談】新配信部屋お披露目！岡山と徳島を間違えた【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "XVgozpdwxDQ"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -538,11 +523,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-09-30T14:00:36Z",
-        "title": "【hololive Dreams】1-Hour Fishing #holodori【Pavolia Reine/hololive】",
-        "video_id": "Ha4tLWbWnnE"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -571,5 +551,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T15:30:39Z"
+  "generated_at": "2026-09-30T15:40:41Z"
 }
