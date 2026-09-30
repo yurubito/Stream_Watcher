@@ -291,14 +291,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T22:00:00Z",
-          "title": "【 朝活/FreeTalk 】奇跡の朝活！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "Wq4h-Ty4kbM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T22:10:42Z",
+        "title": "【 朝活/FreeTalk 】奇跡の朝活！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "Wq4h-Ty4kbM"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -590,5 +588,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T22:10:25Z"
+  "generated_at": "2026-09-30T22:20:23Z"
 }
