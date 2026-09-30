@@ -94,11 +94,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-09-30T11:34:48Z",
-        "title": "【#生スバル】メン限しゅばああああああああああああああああああああああああああああああああああああ！！！：membership only【ホロライブ/大空スバル】",
-        "video_id": "D8rrDy4nFrQ"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -683,5 +678,5 @@
       ]
     }
   ],
-  "generated_at": "2026-09-30T11:40:23Z"
+  "generated_at": "2026-09-30T11:50:38Z"
 }
