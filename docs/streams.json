@@ -65,7 +65,14 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T12:00:00Z",
+          "title": "【】【ホロライブ/大空スバル】",
+          "video_id": "fjuGRTdwg_w"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -132,11 +139,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-09-30T08:58:35Z",
-        "title": "【 鳴潮 】歳主「心」ガチャ✨ストーリーも進めていくのら！！！第4章第4幕 Ver.3.7 ＃28【姫森ルーナ/ホロライブ】",
-        "video_id": "2DKhMpaUMXw"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -309,11 +311,6 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-09-30T14:00:25Z",
-        "title": "【holodori】my cat teaches me all the games #kfp #キアライブ #holodori",
-        "video_id": "gJYSjJTHIOw"
-      },
       "name": "小鳥遊キアラ"
     },
     {
@@ -407,11 +404,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-09-30T14:00:20Z",
-        "title": "【HOLOLIVE DREAM】GACHA GACHA WITH YURIPEANS!! #holodori",
-        "video_id": "aGHE6jSxncw"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -551,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T15:50:43Z"
+  "generated_at": "2026-09-30T16:00:56Z"
 }
