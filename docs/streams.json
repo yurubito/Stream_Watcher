@@ -94,13 +94,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-09-30T11:34:48Z",
+        "title": "【#生スバル】メン限しゅばああああああああああああああああああああああああああああああああああああ！！！：membership only【ホロライブ/大空スバル】",
+        "video_id": "D8rrDy4nFrQ"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T11:30:00Z",
-          "title": "【#生スバル】メン限しゅばああああああああああああああああああああああああああああああああああああ！！！：membership only【ホロライブ/大空スバル】",
-          "video_id": "D8rrDy4nFrQ"
-        },
         {
           "scheduled_at": "2026-09-30T13:00:00Z",
           "title": "【】BIG3【ホロライブ/大空スバル】",
@@ -683,5 +683,5 @@
       ]
     }
   ],
-  "generated_at": "2026-09-30T11:30:37Z"
+  "generated_at": "2026-09-30T11:40:23Z"
 }
