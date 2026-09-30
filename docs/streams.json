@@ -94,11 +94,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-09-30T14:30:25Z",
-        "title": "【#戌神ころね生誕祭2026】2026年度！！誕生日カウントダウンするぞ～🍰【戌神ころね】",
-        "video_id": "lNPh7CdwkWk"
-      },
       "name": "戌神ころね"
     },
     {
@@ -139,7 +134,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T13:00:00Z",
+          "title": "10月がやってきたのら(・o・🍬)【姫森ルーナ/ホロライブ】",
+          "video_id": "Ilw5E3EE8oM"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -543,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T16:00:56Z"
+  "generated_at": "2026-09-30T16:10:42Z"
 }
