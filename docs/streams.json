@@ -195,7 +195,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T03:00:00Z",
+          "title": "【#ホロドリ】昼釣り～仕事おわりの癒しのひと時さらに仕事に行くまで～【風真いろは/ホロライブ】",
+          "video_id": "6TI2ObQ4u1Y"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -553,5 +560,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T17:00:55Z"
+  "generated_at": "2026-09-30T17:10:27Z"
 }
