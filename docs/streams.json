@@ -13,26 +13,22 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【ホロライブ ドリームス】#ホロドリ 新エリア登場🌊 夏だ！海だ！釣りだ！#2 hololive Dreams【ホロライブ / AZKi】",
-          "video_id": "ytzyqPbu6aY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:00:51Z",
+        "title": "【ホロライブ ドリームス】#ホロドリ 新エリア登場🌊 夏だ！海だ！釣りだ！#2 hololive Dreams【ホロライブ / AZKi】",
+        "video_id": "ytzyqPbu6aY"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【メンバー限定】みんなで決める映画同時視聴(市長)🎬【ホロライブ/さくらみこ】",
-          "video_id": "2LpddrBoD0Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:03:49Z",
+        "title": "【メンバー限定】みんなで決める映画同時視聴(市長)🎬【ホロライブ/さくらみこ】",
+        "video_id": "2LpddrBoD0Y"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -42,11 +38,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-09-30T11:52:29Z",
-        "title": "【ホロライブドリームス】魚釣り！すぷらっしゅボール楽しすぎ #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "sobutCi_qpk"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -101,14 +92,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【#BIG3】ホロドリビンゴやるしゅばああああああああああああああああああああああああああああああああああああああああああああああ！！！！！！！！！！【ホロライブ/大空スバル】",
-          "video_id": "n4eqMMG3mYE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:02:14Z",
+        "title": "【#BIG3】ホロドリビンゴやるしゅばああああああああああああああああああああああああああああああああああああああああああああああ！！！！！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "n4eqMMG3mYE"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -130,14 +119,12 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【 💜メンバーシップ限定 】一か月休みの前にらぶらぶ補給しなきゃネ⸝⸝【 猫又おかゆ/ホロライブ 】",
-          "video_id": "0XfSSfCjakE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:00:58Z",
+        "title": "【 💜メンバーシップ限定 】一か月休みの前にらぶらぶ補給しなきゃネ⸝⸝【 猫又おかゆ/ホロライブ 】",
+        "video_id": "0XfSSfCjakE"
+      },
+      "name": "猫又おかゆ"
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -176,14 +163,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【ホロドリ】早速BIG3でホロドリコラボ！！！ビンゴを埋めるだ～～～🔥【白銀ノエル/ホロライブ】",
-          "video_id": "Ugqd-zbuqyU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:01:03Z",
+        "title": "【ホロドリ】早速BIG3でホロドリコラボ！！！ビンゴを埋めるだ～～～🔥【白銀ノエル/ホロライブ】",
+        "video_id": "Ugqd-zbuqyU"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -218,14 +203,12 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【ホロドリ】BIG3でビンゴやるぞ～っ！！【​雪花ラミィ /ホロライブ】",
-          "video_id": "tjp0N7w6nQs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:01:44Z",
+        "title": "【ホロドリ】BIG3でビンゴやるぞ～っ！！【​雪花ラミィ /ホロライブ】",
+        "video_id": "tjp0N7w6nQs"
+      },
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -240,14 +223,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【MemberOnly】KU100使用ASMR✨️今月もお疲れ様🛌💤ささやき/耳かき【尾丸ポルカ/ホロライブ】",
-          "video_id": "yZYwtj4cdvY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:01:41Z",
+        "title": "【MemberOnly】KU100使用ASMR✨️今月もお疲れ様🛌💤ささやき/耳かき【尾丸ポルカ/ホロライブ】",
+        "video_id": "yZYwtj4cdvY"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -257,14 +238,7 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【メンバーシップ限定】まったりおはなししましょう 【鷹嶺ルイ/ホロライブ】",
-          "video_id": "2_U35KjQBKo"
-        }
-      ]
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -532,14 +506,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【#holodori 】Multi Minigames! And Live【 iofi / hololive】",
-          "video_id": "WZCqlQZ_ss8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:01:57Z",
+        "title": "【#holodori 】Multi Minigames! And Live【 iofi / hololive】",
+        "video_id": "WZCqlQZ_ss8"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -672,5 +644,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T13:00:55Z"
+  "generated_at": "2026-09-30T13:10:25Z"
 }
