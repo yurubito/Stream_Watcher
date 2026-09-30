@@ -50,7 +50,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T07:00:00Z",
+          "title": "【ホロライブドリームス】新エリアきちゃ～！【ホロライブ/夏色まつり】",
+          "video_id": "t0ypeQFOuts"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -188,11 +195,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-09-30T10:00:43Z",
-        "title": "【#マイクラ肝試し2026】本編行くぞ！何が来たってビビらないぞ・・・【風真いろは/ホロライブ】",
-        "video_id": "9_3NHA6Amgw"
-      },
       "name": "風真いろは"
     },
     {
@@ -371,11 +373,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-09-30T13:35:46Z",
-        "title": "【HOLOLIVE DREAMS】KAELA WE HAVE TO FISH",
-        "video_id": "Bxw0S1GSMp8"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -548,11 +545,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-09-30T13:30:06Z",
-        "title": "【hololive Dreams】GRINDSTONE is back after 67000 years  #holodori",
-        "video_id": "B7fT6-qr-Ds"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -561,5 +553,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T16:50:33Z"
+  "generated_at": "2026-09-30T17:00:55Z"
 }
