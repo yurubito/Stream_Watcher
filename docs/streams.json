@@ -112,11 +112,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-09-30T12:30:22Z",
-        "title": "【＃マイクラ肝試し2026】3人で肝試しに挑む！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "B5Mv14_L7aA"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -254,7 +249,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T03:00:00Z",
+          "title": "【定期配信＃46】木曜のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
+          "video_id": "7EwSHuAAiUo"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -276,21 +278,11 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-09-30T12:30:21Z",
-        "title": "【#マイクラ肝試し2026】肝試しいくぞ～～～！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "JT0OscpSP5Y"
-      },
       "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-09-30T12:31:08Z",
-        "title": "【#マイクラ肝試し2026】ヴィヴィに任せて！！3人で肝試し！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-        "video_id": "kodrrCjkOM4"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -375,7 +367,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T00:00:00Z",
+          "title": "Sorting Out My JUNK 【Handcam Zatsudan】",
+          "video_id": "9qYswB4uHdA"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -590,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T14:50:26Z"
+  "generated_at": "2026-09-30T15:10:38Z"
 }
