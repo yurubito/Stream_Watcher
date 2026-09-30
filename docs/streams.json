@@ -25,7 +25,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【メンバー限定】みんなで決める映画同時視聴(市長)🎬【ホロライブ/さくらみこ】",
+          "video_id": "2LpddrBoD0Y"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -123,11 +130,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-09-30T11:02:26Z",
-        "title": "【 🔵steam 】ホロメンちゃんにプレゼント送るぞｵｵｵｵｵ😸🎁ˊ˗ 【 猫又おかゆ/ホロライブ 】",
-        "video_id": "5JhyDHpdBJs"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -351,14 +353,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T12:30:00Z",
-          "title": "【#マイクラ肝試し2026】ヴィヴィに任せて！！3人で肝試し！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-          "video_id": "kodrrCjkOM4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T12:31:08Z",
+        "title": "【#マイクラ肝試し2026】ヴィヴィに任せて！！3人で肝試し！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+        "video_id": "kodrrCjkOM4"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -663,5 +663,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T12:30:40Z"
+  "generated_at": "2026-09-30T12:40:22Z"
 }
