@@ -109,6 +109,11 @@
       "name": "大神ミオ",
       "upcoming": [
         {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【Balatro】イカサマでポーカーに勝ちまくる？！ビルド系ポーカーです【ホロライブ/大神ミオ】",
+          "video_id": "2brEL3HQ-88"
+        },
+        {
           "scheduled_at": "2026-10-01T09:00:00Z",
           "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺最後の甲子園！【 ホロライブ / 大神ミオ 】",
           "video_id": "oYX-9RRlg98"
@@ -287,11 +292,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-09-30T09:58:07Z",
-        "title": "【＃マイクラ肝試し2026】肝ならあります。まかせてください 【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "vLN5q3b_2WI"
-      },
       "name": "轟はじめ",
       "upcoming": [
         {
@@ -542,14 +542,14 @@
       "name": "クレイジー・オリー",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-01T04:00:00Z",
+          "title": "【hololive Dreams】 DREAMING TOGETHER IN HOLODORI!! #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "PJv4XSMhjps"
+        },
+        {
           "scheduled_at": "2026-10-02T04:00:00Z",
           "title": "【hololive Dreams】 3 GIRLS 1 DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
           "video_id": "5kRb9M0E5E4"
-        },
-        {
-          "scheduled_at": "2026-10-03T14:00:00Z",
-          "title": "【hololive Dreams】 GACHA-BANANZA WITH MOONA!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "2U64RtX8cwY"
         },
         {
           "scheduled_at": "2026-10-04T04:00:00Z",
@@ -652,15 +652,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T12:00:00Z",
-          "title": "【hololive Dreams】DAILY HOLODORI, WE GOING FISHING!!! #holodori #ホロドリ",
-          "video_id": "7XrTMlJ0lLM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T12:17:20Z",
+        "title": "【hololive Dreams】DAILY HOLODORI, WE GOING FISHING!!! #holodori #ホロドリ",
+        "video_id": "7XrTMlJ0lLM"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T12:10:30Z"
+  "generated_at": "2026-09-30T12:20:39Z"
 }
