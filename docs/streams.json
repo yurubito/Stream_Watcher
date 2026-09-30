@@ -13,7 +13,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【ホロライブ ドリームス】#ホロドリ 新エリア登場🌊 夏だ！海だ！釣りだ！#2 hololive Dreams【ホロライブ / AZKi】",
+          "video_id": "ytzyqPbu6aY"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -31,6 +38,11 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-09-30T12:25:00Z",
+          "title": "【ホロライブドリームス】魚釣り！すぷらっしゅボール楽しすぎ #ホロドリ【ホロライブ/アキロゼ】",
+          "video_id": "sobutCi_qpk"
+        },
+        {
           "scheduled_at": "2026-10-05T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
           "video_id": "WjNxzPtIHhI"
@@ -40,35 +52,28 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T10:00:00Z",
-          "title": "【悲報】埼玉、ダサくねぇじゃん！！【ホロライブ/赤井はあと】",
-          "video_id": "xDyJgwkBTJM"
-        }
-      ]
+      "name": "赤井はあと"
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-09-30T11:02:58Z",
+        "title": "【運ゲー】第六回　サイコロ９個ゾロ目出す２時間配信。【白上フブキ/ホロライブ】",
+        "video_id": "yt8KlLj8_Do"
+      },
       "name": "白上フブキ",
       "upcoming": [
         {
-          "scheduled_at": "2026-09-30T11:00:00Z",
-          "title": "【運ゲー】第六回　サイコロ９個ゾロ目出す２時間配信。【白上フブキ/ホロライブ】",
-          "video_id": "yt8KlLj8_Do"
+          "scheduled_at": "2026-09-30T14:00:00Z",
+          "title": "【メン限】　月末定期配信 2026.09　ホロドリで一緒に遊ぼうの会！　#ホロドリ【ホロライブ/白上フブキ/】",
+          "video_id": "4KEAHfvwLoQ"
         }
       ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-09-30T07:01:10Z",
-        "title": "【鳴潮】ストーリーとガチャいくぞ！！【ホロライブ/夏色まつり】",
-        "video_id": "oIDOMuxSz8I"
-      },
       "name": "夏色まつり"
     },
     {
@@ -79,14 +84,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T10:00:00Z",
-          "title": "【 #マイクラ肝試し2026 】お子様引率お任せあれ！「南ノ迷宮・北ノ迷宮」 【ホロライブ/癒月ちょこ】",
-          "video_id": "m03oad5dRIw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T09:58:10Z",
+        "title": "【 #マイクラ肝試し2026 】お子様引率お任せあれ！「南ノ迷宮・北ノ迷宮」 【ホロライブ/癒月ちょこ】",
+        "video_id": "m03oad5dRIw"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -94,27 +97,44 @@
       "name": "大空スバル",
       "upcoming": [
         {
-          "scheduled_at": "2026-09-30T11:00:00Z",
-          "title": "【】【ホロライブ/大空スバル】",
+          "scheduled_at": "2026-09-30T11:30:00Z",
+          "title": "【】メン限：membership only【ホロライブ/大空スバル】",
           "video_id": "D8rrDy4nFrQ"
+        },
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【】BIG3【ホロライブ/大空スバル】",
+          "video_id": "n4eqMMG3mYE"
         }
       ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【Balatro】イカサマでポーカーに勝ちまくる？！ビルド系ポーカーです【ホロライブ/大神ミオ】",
+          "video_id": "2x3nntd5vs0"
+        },
+        {
+          "scheduled_at": "2026-10-01T09:00:00Z",
+          "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺最後の甲子園！【 ホロライブ / 大神ミオ 】",
+          "video_id": "oYX-9RRlg98"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-09-30T11:02:26Z",
+        "title": "【 🔵steam 】ホロメンちゃんにプレゼント送るぞｵｵｵｵｵ😸🎁ˊ˗ 【 猫又おかゆ/ホロライブ 】",
+        "video_id": "5JhyDHpdBJs"
+      },
       "name": "猫又おかゆ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T11:00:00Z",
-          "title": "【 🔵steam 】ホロメンちゃんにプレゼント送るぞｵｵｵｵｵ😸🎁ˊ˗ 【 猫又おかゆ/ホロライブ 】",
-          "video_id": "5JhyDHpdBJs"
-        },
         {
           "scheduled_at": "2026-09-30T13:00:00Z",
           "title": "【 💜メンバーシップ限定 】一か月休みの前にらぶらぶ補給しなきゃネ⸝⸝【 猫又おかゆ/ホロライブ 】",
@@ -125,7 +145,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T14:30:00Z",
+          "title": "【#戌神ころね生誕祭2026】2026年度！！誕生日カウントダウンするぞ～🍰【戌神ころね】",
+          "video_id": "lNPh7CdwkWk"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -147,7 +174,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【ホロドリ】早速BIG3でホロドリコラボ！！！ビンゴを埋めるだ～～～🔥【白銀ノエル/ホロライブ】",
+          "video_id": "Ugqd-zbuqyU"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -162,36 +196,39 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-09-30T11:02:33Z",
+        "title": "【 Apex Legends 】第11回CRカップ顔合わせ‼️w/ うるか、ゆふな【常闇トワ / ホロライブ】",
+        "video_id": "VsOGWjqSaJU"
+      },
       "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T09:00:00Z",
-          "title": "【 鳴潮 】歳主「心」ガチャ✨ストーリーも進めていくのら！！！第4章第4幕 Ver.3.7 ＃28【姫森ルーナ/ホロライブ】",
-          "video_id": "2DKhMpaUMXw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T08:58:35Z",
+        "title": "【 鳴潮 】歳主「心」ガチャ✨ストーリーも進めていくのら！！！第4章第4幕 Ver.3.7 ＃28【姫森ルーナ/ホロライブ】",
+        "video_id": "2DKhMpaUMXw"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【ホロドリ】BIG3でビンゴやるぞ～っ！！【​雪花ラミィ /ホロライブ】",
+          "video_id": "tjp0N7w6nQs"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T09:00:00Z",
-          "title": "【 #ホロドリ 】新エリア！？みんなと★アソビ隊【 桃鈴ねね / hololive 】",
-          "video_id": "pu31iRgCeWg"
-        }
-      ]
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -201,13 +238,13 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-09-30T10:02:14Z",
+        "title": "【ホロドリ】夏は終わらない！！新エリアに新水着ガチャ！！！！【尾丸ポルカ/ホロライブ】",
+        "video_id": "nbj6P1YQ7Dw"
+      },
       "name": "尾丸ポルカ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T10:00:00Z",
-          "title": "【ホロドリ】夏は終わらない！！新エリアに新水着ガチャ！！！！【尾丸ポルカ/ホロライブ】",
-          "video_id": "nbj6P1YQ7Dw"
-        },
         {
           "scheduled_at": "2026-09-30T13:00:00Z",
           "title": "【MemberOnly】KU100使用ASMR✨️今月もお疲れ様🛌💤ささやき/耳かき【尾丸ポルカ/ホロライブ】",
@@ -226,11 +263,6 @@
       "name": "鷹嶺ルイ",
       "upcoming": [
         {
-          "scheduled_at": "2026-09-30T10:00:00Z",
-          "title": "【 ホロドリ 】推しガチャは回さねばな・・・【鷹嶺ルイ/ホロライブ】",
-          "video_id": "ujPNZtIb1d8"
-        },
-        {
           "scheduled_at": "2026-09-30T13:00:00Z",
           "title": "【メンバーシップ限定】まったりおはなししましょう 【鷹嶺ルイ/ホロライブ】",
           "video_id": "2_U35KjQBKo"
@@ -245,14 +277,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T10:00:00Z",
-          "title": "【#マイクラ肝試し2026】本編行くぞ！何が来たってビビらないぞ・・・【風真いろは/ホロライブ】",
-          "video_id": "9_3NHA6Amgw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T10:00:43Z",
+        "title": "【#マイクラ肝試し2026】本編行くぞ！何が来たってビビらないぞ・・・【風真いろは/ホロライブ】",
+        "video_id": "9_3NHA6Amgw"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -272,13 +302,13 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-09-30T09:58:07Z",
+        "title": "【＃マイクラ肝試し2026】肝ならあります。まかせてください 【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "vLN5q3b_2WI"
+      },
       "name": "轟はじめ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T10:00:00Z",
-          "title": "【＃マイクラ肝試し2026】肝ならあります。まかせてください 【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "vLN5q3b_2WI"
-        },
         {
           "scheduled_at": "2026-10-02T11:00:00Z",
           "title": "【妹に運転を教える】ねえ聞こえてる？【轟はじめ/ホロライブReGLOSS】",
@@ -289,6 +319,11 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-09-30T09:01:08Z",
+        "title": "【 ＃ホロ甲2026 】壁咲高校、２年目秋に突入・・・🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
+        "video_id": "TzUgGaJKxCc"
+      },
       "name": "響咲リオナ"
     },
     {
@@ -299,13 +334,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-09-30T09:58:30Z",
+        "title": "【 #マイクラ肝試し2026 】ビビりが行く「南ノ迷宮・北ノ迷宮」【水宮枢視点／ホロライブ】",
+        "video_id": "a7gN7nU0cr8"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T10:00:00Z",
-          "title": "【 #マイクラ肝試し2026 】ビビりが行く「南ノ迷宮・北ノ迷宮」【水宮枢視点／ホロライブ】",
-          "video_id": "a7gN7nU0cr8"
-        },
         {
           "scheduled_at": "2026-10-01T13:30:00Z",
           "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#7【水宮枢／ホロライブDEV_IS】※ネタバレ有",
@@ -331,13 +366,8 @@
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
-          "scheduled_at": "2026-09-30T09:00:00Z",
-          "title": "【ホロライブ ドリームス】ガチャ！#ホロドリ 【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-          "video_id": "NOUsKrydlsA"
-        },
-        {
           "scheduled_at": "2026-09-30T12:30:00Z",
-          "title": "【#マイクラ肝試し2026】【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+          "title": "【#マイクラ肝試し2026】ヴィヴィに任せて！！3人で肝試し！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
           "video_id": "kodrrCjkOM4"
         }
       ]
@@ -433,12 +463,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-09-29T22:56:29Z",
-        "title": "【Onimusha: Way of the Sword】WAY OF THE ISSEN",
-        "video_id": "Ig-fbNUYYFY"
-      },
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T13:30:00Z",
+          "title": "【HOLOLIVE DREAMS】KAELA WE HAVE TO FISH",
+          "video_id": "Bxw0S1GSMp8"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -511,7 +543,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T13:00:00Z",
+          "title": "【#holodori 】Multi Minigames! And Live【 iofi / hololive】",
+          "video_id": "WZCqlQZ_ss8"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -520,7 +559,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-09-30T12:00:00Z",
-          "title": "【hololive Dreams】 LET'S CLEAR AREA 3!! #holodori #ホロドリ 【Kureiji Ollie】",
+          "title": "【hololive Dreams】 FISH-RELATED STREAM #holodori #ホロドリ 【Kureiji Ollie】",
           "video_id": "vlJ4s7NvxVk"
         },
         {
@@ -583,22 +622,53 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T12:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】PLEASE STOP WITH THE SARDINES.【hololive holoro | Anya Melfissa】",
+          "video_id": "rcForni7WLQ"
+        },
+        {
+          "scheduled_at": "2026-10-01T10:00:00Z",
+          "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF COURAGE ~ 2026 MAP ふれわたーニャで肝試し本番！！ 【hololive holoro | Anya Melfissa】",
+          "video_id": "0WX9Y5Q2JgM"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-09-30T09:03:28Z",
+        "title": "Vacation With Crush Goes Wrong in Blood Lily: Killers Can't Sink a Yuri Ship【Pavolia Reine/hololive】",
+        "video_id": "enOCOvvHWII"
+      },
       "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T12:00:00Z",
+          "title": "【hololive Dreams】 FISHING TIME!🐟 #holodori #ホロドリ",
+          "video_id": "g4smL0VGEo0"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T13:30:00Z",
+          "title": "【hololive Dreams】GRINDSTONE is back after 67000 years  #holodori",
+          "video_id": "B7fT6-qr-Ds"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -613,5 +683,5 @@
       ]
     }
   ],
-  "generated_at": "2026-09-30T07:19:05Z"
+  "generated_at": "2026-09-30T11:24:14Z"
 }
