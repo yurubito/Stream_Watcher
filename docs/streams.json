@@ -23,7 +23,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T13:00:00Z",
+          "title": "【#マイクラ肝試し2026】みんなで怯えにいく【星街すいせい / #フブみこめっとさん】",
+          "video_id": "e4khfv6cZvQ"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -562,5 +569,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T17:20:32Z"
+  "generated_at": "2026-09-30T17:30:51Z"
 }
