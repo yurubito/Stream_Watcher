@@ -280,7 +280,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T11:00:00Z",
+          "title": "物理学博士によるPoly Bridge3【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "4T5ad5fi6Y8"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -564,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T15:20:38Z"
+  "generated_at": "2026-09-30T15:30:39Z"
 }
