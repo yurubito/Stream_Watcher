@@ -109,11 +109,6 @@
       "name": "大神ミオ",
       "upcoming": [
         {
-          "scheduled_at": "2026-09-30T13:00:00Z",
-          "title": "【Balatro】イカサマでポーカーに勝ちまくる？！ビルド系ポーカーです【ホロライブ/大神ミオ】",
-          "video_id": "2x3nntd5vs0"
-        },
-        {
           "scheduled_at": "2026-10-01T09:00:00Z",
           "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺最後の甲子園！【 ホロライブ / 大神ミオ 】",
           "video_id": "oYX-9RRlg98"
@@ -233,11 +228,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-09-30T10:02:14Z",
-        "title": "【ホロドリ】夏は終わらない！！新エリアに新水着ガチャ！！！！【尾丸ポルカ/ホロライブ】",
-        "video_id": "nbj6P1YQ7Dw"
-      },
       "name": "尾丸ポルカ",
       "upcoming": [
         {
@@ -429,14 +419,12 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T12:00:00Z",
-          "title": "【CHADCast】EPISODE 2 - Falling into FALL",
-          "video_id": "VToHFrkPpW0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T12:02:20Z",
+        "title": "【CHADCast】EPISODE 2 - Falling into FALL",
+        "video_id": "VToHFrkPpW0"
+      },
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -524,14 +512,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T12:00:00Z",
-          "title": "【Hololive Dreams】FISHING TIME!【hololive | moona】",
-          "video_id": "Ql-R2AG8KAM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T12:01:53Z",
+        "title": "【Hololive Dreams】FISHING TIME!【hololive | moona】",
+        "video_id": "Ql-R2AG8KAM"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -548,21 +534,21 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-09-30T12:03:06Z",
+        "title": "【hololive Dreams】 FISH-RELATED STREAM #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "vlJ4s7NvxVk"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T12:00:00Z",
-          "title": "【hololive Dreams】 FISH-RELATED STREAM #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "vlJ4s7NvxVk"
-        },
         {
           "scheduled_at": "2026-10-02T04:00:00Z",
           "title": "【hololive Dreams】 3 GIRLS 1 DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
           "video_id": "5kRb9M0E5E4"
         },
         {
-          "scheduled_at": "2026-10-03T04:00:00Z",
-          "title": "【hololive Dreams】 WE'RE STILL DREAMING!! #holodori #ホロドリ 【Kureiji Ollie】",
+          "scheduled_at": "2026-10-03T14:00:00Z",
+          "title": "【hololive Dreams】 GACHA-BANANZA WITH MOONA!! #holodori #ホロドリ 【Kureiji Ollie】",
           "video_id": "2U64RtX8cwY"
         },
         {
@@ -615,13 +601,13 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-09-30T12:04:48Z",
+        "title": "【hololive Dreams ホロライブドリームス】PLEASE STOP WITH THE SARDINES.【hololive holoro | Anya Melfissa】",
+        "video_id": "rcForni7WLQ"
+      },
       "name": "アーニャ・メルフィッサ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T12:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】PLEASE STOP WITH THE SARDINES.【hololive holoro | Anya Melfissa】",
-          "video_id": "rcForni7WLQ"
-        },
         {
           "scheduled_at": "2026-10-01T10:00:00Z",
           "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF COURAGE ~ 2026 MAP ふれわたーニャで肝試し本番！！ 【hololive holoro | Anya Melfissa】",
@@ -676,5 +662,5 @@
       ]
     }
   ],
-  "generated_at": "2026-09-30T12:00:50Z"
+  "generated_at": "2026-09-30T12:10:30Z"
 }
