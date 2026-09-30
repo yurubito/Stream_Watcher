@@ -23,11 +23,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-09-30T13:03:49Z",
-        "title": "【メンバー限定】みんなで決める映画同時視聴(市長)🎬【ホロライブ/さくらみこ】",
-        "video_id": "2LpddrBoD0Y"
-      },
       "name": "さくらみこ"
     },
     {
@@ -119,11 +114,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-09-30T13:00:58Z",
-        "title": "【 💜メンバーシップ限定 】一か月休みの前にらぶらぶ補給しなきゃネ⸝⸝【 猫又おかゆ/ホロライブ 】",
-        "video_id": "0XfSSfCjakE"
-      },
       "name": "猫又おかゆ"
     },
     {
@@ -223,11 +213,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-09-30T13:01:41Z",
-        "title": "【MemberOnly】KU100使用ASMR✨️今月もお疲れ様🛌💤ささやき/耳かき【尾丸ポルカ/ホロライブ】",
-        "video_id": "yZYwtj4cdvY"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -238,6 +223,11 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-09-30T13:03:54Z",
+        "title": "【メンバーシップ限定】まったりおはなししましょう 【鷹嶺ルイ/ホロライブ】",
+        "video_id": "2_U35KjQBKo"
+      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -612,14 +602,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T12:00:00Z",
-          "title": "【hololive Dreams】 FISHING TIME!🐟 #holodori #ホロドリ",
-          "video_id": "g4smL0VGEo0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T13:18:28Z",
+        "title": "【hololive Dreams】 FISHING TIME!🐟 #holodori #ホロドリ",
+        "video_id": "g4smL0VGEo0"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -644,5 +632,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T13:10:25Z"
+  "generated_at": "2026-09-30T13:20:38Z"
 }
