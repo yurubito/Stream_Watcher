@@ -50,11 +50,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-09-30T11:02:58Z",
-        "title": "【運ゲー】第六回　サイコロ９個ゾロ目出す２時間配信。【白上フブキ/ホロライブ】",
-        "video_id": "yt8KlLj8_Do"
-      },
       "name": "白上フブキ",
       "upcoming": [
         {
@@ -341,11 +336,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-09-30T12:00:33Z",
-        "title": "【ホロライブ新人ユニット】デビュー振り返り隊！！ #ホロライブ #アソビまわり隊",
-        "video_id": "2TWNxNTHPxU"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -366,14 +356,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T14:00:00Z",
-          "title": "【holodori】my cat teaches me all the games #kfp #キアライブ",
-          "video_id": "gJYSjJTHIOw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T14:00:25Z",
+        "title": "【holodori】my cat teaches me all the games #kfp #キアライブ #holodori",
+        "video_id": "gJYSjJTHIOw"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -464,14 +452,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T14:00:00Z",
-          "title": "【HOLOLIVE DREAM】GACHA GACHA WITH YURIPEANS!! #holodori",
-          "video_id": "aGHE6jSxncw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T14:00:20Z",
+        "title": "【HOLOLIVE DREAM】GACHA GACHA WITH YURIPEANS!! #holodori",
+        "video_id": "aGHE6jSxncw"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -585,14 +571,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T14:00:00Z",
-          "title": "【hololive Dreams】1-Hour Fishing #holodori【Pavolia Reine/hololive】",
-          "video_id": "Ha4tLWbWnnE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T14:00:36Z",
+        "title": "【hololive Dreams】1-Hour Fishing #holodori【Pavolia Reine/hololive】",
+        "video_id": "Ha4tLWbWnnE"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -625,5 +609,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T13:50:33Z"
+  "generated_at": "2026-09-30T14:01:35Z"
 }
