@@ -253,7 +253,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-09-30T14:00:00Z",
+          "title": "【お披露目と雑談】新配信部屋お披露目！岡山と徳島を間違えた【儒烏風亭らでん #ReGLOSS 】",
+          "video_id": "XVgozpdwxDQ"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -285,11 +292,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-09-30T09:58:30Z",
-        "title": "【 #マイクラ肝試し2026 】ビビりが行く「南ノ迷宮・北ノ迷宮」【水宮枢視点／ホロライブ】",
-        "video_id": "a7gN7nU0cr8"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -623,5 +625,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T13:40:40Z"
+  "generated_at": "2026-09-30T13:50:33Z"
 }
