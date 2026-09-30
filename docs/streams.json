@@ -102,14 +102,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T14:30:00Z",
-          "title": "【#戌神ころね生誕祭2026】2026年度！！誕生日カウントダウンするぞ～🍰【戌神ころね】",
-          "video_id": "lNPh7CdwkWk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T14:30:25Z",
+        "title": "【#戌神ころね生誕祭2026】2026年度！！誕生日カウントダウンするぞ～🍰【戌神ころね】",
+        "video_id": "lNPh7CdwkWk"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -463,21 +461,11 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-09-30T13:01:57Z",
-        "title": "【#holodori 】Multi Minigames! And Live【 iofi / hololive】",
-        "video_id": "WZCqlQZ_ss8"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-09-30T12:03:06Z",
-        "title": "【hololive Dreams】 FISH-RELATED STREAM #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "vlJ4s7NvxVk"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -590,5 +578,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T14:20:30Z"
+  "generated_at": "2026-09-30T14:30:52Z"
 }
