@@ -451,11 +451,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-09-30T12:01:53Z",
-        "title": "【Hololive Dreams】FISHING TIME!【hololive | moona】",
-        "video_id": "Ql-R2AG8KAM"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -463,6 +458,16 @@
       "group": "ID AREA15",
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T07:00:00Z",
+          "title": "【#holodori 】FC Songs!【 iofi / hololive】",
+          "video_id": "x9F-2UR4oJ8"
+        },
+        {
+          "scheduled_at": "2026-10-01T09:00:00Z",
+          "title": "【TCG CARD SHOP SIM】Hi there beautiful【 iofi / hololive】",
+          "video_id": "dy0y6uIvo6M"
+        },
         {
           "scheduled_at": "2026-10-01T13:00:00Z",
           "title": "【 #holoctober 】 KICK OFF! DAY 1 : STICKMAN【 iofi / hololive】",
@@ -585,5 +590,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T14:40:31Z"
+  "generated_at": "2026-09-30T14:50:26Z"
 }
