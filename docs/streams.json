@@ -35,13 +35,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-09-30T11:52:29Z",
+        "title": "【ホロライブドリームス】魚釣り！すぷらっしゅボール楽しすぎ #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "sobutCi_qpk"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T12:25:00Z",
-          "title": "【ホロライブドリームス】魚釣り！すぷらっしゅボール楽しすぎ #ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "sobutCi_qpk"
-        },
         {
           "scheduled_at": "2026-10-05T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
@@ -387,14 +387,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-09-30T12:00:00Z",
-          "title": "【ホロライブ新人ユニット】デビュー振り返り隊！！ #ホロライブ #アソビまわり隊",
-          "video_id": "2TWNxNTHPxU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T12:00:33Z",
+        "title": "【ホロライブ新人ユニット】デビュー振り返り隊！！ #ホロライブ #アソビまわり隊",
+        "video_id": "2TWNxNTHPxU"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -530,7 +528,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-09-30T12:00:00Z",
-          "title": "【Hololive Dreams】Can we clear this AREA 3 Story?!【hololive | moona】",
+          "title": "【Hololive Dreams】FISHING TIME!【hololive | moona】",
           "video_id": "Ql-R2AG8KAM"
         }
       ]
@@ -678,5 +676,5 @@
       ]
     }
   ],
-  "generated_at": "2026-09-30T11:50:38Z"
+  "generated_at": "2026-09-30T12:00:50Z"
 }
