@@ -70,11 +70,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-09-30T13:02:14Z",
-        "title": "【#BIG3】ホロドリビンゴやるしゅばああああああああああああああああああああああああああああああああああああああああああああああ！！！！！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "n4eqMMG3mYE"
-      },
       "name": "大空スバル"
     },
     {
@@ -127,11 +122,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-09-30T13:01:03Z",
-        "title": "【ホロドリ】早速BIG3でホロドリコラボ！！！ビンゴを埋めるだ～～～🔥【白銀ノエル/ホロライブ】",
-        "video_id": "Ugqd-zbuqyU"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -147,11 +137,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-09-30T11:02:33Z",
-        "title": "【 Apex Legends 】第11回CRカップ顔合わせ‼️w/ うるか、ゆふな【常闇トワ / ホロライブ】",
-        "video_id": "VsOGWjqSaJU"
-      },
       "name": "常闇トワ"
     },
     {
@@ -167,11 +152,6 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-09-30T13:01:44Z",
-        "title": "【ホロドリ】BIG3でビンゴやるぞ～っ！！【​雪花ラミィ /ホロライブ】",
-        "video_id": "tjp0N7w6nQs"
-      },
       "name": "雪花ラミィ"
     },
     {
@@ -539,11 +519,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-09-30T12:04:48Z",
-        "title": "【hololive Dreams ホロライブドリームス】PLEASE STOP WITH THE SARDINES.【hololive holoro | Anya Melfissa】",
-        "video_id": "rcForni7WLQ"
-      },
       "name": "アーニャ・メルフィッサ",
       "upcoming": [
         {
@@ -589,5 +564,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T15:10:38Z"
+  "generated_at": "2026-09-30T15:20:38Z"
 }
