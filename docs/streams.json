@@ -177,6 +177,11 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-01T20:59:55Z",
+        "title": "【ホロドリ】朝、釣り、なんでもござれ【尾丸ポルカ/ホロライブ】",
+        "video_id": "DZ6-0aMroJg"
+      },
       "name": "尾丸ポルカ"
     },
     {
@@ -581,5 +586,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T20:40:27Z"
+  "generated_at": "2026-10-01T21:20:39Z"
 }
