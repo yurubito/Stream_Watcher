@@ -296,11 +296,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-01T10:00:52Z",
-        "title": "【Sky 星を紡ぐ子どもたち】ゴッホの季節を巡りましょう！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "d0dbaI1o2F4"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -531,11 +526,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-01T09:00:10Z",
-        "title": "【TCG CARD SHOP SIM】Hi there beautiful【 iofi / hololive】",
-        "video_id": "dy0y6uIvo6M"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -652,5 +642,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-01T11:20:25Z"
+  "generated_at": "2026-10-01T11:40:24Z"
 }
