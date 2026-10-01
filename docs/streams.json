@@ -285,6 +285,11 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-01T11:01:13Z",
+        "title": "【Poly Bridge 3】博士だもん！橋作りなんて余裕です！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "4T5ad5fi6Y8"
+      },
       "name": "宙科そぴあ",
       "upcoming": [
         {
@@ -302,6 +307,11 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-01T12:59:21Z",
+        "title": "#1 神ゲーに挑むぞー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "zscbFBdOvyI"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -361,7 +371,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T23:00:00Z",
+          "title": "【Resident Evil RE:4】What rhymes with fun? GUN!!!!",
+          "video_id": "nwh-DuaVCfc"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -560,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T17:01:00Z"
+  "generated_at": "2026-10-01T17:10:32Z"
 }
