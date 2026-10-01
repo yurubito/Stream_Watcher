@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T09:00:00Z",
+          "title": "【オフコラボ】＃えりこう で健康ごはん✨みこちお食べ !!!!【ホロライブ/ロボ子さん】",
+          "video_id": "CMlnK7XN8go"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -202,11 +209,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-01T06:34:35Z",
-        "title": "【 #ホロドリ 】新エリア行きたい！！！！ビンゴも埋めたい！【常闇トワ/ホロライブ】",
-        "video_id": "LWyB-Lzwwhs"
-      },
       "name": "常闇トワ"
     },
     {
@@ -224,7 +226,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T13:00:00Z",
+          "title": "【晩酌】本日は日本酒の日！飲むぞ！！【​雪花ラミィ /ホロライブ】",
+          "video_id": "xSG7JUua6co"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -537,14 +546,14 @@
           "video_id": "dy0y6uIvo6M"
         },
         {
-          "scheduled_at": "2026-10-01T13:00:00Z",
-          "title": "【 #holoctober 】 KICK OFF! DAY 1 : STICKMAN【 iofi / hololive】",
-          "video_id": "Xatu14OogO8"
-        },
-        {
-          "scheduled_at": "2026-10-01T15:00:00Z",
+          "scheduled_at": "2026-10-01T12:00:00Z",
           "title": "【#holodori 】FC Songs!【 iofi / hololive】",
           "video_id": "x9F-2UR4oJ8"
+        },
+        {
+          "scheduled_at": "2026-10-01T14:00:00Z",
+          "title": "【 #holoctober 】 KICK OFF! DAY 1 : STICKMAN【 iofi / hololive】",
+          "video_id": "Xatu14OogO8"
         }
       ]
     },
@@ -643,5 +652,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T08:10:25Z"
+  "generated_at": "2026-10-01T08:20:25Z"
 }
