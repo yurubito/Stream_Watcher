@@ -104,11 +104,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-01T12:02:56Z",
-        "title": "【#生スバル】デス桃太郎やるしゅばあああああああああああああああああああああああああ！！！！！！！：Death Momotaro【ホロライブ/大空スバル】",
-        "video_id": "fjuGRTdwg_w"
-      },
       "name": "大空スバル"
     },
     {
@@ -251,11 +246,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-01T13:00:58Z",
-        "title": "【 Machine Party 】ReGLOSSで友情破壊ゲーム！！【音乃瀬奏】#ReGLOSS",
-        "video_id": "eH7o6DetM6s"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -290,7 +280,19 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T01:00:00Z",
+          "title": "【朝ドリ#1】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
+          "video_id": "pnr04Sqg_Bw"
+        },
+        {
+          "scheduled_at": "2026-10-02T09:00:00Z",
+          "title": "【 ＃ホロ甲2026 】壁咲高校、２年目春甲子園🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
+          "video_id": "QIiZMDDjzPE"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -310,11 +312,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-01T12:00:09Z",
-        "title": "【妹に運転を教える】運転手担当のお姉ちゃんですからね！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "v_c0sXi0gTE"
-      },
       "name": "輪堂千速"
     },
     {
@@ -583,11 +580,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-01T11:59:24Z",
-        "title": "【hololive Dreams】 music n feesh🐟 #holodori #ホロドリ",
-        "video_id": "bUHDaMiNjmE"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -601,5 +593,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T14:10:35Z"
+  "generated_at": "2026-10-01T14:20:36Z"
 }
