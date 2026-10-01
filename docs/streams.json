@@ -32,13 +32,13 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-01T13:01:26Z",
+        "title": "【ホロライブ ドリームス】#ホロドリ 新エリア登場🌊 夏だ！海だ！釣りだ！#3 hololive Dreams【ホロライブ / AZKi】",
+        "video_id": "ywJ_g8zQof0"
+      },
       "name": "AZKi",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T13:00:00Z",
-          "title": "【ホロライブ ドリームス】#ホロドリ 新エリア登場🌊 夏だ！海だ！釣りだ！#3 hololive Dreams【ホロライブ / AZKi】",
-          "video_id": "ywJ_g8zQof0"
-        },
         {
           "scheduled_at": "2026-10-01T22:00:00Z",
           "title": "【#ホロドリ】朝だ！釣りだ！あずいろだ！🎣 #あずいろ朝活  hololive Dreams【ホロライブ / AZKi】",
@@ -260,14 +260,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T13:00:00Z",
-          "title": "【 Machine Party 】ReGLOSSで友情破壊ゲーム！！【音乃瀬奏】#ReGLOSS",
-          "video_id": "eH7o6DetM6s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T13:00:58Z",
+        "title": "【 Machine Party 】ReGLOSSで友情破壊ゲーム！！【音乃瀬奏】#ReGLOSS",
+        "video_id": "eH7o6DetM6s"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -370,7 +368,14 @@
         "title": "#1 神ゲーに挑むぞー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
         "video_id": "zscbFBdOvyI"
       },
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T02:00:00Z",
+          "title": "【EN】 MORE GOLF!! - WHAT THE GOLF【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
+          "video_id": "7uk50A7Fo4o"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -498,11 +503,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-01T12:02:42Z",
-        "title": "【#holodori 】FC Songs!【 iofi / hololive】",
-        "video_id": "x9F-2UR4oJ8"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -602,13 +602,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-01T11:58:42Z",
-        "title": "【hololive Dreams】MAIN RHYTHM GAME PAKE KEYBOARD, BISA AP GA?! #holodori #ホロドリ",
-        "video_id": "bgVbg9Xnt_0"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T13:00:50Z"
+  "generated_at": "2026-10-01T13:10:27Z"
 }
