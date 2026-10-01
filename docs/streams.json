@@ -83,14 +83,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【＃マイクラ肝試し2026】　今年のふぶみこめっとさんは大冒険ー★【白上フブキ/ホロライブ】",
-          "video_id": "d-5bPUqVbHk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T11:59:59Z",
+        "title": "【＃マイクラ肝試し2026】　今年のふぶみこめっとさんは大冒険ー★【白上フブキ/ホロライブ】",
+        "video_id": "d-5bPUqVbHk"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -335,14 +333,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【妹に運転を教える】運転手担当のお姉ちゃんですからね！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "v_c0sXi0gTE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T12:00:09Z",
+        "title": "【妹に運転を教える】運転手担当のお姉ちゃんですからね！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "v_c0sXi0gTE"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -374,14 +370,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【雑談】まったりお話しよ～　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "TxiiHx9GzKo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T12:00:07Z",
+        "title": "【雑談】まったりお話しよ～　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "TxiiHx9GzKo"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -610,14 +604,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【hololive Dreams】 music n feesh🐟 #holodori #ホロドリ",
-          "video_id": "bUHDaMiNjmE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T11:59:24Z",
+        "title": "【hololive Dreams】 music n feesh🐟 #holodori #ホロドリ",
+        "video_id": "bUHDaMiNjmE"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -627,15 +619,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【hololive Dreams】MAIN RHYTHM GAME PAKE KEYBOARD, BISA AP GA?! #holodori #ホロドリ",
-          "video_id": "bgVbg9Xnt_0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T11:58:42Z",
+        "title": "【hololive Dreams】MAIN RHYTHM GAME PAKE KEYBOARD, BISA AP GA?! #holodori #ホロドリ",
+        "video_id": "bgVbg9Xnt_0"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T11:50:27Z"
+  "generated_at": "2026-10-01T12:01:06Z"
 }
