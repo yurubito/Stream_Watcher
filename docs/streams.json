@@ -11,6 +11,11 @@
       "name": "ロボ子さん",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-01T12:00:00Z",
+          "title": "【  ＃ホロドリ 】ストーリー一緒にすすめよ＞＜！！いつか釣りにたどり着くまで【ホロライブ/ ロボ子さん 】",
+          "video_id": "sEuopfbLmrc"
+        },
+        {
           "scheduled_at": "2026-10-03T09:00:00Z",
           "title": "【オフコラボ】＃えりこう で健康ごはん✨みこちお食べ !!!!【ホロライブ/ロボ子さん】",
           "video_id": "CMlnK7XN8go"
@@ -646,7 +651,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T12:00:00Z",
+          "title": "【hololive Dreams】 music n feesh🐟 #holodori #ホロドリ",
+          "video_id": "bUHDaMiNjmE"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -666,5 +678,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-01T10:30:37Z"
+  "generated_at": "2026-10-01T10:40:41Z"
 }
