@@ -393,14 +393,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T23:00:00Z",
-          "title": "【Resident Evil RE:4】What rhymes with fun? GUN!!!!",
-          "video_id": "nwh-DuaVCfc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T22:58:05Z",
+        "title": "【Resident Evil RE:4】What rhymes with fun? GUN!!!!",
+        "video_id": "nwh-DuaVCfc"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -589,5 +587,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T22:40:32Z"
+  "generated_at": "2026-10-01T23:00:47Z"
 }
