@@ -191,7 +191,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T22:00:00Z",
+          "title": "【#ホロドリ】#あずいろ で朝釣り🎣やるしかないよな！乗れ！このビックウェーブ！！【風真いろは/ホロライブ】",
+          "video_id": "X0qd75xcLp8"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -552,5 +559,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T15:40:43Z"
+  "generated_at": "2026-10-01T15:50:32Z"
 }
