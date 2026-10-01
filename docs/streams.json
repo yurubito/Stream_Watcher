@@ -257,13 +257,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-01T10:02:11Z",
+        "title": "【ポーカーチェイス】コラボ紹介！ガチャ！視聴者参加型で対戦もするよ～！【博衣こより／ホロライブ】 #PR",
+        "video_id": "DDklyDTXB2A"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T10:00:00Z",
-          "title": "【ポーカーチェイス】コラボ紹介！ガチャ！視聴者参加型で対戦もするよ～！【博衣こより／ホロライブ】 #PR",
-          "video_id": "DDklyDTXB2A"
-        },
         {
           "scheduled_at": "2026-10-01T14:00:00Z",
           "title": "【 #ホロドリ 】出入り自由！夜釣りゆる凸待ち～ホロメンとまったりお話したい～【博衣こより/ホロライブ】",
@@ -274,7 +274,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T11:00:00Z",
+          "title": "【#マイクラ肝試し2026】十怪談に終止符を！！ミニゲームも遊びたい！【風真いろは/ホロライブ】",
+          "video_id": "h84I9LS58V8"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -303,14 +310,12 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T10:00:00Z",
-          "title": "【Sky 星を紡ぐ子どもたち】ゴッホの季節を巡りましょう！【儒烏風亭らでん #ReGLOSS 】",
-          "video_id": "d0dbaI1o2F4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T10:00:52Z",
+        "title": "【Sky 星を紡ぐ子どもたち】ゴッホの季節を巡りましょう！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "d0dbaI1o2F4"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -526,6 +531,11 @@
           "scheduled_at": "2026-10-01T14:00:00Z",
           "title": "【UNDERTALE】I CAN FIX THEM ALL【pacifist run】",
           "video_id": "-x5I9D9wXqQ"
+        },
+        {
+          "scheduled_at": "2026-10-04T14:00:00Z",
+          "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CausalRao",
+          "video_id": "JYsWj4sXeYw"
         }
       ]
     },
@@ -621,6 +631,11 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-01T09:39:13Z",
+        "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF COURAGE ~ 2026 MAP ふれわたーニャで肝試し本番！！ 【hololive holoro | Anya Melfissa】",
+        "video_id": "vTac9JRkNcU"
+      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -651,5 +666,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-01T10:00:45Z"
+  "generated_at": "2026-10-01T10:10:22Z"
 }
