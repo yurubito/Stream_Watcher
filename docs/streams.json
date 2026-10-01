@@ -120,7 +120,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T12:00:00Z",
+          "title": "【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
+          "video_id": "eFYByyw5AJc"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -382,14 +389,12 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T00:00:00Z",
-          "title": "Sorting Out My JUNK 【Handcam Zatsudan】",
-          "video_id": "9qYswB4uHdA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-09-30T23:57:35Z",
+        "title": "Sorting Out My JUNK 【Handcam Zatsudan】",
+        "video_id": "9qYswB4uHdA"
+      },
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -586,5 +591,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-09-30T22:30:46Z"
+  "generated_at": "2026-10-01T00:00:58Z"
 }
