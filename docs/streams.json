@@ -390,7 +390,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T18:00:00Z",
+          "title": "【holodori】not like i need you kobo, who cares about gacha anyway #kfp #キアライブ",
+          "video_id": "3vWscLxcJMo"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -605,5 +612,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T13:10:27Z"
+  "generated_at": "2026-10-01T13:20:47Z"
 }
