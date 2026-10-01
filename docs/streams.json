@@ -49,26 +49,22 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T13:00:00Z",
-          "title": "【#マイクラ肝試し2026】今年も３人で肝試しにいくにぇええええええええ！！👻【さくらみこ / #フブみこめっとさん】",
-          "video_id": "rskM0JyromY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T12:59:25Z",
+        "title": "【#マイクラ肝試し2026】今年も３人で肝試しにいくにぇええええええええ！！👻【さくらみこ / #フブみこめっとさん】",
+        "video_id": "rskM0JyromY"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T13:00:00Z",
-          "title": "【#マイクラ肝試し2026】みんなで怯えにいく【星街すいせい / #フブみこめっとさん】",
-          "video_id": "e4khfv6cZvQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T12:59:29Z",
+        "title": "【#マイクラ肝試し2026】みんなで怯えにいく【星街すいせい / #フブみこめっとさん】",
+        "video_id": "e4khfv6cZvQ"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -192,26 +188,22 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T13:00:00Z",
-          "title": "10月がやってきたのら(・o・🍬)【姫森ルーナ/ホロライブ】",
-          "video_id": "Ilw5E3EE8oM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T12:59:55Z",
+        "title": "10月がやってきたのら(・o・🍬)【姫森ルーナ/ホロライブ】",
+        "video_id": "Ilw5E3EE8oM"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T13:00:00Z",
-          "title": "【晩酌】本日は日本酒の日！飲むぞ！！【​雪花ラミィ /ホロライブ】",
-          "video_id": "xSG7JUua6co"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T13:00:32Z",
+        "title": "【晩酌】本日は日本酒の日！飲むぞ！！【​雪花ラミィ /ホロライブ】",
+        "video_id": "xSG7JUua6co"
+      },
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -373,14 +365,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T13:00:00Z",
-          "title": "#1 神ゲーに挑むぞー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "zscbFBdOvyI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T12:59:21Z",
+        "title": "#1 神ゲーに挑むぞー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "zscbFBdOvyI"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -620,5 +610,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T12:50:30Z"
+  "generated_at": "2026-10-01T13:00:50Z"
 }
