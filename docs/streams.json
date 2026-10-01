@@ -242,11 +242,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-01T09:30:08Z",
-        "title": "【ポルカの伝説】最強のお弁当を作りたい",
-        "video_id": "jbplP2yCo3Y"
-      },
       "name": "尾丸ポルカ",
       "upcoming": [
         {
@@ -656,5 +651,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-01T09:40:28Z"
+  "generated_at": "2026-10-01T09:50:25Z"
 }
