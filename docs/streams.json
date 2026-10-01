@@ -56,13 +56,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-01T09:03:05Z",
+        "title": "【ホロライブドリームス】新イベ水着ガチャコンプチャレンジ！ #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "69FPzz6t7b4"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T09:00:00Z",
-          "title": "【ホロライブドリームス】新イベ水着ガチャコンプチャレンジ！ #ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "69FPzz6t7b4"
-        },
         {
           "scheduled_at": "2026-10-05T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
@@ -78,13 +78,13 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-01T09:02:55Z",
+        "title": "【Getting Over It 】２０２６年金壺おじさんへの道　残暑編【ホロライブ/白上フブキ】",
+        "video_id": "Uakpb2aKel0"
+      },
       "name": "白上フブキ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T09:00:00Z",
-          "title": "【Getting Over It 】２０２６年金壺おじさんへの道　残暑編【ホロライブ/白上フブキ】",
-          "video_id": "Uakpb2aKel0"
-        },
         {
           "scheduled_at": "2026-10-01T12:00:00Z",
           "title": "【＃マイクラ肝試し2026】　今年のふぶみこめっとさんは大冒険ー★【白上フブキ/ホロライブ】",
@@ -95,11 +95,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-01T07:01:19Z",
-        "title": "【ホロライブドリームス】新エリアきちゃ～！#ホロドリ 【ホロライブ/夏色まつり】",
-        "video_id": "t0ypeQFOuts"
-      },
       "name": "夏色まつり"
     },
     {
@@ -336,14 +331,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T09:00:00Z",
-          "title": "【 ＃ホロ甲2026 】大ピンチ壁咲高校、２年目冬に突入・・・🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
-          "video_id": "5-buuqIIsR0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T09:00:52Z",
+        "title": "【 ＃ホロ甲2026 】大ピンチ壁咲高校、２年目冬に突入・・・🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
+        "video_id": "5-buuqIIsR0"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -652,5 +645,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T09:00:41Z"
+  "generated_at": "2026-10-01T09:10:26Z"
 }
