@@ -314,7 +314,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T10:00:00Z",
+          "title": "【Sky 星を紡ぐ子どもたち】ゴッホの季節を巡りましょう！【儒烏風亭らでん #ReGLOSS 】",
+          "video_id": "d0dbaI1o2F4"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -645,5 +652,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T09:10:26Z"
+  "generated_at": "2026-10-01T09:20:33Z"
 }
