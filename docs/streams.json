@@ -127,14 +127,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T09:00:00Z",
-          "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺最後の甲子園！【 ホロライブ / 大神ミオ 】",
-          "video_id": "oYX-9RRlg98"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T09:00:19Z",
+        "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺最後の甲子園！【 ホロライブ / 大神ミオ 】",
+        "video_id": "oYX-9RRlg98"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -297,7 +295,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T13:00:00Z",
+          "title": "【 Machine Party 】ReGLOSSで友情破壊ゲーム！！【音乃瀬奏】#ReGLOSS",
+          "video_id": "eH7o6DetM6s"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -538,13 +543,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-01T09:00:10Z",
+        "title": "【TCG CARD SHOP SIM】Hi there beautiful【 iofi / hololive】",
+        "video_id": "dy0y6uIvo6M"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T09:00:00Z",
-          "title": "【TCG CARD SHOP SIM】Hi there beautiful【 iofi / hololive】",
-          "video_id": "dy0y6uIvo6M"
-        },
         {
           "scheduled_at": "2026-10-01T12:00:00Z",
           "title": "【#holodori 】FC Songs!【 iofi / hololive】",
@@ -639,11 +644,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-01T05:58:36Z",
-        "title": "【hololive Dreams】GRAONDSTONE vs VIEWERS til we win or else......... 【#holodori】",
-        "video_id": "pPXaqk00utA"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -652,5 +652,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T08:20:25Z"
+  "generated_at": "2026-10-01T09:00:41Z"
 }
