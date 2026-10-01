@@ -263,11 +263,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-01T22:00:34Z",
-        "title": "【  #ホロドリ 】朝活ホロドリきちゃ🐟＃12【水宮枢／ホロライブ】",
-        "video_id": "XO8vlBQxSAk"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -582,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T23:30:43Z"
+  "generated_at": "2026-10-01T23:31:23Z"
 }
