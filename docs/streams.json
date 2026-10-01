@@ -456,11 +456,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-01T06:01:13Z",
-        "title": "【HOLOLIVE DREAMS】Graondstone be ballin #holodori",
-        "video_id": "LDx8h1fxjcU"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -530,11 +525,6 @@
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-01T07:30:00Z",
-          "title": "【#holodori 】FC Songs!【 iofi / hololive】",
-          "video_id": "x9F-2UR4oJ8"
-        },
-        {
           "scheduled_at": "2026-10-01T09:00:00Z",
           "title": "【TCG CARD SHOP SIM】Hi there beautiful【 iofi / hololive】",
           "video_id": "dy0y6uIvo6M"
@@ -543,6 +533,11 @@
           "scheduled_at": "2026-10-01T13:00:00Z",
           "title": "【 #holoctober 】 KICK OFF! DAY 1 : STICKMAN【 iofi / hololive】",
           "video_id": "Xatu14OogO8"
+        },
+        {
+          "scheduled_at": "2026-10-01T15:00:00Z",
+          "title": "【#holodori 】FC Songs!【 iofi / hololive】",
+          "video_id": "x9F-2UR4oJ8"
         }
       ]
     },
@@ -641,5 +636,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T07:10:32Z"
+  "generated_at": "2026-10-01T07:30:32Z"
 }
