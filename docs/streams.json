@@ -104,6 +104,11 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-01T12:02:56Z",
+        "title": "【#生スバル】デス桃太郎やるしゅばあああああああああああああああああああああああああ！！！！！！！：Death Momotaro【ホロライブ/大空スバル】",
+        "video_id": "fjuGRTdwg_w"
+      },
       "name": "大空スバル"
     },
     {
@@ -219,13 +224,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-01T14:01:07Z",
+        "title": "【 #ホロドリ 】出入り自由！夜釣りゆる凸待ち～ホロメンとまったりお話したい～【博衣こより/ホロライブ】",
+        "video_id": "0A_KrE4s1K8"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T14:00:00Z",
-          "title": "【 #ホロドリ 】出入り自由！夜釣りゆる凸待ち～ホロメンとまったりお話したい～【博衣こより/ホロライブ】",
-          "video_id": "0A_KrE4s1K8"
-        },
         {
           "scheduled_at": "2026-10-02T11:00:00Z",
           "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目春の甲子園へ！⚾3連覇するぞ！🏆✨【博衣こより/ホロライブ】",
@@ -295,14 +300,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T13:30:00Z",
-          "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#7【水宮枢／ホロライブDEV_IS】※ネタバレ有",
-          "video_id": "LKWMaCecqBw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T14:01:33Z",
+        "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#7【水宮枢／ホロライブDEV_IS】※ネタバレ有",
+        "video_id": "LKWMaCecqBw"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -471,13 +474,13 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-01T14:01:25Z",
+        "title": "【UNDERTALE】I CAN FIX THEM ALL【pacifist run】",
+        "video_id": "-x5I9D9wXqQ"
+      },
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T14:00:00Z",
-          "title": "【UNDERTALE】I CAN FIX THEM ALL【pacifist run】",
-          "video_id": "-x5I9D9wXqQ"
-        },
         {
           "scheduled_at": "2026-10-04T14:00:00Z",
           "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CausalRao",
@@ -498,14 +501,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T14:00:00Z",
-          "title": "【 #holoctober 】 KICK OFF! DAY 1 : STICKMAN【 iofi / hololive】",
-          "video_id": "Xatu14OogO8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T14:01:12Z",
+        "title": "【 #holoctober 】 KICK OFF! DAY 1 : STICKMAN【 iofi / hololive】",
+        "video_id": "Xatu14OogO8"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -600,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T14:00:59Z"
+  "generated_at": "2026-10-01T14:10:35Z"
 }
