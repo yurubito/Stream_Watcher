@@ -546,11 +546,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-01T18:48:27Z",
-        "title": "【hololive Dreams ホロライブドリームス】ANYATORI POKAJAN【hololive holoro | Anya Melfissa】",
-        "video_id": "3QMARZM8beM"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -586,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T19:40:38Z"
+  "generated_at": "2026-10-01T20:40:27Z"
 }
