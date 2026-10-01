@@ -133,6 +133,11 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-01T09:35:50Z",
+        "title": "【 #マイクラ肝試し2026 】ついに本番だ！肝試しだけど、ワクワクしてきたぞ！！！【角巻わため/ホロライブ４期生】",
+        "video_id": "JnCMZw3EQ1c"
+      },
       "name": "角巻わため"
     },
     {
@@ -562,5 +567,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T18:10:36Z"
+  "generated_at": "2026-10-01T18:30:58Z"
 }
