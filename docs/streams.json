@@ -122,11 +122,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-01T09:00:19Z",
-        "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺最後の甲子園！【 ホロライブ / 大神ミオ 】",
-        "video_id": "oYX-9RRlg98"
-      },
       "name": "大神ミオ"
     },
     {
@@ -256,6 +251,11 @@
           "scheduled_at": "2026-10-01T14:00:00Z",
           "title": "【 #ホロドリ 】出入り自由！夜釣りゆる凸待ち～ホロメンとまったりお話したい～【博衣こより/ホロライブ】",
           "video_id": "0A_KrE4s1K8"
+        },
+        {
+          "scheduled_at": "2026-10-02T11:00:00Z",
+          "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目春の甲子園へ！⚾3連覇するぞ！🏆✨【博衣こより/ホロライブ】",
+          "video_id": "vgMLFzr7LZA"
         }
       ]
     },
@@ -347,11 +347,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-01T09:33:06Z",
-        "title": "【 妹に運転教える 】無免許お姉ちゃんが教えてあげる！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "PYgl9VP261g"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -642,5 +637,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-01T11:40:24Z"
+  "generated_at": "2026-10-01T11:50:27Z"
 }
