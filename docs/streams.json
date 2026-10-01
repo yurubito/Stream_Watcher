@@ -37,21 +37,11 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-01T12:59:25Z",
-        "title": "【#マイクラ肝試し2026】今年も３人で肝試しにいくにぇええええええええ！！👻【さくらみこ / #フブみこめっとさん】",
-        "video_id": "rskM0JyromY"
-      },
       "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-01T12:59:29Z",
-        "title": "【#マイクラ肝試し2026】みんなで怯えにいく【星街すいせい / #フブみこめっとさん】",
-        "video_id": "e4khfv6cZvQ"
-      },
       "name": "星街すいせい"
     },
     {
@@ -74,11 +64,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-01T11:59:59Z",
-        "title": "【＃マイクラ肝試し2026】　今年のふぶみこめっとさんは大冒険ー★【白上フブキ/ホロライブ】",
-        "video_id": "d-5bPUqVbHk"
-      },
       "name": "白上フブキ"
     },
     {
@@ -480,7 +465,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T14:00:00Z",
+          "title": "【 #holoctober 】DAY 2 : SCHOOL UNIFORM【 iofi / hololive】",
+          "video_id": "BM0fxu3heIg"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -565,5 +557,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T15:20:38Z"
+  "generated_at": "2026-10-01T15:30:56Z"
 }
