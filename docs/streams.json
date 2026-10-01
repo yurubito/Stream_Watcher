@@ -460,7 +460,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T04:00:00Z",
+          "title": "【Hololive Dreams】Splashball time!【hololive | moona】",
+          "video_id": "wM0vxENJliI"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -586,5 +593,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T00:20:24Z"
+  "generated_at": "2026-10-01T01:40:29Z"
 }
