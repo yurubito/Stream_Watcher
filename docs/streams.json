@@ -83,11 +83,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-01T09:02:55Z",
-        "title": "【Getting Over It 】２０２６年金壺おじさんへの道　残暑編【ホロライブ/白上フブキ】",
-        "video_id": "Uakpb2aKel0"
-      },
       "name": "白上フブキ",
       "upcoming": [
         {
@@ -242,14 +237,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T10:00:00Z",
-          "title": "【看病x束縛ASMR！？】とんでもないテーマのボイスが出たぞ！！！！【尾丸ポルカ/水宮枢/ホロライブ】",
-          "video_id": "FDPk8xTorBg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T09:59:47Z",
+        "title": "【看病x束縛ASMR！？】とんでもないテーマのボイスが出たぞ！！！！【尾丸ポルカ/水宮枢/ホロライブ】",
+        "video_id": "FDPk8xTorBg"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -383,13 +376,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-01T09:59:05Z",
+        "title": "【歌枠】はじめての歌枠なのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "_RP6UbtnO3k"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T10:00:00Z",
-          "title": "【歌枠】はじめての歌枠なのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "_RP6UbtnO3k"
-        },
         {
           "scheduled_at": "2026-10-02T10:00:00Z",
           "title": "【8番出口】怖いの苦手なのじゃ…【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -515,7 +508,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T21:00:00Z",
+          "title": "【CASUAL OUTFIT DEBUT】Cecilia Immergreen more like Cecilia Immer-",
+          "video_id": "nl7VxDtpbKA"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -651,5 +651,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-01T09:50:25Z"
+  "generated_at": "2026-10-01T10:00:45Z"
 }
