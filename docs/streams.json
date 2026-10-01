@@ -88,14 +88,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T07:00:00Z",
-          "title": "【ホロライブドリームス】新エリアきちゃ～！#ホロドリ 【ホロライブ/夏色まつり】",
-          "video_id": "t0ypeQFOuts"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T07:01:19Z",
+        "title": "【ホロライブドリームス】新エリアきちゃ～！#ホロドリ 【ホロライブ/夏色まつり】",
+        "video_id": "t0ypeQFOuts"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -643,5 +641,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T07:00:47Z"
+  "generated_at": "2026-10-01T07:10:32Z"
 }
