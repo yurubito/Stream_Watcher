@@ -8,13 +8,13 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-01T12:01:06Z",
+        "title": "【  ＃ホロドリ 】ストーリー一緒にすすめよ＞＜！！いつか釣りにたどり着くまで【ホロライブ/ ロボ子さん 】",
+        "video_id": "sEuopfbLmrc"
+      },
       "name": "ロボ子さん",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【  ＃ホロドリ 】ストーリー一緒にすすめよ＞＜！！いつか釣りにたどり着くまで【ホロライブ/ ロボ子さん 】",
-          "video_id": "sEuopfbLmrc"
-        },
         {
           "scheduled_at": "2026-10-03T09:00:00Z",
           "title": "【オフコラボ】＃えりこう で健康ごはん✨みこちお食べ !!!!【ホロライブ/ロボ子さん】",
@@ -108,14 +108,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【#生スバル】デス桃太郎やるしゅばあああああああああああああああああああああああああ！！！！！！！：Death Momotaro【ホロライブ/大空スバル】",
-          "video_id": "fjuGRTdwg_w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T12:02:56Z",
+        "title": "【#生スバル】デス桃太郎やるしゅばあああああああああああああああああああああああああ！！！！！！！：Death Momotaro【ホロライブ/大空スバル】",
+        "video_id": "fjuGRTdwg_w"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -140,14 +138,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
-          "video_id": "eFYByyw5AJc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T12:02:07Z",
+        "title": "【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "eFYByyw5AJc"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -515,13 +511,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-01T12:02:42Z",
+        "title": "【#holodori 】FC Songs!【 iofi / hololive】",
+        "video_id": "x9F-2UR4oJ8"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【#holodori 】FC Songs!【 iofi / hololive】",
-          "video_id": "x9F-2UR4oJ8"
-        },
         {
           "scheduled_at": "2026-10-01T14:00:00Z",
           "title": "【 #holoctober 】 KICK OFF! DAY 1 : STICKMAN【 iofi / hololive】",
@@ -627,5 +623,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T12:01:06Z"
+  "generated_at": "2026-10-01T12:10:23Z"
 }
