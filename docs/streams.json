@@ -114,7 +114,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【】【ホロライブ/大空スバル】",
+          "title": "【】デス桃太郎【ホロライブ/大空スバル】",
           "video_id": "fjuGRTdwg_w"
         }
       ]
@@ -235,11 +235,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-01T09:59:47Z",
-        "title": "【看病x束縛ASMR！？】とんでもないテーマのボイスが出たぞ！！！！【尾丸ポルカ/水宮枢/ホロライブ】",
-        "video_id": "FDPk8xTorBg"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -328,11 +323,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-01T09:00:52Z",
-        "title": "【 ＃ホロ甲2026 】大ピンチ壁咲高校、２年目冬に突入・・・🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
-        "video_id": "5-buuqIIsR0"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -394,14 +384,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T11:00:00Z",
-          "title": "【Poly Bridge 3】博士だもん！橋作りなんて余裕です！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "4T5ad5fi6Y8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T11:01:13Z",
+        "title": "【Poly Bridge 3】博士だもん！橋作りなんて余裕です！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "4T5ad5fi6Y8"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -674,5 +662,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-01T11:00:49Z"
+  "generated_at": "2026-10-01T11:10:44Z"
 }
