@@ -20,14 +20,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T22:00:00Z",
-          "title": "【#ホロドリ】朝だ！釣りだ！あずいろだ！🎣 #あずいろ朝活  hololive Dreams【ホロライブ / AZKi】",
-          "video_id": "QVI12l5PO6I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T22:01:08Z",
+        "title": "【#ホロドリ】朝だ！釣りだ！あずいろだ！🎣 #あずいろ朝活  hololive Dreams【ホロライブ / AZKi】",
+        "video_id": "QVI12l5PO6I"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -275,6 +273,11 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-01T22:00:34Z",
+        "title": "【  #ホロドリ 】朝活ホロドリきちゃ🐟＃12【水宮枢／ホロライブ】",
+        "video_id": "XO8vlBQxSAk"
+      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -579,5 +582,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T22:00:58Z"
+  "generated_at": "2026-10-01T22:10:30Z"
 }
