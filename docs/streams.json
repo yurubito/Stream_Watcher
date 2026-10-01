@@ -144,14 +144,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T14:00:00Z",
-          "title": "【ホロドリ】母上が好きなミニキャラむちむちノエルで魂の釣りッッ！目標40種類！！(現在31種類)(多分)(きっと)(メイビー)【白銀ノエル/ホロライブ】",
-          "video_id": "HterMbRKtNc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T14:00:53Z",
+        "title": "【ホロドリ】母上が好きなミニキャラむちむちノエルで魂の釣りッッ！目標40種類！！(現在31種類)(多分)(きっと)(メイビー)【白銀ノエル/ホロライブ】",
+        "video_id": "HterMbRKtNc"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -602,5 +600,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T13:40:30Z"
+  "generated_at": "2026-10-01T14:00:59Z"
 }
