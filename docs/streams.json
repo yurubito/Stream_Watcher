@@ -483,7 +483,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-01T15:00:00Z",
+          "title": "【No Man Sky】Next Expeditions!【hololive | moona】",
+          "video_id": "052KP1IOAKM"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -583,5 +590,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T14:50:29Z"
+  "generated_at": "2026-10-01T15:01:16Z"
 }
