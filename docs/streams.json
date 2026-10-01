@@ -114,11 +114,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-01T14:00:53Z",
-        "title": "【ホロドリ】母上が好きなミニキャラむちむちノエルで魂の釣りッッ！目標40種類！！(現在31種類)(多分)(きっと)(メイビー)【白銀ノエル/ホロライブ】",
-        "video_id": "HterMbRKtNc"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -139,7 +134,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T11:00:00Z",
+          "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第21話～【姫森ルーナ/ホロライブ】",
+          "video_id": "vpzRCf3qsjs"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -546,7 +548,19 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T04:00:00Z",
+          "title": "【hololive Dreams】Balling with the Girls 2: Electric Boogaloo #holodori【Pavolia Reine/hololive】",
+          "video_id": "SHcVV3yE42E"
+        },
+        {
+          "scheduled_at": "2026-10-02T07:00:00Z",
+          "title": "Bird Whisperer! More Theodora Quality Time - Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
+          "video_id": "9DcrkfJuOko"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -564,5 +578,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T16:01:25Z"
+  "generated_at": "2026-10-01T16:10:33Z"
 }
