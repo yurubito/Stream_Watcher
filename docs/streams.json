@@ -356,7 +356,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T14:00:00Z",
+          "title": "【POKÉMON FIRE RED】lets play pokajan nuzlocke!【SOUL-LINK NUZLOCKE】",
+          "video_id": "kQJMNoiY36E"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -582,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T22:10:30Z"
+  "generated_at": "2026-10-01T22:40:32Z"
 }
