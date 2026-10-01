@@ -114,7 +114,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-01T12:00:00Z",
-          "title": "【】デス桃太郎【ホロライブ/大空スバル】",
+          "title": "【#生スバル】デス桃太郎やるしゅばあああああああああああああああああああああああああ！！！！！！！：Death Momotaro【ホロライブ/大空スバル】",
           "video_id": "fjuGRTdwg_w"
         }
       ]
@@ -250,11 +250,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-01T10:02:11Z",
-        "title": "【ポーカーチェイス】コラボ紹介！ガチャ！視聴者参加型で対戦もするよ～！【博衣こより／ホロライブ】 #PR",
-        "video_id": "DDklyDTXB2A"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -367,11 +362,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-01T09:59:05Z",
-        "title": "【歌枠】はじめての歌枠なのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "_RP6UbtnO3k"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -662,5 +652,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-01T11:10:44Z"
+  "generated_at": "2026-10-01T11:20:25Z"
 }
