@@ -258,11 +258,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-01T14:01:33Z",
-        "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#7【水宮枢／ホロライブDEV_IS】※ネタバレ有",
-        "video_id": "LKWMaCecqBw"
-      },
       "name": "水宮枢"
     },
     {
@@ -307,11 +302,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-01T12:59:21Z",
-        "title": "#1 神ゲーに挑むぞー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "zscbFBdOvyI"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -570,5 +560,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T16:50:32Z"
+  "generated_at": "2026-10-01T17:01:00Z"
 }
