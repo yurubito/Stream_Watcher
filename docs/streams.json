@@ -3,23 +3,16 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-01T13:30:00Z",
-          "title": "# 2【ネタバレあり】ほの暮しの庭～少しスリルのある村生活～【ときのそら/ホロライブ】",
-          "video_id": "lrtLrOEkrhY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-01T13:37:41Z",
+        "title": "# 2【ネタバレあり】ほの暮しの庭～少しスリルのある村生活～【ときのそら/ホロライブ】",
+        "video_id": "lrtLrOEkrhY"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-01T12:01:06Z",
-        "title": "【  ＃ホロドリ 】ストーリー一緒にすすめよ＞＜！！いつか釣りにたどり着くまで【ホロライブ/ ロボ子さん 】",
-        "video_id": "sEuopfbLmrc"
-      },
       "name": "ロボ子さん",
       "upcoming": [
         {
@@ -348,11 +341,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-01T12:00:07Z",
-        "title": "【雑談】まったりお話しよ～　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "TxiiHx9GzKo"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -427,7 +415,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T01:00:00Z",
+          "title": "Nerissa - Sweet My Love【original song】",
+          "video_id": "Kcgj7JSSHvE"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -607,5 +602,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-01T13:30:39Z"
+  "generated_at": "2026-10-01T13:40:30Z"
 }
