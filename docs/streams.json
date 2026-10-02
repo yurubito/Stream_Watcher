@@ -81,14 +81,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T11:00:00Z",
-          "title": "【ホロライブドリームス】釣り#ホロドリ 【ホロライブ/夏色まつり】",
-          "video_id": "P553n-YujO4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T11:00:22Z",
+        "title": "【ホロライブドリームス】釣り#ホロドリ 【ホロライブ/夏色まつり】",
+        "video_id": "P553n-YujO4"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -200,13 +198,13 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-02T10:58:36Z",
+        "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第21話～【姫森ルーナ/ホロライブ】",
+        "video_id": "vpzRCf3qsjs"
+      },
       "name": "姫森ルーナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T11:00:00Z",
-          "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第21話～【姫森ルーナ/ホロライブ】",
-          "video_id": "vpzRCf3qsjs"
-        },
         {
           "scheduled_at": "2026-10-03T09:00:00Z",
           "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃１【姫森ルーナ/ホロライブ】※ネタバレあり",
@@ -313,14 +311,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T11:00:00Z",
-          "title": "【妹に運転を教える】ねえ聞こえてる？【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "k5-tsJOnn4I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T11:00:17Z",
+        "title": "【妹に運転を教える】ねえ聞こえてる？【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "k5-tsJOnn4I"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -423,7 +419,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T11:40:00Z",
+          "title": "【ホロライブ新人ユニット】！ #ホロライブ #アソビまわり隊",
+          "video_id": "rPIuD8ql7Fg"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -703,5 +706,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T10:50:26Z"
+  "generated_at": "2026-10-02T11:00:46Z"
 }
