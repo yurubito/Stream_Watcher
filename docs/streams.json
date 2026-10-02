@@ -489,11 +489,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-02T04:01:31Z",
-        "title": "【Hololive Dreams】play with reine and ollie again~【hololive | moona】",
-        "video_id": "r824CVNNLUI"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -578,11 +573,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-02T04:01:45Z",
-        "title": "【hololive Dreams】Balling with the Girls 2: Electric Boogaloo #holodori【Pavolia Reine/hololive】",
-        "video_id": "SHcVV3yE42E"
-      },
       "name": "パヴォリア・レイネ",
       "upcoming": [
         {
@@ -620,5 +610,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T05:20:24Z"
+  "generated_at": "2026-10-02T06:10:24Z"
 }
