@@ -3,16 +3,18 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T13:00:00Z",
+          "title": "【#ホロドリ】新エリアで魚釣りだって！？【ときのそら/ホロライブ】",
+          "video_id": "re9eov5D87Y"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-02T10:30:02Z",
-        "title": "【  ＃ホロドリ 】雑談しながらのんびりストーリー！そろそろメガスフィアいけそ？？【ホロライブ/ ロボ子さん 】",
-        "video_id": "Yv9LV4tzyM4"
-      },
       "name": "ロボ子さん",
       "upcoming": [
         {
@@ -357,11 +359,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-02T09:59:12Z",
-        "title": "【8番出口】怖いの苦手なのじゃ…【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "KNZDbpsAnB8"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -693,5 +690,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T12:10:24Z"
+  "generated_at": "2026-10-02T12:20:30Z"
 }
