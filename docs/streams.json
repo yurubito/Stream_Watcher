@@ -307,11 +307,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-02T11:00:17Z",
-        "title": "【妹に運転を教える】ねえ聞こえてる？【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "k5-tsJOnn4I"
-      },
       "name": "轟はじめ"
     },
     {
@@ -685,5 +680,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T12:30:50Z"
+  "generated_at": "2026-10-02T12:40:39Z"
 }
