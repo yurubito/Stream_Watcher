@@ -40,11 +40,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-02T14:31:15Z",
-        "title": "【ホロライブドリームス】しんやのポカじゃん #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "kI6iZjoWQ1k"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -665,5 +660,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T16:10:33Z"
+  "generated_at": "2026-10-02T16:20:26Z"
 }
