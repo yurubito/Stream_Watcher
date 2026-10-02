@@ -141,7 +141,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T12:00:00Z",
+          "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "SJvP9jhEdyI"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -296,7 +303,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T13:00:00Z",
+          "title": "【スパチャ読み】9月9日＆10日分です！【儒烏風亭らでん #ReGLOSS 】",
+          "video_id": "U-yoiDr4RO8"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -679,5 +693,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T09:30:33Z"
+  "generated_at": "2026-10-02T09:50:28Z"
 }
