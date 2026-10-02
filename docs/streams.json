@@ -37,14 +37,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T10:00:00Z",
-          "title": "【回転寿司シミュレーター】すいちゃんのワンマン職場体験コーナー🍣【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "Q-PWzWgqtP4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T10:01:38Z",
+        "title": "【回転寿司シミュレーター】すいちゃんのワンマン職場体験コーナー🍣【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "Q-PWzWgqtP4"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -112,13 +110,13 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-10-02T10:01:00Z",
+        "title": "【タンポポは耐える。】雑草魂🔥🔥【ホロライブ/大神ミオ】",
+        "video_id": "2X4OYtiwtpc"
+      },
       "name": "大神ミオ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T10:00:00Z",
-          "title": "【タンポポは耐える。】雑草魂🔥🔥【ホロライブ/大神ミオ】",
-          "video_id": "2X4OYtiwtpc"
-        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
@@ -293,11 +291,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-02T08:59:49Z",
-        "title": "【告知】みんな集まれー！ホロわちゃ学園祭の最新情報＆コーレス決め会議【#ホロわちゃ学園祭】【一条莉々華/hololive ReGLOSS】",
-        "video_id": "wp4tkF_Q_A4"
-      },
       "name": "一条莉々華"
     },
     {
@@ -693,5 +686,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T10:01:04Z"
+  "generated_at": "2026-10-02T10:10:23Z"
 }
