@@ -62,11 +62,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-02T12:01:44Z",
-        "title": "【その１０】チルラジオ配信 #狐族密会　「まさかの狐族密会が外へ！？」【ホロライブ/白上フブキ/尾丸ポルカ】",
-        "video_id": "FkbNASARqvM"
-      },
       "name": "白上フブキ"
     },
     {
@@ -674,5 +669,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T13:20:30Z"
+  "generated_at": "2026-10-02T13:30:38Z"
 }
