@@ -283,7 +283,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T01:00:00Z",
+          "title": "【朝ドリ#2】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
+          "video_id": "pAVsnFge6tA"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -349,11 +356,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-02T14:00:55Z",
-        "title": "【Melatonin】チルなリズムゲーで まったり過ごそっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "pLCDnmdf9RU"
-      },
       "name": "宙科そぴあ",
       "upcoming": [
         {
@@ -641,5 +643,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T15:30:51Z"
+  "generated_at": "2026-10-02T15:40:27Z"
 }
