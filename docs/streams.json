@@ -305,11 +305,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-02T13:30:44Z",
-        "title": "【デス桃太郎】桃太郎のホラゲらしい！デス太郎...？？？【水宮枢／ホロライブ】",
-        "video_id": "mM-2VY4QOU8"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -651,5 +646,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T15:09:04Z"
+  "generated_at": "2026-10-02T15:20:32Z"
 }
