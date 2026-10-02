@@ -260,11 +260,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-02T22:00:03Z",
-        "title": "【#ホロドリ】図鑑コンプをめざして🎣【風真いろは/ホロライブ】",
-        "video_id": "isiBH6e0IWE"
-      },
       "name": "風真いろは"
     },
     {
@@ -416,7 +411,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T14:00:00Z",
+          "title": "【Fire Emblem: Fortune's Weave】what should the title be #kfp #キアライブ",
+          "video_id": "BePfwWPICg8"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -639,5 +641,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T23:10:23Z"
+  "generated_at": "2026-10-02T23:50:34Z"
 }
