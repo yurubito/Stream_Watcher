@@ -67,23 +67,16 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T12:00:00Z",
-          "title": "【その１０】チルラジオ配信 #狐族密会　「まさかの狐族密会が外へ！？」【ホロライブ/白上フブキ/尾丸ポルカ】",
-          "video_id": "FkbNASARqvM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T12:01:44Z",
+        "title": "【その１０】チルラジオ配信 #狐族密会　「まさかの狐族密会が外へ！？」【ホロライブ/白上フブキ/尾丸ポルカ】",
+        "video_id": "FkbNASARqvM"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-02T11:00:22Z",
-        "title": "【ホロライブドリームス】釣り#ホロドリ 【ホロライブ/夏色まつり】",
-        "video_id": "P553n-YujO4"
-      },
       "name": "夏色まつり"
     },
     {
@@ -99,14 +92,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T12:00:00Z",
-          "title": "【#最終回】ひぐらしのなく頃に 解 同時視聴するしゅばあああああああああ！！！！！： Higurashi When They Cry: Solution watching party【大空スバル】",
-          "video_id": "Iw8_HkwkpeY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T12:01:42Z",
+        "title": "【#最終回】ひぐらしのなく頃に 解 同時視聴するしゅばあああああああああ！！！！！： Higurashi When They Cry: Solution watching party【大空スバル】",
+        "video_id": "Iw8_HkwkpeY"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -138,13 +129,13 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-10-02T12:01:15Z",
+        "title": "【！？】『デス桃太郎』やる！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "SJvP9jhEdyI"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T12:00:00Z",
-          "title": "【！？】『デス桃太郎』やる！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "SJvP9jhEdyI"
-        },
         {
           "scheduled_at": "2026-10-02T13:00:00Z",
           "title": "たんぽぽです、耐えます。【ホロライブ/兎田ぺこら】",
@@ -361,14 +352,7 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T12:00:00Z",
-          "title": "【メン限同時視聴】マインクラフト/ザ・ムービー【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "lmrjoMP0994"
-        }
-      ]
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -590,13 +574,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-02T12:03:05Z",
+        "title": "【#holodori 】FC / AP WITH KEYBOARD【 iofi / hololive】",
+        "video_id": "08qTq9agZ2Y"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T12:00:00Z",
-          "title": "【#holodori 】FC / AP WITH KEYBOARD【 iofi / hololive】",
-          "video_id": "08qTq9agZ2Y"
-        },
         {
           "scheduled_at": "2026-10-02T14:00:00Z",
           "title": "【 #holoctober 】DAY 2 : SCHOOL UNIFORM【 iofi / hololive】",
@@ -607,13 +591,13 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-02T12:02:24Z",
+        "title": "【Dressmaker】 Pt.4: ONWARDS WITH THE STORY!! 【Kureiji Ollie】",
+        "video_id": "EVh3ECE4p28"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T12:00:00Z",
-          "title": "【Dressmaker】 Pt.4: ONWARDS WITH THE STORY!! 【Kureiji Ollie】",
-          "video_id": "EVh3ECE4p28"
-        },
         {
           "scheduled_at": "2026-10-06T02:00:00Z",
           "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SMOLLIE SINGS!! 【Kureiji Ollie】",
@@ -709,5 +693,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T12:00:50Z"
+  "generated_at": "2026-10-02T12:10:24Z"
 }
