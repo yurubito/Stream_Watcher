@@ -674,14 +674,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T12:00:00Z",
-          "title": "【hololive Dreams】 1st Time Keyboard! 🐟 #holodori #ホロドリ",
-          "video_id": "MblAVujeYA8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T12:00:01Z",
+        "title": "【hololive Dreams】 1st Time Keyboard! 🐟 #holodori #ホロドリ",
+        "video_id": "MblAVujeYA8"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -711,5 +709,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T11:50:23Z"
+  "generated_at": "2026-10-02T12:00:50Z"
 }
