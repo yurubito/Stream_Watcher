@@ -243,13 +243,13 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-02T01:00:08Z",
+        "title": "【朝ドリ#1】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
+        "video_id": "pnr04Sqg_Bw"
+      },
       "name": "響咲リオナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T01:00:00Z",
-          "title": "【朝ドリ#1】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
-          "video_id": "pnr04Sqg_Bw"
-        },
         {
           "scheduled_at": "2026-10-02T09:00:00Z",
           "title": "【 ＃ホロ甲2026 】壁咲高校、２年目春甲子園🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
@@ -579,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T00:50:31Z"
+  "generated_at": "2026-10-02T01:00:52Z"
 }
