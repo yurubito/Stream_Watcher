@@ -48,6 +48,11 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-02T14:30:00Z",
+          "title": "【ホロライブドリームス】夜釣りーーーーー！ #ホロドリ【ホロライブ/アキロゼ】",
+          "video_id": "kI6iZjoWQ1k"
+        },
+        {
           "scheduled_at": "2026-10-05T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
           "video_id": "WjNxzPtIHhI"
@@ -62,7 +67,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T12:00:00Z",
+          "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+          "video_id": "62AgiXDP3tU"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -629,11 +641,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-02T12:00:01Z",
-        "title": "【hololive Dreams】 1st Time Keyboard! 🐟 #holodori #ホロドリ",
-        "video_id": "MblAVujeYA8"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -664,5 +671,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T13:40:32Z"
+  "generated_at": "2026-10-02T13:50:27Z"
 }
