@@ -243,11 +243,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-02T01:00:08Z",
-        "title": "【朝ドリ#1】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
-        "video_id": "pnr04Sqg_Bw"
-      },
       "name": "響咲リオナ",
       "upcoming": [
         {
@@ -321,13 +316,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-02T01:59:22Z",
+        "title": "【EN】 MORE GOLF!! - WHAT THE GOLF【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
+        "video_id": "7uk50A7Fo4o"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T02:00:00Z",
-          "title": "【EN】 MORE GOLF!! - WHAT THE GOLF【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
-          "video_id": "7uk50A7Fo4o"
-        },
         {
           "scheduled_at": "2026-10-02T13:00:00Z",
           "title": "#1 最強担当、いざ参る！！※ネタバレあり  | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -591,5 +586,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T01:30:47Z"
+  "generated_at": "2026-10-02T02:10:22Z"
 }
