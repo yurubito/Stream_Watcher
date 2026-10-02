@@ -30,11 +30,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-02T11:04:53Z",
-        "title": "【Steam】ホロメンと自分にゲーム買う！！！！！！【ホロライブ/さくらみこ】",
-        "video_id": "9bDHBikrQI8"
-      },
       "name": "さくらみこ"
     },
     {
@@ -311,7 +306,14 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎"
+      "name": "虎金妃笑虎",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T00:00:00Z",
+          "title": "【 ＃朝ガオ vol.15 】ただいまんもす～☕本日の珈琲：35COFFEE【虎金妃笑虎】",
+          "video_id": "C18dYjfCMB4"
+        }
+      ]
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -365,13 +367,13 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-02T14:00:55Z",
+        "title": "【Melatonin】チルなリズムゲーで まったり過ごそっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "pLCDnmdf9RU"
+      },
       "name": "宙科そぴあ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T14:00:00Z",
-          "title": "【Melatonin】チルなリズムゲーで まったり過ごそっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "pLCDnmdf9RU"
-        },
         {
           "scheduled_at": "2026-10-04T11:20:00Z",
           "title": "【#アソビまわり隊歌枠リレー】色んな一面、見せちゃうぞっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
@@ -538,13 +540,13 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-02T14:01:32Z",
+        "title": "【POKÉMON LEAF GREEN】NUZLOOOOOOOOOOOOOOOCKE【SOUL-LINK NUZLOCKE】",
+        "video_id": "aoFsQp_pWmc"
+      },
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T14:00:00Z",
-          "title": "【POKÉMON LEAF GREEN】NUZLOOOOOOOOOOOOOOOCKE【SOUL-LINK NUZLOCKE】",
-          "video_id": "aoFsQp_pWmc"
-        },
         {
           "scheduled_at": "2026-10-04T14:00:00Z",
           "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CausalRao",
@@ -565,14 +567,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T14:00:00Z",
-          "title": "【 #holoctober 】DAY 2 : SCHOOL UNIFORM【 iofi / hololive】",
-          "video_id": "BM0fxu3heIg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T14:01:32Z",
+        "title": "【 #holoctober 】DAY 2 : SCHOOL UNIFORM【 iofi / hololive】",
+        "video_id": "BM0fxu3heIg"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -669,5 +669,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T14:00:48Z"
+  "generated_at": "2026-10-02T14:10:28Z"
 }
