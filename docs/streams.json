@@ -166,11 +166,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-02T09:00:13Z",
-        "title": "【ホロドリ】噴水信者！！新ガチャ全員コンプいくぞおおおおお✨【白銀ノエル/ホロライブ】",
-        "video_id": "sQWAjBR4oSM"
-      },
       "name": "白銀ノエル",
       "upcoming": [
         {
@@ -263,6 +258,11 @@
           "scheduled_at": "2026-10-03T13:00:00Z",
           "title": "【 ダービースタリオン２ 】推しジョッキー騎乗の馬をG1で活躍させたい！！！【鷹嶺ルイ/ホロライブ】",
           "video_id": "ieiWUGMQ-oE"
+        },
+        {
+          "scheduled_at": "2026-10-04T11:00:00Z",
+          "title": "【 3D 】ソロライブ『REBELLION』続報解禁！関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
+          "video_id": "pEJ_ZE0uRtA"
         }
       ]
     },
@@ -367,7 +367,14 @@
         "title": "【 妹に運転教える 】怒ったらすぐ終了！無免許お姉ちゃんが教えてあげる！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
         "video_id": "c-Af4cnpEts"
       },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T12:00:00Z",
+          "title": "【同時視聴】マインクラフト/ザ・ムービー【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "lmrjoMP0994"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -696,5 +703,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T10:40:26Z"
+  "generated_at": "2026-10-02T10:50:26Z"
 }
