@@ -523,11 +523,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-02T14:01:32Z",
-        "title": "【POKÉMON LEAF GREEN】NUZLOOOOOOOOOOOOOOOCKE【SOUL-LINK NUZLOCKE】",
-        "video_id": "aoFsQp_pWmc"
-      },
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
         {
@@ -637,5 +632,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T17:30:58Z"
+  "generated_at": "2026-10-02T17:40:27Z"
 }
