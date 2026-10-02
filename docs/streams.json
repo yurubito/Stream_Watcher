@@ -464,12 +464,26 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T03:00:00Z",
+          "title": "MANAGEMENT GAVE ME BUGS TO EAT 【Handcam】",
+          "video_id": "1h6BnZW2ksE"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T13:00:00Z",
+          "title": "【HOLOLIVE DREAMS】Graondstone everyday #holodori",
+          "video_id": "fO__81BV1cg"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -680,5 +694,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T12:40:39Z"
+  "generated_at": "2026-10-02T12:50:24Z"
 }
