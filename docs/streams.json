@@ -25,7 +25,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T11:00:00Z",
+          "title": "【Steam】ホロメンと自分にゲーム買う！！！！！！【ホロライブ/さくらみこ】",
+          "video_id": "9bDHBikrQI8"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -380,11 +387,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-01T22:58:05Z",
-        "title": "【Resident Evil RE:4】What rhymes with fun? GUN!!!!",
-        "video_id": "nwh-DuaVCfc"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -465,6 +467,11 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-02T04:01:31Z",
+        "title": "【Hololive Dreams】play with reine and ollie again~【hololive | moona】",
+        "video_id": "r824CVNNLUI"
+      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -472,6 +479,11 @@
       "group": "ID AREA15",
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T12:00:00Z",
+          "title": "【#holodori 】FC / AP WITH KEYBOARD【 iofi / hololive】",
+          "video_id": "08qTq9agZ2Y"
+        },
         {
           "scheduled_at": "2026-10-02T14:00:00Z",
           "title": "【 #holoctober 】DAY 2 : SCHOOL UNIFORM【 iofi / hololive】",
@@ -544,13 +556,13 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-02T04:01:45Z",
+        "title": "【hololive Dreams】Balling with the Girls 2: Electric Boogaloo #holodori【Pavolia Reine/hololive】",
+        "video_id": "SHcVV3yE42E"
+      },
       "name": "パヴォリア・レイネ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T04:00:00Z",
-          "title": "【hololive Dreams】Balling with the Girls 2: Electric Boogaloo #holodori【Pavolia Reine/hololive】",
-          "video_id": "SHcVV3yE42E"
-        },
         {
           "scheduled_at": "2026-10-02T07:00:00Z",
           "title": "Bird Whisperer! More Theodora Quality Time - Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
@@ -586,5 +598,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T02:10:22Z"
+  "generated_at": "2026-10-02T05:10:24Z"
 }
