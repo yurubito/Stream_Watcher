@@ -89,11 +89,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-02T12:01:42Z",
-        "title": "【#最終回】ひぐらしのなく頃に 解 同時視聴するしゅばあああああああああ！！！！！： Higurashi When They Cry: Solution watching party【大空スバル】",
-        "video_id": "Iw8_HkwkpeY"
-      },
       "name": "大空スバル"
     },
     {
@@ -504,6 +499,11 @@
           "scheduled_at": "2026-10-02T23:00:00Z",
           "title": "【StarSavior】*TIES YOU UP* #ad",
           "video_id": "iqzlHBQ_o_M"
+        },
+        {
+          "scheduled_at": "2026-10-03T04:00:00Z",
+          "title": "【MINECRAFT】I'M NOT SCARED! TEST OF COURAGE 2026! #マイクラ肝試し2026",
+          "video_id": "C1WvGkD8Zfo"
         }
       ]
     },
@@ -651,5 +651,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T14:50:38Z"
+  "generated_at": "2026-10-02T15:00:57Z"
 }
