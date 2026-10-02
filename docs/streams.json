@@ -89,7 +89,24 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T01:00:00Z",
+          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+          "video_id": "GYsrk9aT-Lg"
+        },
+        {
+          "scheduled_at": "2026-10-03T04:00:00Z",
+          "title": "【#3】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+          "video_id": "nVLlI4TBy_w"
+        },
+        {
+          "scheduled_at": "2026-10-04T04:00:00Z",
+          "title": "【#4】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+          "video_id": "BOjKLly-bLQ"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -169,6 +186,11 @@
           "scheduled_at": "2026-10-03T09:00:00Z",
           "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃１【姫森ルーナ/ホロライブ】※ネタバレあり",
           "video_id": "RpBVO8AoGiY"
+        },
+        {
+          "scheduled_at": "2026-10-04T09:00:00Z",
+          "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃２【姫森ルーナ/ホロライブ】※ネタバレあり",
+          "video_id": "0NXb049wNSs"
         }
       ]
     },
@@ -643,5 +665,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T15:40:27Z"
+  "generated_at": "2026-10-02T15:50:37Z"
 }
