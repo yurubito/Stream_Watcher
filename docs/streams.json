@@ -121,11 +121,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-02T13:00:09Z",
-        "title": "たんぽぽです、耐えます。【ホロライブ/兎田ぺこら】",
-        "video_id": "h1ARhYO5RNo"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -173,11 +168,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-02T10:58:36Z",
-        "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第21話～【姫森ルーナ/ホロライブ】",
-        "video_id": "vpzRCf3qsjs"
-      },
       "name": "姫森ルーナ",
       "upcoming": [
         {
@@ -467,11 +457,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-02T12:59:21Z",
-        "title": "【HOLOLIVE DREAMS】Graondstone everyday #holodori",
-        "video_id": "fO__81BV1cg"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -647,17 +632,12 @@
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
       "live": {
-        "started_at": "2026-10-02T12:59:17Z",
-        "title": "【hololive Dreams】what da GRAONDSTONE doing today?【#holodori】",
-        "video_id": "3GT_OxyYoaE"
+        "started_at": "2026-10-02T14:46:28Z",
+        "title": "【Don't Drop The Cake】totally not a birthday horror game 🎂🤚",
+        "video_id": "nTlLAx9m9vE"
       },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T14:45:00Z",
-          "title": "【Don't Drop The Cake】totally not a birthday horror game 🎂🤚",
-          "video_id": "nTlLAx9m9vE"
-        },
         {
           "scheduled_at": "2026-10-03T13:00:00Z",
           "title": "【hololive Dreams】what da holoh3ro doing now 【#holodori】",
@@ -671,5 +651,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T14:40:40Z"
+  "generated_at": "2026-10-02T14:50:38Z"
 }
