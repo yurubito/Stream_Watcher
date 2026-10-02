@@ -115,6 +115,11 @@
       "name": "大神ミオ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-02T10:00:00Z",
+          "title": "【タンポポは耐える。】雑草魂🔥🔥【ホロライブ/大神ミオ】",
+          "video_id": "2X4OYtiwtpc"
+        },
+        {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
           "video_id": "gunryHFbKyw"
@@ -239,11 +244,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-02T09:02:01Z",
-        "title": "【 告知あり！ 】フワモコとルイが絡んでる切り抜きを一緒にみよう‼【鷹嶺ルイ/ホロライブ】",
-        "video_id": "8o8SVRKsiT8"
-      },
       "name": "鷹嶺ルイ",
       "upcoming": [
         {
@@ -374,13 +374,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-02T09:59:12Z",
+        "title": "【8番出口】怖いの苦手なのじゃ…【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "KNZDbpsAnB8"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T10:00:00Z",
-          "title": "【8番出口】怖いの苦手なのじゃ…【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "KNZDbpsAnB8"
-        },
         {
           "scheduled_at": "2026-10-04T11:00:00Z",
           "title": "【#アソビまわり隊歌枠リレー】トップバッターなのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -693,5 +693,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T09:50:28Z"
+  "generated_at": "2026-10-02T10:01:04Z"
 }
