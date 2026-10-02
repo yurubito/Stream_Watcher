@@ -614,14 +614,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T08:00:00Z",
-          "title": "Bird Whisperer! More Theodora Quality Time - Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
-          "video_id": "9DcrkfJuOko"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T08:02:22Z",
+        "title": "Bird Whisperer! More Theodora Quality Time - Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
+        "video_id": "9DcrkfJuOko"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -651,5 +649,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T08:00:41Z"
+  "generated_at": "2026-10-02T08:10:44Z"
 }
