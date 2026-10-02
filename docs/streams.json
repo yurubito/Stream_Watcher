@@ -30,14 +30,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T11:00:00Z",
-          "title": "【Steam】ホロメンと自分にゲーム買う！！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "9bDHBikrQI8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T11:04:53Z",
+        "title": "【Steam】ホロメンと自分にゲーム買う！！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "9bDHBikrQI8"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -135,14 +133,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T11:00:00Z",
-          "title": "【#戌神ころね生誕祭2026DAY2】ケーキを持って帰るぞ！！！",
-          "video_id": "kHwyMwcd8xA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T11:00:49Z",
+        "title": "【#戌神ころね生誕祭2026DAY2】ケーキを持って帰るぞ！！！",
+        "video_id": "kHwyMwcd8xA"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -151,7 +147,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-02T12:00:00Z",
-          "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+          "title": "【！？】『デス桃太郎』やる！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
           "video_id": "SJvP9jhEdyI"
         }
       ]
@@ -267,13 +263,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-02T11:02:46Z",
+        "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目春の甲子園へ！⚾3連覇するぞ！🏆✨【博衣こより/ホロライブ】",
+        "video_id": "vgMLFzr7LZA"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T11:00:00Z",
-          "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目春の甲子園へ！⚾3連覇するぞ！🏆✨【博衣こより/ホロライブ】",
-          "video_id": "vgMLFzr7LZA"
-        },
         {
           "scheduled_at": "2026-10-03T02:00:00Z",
           "title": "【空の軌跡 the 2nd】完全初見！2ndいくぞおおおおおお！！！！！！！！！【博衣こより/ホロライブ】※ネタバレあり",
@@ -358,16 +354,11 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-02T09:00:37Z",
-        "title": "【 妹に運転教える 】怒ったらすぐ終了！無免許お姉ちゃんが教えてあげる！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "c-Af4cnpEts"
-      },
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
           "scheduled_at": "2026-10-02T12:00:00Z",
-          "title": "【同時視聴】マインクラフト/ザ・ムービー【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "title": "【メン限同時視聴】マインクラフト/ザ・ムービー【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "lmrjoMP0994"
         }
       ]
@@ -706,5 +697,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T11:00:46Z"
+  "generated_at": "2026-10-02T11:10:37Z"
 }
