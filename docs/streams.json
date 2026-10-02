@@ -491,7 +491,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T23:00:00Z",
+          "title": "【StarSavior】*TIES YOU UP* #ad",
+          "video_id": "iqzlHBQ_o_M"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -649,5 +656,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T08:10:44Z"
+  "generated_at": "2026-10-02T08:30:32Z"
 }
