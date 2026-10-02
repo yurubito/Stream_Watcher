@@ -78,7 +78,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T11:00:00Z",
+          "title": "【ホロライブドリームス】釣り#ホロドリ 【ホロライブ/夏色まつり】",
+          "video_id": "P553n-YujO4"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -122,7 +129,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T11:00:00Z",
+          "title": "【#戌神ころね生誕祭2026DAY2】ケーキを持って帰るぞ！！！",
+          "video_id": "kHwyMwcd8xA"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -665,5 +679,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T09:10:24Z"
+  "generated_at": "2026-10-02T09:30:33Z"
 }
