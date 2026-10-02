@@ -571,7 +571,19 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T13:00:00Z",
+          "title": "【hololive Dreams】what da GRAONDSTONE doing today?【#holodori】",
+          "video_id": "3GT_OxyYoaE"
+        },
+        {
+          "scheduled_at": "2026-10-02T14:45:00Z",
+          "title": "【Don't Drop The Cake】totally not a birthday horror game 🎂🤚",
+          "video_id": "nTlLAx9m9vE"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -579,5 +591,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T01:00:52Z"
+  "generated_at": "2026-10-02T01:30:47Z"
 }
