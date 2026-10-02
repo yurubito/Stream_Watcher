@@ -37,7 +37,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T10:00:00Z",
+          "title": "【回転寿司シミュレーター】すいちゃんのワンマン職場体験コーナー🍣【星街すいせい / ＃ほしまちすたじお】",
+          "video_id": "Q-PWzWgqtP4"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -644,5 +651,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T07:50:22Z"
+  "generated_at": "2026-10-02T08:00:41Z"
 }
