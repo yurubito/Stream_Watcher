@@ -137,14 +137,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T09:00:00Z",
-          "title": "【ホロドリ】噴水信者！！新ガチャ全員コンプいくぞおおおおお✨【白銀ノエル/ホロライブ】",
-          "video_id": "sQWAjBR4oSM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T09:00:13Z",
+        "title": "【ホロドリ】噴水信者！！新ガチャ全員コンプいくぞおおおおお✨【白銀ノエル/ホロライブ】",
+        "video_id": "sQWAjBR4oSM"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -267,14 +265,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T09:00:00Z",
-          "title": "【告知】みんな集まれー！ホロわちゃ学園祭の最新情報＆コーレス決め会議【#ホロわちゃ学園祭】【一条莉々華/hololive ReGLOSS】",
-          "video_id": "wp4tkF_Q_A4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T08:59:49Z",
+        "title": "【告知】みんな集まれー！ホロわちゃ学園祭の最新情報＆コーレス決め会議【#ホロわちゃ学園祭】【一条莉々華/hololive ReGLOSS】",
+        "video_id": "wp4tkF_Q_A4"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -296,14 +292,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T09:00:00Z",
-          "title": "【 ＃ホロ甲2026 】壁咲高校、２年目春甲子園🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
-          "video_id": "QIiZMDDjzPE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T09:00:25Z",
+        "title": "【 ＃ホロ甲2026 】壁咲高校、２年目春甲子園🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
+        "video_id": "QIiZMDDjzPE"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -661,5 +655,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T08:50:25Z"
+  "generated_at": "2026-10-02T09:00:40Z"
 }
