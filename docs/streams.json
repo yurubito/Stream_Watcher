@@ -98,7 +98,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T10:00:00Z",
+          "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
+          "video_id": "gunryHFbKyw"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -637,5 +644,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T07:00:50Z"
+  "generated_at": "2026-10-02T07:50:22Z"
 }
