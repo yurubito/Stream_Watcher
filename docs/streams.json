@@ -40,13 +40,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-02T14:31:15Z",
+        "title": "【ホロライブドリームス】夜釣りーーーーー！ #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "kI6iZjoWQ1k"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T14:30:00Z",
-          "title": "【ホロライブドリームス】夜釣りーーーーー！ #ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "kI6iZjoWQ1k"
-        },
         {
           "scheduled_at": "2026-10-05T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
@@ -259,7 +259,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T22:00:00Z",
+          "title": "【#ホロドリ】図鑑コンプをめざして🎣【風真いろは/ホロライブ】",
+          "video_id": "isiBH6e0IWE"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -664,5 +671,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T14:30:40Z"
+  "generated_at": "2026-10-02T14:40:40Z"
 }
