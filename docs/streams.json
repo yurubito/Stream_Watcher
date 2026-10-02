@@ -42,11 +42,6 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-02T10:01:38Z",
-        "title": "【回転寿司シミュレーター】すいちゃんのワンマン職場体験コーナー🍣【星街すいせい / ＃ほしまちすたじお】",
-        "video_id": "Q-PWzWgqtP4"
-      },
       "name": "星街すいせい"
     },
     {
@@ -132,18 +127,11 @@
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
       "live": {
-        "started_at": "2026-10-02T12:01:15Z",
-        "title": "【！？】『デス桃太郎』やる！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "SJvP9jhEdyI"
+        "started_at": "2026-10-02T13:00:09Z",
+        "title": "たんぽぽです、耐えます。【ホロライブ/兎田ぺこら】",
+        "video_id": "h1ARhYO5RNo"
       },
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T13:00:00Z",
-          "title": "たんぽぽです、耐えます。【ホロライブ/兎田ぺこら】",
-          "video_id": "h1ARhYO5RNo"
-        }
-      ]
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -152,7 +140,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-02T13:00:00Z",
-          "title": "【ホロライブ ドリームス】#ドロドリ 新MAPで遊ぶ🎣【不知火フレア/ホロライブ】",
+          "title": "【ホロライブ ドリームス】#ホロドリ 新MAPで遊ぶ🎣【不知火フレア/ホロライブ】",
           "video_id": "5uIZzkRsIXs"
         }
       ]
@@ -236,13 +224,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-02T13:00:25Z",
+        "title": "【 妹に運転を教える 】教官に教官向いてるよと言われた私の実力みせます。【鷹嶺ルイ/ホロライブ】",
+        "video_id": "t4Kmf04cRQA"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T13:00:00Z",
-          "title": "【 妹に運転を教える 】教官に教官向いてるよと言われた私の実力みせます。【鷹嶺ルイ/ホロライブ】",
-          "video_id": "t4Kmf04cRQA"
-        },
         {
           "scheduled_at": "2026-10-03T03:00:00Z",
           "title": "【 ドラゴンクエスト ビルダーズ 】いざ、新しいエリアへ…！！【鷹嶺ルイ/ホロライブ】ネタバレあり",
@@ -295,19 +283,24 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T13:00:00Z",
-          "title": "【スパチャ読み】9月9日＆10日分です！【儒烏風亭らでん #ReGLOSS 】",
-          "video_id": "U-yoiDr4RO8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T13:00:40Z",
+        "title": "【スパチャ読み】9月9日＆10日分です！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "U-yoiDr4RO8"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T13:00:00Z",
+          "title": "【Dressmaker】ドレスは女の子の夢【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "ODY69VwMZbg"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -405,13 +398,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-02T12:59:21Z",
+        "title": "#1 最強担当、いざ参る！！※ネタバレあり  | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "thX2A1-Ktyk"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T13:00:00Z",
-          "title": "#1 最強担当、いざ参る！！※ネタバレあり  | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "thX2A1-Ktyk"
-        },
         {
           "scheduled_at": "2026-10-04T12:00:00Z",
           "title": "【#アソビまわり隊歌枠リレー】盛り上がってこーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -476,14 +469,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T13:00:00Z",
-          "title": "【HOLOLIVE DREAMS】Graondstone everyday #holodori",
-          "video_id": "fO__81BV1cg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T12:59:21Z",
+        "title": "【HOLOLIVE DREAMS】Graondstone everyday #holodori",
+        "video_id": "fO__81BV1cg"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -669,13 +660,13 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-02T12:59:17Z",
+        "title": "【hololive Dreams】what da GRAONDSTONE doing today?【#holodori】",
+        "video_id": "3GT_OxyYoaE"
+      },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T13:00:00Z",
-          "title": "【hololive Dreams】what da GRAONDSTONE doing today?【#holodori】",
-          "video_id": "3GT_OxyYoaE"
-        },
         {
           "scheduled_at": "2026-10-02T14:45:00Z",
           "title": "【Don't Drop The Cake】totally not a birthday horror game 🎂🤚",
@@ -694,5 +685,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T12:50:24Z"
+  "generated_at": "2026-10-02T13:00:50Z"
 }
