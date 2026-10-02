@@ -194,7 +194,29 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T09:00:00Z",
+          "title": "【 告知あり！ 】フワモコとルイが絡んでる切り抜きを一緒にみよう‼【鷹嶺ルイ/ホロライブ】",
+          "video_id": "8o8SVRKsiT8"
+        },
+        {
+          "scheduled_at": "2026-10-02T13:00:00Z",
+          "title": "【 妹に運転を教える 】教官に教官向いてるよと言われた私の実力みせます。【鷹嶺ルイ/ホロライブ】",
+          "video_id": "t4Kmf04cRQA"
+        },
+        {
+          "scheduled_at": "2026-10-03T03:00:00Z",
+          "title": "【 ドラゴンクエスト ビルダーズ 】いざ、新しいエリアへ…！！【鷹嶺ルイ/ホロライブ】ネタバレあり",
+          "video_id": "M5it5mDf5H4"
+        },
+        {
+          "scheduled_at": "2026-10-03T13:00:00Z",
+          "title": "【 ダービースタリオン２ 】推しジョッキー騎乗の馬をG1で活躍させたい！！！【鷹嶺ルイ/ホロライブ】",
+          "video_id": "ieiWUGMQ-oE"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -323,11 +345,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-02T01:59:22Z",
-        "title": "【EN】 MORE GOLF!! - WHAT THE GOLF【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
-        "video_id": "7uk50A7Fo4o"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -453,6 +470,11 @@
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-02T14:00:00Z",
+          "title": "【POKÉMON LEAF GREEN】NUZLOOOOOOOOOOOOOOOCKE【SOUL-LINK NUZLOCKE】",
+          "video_id": "aoFsQp_pWmc"
+        },
+        {
           "scheduled_at": "2026-10-04T14:00:00Z",
           "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CausalRao",
           "video_id": "JYsWj4sXeYw"
@@ -494,17 +516,17 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-02T04:01:18Z",
+        "title": "【hololive Dreams】 3 GIRLS 1 DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "5kRb9M0E5E4"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
           "scheduled_at": "2026-10-02T12:00:00Z",
           "title": "【Dressmaker】 Pt.4: ONWARDS WITH THE STORY!! 【Kureiji Ollie】",
           "video_id": "EVh3ECE4p28"
-        },
-        {
-          "scheduled_at": "2026-10-05T04:00:00Z",
-          "title": "【hololive Dreams】 THESE 2 LADIES HAVE REALLY BIG HEARTS #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "Rv5QdnWbz7Y"
         },
         {
           "scheduled_at": "2026-10-06T02:00:00Z",
@@ -598,5 +620,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T05:10:24Z"
+  "generated_at": "2026-10-02T05:20:24Z"
 }
