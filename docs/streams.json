@@ -316,7 +316,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-02T09:00:00Z",
+          "title": "【 妹に運転教える 】怒ったらすぐ終了！無免許お姉ちゃんが教えてあげる！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "c-Af4cnpEts"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -327,6 +334,16 @@
           "scheduled_at": "2026-10-02T10:00:00Z",
           "title": "【8番出口】怖いの苦手なのじゃ…【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "KNZDbpsAnB8"
+        },
+        {
+          "scheduled_at": "2026-10-04T11:00:00Z",
+          "title": "【#アソビまわり隊歌枠リレー】トップバッターなのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "fvBAsGLCq1c"
+        },
+        {
+          "scheduled_at": "2026-10-04T12:20:00Z",
+          "title": "【#アソビまわり隊歌枠リレー】4人コラボで歌うのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "WBgYlpUP0zc"
         }
       ]
     },
@@ -339,6 +356,11 @@
           "scheduled_at": "2026-10-02T14:00:00Z",
           "title": "【Melatonin】チルなリズムゲーで まったり過ごそっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "pLCDnmdf9RU"
+        },
+        {
+          "scheduled_at": "2026-10-04T11:20:00Z",
+          "title": "【#アソビまわり隊歌枠リレー】色んな一面、見せちゃうぞっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "-2PukiIw3qg"
         }
       ]
     },
@@ -356,6 +378,11 @@
           "scheduled_at": "2026-10-02T13:00:00Z",
           "title": "#1 最強担当、いざ参る！！※ネタバレあり  | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "thX2A1-Ktyk"
+        },
+        {
+          "scheduled_at": "2026-10-04T12:00:00Z",
+          "title": "【#アソビまわり隊歌枠リレー】盛り上がってこーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "qZ3kwg_7Zvk"
         }
       ]
     },
@@ -516,11 +543,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-02T04:01:18Z",
-        "title": "【hololive Dreams】 3 GIRLS 1 DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "5kRb9M0E5E4"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -529,14 +551,14 @@
           "video_id": "EVh3ECE4p28"
         },
         {
+          "scheduled_at": "2026-10-03T12:00:00Z",
+          "title": "【Dressmaker】 Pt.5: THERE'S NEVER ENOUGH DRESSES!! 【Kureiji Ollie】",
+          "video_id": "DSdYOeISvTo"
+        },
+        {
           "scheduled_at": "2026-10-06T02:00:00Z",
           "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SMOLLIE SINGS!! 【Kureiji Ollie】",
           "video_id": "YIhZklHVwPU"
-        },
-        {
-          "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "【hololive Dreams】 PARTY IN DREAMS!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "JpiGbdrtGZA"
         },
         {
           "scheduled_at": "2026-10-07T12:00:00Z",
@@ -581,7 +603,7 @@
       "name": "パヴォリア・レイネ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-02T07:00:00Z",
+          "scheduled_at": "2026-10-02T08:00:00Z",
           "title": "Bird Whisperer! More Theodora Quality Time - Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
           "video_id": "9DcrkfJuOko"
         }
@@ -615,5 +637,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T06:40:23Z"
+  "generated_at": "2026-10-02T07:00:50Z"
 }
