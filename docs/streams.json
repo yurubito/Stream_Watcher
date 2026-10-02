@@ -260,14 +260,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-02T22:00:00Z",
-          "title": "【#ホロドリ】図鑑コンプをめざして🎣【風真いろは/ホロライブ】",
-          "video_id": "isiBH6e0IWE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-02T22:00:03Z",
+        "title": "【#ホロドリ】図鑑コンプをめざして🎣【風真いろは/ホロライブ】",
+        "video_id": "isiBH6e0IWE"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -641,5 +639,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-02T21:40:25Z"
+  "generated_at": "2026-10-02T22:00:39Z"
 }
