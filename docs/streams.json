@@ -221,11 +221,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-03T10:04:15Z",
-        "title": "【 #ホロ甲2026 】こんこよ高校2026⚾3年目スタート！最後の夏へ向けていくぞ！【博衣こより/ホロライブ】",
-        "video_id": "_DaNHhyTHA8"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -260,11 +255,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-03T12:01:20Z",
-        "title": "キャラAIの魔術師りりーか、妹に運転教える。妹はいます。免許はありません。【一条莉々華/hololive ReGLOSS】",
-        "video_id": "jJwTuea9Nnw"
-      },
       "name": "一条莉々華"
     },
     {
@@ -302,7 +292,19 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T06:00:00Z",
+          "title": "【  #ホロドリ 】ホロドリきちゃ🐟＃12【水宮枢／ホロライブ】",
+          "video_id": "JPRGdxVEAWU"
+        },
+        {
+          "scheduled_at": "2026-10-04T12:00:00Z",
+          "title": "【#マイクラ肝試し2026】過去マップいくぞおお【水宮枢／ホロライブ】",
+          "video_id": "Sk2dBKF7mAk"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -425,11 +427,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-03T03:46:15Z",
-        "title": "【MINECRAFT #マイクラ肝試し2026】TESTING OUR COURAGE 2026",
-        "video_id": "rhBY2n1Hmas"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -572,11 +569,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-03T14:31:59Z",
-        "title": "【How to Fish】time to clear the game😎【SKJ】",
-        "video_id": "3wdBknpZaso"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -585,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T18:10:34Z"
+  "generated_at": "2026-10-03T18:20:29Z"
 }
