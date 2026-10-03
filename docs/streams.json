@@ -138,7 +138,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T01:00:00Z",
+          "title": "【朝活雑談】10月！日曜10時といえば～～～～？？＼さんでーまっする／【白銀ノエル/ホロライブ】",
+          "video_id": "9GEPfutuFn0"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -210,11 +217,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-03T13:02:21Z",
-        "title": "【 ダービースタリオン２ 】推しジョッキー騎乗の馬をG1で活躍させたい！！！【鷹嶺ルイ/ホロライブ】",
-        "video_id": "ieiWUGMQ-oE"
-      },
       "name": "鷹嶺ルイ",
       "upcoming": [
         {
@@ -541,11 +543,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-03T12:00:55Z",
-        "title": "【#holodori 】KEYBOAAAARDDDDD【 iofi / hololive】",
-        "video_id": "nNHUv2Zyd_w"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -645,5 +642,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T13:30:56Z"
+  "generated_at": "2026-10-03T13:50:27Z"
 }
