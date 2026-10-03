@@ -431,14 +431,12 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T04:00:00Z",
-          "title": "【MINECRAFT】WE HERE AGAIN! Test of Courage 2026!! #マイクラ肝試し2026",
-          "video_id": "W2O1OWa7p98"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T03:46:07Z",
+        "title": "【MINECRAFT】WE HERE AGAIN! Test of Courage 2026!! #マイクラ肝試し2026",
+        "video_id": "W2O1OWa7p98"
+      },
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -652,5 +650,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T05:00:48Z"
+  "generated_at": "2026-10-03T05:10:20Z"
 }
