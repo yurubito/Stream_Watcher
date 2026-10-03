@@ -25,14 +25,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【メン限】月イチみんなとまったり雑談！10月ここだけの話！【ホロライブ / AZKi】",
-          "video_id": "Hjr4R-WVDMo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T13:02:34Z",
+        "title": "【メン限】月イチみんなとまったり雑談！10月ここだけの話！【ホロライブ / AZKi】",
+        "video_id": "Hjr4R-WVDMo"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -140,14 +138,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【ホロライブ ドリームス】#ホロドリ イベント曲で狙えハイスコア！【不知火フレア/ホロライブ】",
-          "video_id": "_YIscsZhRpg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T13:01:02Z",
+        "title": "【ホロライブ ドリームス】#ホロドリ イベント曲で狙えハイスコア！【不知火フレア/ホロライブ】",
+        "video_id": "_YIscsZhRpg"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -162,14 +158,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【雑談＆お礼】rakuでお喋り🍀ウェスタからお届け⛲【角巻わため/ホロライブ４期生】",
-          "video_id": "En1EljuZYUo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T13:01:08Z",
+        "title": "【雑談＆お礼】rakuでお喋り🍀ウェスタからお届け⛲【角巻わため/ホロライブ４期生】",
+        "video_id": "En1EljuZYUo"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -226,13 +220,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-03T13:02:21Z",
+        "title": "【 ダービースタリオン２ 】推しジョッキー騎乗の馬をG1で活躍させたい！！！【鷹嶺ルイ/ホロライブ】",
+        "video_id": "ieiWUGMQ-oE"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【 ダービースタリオン２ 】推しジョッキー騎乗の馬をG1で活躍させたい！！！【鷹嶺ルイ/ホロライブ】",
-          "video_id": "ieiWUGMQ-oE"
-        },
         {
           "scheduled_at": "2026-10-04T11:00:00Z",
           "title": "【 3D 】ソロライブ『REBELLION』続報解禁！関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
@@ -344,14 +338,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【ホロライブ ドリームス】新エリア！！みんな教えて！！！！！ #ホロドリ 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "_r8eHwqMvNA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T13:01:12Z",
+        "title": "【ホロライブ ドリームス】新エリア！！みんな教えて！！！！！ #ホロドリ 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "_r8eHwqMvNA"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -549,14 +541,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【Hololive Dreams】It's Gacha time!【hololive | moona】",
-          "video_id": "sS0uGlhH3js"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T13:02:12Z",
+        "title": "【Hololive Dreams】It's Gacha time!【hololive | moona】",
+        "video_id": "sS0uGlhH3js"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -578,17 +568,17 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-03T13:04:44Z",
+        "title": "【hololive Dreams】 GACHA-BANANZA WITH MOONA!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "2U64RtX8cwY"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
           "scheduled_at": "2026-10-06T02:00:00Z",
           "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SMOLLIE SINGS!! 【Kureiji Ollie】",
           "video_id": "YIhZklHVwPU"
-        },
-        {
-          "scheduled_at": "2026-10-07T12:00:00Z",
-          "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "N6Aop1nYJB4"
         },
         {
           "scheduled_at": "2026-10-08T12:00:00Z",
@@ -665,5 +655,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T13:00:48Z"
+  "generated_at": "2026-10-03T13:07:12Z"
 }
