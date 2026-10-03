@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-03T12:05:56Z",
-        "title": "【オフコラボ】＃えりこう で健康ごはん✨みこちお食べ !!!!【ホロライブ/ロボ子さん】",
-        "video_id": "CMlnK7XN8go"
-      },
       "name": "ロボ子さん",
       "upcoming": [
         {
@@ -25,11 +20,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-03T13:02:34Z",
-        "title": "【メン限】月イチみんなとまったり雑談！10月ここだけの話！【ホロライブ / AZKi】",
-        "video_id": "Hjr4R-WVDMo"
-      },
       "name": "AZKi"
     },
     {
@@ -655,5 +645,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T13:10:24Z"
+  "generated_at": "2026-10-03T13:20:44Z"
 }
