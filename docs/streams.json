@@ -91,13 +91,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-03T01:03:43Z",
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "GYsrk9aT-Lg"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T01:00:00Z",
-          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-          "video_id": "GYsrk9aT-Lg"
-        },
         {
           "scheduled_at": "2026-10-03T04:00:00Z",
           "title": "【#3】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
@@ -647,5 +647,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T01:00:41Z"
+  "generated_at": "2026-10-03T01:10:22Z"
 }
