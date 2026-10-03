@@ -335,7 +335,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T11:30:00Z",
+          "title": "よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "6zvT6OuCPxU"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -656,5 +663,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T11:10:27Z"
+  "generated_at": "2026-10-03T11:20:26Z"
 }
