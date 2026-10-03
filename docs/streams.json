@@ -475,14 +475,12 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T01:00:00Z",
-          "title": "Nerissa - Sweet My Love【original song】",
-          "video_id": "Kcgj7JSSHvE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T01:00:11Z",
+        "title": "Nerissa - Sweet My Love【original song】",
+        "video_id": "Kcgj7JSSHvE"
+      },
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -649,5 +647,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T00:50:24Z"
+  "generated_at": "2026-10-03T01:00:41Z"
 }
