@@ -142,7 +142,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T13:00:00Z",
+          "title": "【ホロライブ ドリームス】#ホロドリ イベント曲で狙えハイスコア！【不知火フレア/ホロライブ】",
+          "video_id": "_YIscsZhRpg"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -651,5 +658,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T10:40:26Z"
+  "generated_at": "2026-10-03T10:50:44Z"
 }
