@@ -260,7 +260,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-03T22:00:00Z",
-          "title": "【#ホロドリ】金冠チャレンジDAY1【風真いろは/ホロライブ】",
+          "title": "【#ホロドリ】#ござる金冠チャレンジ👑DAY1🎣【風真いろは/ホロライブ】",
           "video_id": "vcIlbVGqwVQ"
         }
       ]
@@ -586,14 +586,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T14:30:00Z",
-          "title": "【How to Fish】time to clear the game😎【SKJ】",
-          "video_id": "3wdBknpZaso"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T14:31:59Z",
+        "title": "【How to Fish】time to clear the game😎【SKJ】",
+        "video_id": "3wdBknpZaso"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -601,5 +599,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T14:30:37Z"
+  "generated_at": "2026-10-03T14:40:59Z"
 }
