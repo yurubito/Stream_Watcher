@@ -130,7 +130,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T10:00:00Z",
+          "title": "【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅！ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "183AUMKOkas"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -140,14 +147,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T02:00:00Z",
-          "title": "【#ホロ甲2026】大分の白銀学院高校！２年目の冬！！春甲子園優勝して新入生ガチャまでいけたら！！【白銀ノエル/ホロライブ】",
-          "video_id": "cDepUHhGaM4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T02:00:48Z",
+        "title": "【#ホロ甲2026】大分の白銀学院高校！２年目の冬！！春甲子園優勝して新入生ガチャまでいけたら！！【白銀ノエル/ホロライブ】",
+        "video_id": "cDepUHhGaM4"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -238,13 +243,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-03T01:59:35Z",
+        "title": "【空の軌跡 the 2nd】完全初見！2ndいくぞおおおおおお！！！！！！！！！【博衣こより/ホロライブ】※ネタバレあり",
+        "video_id": "Ibd0E7cEr1M"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T02:00:00Z",
-          "title": "【空の軌跡 the 2nd】完全初見！2ndいくぞおおおおおお！！！！！！！！！【博衣こより/ホロライブ】※ネタバレあり",
-          "video_id": "Ibd0E7cEr1M"
-        },
         {
           "scheduled_at": "2026-10-03T10:00:00Z",
           "title": "【 #ホロ甲2026 】こんこよ高校2026⚾3年目スタート！最後の夏へ向けていくぞ！【博衣こより/ホロライブ】",
@@ -270,7 +275,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T12:00:00Z",
+          "title": "【妹に運転教える仮拠点】【一条莉々華/hololive ReGLOSS】",
+          "video_id": "jJwTuea9Nnw"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -292,23 +304,11 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T01:00:00Z",
-          "title": "【朝ドリ#2】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
-          "video_id": "pAVsnFge6tA"
-        }
-      ]
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-03T00:01:08Z",
-        "title": "【 ＃朝ガオ vol.15 】鼻づまりが凄いンゴ☕本日の珈琲：35COFFEE【虎金妃笑虎】",
-        "video_id": "C18dYjfCMB4"
-      },
       "name": "虎金妃笑虎"
     },
     {
@@ -451,11 +451,6 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-03T02:56:51Z",
-        "title": "MANAGEMENT GAVE ME BUGS TO EAT 【Handcam】",
-        "video_id": "1h6BnZW2ksE"
-      },
       "name": "シオリ・ノヴェラ"
     },
     {
@@ -500,19 +495,7 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-02T23:00:49Z",
-        "title": "【StarSavior】*TIES YOU UP* #ad",
-        "video_id": "iqzlHBQ_o_M"
-      },
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T04:00:00Z",
-          "title": "【MINECRAFT】I'M NOT SCARED! TEST OF COURAGE 2026! #マイクラ肝試し2026",
-          "video_id": "C1WvGkD8Zfo"
-        }
-      ]
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -556,13 +539,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-03T07:00:26Z",
+        "title": "【 NO Man's Sky】I'm... home?【 iofi / hololive】",
+        "video_id": "6_rteeOBHyk"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T07:00:00Z",
-          "title": "【 NO Man's Sky】I'm... home?【 iofi / hololive】",
-          "video_id": "6_rteeOBHyk"
-        },
         {
           "scheduled_at": "2026-10-03T12:00:00Z",
           "title": "【#holodori 】KEYBOAAAARDDDDD【 iofi / hololive】",
@@ -580,11 +563,6 @@
       "group": "ID holoro",
       "name": "クレイジー・オリー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T02:00:00Z",
-          "title": "【Dressmaker】 Pt.5: THERE'S NEVER ENOUGH DRESSES!! 【Kureiji Ollie】",
-          "video_id": "DSdYOeISvTo"
-        },
         {
           "scheduled_at": "2026-10-06T02:00:00Z",
           "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SMOLLIE SINGS!! 【Kureiji Ollie】",
@@ -630,6 +608,11 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-03T07:00:03Z",
+        "title": "A Familiar Character Lends a Hand in Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
+        "video_id": "cS0FgvrWnZw"
+      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -655,5 +638,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T05:20:22Z"
+  "generated_at": "2026-10-03T07:00:49Z"
 }
