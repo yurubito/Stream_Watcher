@@ -11,7 +11,7 @@
       "name": "ロボ子さん",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-03T09:00:00Z",
+          "scheduled_at": "2026-10-03T12:00:00Z",
           "title": "【オフコラボ】＃えりこう で健康ごはん✨みこちお食べ !!!!【ホロライブ/ロボ子さん】",
           "video_id": "CMlnK7XN8go"
         },
@@ -338,7 +338,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T09:00:00Z",
+          "title": "【】配信予定【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "DM-7SD5_llE"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -649,8 +656,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T13:00:00Z",
+          "title": "【hololive Dreams】holoh3ro doing things #holodori #ホロドリ",
+          "video_id": "-0x6FCG85yw"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-03T07:50:21Z"
+  "generated_at": "2026-10-03T08:20:21Z"
 }
