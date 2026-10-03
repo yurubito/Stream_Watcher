@@ -130,7 +130,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T01:00:00Z",
+          "title": "【朝活雑談】10月！日曜10時といえば～～～～？？＼さんでーまっする／【白銀ノエル/ホロライブ】",
+          "video_id": "9GEPfutuFn0"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -194,6 +201,11 @@
       "group": "JP holoX",
       "name": "鷹嶺ルイ",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T09:00:00Z",
+          "title": "【初体験！】ねこたかで初めての楊国福麻辣湯で大好きなマーラータンを爆食✨【ルイ姉、今日なにする？】#5",
+          "video_id": "ZNzyrv24iVI"
+        },
         {
           "scheduled_at": "2026-10-04T11:00:00Z",
           "title": "【 3D 】ソロライブ『REBELLION』続報解禁！関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
@@ -560,5 +572,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T19:20:55Z"
+  "generated_at": "2026-10-03T19:30:41Z"
 }
