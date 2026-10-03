@@ -125,7 +125,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T11:00:00Z",
+          "title": "【がんばれゴエモン きらきら道中】タイムパイロットをクリアしてみたい！！！！！！！！",
+          "video_id": "TqLe_Tz8aRc"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -645,5 +652,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T07:40:20Z"
+  "generated_at": "2026-10-03T07:50:21Z"
 }
