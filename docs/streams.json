@@ -47,13 +47,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-03T09:01:12Z",
+        "title": "【ホロライブドリームス】参加型！すぷらっしゅボールやろうぜ！ #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "lJ0ZhMWVHSg"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T09:00:00Z",
-          "title": "【ホロライブドリームス】参加型！すぷらっしゅボールやろうぜ！ #ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "lJ0ZhMWVHSg"
-        },
         {
           "scheduled_at": "2026-10-05T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
@@ -223,7 +223,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T12:00:00Z",
+          "title": "【#ホロ甲2026】育成配信2年目秋！！俺等は甲子園を勝った高校ぞ！【尾丸ポルカ/ホロライブ】",
+          "video_id": "YHKGwCKNRDw"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -232,7 +239,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-03T09:30:00Z",
-          "title": "YO！",
+          "title": "YO！한국어 공부 방송！",
           "video_id": "JB77YBoSiE4"
         }
       ]
@@ -673,5 +680,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T09:00:41Z"
+  "generated_at": "2026-10-03T09:10:29Z"
 }
