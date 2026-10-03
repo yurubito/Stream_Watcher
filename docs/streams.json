@@ -256,11 +256,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-03T12:01:46Z",
-        "title": "【#マイクラ肝試し2026】ルルイエ駆け込み寺🐟めざせ1500点📍【風真いろは/ホロライブ】",
-        "video_id": "_eoys4PnW54"
-      },
       "name": "風真いろは",
       "upcoming": [
         {
@@ -278,11 +273,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-03T12:01:20Z",
-        "title": "キャラAIの魔術師りりーか、妹に運転教える。妹はいます。免許はありません。【一条莉々華/hololive ReGLOSS】",
-        "video_id": "jJwTuea9Nnw"
-      },
       "name": "一条莉々華"
     },
     {
@@ -323,11 +313,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-03T11:57:32Z",
-        "title": "【American Truck Simulator】アメリカいくど！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "6zvT6OuCPxU"
-      },
       "name": "輪堂千速"
     },
     {
@@ -534,11 +519,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-03T13:02:12Z",
-        "title": "【Hololive Dreams】It's Gacha time!【hololive | moona】",
-        "video_id": "sS0uGlhH3js"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -554,11 +534,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-03T13:04:44Z",
-        "title": "【hololive Dreams】 GACHA-BANANZA WITH MOONA!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "2U64RtX8cwY"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -606,11 +581,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-03T12:59:52Z",
-        "title": "【hololive Dreams】 teamwork....? #holodori #ホロドリ",
-        "video_id": "HcMk0V0gTiU"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -633,13 +603,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-03T12:59:50Z",
-        "title": "【hololive Dreams】holoh3ro doing things #holodori #ホロドリ",
-        "video_id": "-0x6FCG85yw"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T14:10:46Z"
+  "generated_at": "2026-10-03T14:24:47Z"
 }
