@@ -133,14 +133,7 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T01:00:00Z",
-          "title": "【朝活雑談】10月！日曜10時といえば～～～～？？＼さんでーまっする／【白銀ノエル/ホロライブ】",
-          "video_id": "9GEPfutuFn0"
-        }
-      ]
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -408,6 +401,11 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-10-03T03:46:07Z",
+        "title": "【MINECRAFT】WE HERE AGAIN! Test of Courage 2026!! #マイクラ肝試し2026",
+        "video_id": "W2O1OWa7p98"
+      },
       "name": "IRyS"
     },
     {
@@ -506,11 +504,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-03T14:03:10Z",
-        "title": "【 #holoctober 】DAY 3 : DRESS【 iofi / hololive】",
-        "video_id": "vrvm6-y1h70"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -581,5 +574,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T15:50:38Z"
+  "generated_at": "2026-10-03T16:10:50Z"
 }
