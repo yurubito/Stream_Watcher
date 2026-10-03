@@ -302,14 +302,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【Dressmaker】ドレスは女の子の夢【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "ODY69VwMZbg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T13:00:13Z",
+        "title": "【Dressmaker】ドレスは女の子の夢【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "ODY69VwMZbg"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -414,13 +412,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-03T12:59:25Z",
+        "title": "【ホラー】カフェの仕事？憧れてたんです！ | 閉店事件【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "yT6Sp7JtRVY"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【ホラー】カフェの仕事？憧れてたんです！ | 閉店事件【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "yT6Sp7JtRVY"
-        },
         {
           "scheduled_at": "2026-10-04T12:00:00Z",
           "title": "【#アソビまわり隊歌枠リレー】盛り上がってこーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -632,25 +630,23 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【hololive Dreams】 teamwork....? #holodori #ホロドリ",
-          "video_id": "HcMk0V0gTiU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T12:59:52Z",
+        "title": "【hololive Dreams】 teamwork....? #holodori #ホロドリ",
+        "video_id": "HcMk0V0gTiU"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-03T12:59:11Z",
+        "title": "【hololive Dreams】what da holoh3ro doing now 【#holodori】",
+        "video_id": "z3_J7k_DahM"
+      },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【hololive Dreams】what da holoh3ro doing now 【#holodori】",
-          "video_id": "z3_J7k_DahM"
-        },
         {
           "scheduled_at": "2026-10-03T14:30:00Z",
           "title": "【How to Fish】time to clear the game😎【SKJ】",
@@ -661,15 +657,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:00:00Z",
-          "title": "【hololive Dreams】holoh3ro doing things #holodori #ホロドリ",
-          "video_id": "-0x6FCG85yw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T12:59:50Z",
+        "title": "【hololive Dreams】holoh3ro doing things #holodori #ホロドリ",
+        "video_id": "-0x6FCG85yw"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T12:40:34Z"
+  "generated_at": "2026-10-03T13:00:48Z"
 }
