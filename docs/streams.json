@@ -50,6 +50,11 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-03T09:00:00Z",
+          "title": "【ホロライブドリームス】参加型！すぷらっしゅボールやろうぜ！ #ホロドリ【ホロライブ/アキロゼ】",
+          "video_id": "lJ0ZhMWVHSg"
+        },
+        {
           "scheduled_at": "2026-10-05T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
           "video_id": "WjNxzPtIHhI"
@@ -445,11 +450,6 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-03T03:46:07Z",
-        "title": "【MINECRAFT】WE HERE AGAIN! Test of Courage 2026!! #マイクラ肝試し2026",
-        "video_id": "W2O1OWa7p98"
-      },
       "name": "IRyS"
     },
     {
@@ -666,5 +666,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T08:20:21Z"
+  "generated_at": "2026-10-03T08:30:37Z"
 }
