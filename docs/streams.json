@@ -96,11 +96,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-03T04:02:41Z",
-        "title": "【#3】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "nVLlI4TBy_w"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -235,23 +230,16 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T09:30:00Z",
-          "title": "YO！한국어 공부 방송！",
-          "video_id": "JB77YBoSiE4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T09:28:08Z",
+        "title": "YO！한국어 공부 방송！",
+        "video_id": "JB77YBoSiE4"
+      },
+      "name": "ラプラス・ダークネス"
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-03T03:01:36Z",
-        "title": "【 ドラゴンクエスト ビルダーズ 】いざ、新しいエリアへ…！！【鷹嶺ルイ/ホロライブ】ネタバレあり",
-        "video_id": "M5it5mDf5H4"
-      },
       "name": "鷹嶺ルイ",
       "upcoming": [
         {
@@ -685,5 +673,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T09:20:22Z"
+  "generated_at": "2026-10-03T09:30:51Z"
 }
