@@ -394,7 +394,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T15:30:00Z",
+          "title": "【Fire Emblem: Fortune's Weave】FOR JUSTICE!!!! AND REVENGE !! mostly revenge!! #kfp #キアライブ",
+          "video_id": "pwJeqkeHtPM"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -574,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T21:30:31Z"
+  "generated_at": "2026-10-03T21:57:44Z"
 }
