@@ -278,7 +278,19 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T01:00:00Z",
+          "title": "【朝ドリ#3】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
+          "video_id": "CrDuGW-pV7E"
+        },
+        {
+          "scheduled_at": "2026-10-04T11:10:00Z",
+          "title": "【 ＃ホロ甲2026 】壁咲高校、ついに３年目夏突入🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
+          "video_id": "Z5X1gL8QOAw"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -569,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T15:40:31Z"
+  "generated_at": "2026-10-03T15:50:38Z"
 }
