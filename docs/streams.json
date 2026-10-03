@@ -59,11 +59,6 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-03T10:30:07Z",
-        "title": "駅から、出れない。【ホロライブ/赤井はあと】",
-        "video_id": "RDqZsy6L3qk"
-      },
       "name": "赤井はあと"
     },
     {
@@ -288,7 +283,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-03T12:00:00Z",
-          "title": "【妹に運転教える仮拠点】【一条莉々華/hololive ReGLOSS】",
+          "title": "キャラAIの魔術師りりーか、妹に運転教える。妹はいます。免許はありません。【一条莉々華/hololive ReGLOSS】",
           "video_id": "jJwTuea9Nnw"
         }
       ]
@@ -656,5 +651,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T10:30:36Z"
+  "generated_at": "2026-10-03T10:40:26Z"
 }
