@@ -137,14 +137,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T10:00:00Z",
-          "title": "【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "183AUMKOkas"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T10:00:29Z",
+        "title": "【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "183AUMKOkas"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -550,11 +548,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-03T07:00:26Z",
-        "title": "【 NO Man's Sky】I'm... home?【 iofi / hololive】",
-        "video_id": "6_rteeOBHyk"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -668,5 +661,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T09:50:43Z"
+  "generated_at": "2026-10-03T10:00:50Z"
 }
