@@ -47,11 +47,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-03T09:01:12Z",
-        "title": "【ホロライブドリームス】参加型！すぷらっしゅボールやろうぜ！ #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "lJ0ZhMWVHSg"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -64,6 +59,11 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-03T10:30:07Z",
+        "title": "駅から、出れない。【ホロライブ/赤井はあと】",
+        "video_id": "RDqZsy6L3qk"
+      },
       "name": "赤井はあと"
     },
     {
@@ -656,5 +656,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T10:10:23Z"
+  "generated_at": "2026-10-03T10:30:36Z"
 }
