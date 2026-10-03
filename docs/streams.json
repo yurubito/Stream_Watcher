@@ -191,13 +191,13 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-03T09:00:20Z",
+        "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃１【姫森ルーナ/ホロライブ】※ネタバレあり",
+        "video_id": "RpBVO8AoGiY"
+      },
       "name": "姫森ルーナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T09:00:00Z",
-          "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃１【姫森ルーナ/ホロライブ】※ネタバレあり",
-          "video_id": "RpBVO8AoGiY"
-        },
         {
           "scheduled_at": "2026-10-04T09:00:00Z",
           "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃２【姫森ルーナ/ホロライブ】※ネタバレあり",
@@ -228,7 +228,14 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス"
+      "name": "ラプラス・ダークネス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T09:30:00Z",
+          "title": "YO！",
+          "video_id": "JB77YBoSiE4"
+        }
+      ]
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -261,6 +268,11 @@
           "scheduled_at": "2026-10-03T10:00:00Z",
           "title": "【 #ホロ甲2026 】こんこよ高校2026⚾3年目スタート！最後の夏へ向けていくぞ！【博衣こより/ホロライブ】",
           "video_id": "_DaNHhyTHA8"
+        },
+        {
+          "scheduled_at": "2026-10-04T03:30:00Z",
+          "title": "【空の軌跡 the 2nd】完全初見！第1章プレイ中！withシェラ姉だよ～！ #2 【博衣こより/ホロライブ】※ネタバレあり",
+          "video_id": "d3_-HSxjShc"
         },
         {
           "scheduled_at": "2026-10-04T10:00:00Z",
@@ -341,8 +353,8 @@
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-03T09:00:00Z",
-          "title": "【】配信予定【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "scheduled_at": "2026-10-03T09:10:00Z",
+          "title": "【 デス桃太郎 】これはホラー！？挑戦してみる！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "DM-7SD5_llE"
         }
       ]
@@ -661,5 +673,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T08:40:32Z"
+  "generated_at": "2026-10-03T09:00:41Z"
 }
