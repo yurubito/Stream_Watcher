@@ -291,7 +291,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T12:00:00Z",
+          "title": "【#マイクラ肝試し2026】ルルイエ駆け込み寺🐟めざせ1500点📍【風真いろは/ホロライブ】",
+          "video_id": "_eoys4PnW54"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -357,14 +364,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T09:10:00Z",
-          "title": "【 デス桃太郎 】これはホラー！？挑戦してみる！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "DM-7SD5_llE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T09:11:19Z",
+        "title": "【 デス桃太郎 】これはホラー！？挑戦してみる！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "DM-7SD5_llE"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -680,5 +685,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T09:10:29Z"
+  "generated_at": "2026-10-03T09:20:22Z"
 }
