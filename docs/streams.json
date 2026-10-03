@@ -64,7 +64,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T13:00:00Z",
+          "title": "【歌枠】リレーに紛れる１期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】",
+          "video_id": "vbSzq1qClNE"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -258,11 +265,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-03T13:00:13Z",
-        "title": "【Dressmaker】ドレスは女の子の夢【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "ODY69VwMZbg"
-      },
       "name": "轟はじめ"
     },
     {
@@ -563,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T17:20:25Z"
+  "generated_at": "2026-10-03T17:40:46Z"
 }
