@@ -8,13 +8,13 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-03T12:05:56Z",
+        "title": "【オフコラボ】＃えりこう で健康ごはん✨みこちお食べ !!!!【ホロライブ/ロボ子さん】",
+        "video_id": "CMlnK7XN8go"
+      },
       "name": "ロボ子さん",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T12:00:00Z",
-          "title": "【オフコラボ】＃えりこう で健康ごはん✨みこちお食べ !!!!【ホロライブ/ロボ子さん】",
-          "video_id": "CMlnK7XN8go"
-        },
         {
           "scheduled_at": "2026-10-04T07:00:00Z",
           "title": "DAN DAN 心魅かれてく coverd by ロボ子さん🐉　【ホロライブ/ #ロボ子爆誕2025】",
@@ -265,12 +265,17 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-03T12:01:46Z",
+        "title": "【#マイクラ肝試し2026】ルルイエ駆け込み寺🐟めざせ1500点📍【風真いろは/ホロライブ】",
+        "video_id": "_eoys4PnW54"
+      },
       "name": "風真いろは",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-03T12:00:00Z",
-          "title": "【#マイクラ肝試し2026】ルルイエ駆け込み寺🐟めざせ1500点📍【風真いろは/ホロライブ】",
-          "video_id": "_eoys4PnW54"
+          "scheduled_at": "2026-10-03T22:00:00Z",
+          "title": "【#ホロドリ】金冠チャレンジDAY1【風真いろは/ホロライブ】",
+          "video_id": "vcIlbVGqwVQ"
         }
       ]
     },
@@ -282,14 +287,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T12:00:00Z",
-          "title": "キャラAIの魔術師りりーか、妹に運転教える。妹はいます。免許はありません。【一条莉々華/hololive ReGLOSS】",
-          "video_id": "jJwTuea9Nnw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T12:01:20Z",
+        "title": "キャラAIの魔術師りりーか、妹に運転教える。妹はいます。免許はありません。【一条莉々華/hololive ReGLOSS】",
+        "video_id": "jJwTuea9Nnw"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -343,7 +346,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T13:00:00Z",
+          "title": "【ホロライブ ドリームス】 #ホロドリ 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "_r8eHwqMvNA"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -546,13 +556,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-03T12:00:55Z",
+        "title": "【#holodori 】KEYBOAAAARDDDDD【 iofi / hololive】",
+        "video_id": "nNHUv2Zyd_w"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T12:00:00Z",
-          "title": "【#holodori 】KEYBOAAAARDDDDD【 iofi / hololive】",
-          "video_id": "nNHUv2Zyd_w"
-        },
         {
           "scheduled_at": "2026-10-03T14:00:00Z",
           "title": "【 #holoctober 】DAY 3 : DRESS【 iofi / hololive】",
@@ -659,5 +669,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T12:00:47Z"
+  "generated_at": "2026-10-03T12:10:24Z"
 }
