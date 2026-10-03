@@ -468,13 +468,13 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-03T21:09:15Z",
+        "title": "【CASUAL OUTFIT DEBUT】Cecilia Immergreen more like Cecilia Immer-",
+        "video_id": "nl7VxDtpbKA"
+      },
       "name": "セシリア・イマーグリーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T21:05:00Z",
-          "title": "【CASUAL OUTFIT DEBUT】Cecilia Immergreen more like Cecilia Immer-",
-          "video_id": "nl7VxDtpbKA"
-        },
         {
           "scheduled_at": "2026-10-04T20:00:00Z",
           "title": "【THE JUSTICE HOTLINE】JUSTICE NEW OUTFIT COLLAB!!! LET'S HAVE SOME FUN!",
@@ -579,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T21:00:53Z"
+  "generated_at": "2026-10-03T21:10:22Z"
 }
