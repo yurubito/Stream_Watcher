@@ -313,14 +313,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T13:30:00Z",
-          "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#８【水宮枢／ホロライブ】※ネタバレ有",
-          "video_id": "DgrFwg7po0U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T14:01:54Z",
+        "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#８【水宮枢／ホロライブ】※ネタバレ有",
+        "video_id": "DgrFwg7po0U"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -428,14 +426,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T14:00:00Z",
-          "title": "【Fire Emblem: Fortune's Weave】so when can I date the bird #kfp #キアライブ",
-          "video_id": "BePfwWPICg8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T14:04:22Z",
+        "title": "【Fire Emblem: Fortune's Weave】so when can I date the bird #kfp #キアライブ",
+        "video_id": "BePfwWPICg8"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -548,14 +544,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T14:00:00Z",
-          "title": "【 #holoctober 】DAY 3 : DRESS【 iofi / hololive】",
-          "video_id": "vrvm6-y1h70"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T14:03:10Z",
+        "title": "【 #holoctober 】DAY 3 : DRESS【 iofi / hololive】",
+        "video_id": "vrvm6-y1h70"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -647,5 +641,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T14:00:43Z"
+  "generated_at": "2026-10-03T14:10:46Z"
 }
