@@ -568,17 +568,17 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-03T13:04:44Z",
-        "title": "【hololive Dreams】 GACHA-BANANZA WITH MOONA!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "2U64RtX8cwY"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
           "scheduled_at": "2026-10-06T02:00:00Z",
           "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SMOLLIE SINGS!! 【Kureiji Ollie】",
           "video_id": "YIhZklHVwPU"
+        },
+        {
+          "scheduled_at": "2026-10-07T12:00:00Z",
+          "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "N6Aop1nYJB4"
         },
         {
           "scheduled_at": "2026-10-08T12:00:00Z",
@@ -655,5 +655,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T13:07:12Z"
+  "generated_at": "2026-10-03T13:10:24Z"
 }
