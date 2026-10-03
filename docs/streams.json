@@ -120,11 +120,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-03T10:00:29Z",
-        "title": "【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "183AUMKOkas"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -577,5 +572,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T18:20:29Z"
+  "generated_at": "2026-10-03T18:40:27Z"
 }
