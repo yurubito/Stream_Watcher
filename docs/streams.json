@@ -613,7 +613,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T13:00:00Z",
+          "title": "【hololive Dreams】 teamwork....? #holodori #ホロドリ",
+          "video_id": "HcMk0V0gTiU"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -624,6 +631,11 @@
           "scheduled_at": "2026-10-03T13:00:00Z",
           "title": "【hololive Dreams】what da holoh3ro doing now 【#holodori】",
           "video_id": "z3_J7k_DahM"
+        },
+        {
+          "scheduled_at": "2026-10-03T14:30:00Z",
+          "title": "【How to Fish】time to clear the game😎【SKJ】",
+          "video_id": "3wdBknpZaso"
         }
       ]
     },
@@ -633,5 +645,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T07:10:28Z"
+  "generated_at": "2026-10-03T07:40:20Z"
 }
