@@ -211,14 +211,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T12:00:00Z",
-          "title": "【#ホロ甲2026】育成配信2年目秋！！俺等は甲子園を勝った高校ぞ！【尾丸ポルカ/ホロライブ】",
-          "video_id": "YHKGwCKNRDw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T12:00:32Z",
+        "title": "【#ホロ甲2026】育成配信2年目秋！！俺等は甲子園を勝った高校ぞ！【尾丸ポルカ/ホロライブ】",
+        "video_id": "YHKGwCKNRDw"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -335,23 +333,16 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T11:30:00Z",
-          "title": "【American Truck Simulator】アメリカいくど！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "6zvT6OuCPxU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T11:57:32Z",
+        "title": "【American Truck Simulator】アメリカいくど！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "6zvT6OuCPxU"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-03T09:11:19Z",
-        "title": "【 デス桃太郎 】これはホラー！？挑戦してみる！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "DM-7SD5_llE"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -668,5 +659,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-03T11:50:24Z"
+  "generated_at": "2026-10-03T12:00:47Z"
 }
