@@ -586,11 +586,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-03T12:59:11Z",
-        "title": "【hololive Dreams】what da holoh3ro doing now 【#holodori】",
-        "video_id": "z3_J7k_DahM"
-      },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
         {
@@ -606,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T14:24:47Z"
+  "generated_at": "2026-10-03T14:30:37Z"
 }
