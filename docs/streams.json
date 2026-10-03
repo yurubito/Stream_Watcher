@@ -304,14 +304,12 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T00:00:00Z",
-          "title": "【 ＃朝ガオ vol.15 】鼻づまりが凄いンゴ☕本日の珈琲：35COFFEE【虎金妃笑虎】",
-          "video_id": "C18dYjfCMB4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-03T00:01:08Z",
+        "title": "【 ＃朝ガオ vol.15 】鼻づまりが凄いンゴ☕本日の珈琲：35COFFEE【虎金妃笑虎】",
+        "video_id": "C18dYjfCMB4"
+      },
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -641,5 +639,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T00:01:04Z"
+  "generated_at": "2026-10-03T00:10:26Z"
 }
