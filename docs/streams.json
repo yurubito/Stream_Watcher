@@ -92,17 +92,12 @@
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
       "live": {
-        "started_at": "2026-10-03T01:03:43Z",
-        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-        "video_id": "GYsrk9aT-Lg"
+        "started_at": "2026-10-03T04:02:41Z",
+        "title": "【#3】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "nVLlI4TBy_w"
       },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-03T04:00:00Z",
-          "title": "【#3】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-          "video_id": "nVLlI4TBy_w"
-        },
         {
           "scheduled_at": "2026-10-04T04:00:00Z",
           "title": "【#4】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
@@ -560,7 +555,24 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-03T07:00:00Z",
+          "title": "【 NO Man's Sky】I'm... home?【 iofi / hololive】",
+          "video_id": "6_rteeOBHyk"
+        },
+        {
+          "scheduled_at": "2026-10-03T12:00:00Z",
+          "title": "【#holodori 】KEYBOAAAARDDDDD【 iofi / hololive】",
+          "video_id": "nNHUv2Zyd_w"
+        },
+        {
+          "scheduled_at": "2026-10-03T14:00:00Z",
+          "title": "【 #holoctober 】DAY 3 : DRESS【 iofi / hololive】",
+          "video_id": "vrvm6-y1h70"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -642,5 +654,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T04:20:22Z"
+  "generated_at": "2026-10-03T04:30:31Z"
 }
