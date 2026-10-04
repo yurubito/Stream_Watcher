@@ -158,7 +158,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T13:00:00Z",
+          "title": "【 #ホロドリ 】宿題（サブクエ）やったり遊んだり！！！【角巻わため/ホロライブ４期生】",
+          "video_id": "G3jGIUCMoek"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -306,11 +313,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-04T06:30:46Z",
-        "title": "【F1同時視聴】マレーシアで！バーレーンGP！決勝！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "Vp6nUO9Hhh4"
-      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -605,5 +607,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T10:40:30Z"
+  "generated_at": "2026-10-04T10:50:28Z"
 }
