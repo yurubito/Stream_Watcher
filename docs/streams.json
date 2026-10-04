@@ -231,14 +231,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T22:00:00Z",
-          "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY2🎣【風真いろは/ホロライブ】",
-          "video_id": "UevNUaXWlXk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T22:00:33Z",
+        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY2🎣【風真いろは/ホロライブ】",
+        "video_id": "UevNUaXWlXk"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -579,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T21:10:42Z"
+  "generated_at": "2026-10-04T22:00:58Z"
 }
