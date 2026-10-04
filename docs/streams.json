@@ -146,14 +146,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:30:00Z",
-          "title": "#12【ほの暮しの庭】ED後 親密度とかDLCとかチルいスローライフ【不知火フレア/ホロライブ】※ネタバレあり",
-          "video_id": "8eTyUBTN6Oo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:33:12Z",
+        "title": "#12【ほの暮しの庭】ED後 親密度とかDLCとかチルいスローライフ【不知火フレア/ホロライブ】※ネタバレあり",
+        "video_id": "8eTyUBTN6Oo"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -312,11 +310,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-04T11:45:24Z",
-        "title": "【#ホロドリ 】新エリア！！🎣釣りとスプラッシュボール 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "wW2QC1K7ZTY"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -479,13 +472,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-04T13:31:54Z",
+        "title": "【#holodori 】MINI GAMES with  @VestiaZeta @KaelaKovalskia 【 iofi / hololive】",
+        "video_id": "QLFzIZAMMDA"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:30:00Z",
-          "title": "【#holodori 】MINI GAMES with  @VestiaZeta @KaelaKovalskia 【 iofi / hololive】",
-          "video_id": "QLFzIZAMMDA"
-        },
         {
           "scheduled_at": "2026-10-04T15:00:00Z",
           "title": "【 #holoctober 】DAY 4 : ANGEL【 iofi / hololive】",
@@ -543,39 +536,33 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:30:00Z",
-          "title": "【hololive Dreams】 Daily holodori (copying someone else's title) #holodori #ホロドリ",
-          "video_id": "Io9ANLBGnxE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:31:34Z",
+        "title": "【hololive Dreams】 Daily holodori (copying someone else's title) #holodori #ホロドリ",
+        "video_id": "Io9ANLBGnxE"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:30:00Z",
-          "title": "【hololive Dreams】r we gonna pokajan? 🤔【#holodori】",
-          "video_id": "UMPz1NYk-F4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:31:32Z",
+        "title": "【hololive Dreams】r we gonna pokajan? 🤔【#holodori】",
+        "video_id": "UMPz1NYk-F4"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:30:00Z",
-          "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
-          "video_id": "aWEVjgkAp5M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:34:56Z",
+        "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+        "video_id": "aWEVjgkAp5M"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T13:30:36Z"
+  "generated_at": "2026-10-04T13:40:41Z"
 }
