@@ -158,11 +158,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-04T13:02:35Z",
-        "title": "【 #ホロドリ 】宿題（サブクエ）やったり遊んだり！！！【角巻わため/ホロライブ４期生】",
-        "video_id": "G3jGIUCMoek"
-      },
       "name": "角巻わため"
     },
     {
@@ -502,12 +497,26 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T04:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】HOLODOMORNING!【hololive holoro | Anya Melfissa】",
+          "video_id": "7RD4-JhQXXM"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T06:00:00Z",
+          "title": "【BOMBANANA!】【Pavolia Reine/hololive】",
+          "video_id": "tK9PUUu9Gok"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -525,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T17:10:26Z"
+  "generated_at": "2026-10-04T17:20:45Z"
 }
