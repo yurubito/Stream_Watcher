@@ -574,7 +574,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T10:30:00Z",
+          "title": "【hololive Dreams】Zen Fishing Time (I'm So Broke) #holodori【Pavolia Reine/hololive】",
+          "video_id": "mLhm1FdOLd4"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -592,5 +599,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T09:40:41Z"
+  "generated_at": "2026-10-04T09:50:30Z"
 }
