@@ -274,11 +274,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-04T12:01:36Z",
-        "title": "【#マイクラ肝試し2026】過去マップいくぞおお【水宮枢／ホロライブ】",
-        "video_id": "Sk2dBKF7mAk"
-      },
       "name": "水宮枢"
     },
     {
@@ -505,11 +500,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-04T12:01:49Z",
-        "title": "【Minecraft #マイクラ肝試し2026】水宮とお散歩する〜 Exploring Around with Suu【hololive holoro | Anya Melfissa】",
-        "video_id": "Snk0CJCQOa8"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -538,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T16:20:30Z"
+  "generated_at": "2026-10-04T16:31:10Z"
 }
