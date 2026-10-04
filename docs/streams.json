@@ -73,6 +73,11 @@
           "scheduled_at": "2026-10-04T13:00:00Z",
           "title": "【歌枠】リレーに紛れる１期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】",
           "video_id": "vbSzq1qClNE"
+        },
+        {
+          "scheduled_at": "2026-10-05T14:00:00Z",
+          "title": "【ホロライブドリームス】深夜にまったり釣り雑談 #ホロドリ 【ホロライブ/夏色まつり】",
+          "video_id": "TuQepgnClwM"
         }
       ]
     },
@@ -116,7 +121,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T12:00:00Z",
+          "title": "#2【バイオハザード HDリマスター】やるです。",
+          "video_id": "_eZmv3qcm9w"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -331,14 +343,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T08:00:00Z",
-          "title": "【 Steamオータムセール 】みんなのおすすめゲーム教えて！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "w6AE3f_b3bs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T08:00:33Z",
+        "title": "【 Steamオータムセール 】みんなのおすすめゲーム教えて！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "w6AE3f_b3bs"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -531,13 +541,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-04T08:00:47Z",
+        "title": "【 NO Man's Sky】Unlocking multi player【 iofi / hololive】",
+        "video_id": "SDFchDH00Iw"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T08:00:00Z",
-          "title": "【 NO Man's Sky】Unlocking multi player【 iofi / hololive】",
-          "video_id": "SDFchDH00Iw"
-        },
         {
           "scheduled_at": "2026-10-04T13:30:00Z",
           "title": "【#holodori 】MINI GAMES with  @VestiaZeta @KaelaKovalskia 【 iofi / hololive】",
@@ -608,5 +618,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T08:00:37Z"
+  "generated_at": "2026-10-04T08:10:26Z"
 }
