@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-04T10:28:47Z",
-        "title": "【  ＃ホロドリ 】そろそろ新エリアに侵入できそう！？？まどまぎ観れたああ！！【ホロライブ/ ロボ子さん 】",
-        "video_id": "5cDfZaII0_0"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -246,11 +241,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-04T12:10:06Z",
-        "title": "ハートにピース / 鷹嶺ルイ(official)",
-        "video_id": "f2bhTJqNwCk"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -352,13 +342,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-04T12:19:51Z",
+        "title": "【#アソビまわり隊歌枠リレー】4人コラボで歌うのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "WBgYlpUP0zc"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T12:20:00Z",
-          "title": "【#アソビまわり隊歌枠リレー】4人コラボで歌うのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "WBgYlpUP0zc"
-        },
         {
           "scheduled_at": "2026-10-05T10:00:00Z",
           "title": "AI妹 VS のじゃ口調指示厨【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -389,11 +379,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-04T11:59:09Z",
-        "title": "【#アソビまわり隊歌枠リレー】盛り上がってこーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "qZ3kwg_7Zvk"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -578,11 +563,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-04T10:31:50Z",
-        "title": "【hololive Dreams】Zen Fishing Time (I'm So Broke) #holodori【Pavolia Reine/hololive】",
-        "video_id": "mLhm1FdOLd4"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -615,5 +595,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T12:10:24Z"
+  "generated_at": "2026-10-04T12:20:28Z"
 }
