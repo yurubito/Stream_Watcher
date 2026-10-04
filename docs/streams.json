@@ -137,14 +137,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T01:00:00Z",
-          "title": "【朝活雑談】10月！日曜10時といえば～～～～？？＼さんでーまっする／【白銀ノエル/ホロライブ】",
-          "video_id": "9GEPfutuFn0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T01:00:19Z",
+        "title": "【朝活雑談】10月！日曜10時といえば～～～～？？＼さんでーまっする／【白銀ノエル/ホロライブ】",
+        "video_id": "9GEPfutuFn0"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -304,7 +302,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T08:00:00Z",
+          "title": "【 Steamオータムセール 】みんなのおすすめゲーム教えて！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "w6AE3f_b3bs"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -541,14 +546,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T01:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Morning Casual Rhythm Gaming~【hololive holoro | Anya Melfissa】",
-          "video_id": "TyeutXf70YI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T01:05:34Z",
+        "title": "【hololive Dreams ホロライブドリームス】Morning Casual Rhythm Gaming~【hololive holoro | Anya Melfissa】",
+        "video_id": "TyeutXf70YI"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -571,5 +574,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T01:00:35Z"
+  "generated_at": "2026-10-04T01:20:22Z"
 }
