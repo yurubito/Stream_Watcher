@@ -256,7 +256,7 @@
       "name": "鷹嶺ルイ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-04T12:00:00Z",
+          "scheduled_at": "2026-10-04T12:10:00Z",
           "title": "ハートにピース / 鷹嶺ルイ(official)",
           "video_id": "f2bhTJqNwCk"
         }
@@ -265,7 +265,19 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T14:00:00Z",
+          "title": "【 #ホロドリ 】出入り自由！夜釣りゆる凸待ち～ホロメンとまったりお話したい～【博衣こより/ホロライブ】",
+          "video_id": "Lxur69xmcQw"
+        },
+        {
+          "scheduled_at": "2026-10-05T11:00:00Z",
+          "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：本間ひまわり様～【博衣こより/ホロライブ】",
+          "video_id": "um17JjBjEcI"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -383,24 +395,17 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-04T11:40:03Z",
-        "title": "【ホロライブ新人ユニット】！ #ホロライブ #アソビまわり隊",
-        "video_id": "rPIuD8ql7Fg"
-      },
       "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T12:00:00Z",
-          "title": "【#アソビまわり隊歌枠リレー】盛り上がってこーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "qZ3kwg_7Zvk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T11:59:09Z",
+        "title": "【#アソビまわり隊歌枠リレー】盛り上がってこーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "qZ3kwg_7Zvk"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -601,7 +606,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T13:30:00Z",
+          "title": "【hololive Dreams】r we gonna pokajan? 🤔【#holodori】",
+          "video_id": "UMPz1NYk-F4"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -616,5 +628,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T11:50:23Z"
+  "generated_at": "2026-10-04T12:00:44Z"
 }
