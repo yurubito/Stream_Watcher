@@ -28,13 +28,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-04T09:01:23Z",
+        "title": "【ホロライブドリームス】麦まんじゅうと言われようとも。ポロリ事件簿そして釣り図鑑あつめ#ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "f_fWXN7XCbk"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T09:00:00Z",
-          "title": "【ホロライブドリームス】麦まんじゅうと言われようとも。ポロリ事件簿そして釣り図鑑あつめ#ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "f_fWXN7XCbk"
-        },
         {
           "scheduled_at": "2026-10-05T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
@@ -138,14 +138,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T09:00:00Z",
-          "title": "#2【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "ffiRtvdubvA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T09:00:45Z",
+        "title": "#2【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "ffiRtvdubvA"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -619,5 +617,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T09:00:42Z"
+  "generated_at": "2026-10-04T09:10:28Z"
 }
