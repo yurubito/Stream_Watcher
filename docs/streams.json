@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T10:30:00Z",
+          "title": "【  ＃ホロドリ 】そろそろ新エリアに侵入できそう！？？まどまぎ観れたああ！！【ホロライブ/ ロボ子さん 】",
+          "video_id": "5cDfZaII0_0"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -607,5 +614,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T10:10:25Z"
+  "generated_at": "2026-10-04T10:20:24Z"
 }
