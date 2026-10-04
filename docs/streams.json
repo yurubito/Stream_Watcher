@@ -323,7 +323,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T02:00:00Z",
+          "title": "【EN】I'll do better this time!! | Fears to Fathom: Norwood Hitchhike【Hyakuto Kyoko/Hololive】",
+          "video_id": "46_MhFlPyLc"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -451,7 +458,7 @@
       "name": "ムーナ・ホシノヴァ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-05T16:00:00Z",
+          "scheduled_at": "2026-10-05T04:00:00Z",
           "title": "【Hololive Dreams】Play play play!【hololive | moona】",
           "video_id": "fCjfQKA_yic"
         }
@@ -497,14 +504,7 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T04:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】HOLODOMORNING!【hololive holoro | Anya Melfissa】",
-          "video_id": "7RD4-JhQXXM"
-        }
-      ]
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -534,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T17:20:45Z"
+  "generated_at": "2026-10-04T17:30:34Z"
 }
