@@ -492,14 +492,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T01:00:00Z",
-          "title": "【Hololive Dreams】Just play with the rythm【hololive | moona】",
-          "video_id": "hzs0kNAzMPw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T01:24:52Z",
+        "title": "【Hololive Dreams】Just play with the rythm【hololive | moona】",
+        "video_id": "hzs0kNAzMPw"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -574,5 +572,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T01:20:22Z"
+  "generated_at": "2026-10-04T01:30:31Z"
 }
