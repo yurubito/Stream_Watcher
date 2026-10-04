@@ -180,14 +180,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T09:00:00Z",
-          "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃２【姫森ルーナ/ホロライブ】※ネタバレあり",
-          "video_id": "0NXb049wNSs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T08:58:19Z",
+        "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃２【姫森ルーナ/ホロライブ】※ネタバレあり",
+        "video_id": "0NXb049wNSs"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -236,13 +234,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-04T09:00:09Z",
+        "title": "【初体験！】ねこたかで初めての楊国福麻辣湯で大好きなマーラータンを爆食✨【ルイ姉、今日なにする？】#5",
+        "video_id": "ZNzyrv24iVI"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T09:00:00Z",
-          "title": "【初体験！】ねこたかで初めての楊国福麻辣湯で大好きなマーラータンを爆食✨【ルイ姉、今日なにする？】#5",
-          "video_id": "ZNzyrv24iVI"
-        },
         {
           "scheduled_at": "2026-10-04T11:00:00Z",
           "title": "【 3D 】ソロライブ『REBELLION』続報解禁！関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
@@ -621,5 +619,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T08:40:21Z"
+  "generated_at": "2026-10-04T09:00:42Z"
 }
