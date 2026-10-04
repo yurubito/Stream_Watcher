@@ -176,11 +176,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-04T08:34:50Z",
-        "title": "【 第11回CRカップAPEX 】#とことこうるふぃWIN 🏆️※遅延有り【常闇トワ / ホロライブ】",
-        "video_id": "99JQOLiWDLo"
-      },
       "name": "常闇トワ"
     },
     {
@@ -243,7 +238,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T14:00:00Z",
+          "title": "【雑談】ちょっとだけ話そう💭切り抜き禁止で、な！！【風真いろは/ホロライブ】",
+          "video_id": "z8g_uFB53bg"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -564,5 +566,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T13:40:41Z"
+  "generated_at": "2026-10-04T13:50:44Z"
 }
