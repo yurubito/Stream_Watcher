@@ -235,11 +235,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-03T22:00:17Z",
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY1🎣【風真いろは/ホロライブ】",
-        "video_id": "vcIlbVGqwVQ"
-      },
       "name": "風真いろは"
     },
     {
@@ -569,5 +564,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-03T23:01:08Z"
+  "generated_at": "2026-10-04T00:10:23Z"
 }
