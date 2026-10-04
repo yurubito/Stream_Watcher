@@ -197,12 +197,26 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T13:00:00Z",
+          "title": "【メンバー限定】すっかり寒くなってきましたね【雪花ラミィ /ホロライブ】",
+          "video_id": "QwcFRBpTSLI"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T13:00:00Z",
+          "title": "メン限するわよませ～～～～～～【 桃鈴ねね / hololive 】",
+          "video_id": "OSIV1yUZOpo"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -251,11 +265,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-04T09:58:31Z",
-        "title": "【 #ホロ甲2026 】みんなでBBQ(ベースボールクイズ)！⚾✨【白銀ノエル・尾丸ポルカ・響咲リオナ・博衣こより/ホロライブ】",
-        "video_id": "VSxQqM-2QwA"
-      },
       "name": "博衣こより"
     },
     {
@@ -286,13 +295,13 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-04T11:18:06Z",
+        "title": "【 ＃ホロ甲2026 】壁咲高校、ついに３年目夏突入🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
+        "video_id": "Z5X1gL8QOAw"
+      },
       "name": "響咲リオナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T11:10:00Z",
-          "title": "【 ＃ホロ甲2026 】壁咲高校、ついに３年目夏突入🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
-          "video_id": "Z5X1gL8QOAw"
-        },
         {
           "scheduled_at": "2026-10-05T09:00:00Z",
           "title": "【#EndofAbyss】地下施設への偵察任務？！Epic Gamesさんの新作ゲームをプレイ！【ホロライブ  響咲リオナ】#PR",
@@ -342,11 +351,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-04T10:59:09Z",
-        "title": "【#アソビまわり隊歌枠リレー】トップバッターなのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "fvBAsGLCq1c"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -374,14 +378,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T11:20:00Z",
-          "title": "【#アソビまわり隊歌枠リレー】色んな一面、見せちゃうぞっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "-2PukiIw3qg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T11:19:34Z",
+        "title": "【#アソビまわり隊歌枠リレー】色んな一面、見せちゃうぞっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "-2PukiIw3qg"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -579,7 +581,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T12:00:00Z",
+          "title": "【Minecraft #マイクラ肝試し2026】水宮とお散歩する〜 Exploring Around with Suu【hololive holoro | Anya Melfissa】",
+          "video_id": "Snk0CJCQOa8"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -614,5 +623,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T11:10:22Z"
+  "generated_at": "2026-10-04T11:20:43Z"
 }
