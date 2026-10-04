@@ -476,19 +476,24 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T16:00:00Z",
+          "title": "【Hololive Dreams】Play play play!【hololive | moona】",
+          "video_id": "fCjfQKA_yic"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T15:00:00Z",
-          "title": "【 #holoctober 】DAY 4 : ANGEL【 iofi / hololive】",
-          "video_id": "FrOWjDg8YEI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T15:03:14Z",
+        "title": "【 #holoctober 】DAY 4 : ANGEL【 iofi / hololive】",
+        "video_id": "FrOWjDg8YEI"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -558,5 +563,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T15:00:45Z"
+  "generated_at": "2026-10-04T15:10:28Z"
 }
