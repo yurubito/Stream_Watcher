@@ -67,11 +67,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-04T14:49:28Z",
-        "title": "【＃白上フブキ生誕2026】お誕生日のカウントダウンをする【ホロライブ/白上フブキ】",
-        "video_id": "OaUf00UG6sQ"
-      },
       "name": "白上フブキ",
       "upcoming": [
         {
@@ -361,14 +356,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T15:30:00Z",
-          "title": "【Fire Emblem: Fortune's Weave】FOR JUSTICE!!!! AND REVENGE !! mostly revenge!! #kfp #キアライブ",
-          "video_id": "pwJeqkeHtPM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T15:29:35Z",
+        "title": "【Fire Emblem: Fortune's Weave】FOR JUSTICE!!!! AND REVENGE !! mostly revenge!! #kfp #キアライブ",
+        "video_id": "pwJeqkeHtPM"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -456,11 +449,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-04T13:58:48Z",
-        "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CasualRao",
-        "video_id": "JYsWj4sXeYw"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -558,5 +546,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T15:20:23Z"
+  "generated_at": "2026-10-04T15:30:46Z"
 }
