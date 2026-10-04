@@ -34,6 +34,11 @@
           "scheduled_at": "2026-10-05T13:00:00Z",
           "title": "２日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
           "video_id": "yw_ufdHeJjw"
+        },
+        {
+          "scheduled_at": "2026-10-06T10:00:00Z",
+          "title": "【 バイオハザード６ 】ふざけるなよ？？？？？？？【ホロライブ/#みこったかにぇ】",
+          "video_id": "TIJctYljVA0"
         }
       ]
     },
@@ -245,11 +250,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-04T14:00:32Z",
-        "title": "【雑談】ちょっとだけ話そう💭切り抜き禁止＆Xで内容スクショやポストもなしで、な！！【風真いろは/ホロライブ】",
-        "video_id": "z8g_uFB53bg"
-      },
       "name": "風真いろは"
     },
     {
@@ -307,11 +307,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-04T13:00:59Z",
-        "title": "【競馬/凱旋門賞】世界の競馬だ…！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "b7nxDx0pyrY"
-      },
       "name": "輪堂千速"
     },
     {
@@ -576,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T14:21:00Z"
+  "generated_at": "2026-10-04T14:40:23Z"
 }
