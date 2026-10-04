@@ -27,7 +27,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-04T13:00:00Z",
-          "title": "【 はいしんよてち！ 】やるにぇええええええええい！【ホロライブ/さくらみこ】",
+          "title": "【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
           "video_id": "ieSPItKmQrc"
         }
       ]
@@ -128,14 +128,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T12:00:00Z",
-          "title": "#2【バイオハザード HDリマスター】やるです。",
-          "video_id": "_eZmv3qcm9w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T12:01:04Z",
+        "title": "#2【バイオハザード HDリマスター】やるです。",
+        "video_id": "_eZmv3qcm9w"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -249,18 +247,11 @@
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
       "live": {
-        "started_at": "2026-10-04T10:57:18Z",
-        "title": "【 3D 】ソロライブ『REBELLION』続報解禁！関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
-        "video_id": "pEJ_ZE0uRtA"
+        "started_at": "2026-10-04T12:10:06Z",
+        "title": "ハートにピース / 鷹嶺ルイ(official)",
+        "video_id": "f2bhTJqNwCk"
       },
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T12:10:00Z",
-          "title": "ハートにピース / 鷹嶺ルイ(official)",
-          "video_id": "f2bhTJqNwCk"
-        }
-      ]
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -329,14 +320,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T12:00:00Z",
-          "title": "【#マイクラ肝試し2026】過去マップいくぞおお【水宮枢／ホロライブ】",
-          "video_id": "Sk2dBKF7mAk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T12:01:36Z",
+        "title": "【#マイクラ肝試し2026】過去マップいくぞおお【水宮枢／ホロライブ】",
+        "video_id": "Sk2dBKF7mAk"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -579,14 +568,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T12:00:00Z",
-          "title": "【Minecraft #マイクラ肝試し2026】水宮とお散歩する〜 Exploring Around with Suu【hololive holoro | Anya Melfissa】",
-          "video_id": "Snk0CJCQOa8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T12:01:49Z",
+        "title": "【Minecraft #マイクラ肝試し2026】水宮とお散歩する〜 Exploring Around with Suu【hololive holoro | Anya Melfissa】",
+        "video_id": "Snk0CJCQOa8"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -628,5 +615,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T12:00:44Z"
+  "generated_at": "2026-10-04T12:10:24Z"
 }
