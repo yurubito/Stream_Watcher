@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T14:00:00Z",
+          "title": "【歌枠】お歌の時間です！楽しんでいこう【ときのそら/ホロライブ】",
+          "video_id": "393MVuGi41Q"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -221,13 +228,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-04T14:00:16Z",
+        "title": "【 #ホロドリ 】出入り自由！夜釣りゆる凸待ち～ホロメンとまったりお話したい～【博衣こより/ホロライブ】",
+        "video_id": "Lxur69xmcQw"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T14:00:00Z",
-          "title": "【 #ホロドリ 】出入り自由！夜釣りゆる凸待ち～ホロメンとまったりお話したい～【博衣こより/ホロライブ】",
-          "video_id": "Lxur69xmcQw"
-        },
         {
           "scheduled_at": "2026-10-05T11:00:00Z",
           "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：本間ひまわり様～【博衣こより/ホロライブ】",
@@ -242,7 +249,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-04T14:00:00Z",
-          "title": "【雑談】ちょっとだけ話そう💭切り抜き禁止で、な！！【風真いろは/ホロライブ】",
+          "title": "【雑談】ちょっとだけ話そう💭切り抜き禁止＆Xで内容スクショやポストもなしで、な！！【風真いろは/ホロライブ】",
           "video_id": "z8g_uFB53bg"
         }
       ]
@@ -452,14 +459,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T14:00:00Z",
-          "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CausalRao",
-          "video_id": "JYsWj4sXeYw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:58:48Z",
+        "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CausalRao",
+        "video_id": "JYsWj4sXeYw"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -566,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T13:50:44Z"
+  "generated_at": "2026-10-04T14:00:40Z"
 }
