@@ -67,13 +67,13 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-04T14:49:28Z",
+        "title": "【＃白上フブキ生誕2026】お誕生日のカウントダウンをする【ホロライブ/白上フブキ】",
+        "video_id": "OaUf00UG6sQ"
+      },
       "name": "白上フブキ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T14:45:00Z",
-          "title": "【＃白上フブキ生誕2026】お誕生日のカウントダウンをする【ホロライブ/白上フブキ】",
-          "video_id": "OaUf00UG6sQ"
-        },
         {
           "scheduled_at": "2026-10-05T12:00:00Z",
           "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
@@ -250,7 +250,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T22:00:00Z",
+          "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY2🎣【風真いろは/ホロライブ】",
+          "video_id": "UevNUaXWlXk"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -479,11 +486,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-04T13:31:54Z",
-        "title": "【#holodori 】MINI GAMES with  @VestiaZeta @KaelaKovalskia 【 iofi / hololive】",
-        "video_id": "QLFzIZAMMDA"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -563,13 +565,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-04T13:34:56Z",
-        "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
-        "video_id": "aWEVjgkAp5M"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T14:40:23Z"
+  "generated_at": "2026-10-04T14:50:24Z"
 }
