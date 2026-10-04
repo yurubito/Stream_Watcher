@@ -208,11 +208,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-04T13:01:37Z",
-        "title": "メン限するわよませ～～～～～～【 桃鈴ねね / hololive 】",
-        "video_id": "OSIV1yUZOpo"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -332,11 +327,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-04T12:19:51Z",
-        "title": "【#アソビまわり隊歌枠リレー】4人コラボで歌うのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "WBgYlpUP0zc"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -592,5 +582,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T13:10:26Z"
+  "generated_at": "2026-10-04T13:20:25Z"
 }
