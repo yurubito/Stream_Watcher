@@ -18,14 +18,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:00:00Z",
-          "title": "【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
-          "video_id": "ieSPItKmQrc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:04:17Z",
+        "title": "【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
+        "video_id": "ieSPItKmQrc"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -69,13 +67,13 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-04T13:00:58Z",
+        "title": "【歌枠】リレーに紛れる１期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】",
+        "video_id": "vbSzq1qClNE"
+      },
       "name": "夏色まつり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:00:00Z",
-          "title": "【歌枠】リレーに紛れる１期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】",
-          "video_id": "vbSzq1qClNE"
-        },
         {
           "scheduled_at": "2026-10-05T14:00:00Z",
           "title": "【ホロライブドリームス】深夜にまったり釣り雑談 #ホロドリ 【ホロライブ/夏色まつり】",
@@ -108,6 +106,11 @@
       "group": "JP ゲーマーズ",
       "name": "大神ミオ",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T22:30:00Z",
+          "title": "【#朝ミオ 】１０月だよ！月曜日だよ～～！おはみぉーん！",
+          "video_id": "VrdeGNP4mjU"
+        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
@@ -165,14 +168,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:00:00Z",
-          "title": "【 #ホロドリ 】宿題（サブクエ）やったり遊んだり！！！【角巻わため/ホロライブ４期生】",
-          "video_id": "G3jGIUCMoek"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:02:35Z",
+        "title": "【 #ホロドリ 】宿題（サブクエ）やったり遊んだり！！！【角巻わため/ホロライブ４期生】",
+        "video_id": "G3jGIUCMoek"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -197,26 +198,22 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:00:00Z",
-          "title": "【メンバー限定】すっかり寒くなってきましたね【雪花ラミィ /ホロライブ】",
-          "video_id": "QwcFRBpTSLI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:01:24Z",
+        "title": "【メンバー限定】すっかり寒くなってきましたね【雪花ラミィ /ホロライブ】",
+        "video_id": "QwcFRBpTSLI"
+      },
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:00:00Z",
-          "title": "メン限するわよませ～～～～～～【 桃鈴ねね / hololive 】",
-          "video_id": "OSIV1yUZOpo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:01:37Z",
+        "title": "メン限するわよませ～～～～～～【 桃鈴ねね / hololive 】",
+        "video_id": "OSIV1yUZOpo"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -226,11 +223,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-04T13:00:10Z",
-        "title": "Legend-Changer - 尾丸ポルカ/大神ミオ/百鬼あやめ/鷹嶺ルイ(cover)",
-        "video_id": "5g1i3Zxzi6I"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -320,14 +312,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T13:00:00Z",
-          "title": "【競馬/凱旋門賞】世界の競馬だ…！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "b7nxDx0pyrY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T13:00:59Z",
+        "title": "【競馬/凱旋門賞】世界の競馬だ…！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "b7nxDx0pyrY"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -568,7 +558,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T13:30:00Z",
+          "title": "【hololive Dreams】 Daily holodori (copying someone else's title) #holodori #ホロドリ",
+          "video_id": "Io9ANLBGnxE"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -595,5 +592,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T13:00:42Z"
+  "generated_at": "2026-10-04T13:10:26Z"
 }
