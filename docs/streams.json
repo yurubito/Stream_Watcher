@@ -378,24 +378,17 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-04T11:19:34Z",
-        "title": "【#アソビまわり隊歌枠リレー】色んな一面、見せちゃうぞっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "-2PukiIw3qg"
-      },
       "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T11:40:00Z",
-          "title": "【ホロライブ新人ユニット】！ #ホロライブ #アソビまわり隊",
-          "video_id": "rPIuD8ql7Fg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T11:40:03Z",
+        "title": "【ホロライブ新人ユニット】！ #ホロライブ #アソビまわり隊",
+        "video_id": "rPIuD8ql7Fg"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -623,5 +616,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T11:20:43Z"
+  "generated_at": "2026-10-04T11:40:28Z"
 }
