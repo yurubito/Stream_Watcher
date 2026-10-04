@@ -128,7 +128,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T13:00:00Z",
+          "title": "#3【バイオハザード HDリマスター】やるです。",
+          "video_id": "iDyC-lE8Izw"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -577,5 +584,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T18:40:29Z"
+  "generated_at": "2026-10-04T19:30:32Z"
 }
