@@ -227,13 +227,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-04T10:57:18Z",
+        "title": "【 3D 】ソロライブ『REBELLION』続報解禁！関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
+        "video_id": "pEJ_ZE0uRtA"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T11:00:00Z",
-          "title": "【 3D 】ソロライブ『REBELLION』続報解禁！関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
-          "video_id": "pEJ_ZE0uRtA"
-        },
         {
           "scheduled_at": "2026-10-04T12:00:00Z",
           "title": "ハートにピース / 鷹嶺ルイ(official)",
@@ -335,13 +335,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-04T10:59:09Z",
+        "title": "【#アソビまわり隊歌枠リレー】トップバッターなのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "fvBAsGLCq1c"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T11:00:00Z",
-          "title": "【#アソビまわり隊歌枠リレー】トップバッターなのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "fvBAsGLCq1c"
-        },
         {
           "scheduled_at": "2026-10-04T12:20:00Z",
           "title": "【#アソビまわり隊歌枠リレー】4人コラボで歌うのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -607,5 +607,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T10:50:28Z"
+  "generated_at": "2026-10-04T11:00:40Z"
 }
