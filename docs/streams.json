@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-04T07:00:11Z",
-        "title": "DAN DAN 心魅かれてく coverd by ロボ子さん🐉　【ホロライブ/ #ロボ子爆誕2025】",
-        "video_id": "VzgiaEu59Uk"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -307,11 +302,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-04T06:00:14Z",
-        "title": "【  #ホロドリ 】ホロドリきちゃ🐟＃12【水宮枢／ホロライブ】",
-        "video_id": "JPRGdxVEAWU"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -618,5 +608,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T07:00:58Z"
+  "generated_at": "2026-10-04T07:10:22Z"
 }
