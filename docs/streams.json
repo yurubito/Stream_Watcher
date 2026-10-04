@@ -269,7 +269,19 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T13:30:00Z",
+          "title": "【妹に運転を教える】仲良くキレずに教えるよ😊相性いいよね…？【水宮枢／ホロライブ】",
+          "video_id": "R7LOh8pMLjM"
+        },
+        {
+          "scheduled_at": "2026-10-06T13:00:00Z",
+          "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#8【水宮枢／ホロライブDEV_IS】※ネタバレ有",
+          "video_id": "rXjkqFLbiqI"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -546,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T17:40:24Z"
+  "generated_at": "2026-10-04T17:42:16Z"
 }
