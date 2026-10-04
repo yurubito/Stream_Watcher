@@ -8,14 +8,12 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T07:00:00Z",
-          "title": "DAN DAN 心魅かれてく coverd by ロボ子さん🐉　【ホロライブ/ #ロボ子爆誕2025】",
-          "video_id": "VzgiaEu59Uk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T07:00:11Z",
+        "title": "DAN DAN 心魅かれてく coverd by ロボ子さん🐉　【ホロライブ/ #ロボ子爆誕2025】",
+        "video_id": "VzgiaEu59Uk"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -55,6 +53,11 @@
       "name": "白上フブキ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-04T14:45:00Z",
+          "title": "【＃白上フブキ生誕2026】お誕生日のカウントダウンをする【ホロライブ/白上フブキ】",
+          "video_id": "OaUf00UG6sQ"
+        },
+        {
           "scheduled_at": "2026-10-05T12:00:00Z",
           "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
           "video_id": "62AgiXDP3tU"
@@ -86,14 +89,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T04:00:00Z",
-          "title": "【#4】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-          "video_id": "BOjKLly-bLQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T04:01:00Z",
+        "title": "【#4】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "BOjKLly-bLQ"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -137,11 +138,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-04T01:00:19Z",
-        "title": "【朝活雑談】10月！日曜10時といえば～～～～？？＼さんでーまっする／【白銀ノエル/ホロライブ】",
-        "video_id": "9GEPfutuFn0"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -157,7 +153,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T08:30:00Z",
+          "title": "【 第11回CRカップAPEX 】#とことこうるふぃWIN 🏆️【常闇トワ / ホロライブ】",
+          "video_id": "99JQOLiWDLo"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -184,12 +187,31 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T10:00:00Z",
+          "title": "【Steamオータムセール】まだ神ゲー間に合うか！？Steamのセール見ていくぞ～【獅白ぼたん/ホロライブ】",
+          "video_id": "nX-LcablJNI"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "live": {
+        "started_at": "2026-10-04T05:01:19Z",
+        "title": "【#ホロ甲2026】育成配信2年目冬！！ノリにノッているPOL高！【尾丸ポルカ/ホロライブ】",
+        "video_id": "Cc4tgwJBBg8"
+      },
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T13:00:00Z",
+          "title": "Legend-Changer - 尾丸ポルカ/大神ミオ/百鬼あやめ/鷹嶺ルイ(cover)",
+          "video_id": "5g1i3Zxzi6I"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -216,13 +238,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-04T03:30:28Z",
+        "title": "【空の軌跡 the 2nd】完全初見！第1章プレイ中！withシェラ姉だよ～！ #2 【博衣こより/ホロライブ】※ネタバレあり",
+        "video_id": "d3_-HSxjShc"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T03:30:00Z",
-          "title": "【空の軌跡 the 2nd】完全初見！第1章プレイ中！withシェラ姉だよ～！ #2 【博衣こより/ホロライブ】※ネタバレあり",
-          "video_id": "d3_-HSxjShc"
-        },
         {
           "scheduled_at": "2026-10-04T10:00:00Z",
           "title": "【 #ホロ甲2026 】みんなでBBQ(ベースボールクイズ)！⚾✨【白銀ノエル・尾丸ポルカ・響咲リオナ・博衣こより/ホロライブ】",
@@ -238,6 +260,11 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-10-04T06:00:21Z",
+        "title": "【 雑談 】ｳｷｳｷ雑談【音乃瀬奏】#ReGLOSS",
+        "video_id": "8NBNd9TQWUs"
+      },
       "name": "音乃瀬奏"
     },
     {
@@ -261,14 +288,14 @@
       "name": "響咲リオナ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-04T01:00:00Z",
-          "title": "【朝ドリ#3】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
-          "video_id": "CrDuGW-pV7E"
-        },
-        {
           "scheduled_at": "2026-10-04T11:10:00Z",
           "title": "【 ＃ホロ甲2026 】壁咲高校、ついに３年目夏突入🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
           "video_id": "Z5X1gL8QOAw"
+        },
+        {
+          "scheduled_at": "2026-10-05T09:00:00Z",
+          "title": "【#EndofAbyss】地下施設への偵察任務？！Epic Gamesさんの新作ゲームをプレイ！【ホロライブ  響咲リオナ】#PR",
+          "video_id": "H8HnESpsUoQ"
         }
       ]
     },
@@ -280,13 +307,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-04T06:00:14Z",
+        "title": "【  #ホロドリ 】ホロドリきちゃ🐟＃12【水宮枢／ホロライブ】",
+        "video_id": "JPRGdxVEAWU"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T06:00:00Z",
-          "title": "【  #ホロドリ 】ホロドリきちゃ🐟＃12【水宮枢／ホロライブ】",
-          "video_id": "JPRGdxVEAWU"
-        },
         {
           "scheduled_at": "2026-10-04T12:00:00Z",
           "title": "【#マイクラ肝試し2026】過去マップいくぞおお【水宮枢／ホロライブ】",
@@ -297,7 +324,19 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "live": {
+        "started_at": "2026-10-04T06:30:46Z",
+        "title": "【F1同時視聴】マレーシアで！バーレーンGP！決勝！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "Vp6nUO9Hhh4"
+      },
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T13:00:00Z",
+          "title": "【競馬/凱旋門賞】世界の競馬だ…！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "b7nxDx0pyrY"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -325,6 +364,11 @@
           "scheduled_at": "2026-10-04T12:20:00Z",
           "title": "【#アソビまわり隊歌枠リレー】4人コラボで歌うのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "WBgYlpUP0zc"
+        },
+        {
+          "scheduled_at": "2026-10-05T10:00:00Z",
+          "title": "AI妹 VS のじゃ口調指示厨【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "2Rkz9iBX2HQ"
         },
         {
           "scheduled_at": "2026-10-06T22:00:00Z",
@@ -492,17 +536,29 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-04T01:24:52Z",
-        "title": "【Hololive Dreams】Just play with the rythm【hololive | moona】",
-        "video_id": "hzs0kNAzMPw"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T08:00:00Z",
+          "title": "【 NO Man's Sky】Unlocking multi player【 iofi / hololive】",
+          "video_id": "SDFchDH00Iw"
+        },
+        {
+          "scheduled_at": "2026-10-04T13:30:00Z",
+          "title": "【#holodori 】MINI GAMES with  @VestiaZeta @KaelaKovalskia 【 iofi / hololive】",
+          "video_id": "QLFzIZAMMDA"
+        },
+        {
+          "scheduled_at": "2026-10-04T15:00:00Z",
+          "title": "【 #holoctober 】DAY 4 : ANGEL【 iofi / hololive】",
+          "video_id": "FrOWjDg8YEI"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -513,11 +569,6 @@
           "scheduled_at": "2026-10-06T02:00:00Z",
           "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SMOLLIE SINGS!! 【Kureiji Ollie】",
           "video_id": "YIhZklHVwPU"
-        },
-        {
-          "scheduled_at": "2026-10-08T12:00:00Z",
-          "title": "【hololive Dreams】 INDONESIAN TOGETHER STRONK #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "8XJSCqpX4Uo"
         },
         {
           "scheduled_at": "2026-10-09T12:00:00Z",
@@ -544,11 +595,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-04T01:05:34Z",
-        "title": "【hololive Dreams ホロライブドリームス】Morning Casual Rhythm Gaming~【hololive holoro | Anya Melfissa】",
-        "video_id": "TyeutXf70YI"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -572,5 +618,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T01:30:31Z"
+  "generated_at": "2026-10-04T07:00:58Z"
 }
