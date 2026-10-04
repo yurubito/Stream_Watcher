@@ -198,16 +198,16 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-04T13:01:24Z",
-        "title": "【メンバー限定】すっかり寒くなってきましたね【雪花ラミィ /ホロライブ】",
-        "video_id": "QwcFRBpTSLI"
-      },
       "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-04T13:01:37Z",
+        "title": "メン限するわよませ～～～～～～【 桃鈴ねね / hololive 】",
+        "video_id": "OSIV1yUZOpo"
+      },
       "name": "桃鈴ねね"
     },
     {
@@ -582,5 +582,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T13:20:25Z"
+  "generated_at": "2026-10-04T13:22:03Z"
 }
