@@ -193,14 +193,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T10:00:00Z",
-          "title": "【Steamオータムセール】まだ神ゲー間に合うか！？Steamのセール見ていくぞ～【獅白ぼたん/ホロライブ】",
-          "video_id": "nX-LcablJNI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T10:00:58Z",
+        "title": "【Steamオータムセール】まだ神ゲー間に合うか！？Steamのセール見ていくぞ～【獅白ぼたん/ホロライブ】",
+        "video_id": "nX-LcablJNI"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -228,6 +226,11 @@
           "scheduled_at": "2026-10-04T11:00:00Z",
           "title": "【 3D 】ソロライブ『REBELLION』続報解禁！関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
           "video_id": "pEJ_ZE0uRtA"
+        },
+        {
+          "scheduled_at": "2026-10-04T12:00:00Z",
+          "title": "ハートにピース / 鷹嶺ルイ(official)",
+          "video_id": "f2bhTJqNwCk"
         }
       ]
     },
@@ -604,5 +607,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T10:00:39Z"
+  "generated_at": "2026-10-04T10:10:25Z"
 }
