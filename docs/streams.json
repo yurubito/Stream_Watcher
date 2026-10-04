@@ -26,6 +26,11 @@
       "name": "さくらみこ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-05T11:00:00Z",
+          "title": "【えかきうた大合戦】✨絵心あるおれたちの戦い✨【ホロライブ/さくらみこ】",
+          "video_id": "hSJKa-b1VpM"
+        },
+        {
           "scheduled_at": "2026-10-05T13:00:00Z",
           "title": "２日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
           "video_id": "yw_ufdHeJjw"
@@ -391,7 +396,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T01:00:00Z",
+          "title": "≪#holodori≫ I am ready.",
+          "video_id": "-IPp_yYb3jU"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -564,5 +576,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T14:10:26Z"
+  "generated_at": "2026-10-04T14:21:00Z"
 }
