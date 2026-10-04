@@ -499,14 +499,14 @@
       "name": "クレイジー・オリー",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-05T06:00:00Z",
+          "title": "【BOMBANANA!】 BABE WAKE UP HOLORO COLLAB DROPPING 【Kureiji Ollie】",
+          "video_id": "KqwaaYDR_4M"
+        },
+        {
           "scheduled_at": "2026-10-06T02:00:00Z",
           "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SMOLLIE SINGS!! 【Kureiji Ollie】",
           "video_id": "YIhZklHVwPU"
-        },
-        {
-          "scheduled_at": "2026-10-09T12:00:00Z",
-          "title": "【hololive Dreams】 DREAMS RIDING ON!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "iZKj-rHFZIo"
         },
         {
           "scheduled_at": "2026-10-10T12:00:00Z",
@@ -570,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T17:50:28Z"
+  "generated_at": "2026-10-04T18:20:28Z"
 }
