@@ -260,6 +260,11 @@
       "name": "響咲リオナ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-05T03:00:00Z",
+          "title": "【朝(昼)ドリ#3】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
+          "video_id": "GrSSOy9G5_c"
+        },
+        {
           "scheduled_at": "2026-10-05T09:00:00Z",
           "title": "【#EndofAbyss】地下施設への偵察任務？！Epic Gamesさんの新作ゲームをプレイ！【ホロライブ  響咲リオナ】#PR",
           "video_id": "H8HnESpsUoQ"
@@ -314,7 +319,7 @@
       "name": "宙科そぴあ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-05T10:30:00Z",
+          "scheduled_at": "2026-10-05T11:00:00Z",
           "title": "【タンポポは耐える。】科学ゲームと聞いて来ました！！！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "Jdg6OIRXgHo"
         }
@@ -528,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T16:31:10Z"
+  "generated_at": "2026-10-04T16:40:23Z"
 }
