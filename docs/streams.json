@@ -170,14 +170,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T08:30:00Z",
-          "title": "【 第11回CRカップAPEX 】#とことこうるふぃWIN 🏆️※遅延有り【常闇トワ / ホロライブ】",
-          "video_id": "99JQOLiWDLo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T08:34:50Z",
+        "title": "【 第11回CRカップAPEX 】#とことこうるふぃWIN 🏆️※遅延有り【常闇トワ / ホロライブ】",
+        "video_id": "99JQOLiWDLo"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -623,5 +621,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T08:30:47Z"
+  "generated_at": "2026-10-04T08:40:21Z"
 }
