@@ -140,7 +140,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T11:00:00Z",
+          "title": "【ポケモンダイパ】いくぞ四天王戦！ホロメン6人に貰ったタマゴでクリアを目指す旅！ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "w_QlfNcwYZ0"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -454,11 +461,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-04T19:57:58Z",
-        "title": "【THE JUSTICE HOTLINE】JUSTICE NEW OUTFIT COLLAB!!! LET'S HAVE SOME FUN!",
-        "video_id": "LgKKqwoKPsM"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -577,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T20:28:37Z"
+  "generated_at": "2026-10-04T21:10:42Z"
 }
