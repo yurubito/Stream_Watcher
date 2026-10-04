@@ -541,7 +541,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-04T01:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】Morning Casual Rhythm Gaming~【hololive holoro | Anya Melfissa】",
+          "video_id": "TyeutXf70YI"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -564,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T00:10:23Z"
+  "generated_at": "2026-10-04T01:00:35Z"
 }
