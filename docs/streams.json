@@ -3,11 +3,6 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-04T14:02:54Z",
-        "title": "【歌枠】お歌の時間です！楽しんでいこう【ときのそら/ホロライブ】",
-        "video_id": "393MVuGi41Q"
-      },
       "name": "ときのそら"
     },
     {
@@ -143,11 +138,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-04T09:00:45Z",
-        "title": "#2【ポケモンダイパ】ホロメン6人に貰ったタマゴでクリアを目指す旅！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "ffiRtvdubvA"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -546,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T15:30:46Z"
+  "generated_at": "2026-10-04T16:00:44Z"
 }
