@@ -8,14 +8,12 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T10:30:00Z",
-          "title": "【  ＃ホロドリ 】そろそろ新エリアに侵入できそう！？？まどまぎ観れたああ！！【ホロライブ/ ロボ子さん 】",
-          "video_id": "5cDfZaII0_0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T10:28:47Z",
+        "title": "【  ＃ホロドリ 】そろそろ新エリアに侵入できそう！？？まどまぎ観れたああ！！【ホロライブ/ ロボ子さん 】",
+        "video_id": "5cDfZaII0_0"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -35,11 +33,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-04T09:01:23Z",
-        "title": "【ホロライブドリームス】麦まんじゅうと言われようとも。ポロリ事件簿そして釣り図鑑あつめ#ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "f_fWXN7XCbk"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -614,5 +607,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-04T10:20:24Z"
+  "generated_at": "2026-10-04T10:30:48Z"
 }
