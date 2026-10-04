@@ -479,7 +479,19 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T08:00:00Z",
+          "title": "【 #holoctober 】DAY 5 : Teacher【 iofi / hololive】",
+          "video_id": "Mu8nw6XcnA8"
+        },
+        {
+          "scheduled_at": "2026-10-05T13:00:00Z",
+          "title": "【 NO Man's Sky】ioMoona Date【 iofi / hololive】",
+          "video_id": "VshCIU0Xlsk"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -558,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T17:42:16Z"
+  "generated_at": "2026-10-04T17:50:28Z"
 }
