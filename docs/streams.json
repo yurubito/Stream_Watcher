@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T14:00:00Z",
-          "title": "【歌枠】お歌の時間です！楽しんでいこう【ときのそら/ホロライブ】",
-          "video_id": "393MVuGi41Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T14:02:54Z",
+        "title": "【歌枠】お歌の時間です！楽しんでいこう【ときのそら/ホロライブ】",
+        "video_id": "393MVuGi41Q"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -25,12 +23,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-04T13:04:17Z",
-        "title": "【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
-        "video_id": "ieSPItKmQrc"
-      },
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T13:00:00Z",
+          "title": "２日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
+          "video_id": "yw_ufdHeJjw"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -74,11 +74,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-04T13:00:58Z",
-        "title": "【歌枠】リレーに紛れる１期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】",
-        "video_id": "vbSzq1qClNE"
-      },
       "name": "夏色まつり",
       "upcoming": [
         {
@@ -245,14 +240,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T14:00:00Z",
-          "title": "【雑談】ちょっとだけ話そう💭切り抜き禁止＆Xで内容スクショやポストもなしで、な！！【風真いろは/ホロライブ】",
-          "video_id": "z8g_uFB53bg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-04T14:00:32Z",
+        "title": "【雑談】ちょっとだけ話そう💭切り抜き禁止＆Xで内容スクショやポストもなしで、な！！【風真いろは/ホロライブ】",
+        "video_id": "z8g_uFB53bg"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -461,7 +454,7 @@
       "group": "EN Justice",
       "live": {
         "started_at": "2026-10-04T13:58:48Z",
-        "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CausalRao",
+        "title": "【CASUAL OUTFIT REVEAL】MY ANIME GIRL DREAM COMES TRUE! #CasualRao",
         "video_id": "JYsWj4sXeYw"
       },
       "name": "ラオーラ・パンテーラ"
@@ -571,5 +564,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T14:00:40Z"
+  "generated_at": "2026-10-04T14:10:26Z"
 }
