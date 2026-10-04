@@ -316,7 +316,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T10:30:00Z",
+          "title": "【タンポポは耐える。】科学ゲームと聞いて来ました！！！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "Jdg6OIRXgHo"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -531,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T16:10:44Z"
+  "generated_at": "2026-10-04T16:20:30Z"
 }
