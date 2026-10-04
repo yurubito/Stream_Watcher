@@ -282,11 +282,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-04T11:18:06Z",
-        "title": "【 ＃ホロ甲2026 】壁咲高校、ついに３年目夏突入🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
-        "video_id": "Z5X1gL8QOAw"
-      },
       "name": "響咲リオナ",
       "upcoming": [
         {
@@ -545,11 +540,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-04T13:31:34Z",
-        "title": "【hololive Dreams】 Daily holodori (copying someone else's title) #holodori #ホロドリ",
-        "video_id": "Io9ANLBGnxE"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -568,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T14:50:24Z"
+  "generated_at": "2026-10-04T15:00:45Z"
 }
