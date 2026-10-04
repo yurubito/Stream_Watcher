@@ -385,7 +385,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T01:00:00Z",
+          "title": "【Five Nights at Freddy's: Security Breach】The bite of 67",
+          "video_id": "AfpAKoZY2dw"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -458,11 +465,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-04T15:03:14Z",
-        "title": "【 #holoctober 】DAY 4 : ANGEL【 iofi / hololive】",
-        "video_id": "FrOWjDg8YEI"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -523,5 +525,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T17:00:44Z"
+  "generated_at": "2026-10-04T17:10:26Z"
 }
