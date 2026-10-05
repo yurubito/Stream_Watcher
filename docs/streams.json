@@ -67,11 +67,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-05T14:00:13Z",
-        "title": "【ホロライブドリームス】深夜にまったり釣り雑談 #ホロドリ 【ホロライブ/夏色まつり】",
-        "video_id": "TuQepgnClwM"
-      },
       "name": "夏色まつり",
       "upcoming": [
         {
@@ -357,7 +352,14 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖"
+      "name": "一伊那尓栖",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T23:00:00Z",
+          "title": "【hololive Dreams】Return of the Ghost of Pokajan @HakosBaelz @MoriCalliope",
+          "video_id": "qfV_Xy-6HCo"
+        }
+      ]
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -533,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T15:30:44Z"
+  "generated_at": "2026-10-05T15:40:32Z"
 }
