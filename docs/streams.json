@@ -118,13 +118,13 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-10-05T10:00:58Z",
+        "title": "【久々すぎるホラゲ】End of Abyssってホラゲなんですか？！？！？【 #PR  #EndofAbyss 】",
+        "video_id": "rdQ6_Umq43c"
+      },
       "name": "大神ミオ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T10:00:00Z",
-          "title": "【久々すぎるホラゲ】End of Abyssってホラゲなんですか？！？！？【 #PR  #EndofAbyss 】",
-          "video_id": "rdQ6_Umq43c"
-        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
@@ -592,5 +592,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T10:01:06Z"
+  "generated_at": "2026-10-05T10:10:29Z"
 }
