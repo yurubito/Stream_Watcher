@@ -106,11 +106,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-05T00:23:09Z",
-        "title": "【#朝ミオ 】１０月だよ！月曜日だよ～～！おはみぉーん！",
-        "video_id": "VrdeGNP4mjU"
-      },
       "name": "大神ミオ",
       "upcoming": [
         {
@@ -568,5 +563,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T01:01:02Z"
+  "generated_at": "2026-10-05T01:50:19Z"
 }
