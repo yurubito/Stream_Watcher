@@ -13,25 +13,23 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T13:00:00Z",
-          "title": "【タンポポは耐える。】私はタンポポ。今日も耐える。【ホロライブ / AZKi】",
-          "video_id": "ffdADRfkSpM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T13:01:45Z",
+        "title": "【タンポポは耐える。】私はタンポポ。今日も耐える。【ホロライブ / AZKi】",
+        "video_id": "ffdADRfkSpM"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-05T13:02:39Z",
+        "title": "２日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
+        "video_id": "yw_ufdHeJjw"
+      },
       "name": "さくらみこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T13:00:00Z",
-          "title": "２日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
-          "video_id": "yw_ufdHeJjw"
-        },
         {
           "scheduled_at": "2026-10-06T10:00:00Z",
           "title": "【 バイオハザード６ 】ふざけるなよ？？？？？？？【ホロライブ/#みこったかにぇ】",
@@ -293,14 +291,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T13:00:00Z",
-          "title": "【メンバー限定】おとであそぶよていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "itydfczPHZM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T13:04:36Z",
+        "title": "【メンバー限定/3dio】おとであそぶよていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "itydfczPHZM"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -544,5 +540,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T13:01:13Z"
+  "generated_at": "2026-10-05T13:10:30Z"
 }
