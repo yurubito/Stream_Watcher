@@ -342,14 +342,12 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T23:05:00Z",
-          "title": "【hololive Dreams】POKAJAN? POKAJAN. #calliolive #holodori",
-          "video_id": "GlGQAjenYqs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T23:06:16Z",
+        "title": "【hololive Dreams】POKAJAN? POKAJAN. #calliolive #holodori",
+        "video_id": "GlGQAjenYqs"
+      },
+      "name": "森カリオペ"
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -366,14 +364,12 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T23:00:00Z",
-          "title": "【hololive Dreams】Return of the Ghost of Pokajan @HakosBaelz @MoriCalliope",
-          "video_id": "qfV_Xy-6HCo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T23:07:04Z",
+        "title": "【hololive Dreams】Return of the Ghost of Pokajan @HakosBaelz @MoriCalliope",
+        "video_id": "qfV_Xy-6HCo"
+      },
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -395,13 +391,13 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-10-05T23:06:19Z",
+        "title": "≪hololive Dreams≫ +1890 coins #holodori",
+        "video_id": "6KQSmoJPNbE"
+      },
       "name": "ハコス・ベールズ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T23:00:00Z",
-          "title": "≪hololive Dreams≫ +1890 coins #holodori",
-          "video_id": "6KQSmoJPNbE"
-        },
         {
           "scheduled_at": "2026-10-06T09:00:00Z",
           "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
@@ -545,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T23:00:49Z"
+  "generated_at": "2026-10-05T23:10:36Z"
 }
