@@ -67,13 +67,13 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-05T13:30:09Z",
+        "title": "FOXXXROOM/白上フブキ(original)",
+        "video_id": "NfG4zsc_Geo"
+      },
       "name": "白上フブキ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T13:30:00Z",
-          "title": "FOXXXROOM/白上フブキ(original)",
-          "video_id": "NfG4zsc_Geo"
-        },
         {
           "scheduled_at": "2026-10-06T14:00:00Z",
           "title": "【＃白上フブキ生誕2026】ライブありがとうございましたトーク【ホロライブ/白上フブキ】",
@@ -279,13 +279,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-05T13:30:16Z",
+        "title": "【妹に運転を教える】仲良くキレずに教えるよ😊相性いいよね…？【水宮枢／ホロライブ】",
+        "video_id": "R7LOh8pMLjM"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T13:30:00Z",
-          "title": "【妹に運転を教える】仲良くキレずに教えるよ😊相性いいよね…？【水宮枢／ホロライブ】",
-          "video_id": "R7LOh8pMLjM"
-        },
         {
           "scheduled_at": "2026-10-06T13:00:00Z",
           "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#8【水宮枢／ホロライブDEV_IS】※ネタバレ有",
@@ -540,5 +540,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T13:20:30Z"
+  "generated_at": "2026-10-05T13:30:35Z"
 }
