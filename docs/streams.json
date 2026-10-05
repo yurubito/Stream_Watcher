@@ -354,7 +354,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T13:00:00Z",
+          "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
+          "video_id": "3L3tjTbKPwo"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -538,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T22:10:28Z"
+  "generated_at": "2026-10-05T22:50:32Z"
 }
