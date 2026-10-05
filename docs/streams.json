@@ -303,11 +303,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-05T08:57:22Z",
-        "title": "【#EndofAbyss】地下施設への偵察任務？！Epic Gamesさんの新作ゲームをプレイ！【ホロライブ  響咲リオナ】#PR",
-        "video_id": "H8HnESpsUoQ"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -519,11 +514,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-05T09:41:12Z",
-        "title": "【#holodori 】POKAJAN WITH IOFORIA【 iofi / hololive】",
-        "video_id": "x9Z-ntAHhgM"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -595,5 +585,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T11:10:31Z"
+  "generated_at": "2026-10-05T11:20:27Z"
 }
