@@ -391,14 +391,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T01:00:00Z",
-          "title": "≪#holodori≫ I am ready.",
-          "video_id": "-IPp_yYb3jU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T01:00:52Z",
+        "title": "≪#holodori≫ I am ready.",
+        "video_id": "-IPp_yYb3jU"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -408,14 +406,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T01:00:00Z",
-          "title": "【Five Nights at Freddy's: Security Breach】The bite of 67",
-          "video_id": "AfpAKoZY2dw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T00:56:48Z",
+        "title": "【Five Nights at Freddy's: Security Breach】The bite of 67",
+        "video_id": "AfpAKoZY2dw"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -572,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T00:40:22Z"
+  "generated_at": "2026-10-05T01:01:02Z"
 }
