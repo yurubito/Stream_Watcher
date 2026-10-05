@@ -231,11 +231,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-04T22:00:33Z",
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY2🎣【風真いろは/ホロライブ】",
-        "video_id": "UevNUaXWlXk"
-      },
       "name": "風真いろは"
     },
     {
@@ -381,7 +376,14 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖"
+      "name": "一伊那尓栖",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T00:30:00Z",
+          "title": "【Clair Obscur: Expedition 33】Time To Check Answers...?【#6】",
+          "video_id": "8IjJlC5iaVo"
+        }
+      ]
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -577,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-04T22:00:58Z"
+  "generated_at": "2026-10-05T00:10:47Z"
 }
