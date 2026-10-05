@@ -29,6 +29,11 @@
           "scheduled_at": "2026-10-07T11:00:00Z",
           "title": "【えかきうた大合戦】✨絵心あるおれたちの戦い✨【ホロライブ/さくらみこ】",
           "video_id": "hSJKa-b1VpM"
+        },
+        {
+          "scheduled_at": "2026-10-07T13:00:00Z",
+          "title": "３日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
+          "video_id": "BqUfGBP3jMM"
         }
       ]
     },
@@ -326,7 +331,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T12:00:00Z",
+          "title": "#1 50勝するまで終わらないオーバーウォッチ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "p3VTGL5C2BM"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -501,39 +513,33 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T15:00:00Z",
-          "title": "【hololive Dreams】we feesh all the way #holodori #ホロドリ",
-          "video_id": "R_rO5A22qDE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T15:00:31Z",
+        "title": "【hololive Dreams】we feesh all the way #holodori #ホロドリ",
+        "video_id": "R_rO5A22qDE"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T15:00:00Z",
-          "title": "【hololive Dreams】journey to catch all the feesh【#holodori】",
-          "video_id": "lr_18KNe0k0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T15:00:21Z",
+        "title": "【hololive Dreams】journey to catch all the feesh【#holodori】",
+        "video_id": "lr_18KNe0k0"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T15:00:00Z",
-          "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
-          "video_id": "zwOysulSv68"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T15:01:11Z",
+        "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+        "video_id": "zwOysulSv68"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T14:50:30Z"
+  "generated_at": "2026-10-05T15:01:16Z"
 }
