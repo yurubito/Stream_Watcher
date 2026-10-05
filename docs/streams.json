@@ -23,6 +23,11 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-05T14:01:53Z",
+        "title": "２.5日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
+        "video_id": "A-9ZJQ3s2sE"
+      },
       "name": "さくらみこ",
       "upcoming": [
         {
@@ -62,14 +67,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T14:00:00Z",
-          "title": "【＃白上フブキ生誕2026】ライブありがとうございましたトーク【ホロライブ/白上フブキ】",
-          "video_id": "0kjXUGCIoZU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T14:01:20Z",
+        "title": "【＃白上フブキ生誕2026】ライブありがとうございましたトーク【ホロライブ/白上フブキ】",
+        "video_id": "0kjXUGCIoZU"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -515,7 +518,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T15:00:00Z",
+          "title": "【hololive Dreams】we feesh all the way #holodori #ホロドリ",
+          "video_id": "R_rO5A22qDE"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -542,5 +552,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T14:00:53Z"
+  "generated_at": "2026-10-05T14:10:41Z"
 }
