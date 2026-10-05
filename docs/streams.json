@@ -30,13 +30,13 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-05T11:02:30Z",
+        "title": "【タンポポは耐える】――みこ、あきらめないッッ！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "NoYxB05hDYM"
+      },
       "name": "さくらみこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T11:00:00Z",
-          "title": "【タンポポは耐える】――みこ、あきらめないッッ！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "NoYxB05hDYM"
-        },
         {
           "scheduled_at": "2026-10-05T13:00:00Z",
           "title": "２日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
@@ -367,14 +367,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T11:00:00Z",
-          "title": "【漢字でGOGO!】理系は漢字が書けるのか【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "Jdg6OIRXgHo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T11:03:59Z",
+        "title": "【漢字でGOGO!】理系は漢字が書けるのか【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "Jdg6OIRXgHo"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -401,13 +399,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-05T11:02:14Z",
+        "title": "【 #ホロドリ 】始めて日本語ホロドリ配信！！ヤッホ～！ #calliolive #holodori",
+        "video_id": "gVJebtLfcdE"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T11:00:00Z",
-          "title": "【 #ホロドリ 】始めて日本語ホロドリ配信！！ヤッホ～！ #calliolive #holodori",
-          "video_id": "gVJebtLfcdE"
-        },
         {
           "scheduled_at": "2026-10-05T23:00:00Z",
           "title": "【hololive Dreams】POKAJAN? POKAJAN. #calliolive #holodori",
@@ -546,9 +544,9 @@
           "video_id": "YIhZklHVwPU"
         },
         {
-          "scheduled_at": "2026-10-11T12:00:00Z",
-          "title": "【hololive Dreams】 NONSTOP DREAMING!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "7QvLKuPSqmE"
+          "scheduled_at": "2026-10-07T02:00:00Z",
+          "title": "【Dressmaker】 Pt.6: MAKING DRESSES FOR CLIENTS SO THAT WE CAN PROGRESS THE STORY 【Kureiji Ollie】",
+          "video_id": "59Pbq66VTBw"
         },
         {
           "scheduled_at": "2026-10-12T12:00:00Z",
@@ -597,5 +595,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T11:01:05Z"
+  "generated_at": "2026-10-05T11:10:31Z"
 }
