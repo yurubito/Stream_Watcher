@@ -362,7 +362,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-05T11:00:00Z",
-          "title": "何かしらのゲーム【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "title": "【漢字でGOGO!】理系は漢字が書けるのか【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "Jdg6OIRXgHo"
         }
       ]
@@ -481,11 +481,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-05T05:58:30Z",
-        "title": "M o n d a y",
-        "video_id": "Fz14pr9BkMI"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -572,5 +567,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T08:31:10Z"
+  "generated_at": "2026-10-05T08:40:30Z"
 }
