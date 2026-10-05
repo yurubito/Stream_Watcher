@@ -339,14 +339,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T02:00:00Z",
-          "title": "【EN】I'll do better this time!! | Fears to Fathom: Norwood Hitchhike【Hyakuto Kyoko/Hololive】",
-          "video_id": "46_MhFlPyLc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T01:59:18Z",
+        "title": "【EN】I'll do better this time!! | Fears to Fathom: Norwood Hitchhike【Hyakuto Kyoko/Hololive】",
+        "video_id": "46_MhFlPyLc"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -563,5 +561,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T01:50:19Z"
+  "generated_at": "2026-10-05T02:10:35Z"
 }
