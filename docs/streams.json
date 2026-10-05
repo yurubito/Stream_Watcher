@@ -48,6 +48,11 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-06T11:00:00Z",
+          "title": "【#ホロドリ 】#RosaMiA チーム対抗すぷらっしゅボールバトル💥🥊 【ホロライブ/アキロゼ】",
+          "video_id": "o3Rp1OxpSgQ"
+        },
+        {
           "scheduled_at": "2026-10-12T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち？｜ちょこのお悩み相談室～深夜のひとくちラジオ～",
           "video_id": "MxpAOjgZX3Y"
@@ -192,7 +197,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-05T22:00:00Z",
-          "title": "【 #朝こよ 】9月の\"めい\"言発表！10月の火曜日の朝も朝こよ～！☀ #301 【博衣こより/hololive】",
+          "title": "【 #朝こよ 】告知アリ‼️9月の\"めい\"言発表！10月の火曜日の朝も朝こよ～！☀ #301 【博衣こより/hololive】",
           "video_id": "I5mEgiWYZD4"
         },
         {
@@ -442,31 +447,16 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-05T13:00:07Z",
-        "title": "BOMBANANA : LANJUTTT DENGAN TIM S.A.R. @sammybollivienn @sayaayaaulya",
-        "video_id": "4iMFt9xP-BI"
-      },
       "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-05T13:00:54Z",
-        "title": "【No Man Sky】Finally! NMS with Yopipi!!【hololive | moona】",
-        "video_id": "7eb00QzNZ5Q"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-05T13:00:45Z",
-        "title": "【 NO Man's Sky】ioMoona Date【 iofi / hololive】",
-        "video_id": "VshCIU0Xlsk"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -532,5 +522,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T16:10:30Z"
+  "generated_at": "2026-10-05T16:30:47Z"
 }
