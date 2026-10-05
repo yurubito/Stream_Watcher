@@ -66,7 +66,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-05T12:00:00Z",
-          "title": "回場回場回場回場回場回場回場回場回場回場回場",
+          "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
           "video_id": "62AgiXDP3tU"
         }
       ]
@@ -109,6 +109,11 @@
       "name": "大神ミオ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-05T10:00:00Z",
+          "title": "【久々すぎるホラゲ】End of Abyssってホラゲなんですか？！？！？【 #PR  #EndofAbyss 】",
+          "video_id": "rdQ6_Umq43c"
+        },
+        {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
           "video_id": "gunryHFbKyw"
@@ -129,6 +134,11 @@
           "scheduled_at": "2026-10-05T13:00:00Z",
           "title": "#3【バイオハザード HDリマスター】やるです。",
           "video_id": "iDyC-lE8Izw"
+        },
+        {
+          "scheduled_at": "2026-10-06T11:00:00Z",
+          "title": "【映画紹介】映画『バイオハザード』最新作レビュー！！《現代ホラー界の鬼才》ザック・クレッガー監督に特別インタビューしてきた！",
+          "video_id": "JLALCjMzjTM"
         }
       ]
     },
@@ -152,7 +162,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T09:30:00Z",
+          "title": "【#ホロ甲2026】大分の白銀学院高校！３年目の春！！夏の甲子園出場を目指して！【白銀ノエル/ホロライブ】",
+          "video_id": "U972n0ncl4k"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -179,7 +196,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T13:00:00Z",
+          "title": "【 アソビ大全 】さぁ、ルーナイト達……半年ぶりのバトルの時間なのら！！！【姫森ルーナ/ホロライブ】",
+          "video_id": "YaVBC4HkCx4"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -226,7 +250,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T22:00:00Z",
+          "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY3🎣【風真いろは/ホロライブ】",
+          "video_id": "0_DX6RJ4a0s"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -251,11 +282,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-05T03:00:55Z",
-        "title": "【朝(昼)ドリ#3】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
-        "video_id": "GrSSOy9G5_c"
-      },
       "name": "響咲リオナ",
       "upcoming": [
         {
@@ -326,7 +352,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-05T11:00:00Z",
-          "title": "【タンポポは耐える。】科学ゲームと聞いて来ました！！！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "title": "何かしらのゲーム【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "Jdg6OIRXgHo"
         }
       ]
@@ -339,11 +365,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-05T01:59:18Z",
-        "title": "【EN】I'll do better this time!! | Fears to Fathom: Norwood Hitchhike【Hyakuto Kyoko/Hololive】",
-        "video_id": "46_MhFlPyLc"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -354,7 +375,19 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T11:00:00Z",
+          "title": "【 #ホロドリ 】始めて日本語ホロドリ配信！！ヤッホ～！ #calliolive #holodori",
+          "video_id": "gVJebtLfcdE"
+        },
+        {
+          "scheduled_at": "2026-10-05T23:00:00Z",
+          "title": "【hololive Dreams】POKAJAN? POKAJAN. #calliolive #holodori",
+          "video_id": "GlGQAjenYqs"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -364,11 +397,6 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-05T00:31:20Z",
-        "title": "【Clair Obscur: Expedition 33】Time To Check Answers...?【#6】",
-        "video_id": "8IjJlC5iaVo"
-      },
       "name": "一伊那尓栖"
     },
     {
@@ -384,11 +412,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-05T01:00:52Z",
-        "title": "≪#holodori≫ I am ready.",
-        "video_id": "-IPp_yYb3jU"
-      },
       "name": "ハコス・ベールズ"
     },
     {
@@ -399,11 +422,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-05T00:56:48Z",
-        "title": "【Five Nights at Freddy's: Security Breach】The bite of 67",
-        "video_id": "AfpAKoZY2dw"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -453,6 +471,11 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-05T05:58:30Z",
+        "title": "M o n d a y",
+        "video_id": "Fz14pr9BkMI"
+      },
       "name": "アユンダ・リス"
     },
     {
@@ -461,9 +484,9 @@
       "name": "ムーナ・ホシノヴァ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-05T04:00:00Z",
-          "title": "【Hololive Dreams】Play play play!【hololive | moona】",
-          "video_id": "fCjfQKA_yic"
+          "scheduled_at": "2026-10-05T13:00:00Z",
+          "title": "【No Man Sky】Finally! NMS with Yopipi!!【hololive | moona】",
+          "video_id": "7eb00QzNZ5Q"
         }
       ]
     },
@@ -487,22 +510,17 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-05T06:01:25Z",
+        "title": "【BOMBANANA!】 BABE WAKE UP HOLORO COLLAB DROPPING 【Kureiji Ollie】",
+        "video_id": "KqwaaYDR_4M"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T06:00:00Z",
-          "title": "【BOMBANANA!】 BABE WAKE UP HOLORO COLLAB DROPPING 【Kureiji Ollie】",
-          "video_id": "KqwaaYDR_4M"
-        },
         {
           "scheduled_at": "2026-10-06T02:00:00Z",
           "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SMOLLIE SINGS!! 【Kureiji Ollie】",
           "video_id": "YIhZklHVwPU"
-        },
-        {
-          "scheduled_at": "2026-10-10T12:00:00Z",
-          "title": "【hololive Dreams】 WHAT A DREAM!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "_wYzBfR8cRs"
         },
         {
           "scheduled_at": "2026-10-11T12:00:00Z",
@@ -519,36 +537,22 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T04:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】HOLODOMORNING!【hololive holoro | Anya Melfissa】",
-          "video_id": "7RD4-JhQXXM"
-        },
-        {
-          "scheduled_at": "2026-10-05T06:00:00Z",
-          "title": "【BOMBANANA!】HOLORO V.S. DEFUSING BOMBS V.S. BANANAS【hololive holoro | Anya Melfissa】",
-          "video_id": "IKrHPv8ok7w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T06:03:03Z",
+        "title": "【BOMBANANA!】HOLORO V.S. DEFUSING BOMBS V.S. BANANAS【hololive holoro | Anya Melfissa】",
+        "video_id": "IKrHPv8ok7w"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T04:00:00Z",
-          "title": "【hololive Dreams】The Holocoins are in My Dreams (w/ holoro+Moona) #holodori【Pavolia Reine/hololive】",
-          "video_id": "OcrFeHBqyUc"
-        },
-        {
-          "scheduled_at": "2026-10-05T06:00:00Z",
-          "title": "【BOMBANANA!】【Pavolia Reine/hololive】",
-          "video_id": "tK9PUUu9Gok"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T06:01:40Z",
+        "title": "【BOMBANANA!】Holoro Monkey Business【Pavolia Reine/hololive】",
+        "video_id": "tK9PUUu9Gok"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -566,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T04:00:55Z"
+  "generated_at": "2026-10-05T07:00:51Z"
 }
