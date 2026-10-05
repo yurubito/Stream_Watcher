@@ -106,13 +106,13 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-10-05T00:23:09Z",
+        "title": "【#朝ミオ 】１０月だよ！月曜日だよ～～！おはみぉーん！",
+        "video_id": "VrdeGNP4mjU"
+      },
       "name": "大神ミオ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-04T22:30:00Z",
-          "title": "【#朝ミオ 】１０月だよ！月曜日だよ～～！おはみぉーん！",
-          "video_id": "VrdeGNP4mjU"
-        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
@@ -579,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T00:10:47Z"
+  "generated_at": "2026-10-05T00:30:37Z"
 }
