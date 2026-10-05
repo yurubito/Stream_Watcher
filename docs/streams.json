@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T11:00:00Z",
+          "title": "【  ＃ホロドリ 】のんびり休憩所、コイン集まったけど釣りはできますか？？【ホロライブ/ ロボ子さん 】",
+          "video_id": "RBsDcFiCBKM"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -57,13 +64,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-05T10:32:30Z",
+        "title": "【ホロライブドリームス】釣りざつ～～！からの参加型ミニゲーム！ #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "ADZ2suzMSss"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T10:30:00Z",
-          "title": "【ホロライブドリームス】釣りざつ～～！からの参加型ミニゲーム！ #ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "ADZ2suzMSss"
-        },
         {
           "scheduled_at": "2026-10-05T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
@@ -592,5 +599,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T10:30:38Z"
+  "generated_at": "2026-10-05T10:40:46Z"
 }
