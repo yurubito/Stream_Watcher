@@ -207,13 +207,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-05T22:00:47Z",
+        "title": "【 #朝こよ 】告知アリ‼️9月の\"めい\"言発表！10月の火曜日の朝も朝こよ～！☀ #301 【博衣こより/hololive】",
+        "video_id": "I5mEgiWYZD4"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T22:00:00Z",
-          "title": "【 #朝こよ 】告知アリ‼️9月の\"めい\"言発表！10月の火曜日の朝も朝こよ～！☀ #301 【博衣こより/hololive】",
-          "video_id": "I5mEgiWYZD4"
-        },
         {
           "scheduled_at": "2026-10-06T10:00:00Z",
           "title": "【トルネコの大冒険】ちょっとステキなリマスター！で99階チャレンジするために一発クリアを目指せ！【博衣こより/ホロライブ】",
@@ -224,14 +224,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T22:00:00Z",
-          "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY3🎣【風真いろは/ホロライブ】",
-          "video_id": "0_DX6RJ4a0s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T22:00:01Z",
+        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY3🎣【風真いろは/ホロライブ】",
+        "video_id": "0_DX6RJ4a0s"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -540,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T20:37:21Z"
+  "generated_at": "2026-10-05T22:10:28Z"
 }
