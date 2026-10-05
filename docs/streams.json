@@ -539,6 +539,11 @@
       "name": "パヴォリア・レイネ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-05T04:00:00Z",
+          "title": "【hololive Dreams】The Holocoins are in My Dreams (w/ holoro+Moona) #holodori【Pavolia Reine/hololive】",
+          "video_id": "OcrFeHBqyUc"
+        },
+        {
           "scheduled_at": "2026-10-05T06:00:00Z",
           "title": "【BOMBANANA!】【Pavolia Reine/hololive】",
           "video_id": "tK9PUUu9Gok"
@@ -561,5 +566,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T02:10:35Z"
+  "generated_at": "2026-10-05T03:10:25Z"
 }
