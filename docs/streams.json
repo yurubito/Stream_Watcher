@@ -67,11 +67,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-05T13:30:09Z",
-        "title": "FOXXXROOM/白上フブキ(original)",
-        "video_id": "NfG4zsc_Geo"
-      },
       "name": "白上フブキ",
       "upcoming": [
         {
@@ -264,7 +259,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T14:00:00Z",
+          "title": "【Dressmaker】かわいいドレスつくらせてください【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "Re2WHxbUup8"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -348,11 +350,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-05T11:02:14Z",
-        "title": "【 #ホロドリ 】始めて日本語ホロドリ配信！！ヤッホ～！ #calliolive #holodori",
-        "video_id": "gVJebtLfcdE"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -540,5 +537,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T13:30:35Z"
+  "generated_at": "2026-10-05T13:40:28Z"
 }
