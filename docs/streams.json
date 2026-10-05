@@ -18,11 +18,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-05T14:01:53Z",
-        "title": "２.5日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
-        "video_id": "A-9ZJQ3s2sE"
-      },
       "name": "さくらみこ",
       "upcoming": [
         {
@@ -45,14 +40,12 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T14:40:00Z",
-          "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
-          "video_id": "WjNxzPtIHhI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T14:45:26Z",
+        "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
+        "video_id": "WjNxzPtIHhI"
+      },
+      "name": "アキ・ローゼンタール"
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -333,11 +326,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-05T12:59:20Z",
-        "title": "#2 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "4uJ7sRSB7yU"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -547,5 +535,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T14:40:32Z"
+  "generated_at": "2026-10-05T14:50:30Z"
 }
