@@ -366,24 +366,17 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-04T15:29:35Z",
-        "title": "【Fire Emblem: Fortune's Weave】FOR JUSTICE!!!! AND REVENGE !! mostly revenge!! #kfp #キアライブ",
-        "video_id": "pwJeqkeHtPM"
-      },
       "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T00:30:00Z",
-          "title": "【Clair Obscur: Expedition 33】Time To Check Answers...?【#6】",
-          "video_id": "8IjJlC5iaVo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T00:31:20Z",
+        "title": "【Clair Obscur: Expedition 33】Time To Check Answers...?【#6】",
+        "video_id": "8IjJlC5iaVo"
+      },
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -579,5 +572,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T00:30:37Z"
+  "generated_at": "2026-10-05T00:40:22Z"
 }
