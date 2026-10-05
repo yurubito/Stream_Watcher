@@ -525,7 +525,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T06:00:00Z",
+          "title": "【hololive Dreams】hmmm what should SMITTEN do today【#holodori】",
+          "video_id": "HucXvavmB7U"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -533,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T19:51:12Z"
+  "generated_at": "2026-10-05T20:37:21Z"
 }
