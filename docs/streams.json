@@ -45,11 +45,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-05T14:45:26Z",
-        "title": "【#アキちょこナイパレ｜第54回】サプライズ好き🆚事前に教えてほしい あなたはどっち？｜シスターローズの懺悔室～深夜のひとくちラジオ～",
-        "video_id": "WjNxzPtIHhI"
-      },
       "name": "アキ・ローゼンタール"
     },
     {
@@ -60,11 +55,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-05T14:01:20Z",
-        "title": "【＃白上フブキ生誕2026】ライブありがとうございましたトーク【ホロライブ/白上フブキ】",
-        "video_id": "0kjXUGCIoZU"
-      },
       "name": "白上フブキ"
     },
     {
@@ -536,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T15:10:30Z"
+  "generated_at": "2026-10-05T15:20:46Z"
 }
