@@ -177,11 +177,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-05T09:31:40Z",
-        "title": "【#ホロ甲2026】大分の白銀学院高校！３年目の春！！夏の甲子園出場を目指して！【白銀ノエル/ホロライブ】",
-        "video_id": "U972n0ncl4k"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -335,11 +330,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-05T09:58:52Z",
-        "title": "【無免許】AI妹 VS のじゃ口調指示厨【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "2Rkz9iBX2HQ"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -580,5 +570,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T11:50:26Z"
+  "generated_at": "2026-10-05T12:00:48Z"
 }
