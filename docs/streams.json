@@ -520,11 +520,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-05T06:01:25Z",
-        "title": "【BOMBANANA!】 BABE WAKE UP HOLORO COLLAB DROPPING 【Kureiji Ollie】",
-        "video_id": "KqwaaYDR_4M"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -547,21 +542,11 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-05T06:03:03Z",
-        "title": "【BOMBANANA!】HOLORO V.S. DEFUSING BOMBS V.S. BANANAS【hololive holoro | Anya Melfissa】",
-        "video_id": "IKrHPv8ok7w"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-05T06:01:40Z",
-        "title": "【BOMBANANA!】Holoro Monkey Business【Pavolia Reine/hololive】",
-        "video_id": "tK9PUUu9Gok"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -587,5 +572,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T08:10:26Z"
+  "generated_at": "2026-10-05T08:31:10Z"
 }
