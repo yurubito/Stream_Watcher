@@ -123,11 +123,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-05T11:00:03Z",
-        "title": "【ポケモンダイパ】いくぞ四天王戦！ホロメン6人に貰ったタマゴでクリアを目指す旅！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "w_QlfNcwYZ0"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -381,7 +376,19 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T23:00:00Z",
+          "title": "≪hololive Dreams≫ +1890 coins #holodori",
+          "video_id": "6KQSmoJPNbE"
+        },
+        {
+          "scheduled_at": "2026-10-06T09:00:00Z",
+          "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
+          "video_id": "zrEseXtUDNU"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -535,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T15:40:32Z"
+  "generated_at": "2026-10-05T15:50:25Z"
 }
