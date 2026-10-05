@@ -189,14 +189,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T10:00:00Z",
-          "title": "【 ケツバトラー 】セルフブース3Dにて、決闘の時が来た！集まれ、豪ケツたちよ🔥【角巻わため/ホロライブ４期生】",
-          "video_id": "BsKbBSIsaiI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T10:00:28Z",
+        "title": "【 ケツバトラー 】セルフブース3Dにて、決闘の時が来た！集まれ、豪ケツたちよ🔥【角巻わため/ホロライブ４期生】",
+        "video_id": "BsKbBSIsaiI"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -282,14 +280,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T10:00:00Z",
-          "title": "【 回転寿司シミュレーター 】へいいらっしゃい～！【音乃瀬奏】#ReGLOSS",
-          "video_id": "wlEdW6vxWE8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T10:00:06Z",
+        "title": "【 回転寿司シミュレーター 】へいいらっしゃい～！【音乃瀬奏】#ReGLOSS",
+        "video_id": "wlEdW6vxWE8"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -351,13 +347,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-05T09:58:52Z",
+        "title": "【無免許】AI妹 VS のじゃ口調指示厨【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "2Rkz9iBX2HQ"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T10:00:00Z",
-          "title": "【無免許】AI妹 VS のじゃ口調指示厨【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "2Rkz9iBX2HQ"
-        },
         {
           "scheduled_at": "2026-10-06T22:00:00Z",
           "title": "【#のじゃEnglish】DuolingoでStudy Englishですのじゃー！【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -520,6 +516,11 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-05T09:41:12Z",
+        "title": "【#holodori 】POKAJAN WITH IOFORIA【 iofi / hololive】",
+        "video_id": "x9Z-ntAHhgM"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -569,7 +570,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T15:00:00Z",
+          "title": "【hololive Dreams】journey to catch all the feesh【#holodori】",
+          "video_id": "lr_18KNe0k0"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -584,5 +592,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T09:50:27Z"
+  "generated_at": "2026-10-05T10:01:06Z"
 }
