@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-05T13:01:45Z",
-        "title": "【タンポポは耐える。】私はタンポポ。今日も耐える。【ホロライブ / AZKi】",
-        "video_id": "ffdADRfkSpM"
-      },
       "name": "AZKi"
     },
     {
@@ -552,5 +547,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T14:10:41Z"
+  "generated_at": "2026-10-05T14:40:32Z"
 }
