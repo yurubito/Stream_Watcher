@@ -462,7 +462,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-05T13:00:00Z",
+          "title": "BOMBANANA : LANJUTTT DENGAN TIM S.A.R. @sammybollivienn @sayaayaaulya",
+          "video_id": "4iMFt9xP-BI"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -550,5 +557,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T12:10:26Z"
+  "generated_at": "2026-10-05T12:20:25Z"
 }
