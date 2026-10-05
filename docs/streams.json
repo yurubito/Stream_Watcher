@@ -456,7 +456,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T14:00:00Z",
+          "title": "【The Dandelion Endures.】A VERY DURABLE FLOWER",
+          "video_id": "L0u4JCHYWfU"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -480,7 +487,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-06T02:00:00Z",
-          "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SMOLLIE SINGS!! 【Kureiji Ollie】",
+          "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SLEEPY OLLIE SINGS IN THE MORNING 【Kureiji Ollie】",
           "video_id": "YIhZklHVwPU"
         },
         {
@@ -526,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T17:40:31Z"
+  "generated_at": "2026-10-05T18:19:42Z"
 }
