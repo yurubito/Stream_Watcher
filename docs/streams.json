@@ -23,11 +23,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-05T13:02:39Z",
-        "title": "２日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
-        "video_id": "yw_ufdHeJjw"
-      },
       "name": "さくらみこ",
       "upcoming": [
         {
@@ -70,7 +65,7 @@
       "name": "白上フブキ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-06T14:00:00Z",
+          "scheduled_at": "2026-10-05T14:00:00Z",
           "title": "【＃白上フブキ生誕2026】ライブありがとうございましたトーク【ホロライブ/白上フブキ】",
           "video_id": "0kjXUGCIoZU"
         }
@@ -79,13 +74,13 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-05T14:00:13Z",
+        "title": "【ホロライブドリームス】深夜にまったり釣り雑談 #ホロドリ 【ホロライブ/夏色まつり】",
+        "video_id": "TuQepgnClwM"
+      },
       "name": "夏色まつり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T14:00:00Z",
-          "title": "【ホロライブドリームス】深夜にまったり釣り雑談 #ホロドリ 【ホロライブ/夏色まつり】",
-          "video_id": "TuQepgnClwM"
-        },
         {
           "scheduled_at": "2026-10-06T10:00:00Z",
           "title": "【 SPAGHET 】スバルからパスタの宅配です🍝【ホロライブ/夏色まつり】",
@@ -259,14 +254,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-05T14:00:00Z",
-          "title": "【Dressmaker】かわいいドレスつくらせてください【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "Re2WHxbUup8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-05T14:00:13Z",
+        "title": "【Dressmaker】かわいいドレスつくらせてください【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "Re2WHxbUup8"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -549,5 +542,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T13:50:33Z"
+  "generated_at": "2026-10-05T14:00:53Z"
 }
