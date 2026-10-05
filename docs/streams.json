@@ -253,11 +253,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-05T10:00:06Z",
-        "title": "【 回転寿司シミュレーター 】へいいらっしゃい～！【音乃瀬奏】#ReGLOSS",
-        "video_id": "wlEdW6vxWE8"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -564,5 +559,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-05T12:40:27Z"
+  "generated_at": "2026-10-05T12:50:26Z"
 }
