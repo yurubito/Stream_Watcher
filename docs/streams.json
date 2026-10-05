@@ -119,11 +119,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-05T13:12:29Z",
-        "title": "ころねから通話",
-        "video_id": "iDyC-lE8Izw"
-      },
       "name": "戌神ころね",
       "upcoming": [
         {
@@ -541,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T15:01:16Z"
+  "generated_at": "2026-10-05T15:10:30Z"
 }
