@@ -208,7 +208,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T09:00:00Z",
+          "title": "妹に運転を教えたる！！！！！！！！！【 桃鈴ねね / hololive 】",
+          "video_id": "O2sEArIem4k"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -580,5 +587,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T07:30:49Z"
+  "generated_at": "2026-10-06T07:50:26Z"
 }
