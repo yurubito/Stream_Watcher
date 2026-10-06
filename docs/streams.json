@@ -87,7 +87,19 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T12:00:00Z",
+          "title": "【】【ホロライブ/大空スバル】",
+          "video_id": "xhYUcXSiiz4"
+        },
+        {
+          "scheduled_at": "2026-10-08T12:00:00Z",
+          "title": "【】【ホロライブ/大空スバル】",
+          "video_id": "B5EyiloD_7E"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -517,26 +529,22 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T15:30:00Z",
-          "title": "【Hololive Dreams】Pokajan!【hololive | moona】",
-          "video_id": "jRslRJEYD6g"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T15:29:10Z",
+        "title": "【Hololive Dreams】Pokajan!【hololive | moona】",
+        "video_id": "jRslRJEYD6g"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T15:30:00Z",
-          "title": "【#holodori 】Another iomoon Date! @MoonaHoshinova 【 iofi / hololive】",
-          "video_id": "J9hnmOq6TI0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T15:28:39Z",
+        "title": "【#holodori 】Another iomoon Date! @MoonaHoshinova 【 iofi / hololive】",
+        "video_id": "J9hnmOq6TI0"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -581,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T15:10:36Z"
+  "generated_at": "2026-10-06T15:30:48Z"
 }
