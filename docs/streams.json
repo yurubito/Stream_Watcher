@@ -77,11 +77,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-06T14:30:06Z",
-        "title": "【#ホロドリ】釣り開放するまで終われない配信📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "J8ZF7d2M-qk"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -504,11 +499,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-06T15:04:16Z",
-        "title": "【The Dandelion Endures.】A VERY DURABLE FLOWER",
-        "video_id": "L0u4JCHYWfU"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -519,7 +509,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T08:00:00Z",
+          "title": "【Hololive Dreams】AREA15 SPLASH BALL!【hololive | moona】",
+          "video_id": "oasHD6OMXZk"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -576,5 +573,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T17:01:16Z"
+  "generated_at": "2026-10-06T17:30:37Z"
 }
