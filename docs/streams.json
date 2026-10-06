@@ -170,7 +170,7 @@
       "group": "JP 4期生",
       "live": {
         "started_at": "2026-10-06T13:07:01Z",
-        "title": "【 PUBG 】明日はリサCUPなので操作を… w/ミミたや、のあ、アステル【常闇トワ/ホロライブ】",
+        "title": "【 PUBG 】明日はリサCUPなので操作を… w/ミミたや、アステル、のあ→渋ハル　【常闇トワ/ホロライブ】",
         "video_id": "hIWW9gvcYJE"
       },
       "name": "常闇トワ"
@@ -242,11 +242,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-06T10:00:17Z",
-        "title": "【トルネコの大冒険】ちょっとステキなリマスター！で99階チャレンジするために一発クリアを目指せ！【博衣こより/ホロライブ】",
-        "video_id": "aVn9nxlffqs"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -594,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T16:00:53Z"
+  "generated_at": "2026-10-06T16:10:35Z"
 }
