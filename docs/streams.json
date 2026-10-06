@@ -561,7 +561,14 @@
         "title": "【hololive Dreams ホロライブドリームス】WE HOLO THE DREAMSSSSS【hololive holoro | Anya Melfissa】",
         "video_id": "ywYTR7ACjj4"
       },
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T03:00:00Z",
+          "title": "【BanG Dream! Our Notes】Reading the Rest of millsage's Main Story!【hololive holoro | Anya】",
+          "video_id": "4eE6-W3Btrc"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -584,5 +591,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T16:20:36Z"
+  "generated_at": "2026-10-06T16:30:40Z"
 }
