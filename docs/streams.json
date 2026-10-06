@@ -18,11 +18,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-06T10:01:27Z",
-        "title": "【バイオハザード６】ポンコツバイオでゆくレオン・ヘレナ編クリア耐久【ホロライブ/#みこったかにぇ】",
-        "video_id": "TIJctYljVA0"
-      },
       "name": "さくらみこ",
       "upcoming": [
         {
@@ -195,11 +190,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-06T13:02:54Z",
-        "title": "【妹に運転を教える】俺は無免許の長女だから教えられた【尾丸ポルカ/ホロライブ】",
-        "video_id": "f11FZtZeA7s"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -222,11 +212,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-06T10:01:22Z",
-        "title": "【 バイオハザード6 】ポンコツ同士でも1日でクリアできるんですか？レオン・ヘレナ編【#みこったかにぇ/ホロライブ】ネタバレあり",
-        "video_id": "WmmhxWD1j2s"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -573,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T17:30:37Z"
+  "generated_at": "2026-10-06T17:50:37Z"
 }
