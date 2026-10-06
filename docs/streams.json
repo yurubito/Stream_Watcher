@@ -428,7 +428,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T01:00:00Z",
+          "title": "【Five Nights at Freddy's: Security Breach】Now with monitoring heart rate",
+          "video_id": "bxPTC-TCHQo"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -558,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T17:50:37Z"
+  "generated_at": "2026-10-06T18:40:39Z"
 }
