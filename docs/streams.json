@@ -141,11 +141,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-06T09:00:12Z",
-        "title": "【#ホロ甲2026】大分の白銀学院高校！３年目の春！！夏の甲子園出場を目指して！【白銀ノエル/ホロライブ】",
-        "video_id": "_y1ayUIJWBo"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -173,14 +168,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T13:00:00Z",
-          "title": "【 PUBG 】明日はリサCUPなので操作を… w/ミミたや、のあ、アステル【常闇トワ/ホロライブ】",
-          "video_id": "hIWW9gvcYJE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T13:07:01Z",
+        "title": "【 PUBG 】明日はリサCUPなので操作を… w/ミミたや、のあ、アステル【常闇トワ/ホロライブ】",
+        "video_id": "hIWW9gvcYJE"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -205,14 +198,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T13:00:00Z",
-          "title": "【妹に運転を教える】俺は無免許の長女だから教えられた【尾丸ポルカ/ホロライブ】",
-          "video_id": "f11FZtZeA7s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T13:02:54Z",
+        "title": "【妹に運転を教える】俺は無免許の長女だから教えられた【尾丸ポルカ/ホロライブ】",
+        "video_id": "f11FZtZeA7s"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -404,14 +395,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T13:00:00Z",
-          "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
-          "video_id": "3L3tjTbKPwo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T13:01:51Z",
+        "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
+        "video_id": "3L3tjTbKPwo"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -421,11 +410,6 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-06T13:00:11Z",
-        "title": "My car is in danger - IRyS【Original Song 3D MV】",
-        "video_id": "pIJX76AVP5M"
-      },
       "name": "IRyS"
     },
     {
@@ -541,6 +525,11 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-06T12:51:03Z",
+        "title": "【hololive Dreams】 PARTY IN DREAMS!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "JpiGbdrtGZA"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -568,14 +557,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T13:00:00Z",
-          "title": "【hololive Dreams】Pavonashi Beach Vacay in Soda Pop Lagoon!!! #holodori【Pavolia Reine/hololive】",
-          "video_id": "E9s4eVlRwzs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T13:01:59Z",
+        "title": "【hololive Dreams】Pavonashi Beach Vacay in Soda Pop Lagoon!!! #holodori【Pavolia Reine/hololive】",
+        "video_id": "E9s4eVlRwzs"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -603,5 +590,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T13:00:54Z"
+  "generated_at": "2026-10-06T13:10:46Z"
 }
