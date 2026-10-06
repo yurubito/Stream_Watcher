@@ -391,7 +391,19 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T23:00:00Z",
+          "title": "【hololive Dreams】dreams of gigi murin #calliolive #holodori",
+          "video_id": "yUsPfDw6hEw"
+        },
+        {
+          "scheduled_at": "2026-10-08T00:00:00Z",
+          "title": "【ZELDA: OCARINA OF TIME】tater wemple (part 6) #calliolive",
+          "video_id": "pvoF6UyXYNI"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -568,5 +580,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T07:00:54Z"
+  "generated_at": "2026-10-06T07:30:49Z"
 }
