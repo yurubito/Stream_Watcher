@@ -77,23 +77,16 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T14:30:00Z",
-          "title": "【#ホロドリ】釣り開放するまで終われない配信📣 【ホロライブ/癒月ちょこ】",
-          "video_id": "J8ZF7d2M-qk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T14:30:06Z",
+        "title": "【#ホロドリ】釣り開放するまで終われない配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "J8ZF7d2M-qk"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-06T12:01:21Z",
-        "title": "【#生スバル】人間が剣を振るう時代は終わりました。時代はーーー:Dinoblade【ホロライブ/大空スバル】",
-        "video_id": "KmNhWB4fcFI"
-      },
       "name": "大空スバル"
     },
     {
@@ -493,17 +486,19 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-06T12:03:22Z",
-        "title": "【hololive Dreams】 FIRST PLAY, FIRST COLLAB #holodori #ホロドリ 【Ayunda Risu】",
-        "video_id": "hXmclHy8JDw"
-      },
       "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T15:00:00Z",
+          "title": "【Hololive Dreams】Pokajan!【hololive | moona】",
+          "video_id": "jRslRJEYD6g"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -575,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T14:10:35Z"
+  "generated_at": "2026-10-06T14:30:40Z"
 }
