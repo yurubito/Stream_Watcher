@@ -13,7 +13,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T11:00:00Z",
+          "title": "【#ホロドリ】#RosaMiA チーム対抗！スプラッシュボール視聴者参加型バトル💥 hololive Dreams【ホロライブ / AZKi】",
+          "video_id": "nZQnvkZtXgY"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -406,6 +413,11 @@
           "video_id": "yUsPfDw6hEw"
         },
         {
+          "scheduled_at": "2026-10-07T01:00:00Z",
+          "title": "【hi】hello!! chatting, drawing and reading anniversary messages!!! in raku! #calliolive",
+          "video_id": "73TXdhcOIL4"
+        },
+        {
           "scheduled_at": "2026-10-08T00:00:00Z",
           "title": "【ZELDA: OCARINA OF TIME】tater wemple (part 6) #calliolive",
           "video_id": "pvoF6UyXYNI"
@@ -587,5 +599,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T07:50:26Z"
+  "generated_at": "2026-10-06T08:01:02Z"
 }
