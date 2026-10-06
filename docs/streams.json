@@ -245,7 +245,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T03:30:00Z",
+          "title": "【番外編】限界飯はなぜ動画シリーズになったのか？【りりらでん限界対談】",
+          "video_id": "jgs6vYj8dwQ"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -518,11 +525,6 @@
       "name": "クレイジー・オリー",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-07T02:00:00Z",
-          "title": "【Dressmaker】 Pt.6: MAKING DRESSES FOR CLIENTS SO THAT WE CAN PROGRESS THE STORY 【Kureiji Ollie】",
-          "video_id": "59Pbq66VTBw"
-        },
-        {
           "scheduled_at": "2026-10-12T15:30:00Z",
           "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAY WITH YOU!! 【Kureiji Ollie】",
           "video_id": "sX-z3lGc-8E"
@@ -565,5 +567,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T14:40:28Z"
+  "generated_at": "2026-10-06T14:50:29Z"
 }
