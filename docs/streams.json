@@ -90,6 +90,11 @@
       "name": "大空スバル",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-07T09:00:00Z",
+          "title": "【#アヒヨコ】プールを経営して爆稼ぎしゅばああああああああああああああああああああああああああああああああ！！！！！！：Waterpark Simulator【ホロライブ/大空スバル】",
+          "video_id": "8ydoQLxJyc4"
+        },
+        {
           "scheduled_at": "2026-10-07T12:00:00Z",
           "title": "【】【ホロライブ/大空スバル】",
           "video_id": "xhYUcXSiiz4"
@@ -589,5 +594,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T15:30:48Z"
+  "generated_at": "2026-10-06T15:50:34Z"
 }
