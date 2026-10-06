@@ -463,7 +463,14 @@
         "title": "【Free Preview】IRyS 1st Concert “HOPE ||: Beyond the Stars”【#IRySConcert2026】",
         "video_id": "5eK3iWd0FQ0"
       },
-      "name": "IRyS"
+      "name": "IRyS",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T13:00:00Z",
+          "title": "???",
+          "video_id": "pIJX76AVP5M"
+        }
+      ]
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -630,5 +637,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T09:10:27Z"
+  "generated_at": "2026-10-06T09:30:59Z"
 }
