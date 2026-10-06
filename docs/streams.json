@@ -283,7 +283,14 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T13:00:00Z",
+          "title": "【BOMBANANA!】仲良く爆弾解除…💣だよね？？【水宮枢／ホロライブ】",
+          "video_id": "r9WlsCrnq6M"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -428,14 +435,7 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T01:00:00Z",
-          "title": "【Five Nights at Freddy's: Security Breach】Now with monitoring heart rate",
-          "video_id": "bxPTC-TCHQo"
-        }
-      ]
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -565,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T18:40:39Z"
+  "generated_at": "2026-10-06T18:50:32Z"
 }
