@@ -198,7 +198,19 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス"
+      "name": "ラプラス・ダークネス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T06:00:00Z",
+          "title": "【配信予定】韓国語勉強する第二弾",
+          "video_id": "sQlSXKR3uKE"
+        },
+        {
+          "scheduled_at": "2026-10-13T12:00:00Z",
+          "title": "【配信予定】holoXコラボ配信",
+          "video_id": "pGHdBSGFLqY"
+        }
+      ]
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -390,12 +402,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-06T13:01:51Z",
-        "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
-        "video_id": "3L3tjTbKPwo"
-      },
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T13:00:00Z",
+          "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
+          "video_id": "JOHgIEKEYeU"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -488,14 +502,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T15:00:00Z",
-          "title": "【The Dandelion Endures.】A VERY DURABLE FLOWER",
-          "video_id": "L0u4JCHYWfU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T15:04:16Z",
+        "title": "【The Dandelion Endures.】A VERY DURABLE FLOWER",
+        "video_id": "L0u4JCHYWfU"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -508,7 +520,7 @@
       "name": "ムーナ・ホシノヴァ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-06T15:00:00Z",
+          "scheduled_at": "2026-10-06T15:30:00Z",
           "title": "【Hololive Dreams】Pokajan!【hololive | moona】",
           "video_id": "jRslRJEYD6g"
         }
@@ -520,7 +532,7 @@
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-06T15:00:00Z",
+          "scheduled_at": "2026-10-06T15:30:00Z",
           "title": "【#holodori 】Another iomoon Date! @MoonaHoshinova 【 iofi / hololive】",
           "video_id": "J9hnmOq6TI0"
         }
@@ -551,11 +563,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-06T13:01:59Z",
-        "title": "【hololive Dreams】Pavonashi Beach Vacay in Soda Pop Lagoon!!! #holodori【Pavolia Reine/hololive】",
-        "video_id": "E9s4eVlRwzs"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -574,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T15:01:04Z"
+  "generated_at": "2026-10-06T15:10:36Z"
 }
