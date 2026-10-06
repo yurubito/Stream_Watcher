@@ -246,14 +246,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T22:00:00Z",
-          "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY4🎣【風真いろは/ホロライブ】",
-          "video_id": "K34u3EQ6ayw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T22:00:32Z",
+        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY4🎣【風真いろは/ホロライブ】",
+        "video_id": "K34u3EQ6ayw"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -339,13 +337,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-06T21:59:39Z",
+        "title": "【#のじゃEnglish】DuolingoでStudy Englishですのじゃー！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "Nz2BKo9T7SY"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T22:00:00Z",
-          "title": "【#のじゃEnglish】DuolingoでStudy Englishですのじゃー！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "Nz2BKo9T7SY"
-        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【てあカノ】これのデート抜きが実況【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -378,21 +376,11 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-06T11:59:36Z",
-        "title": "#１　50勝するまでオーバーウォッチ!!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "aIKY8VkQoDU"
-      },
       "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-06T11:59:32Z",
-        "title": "#1 50勝するまで終わらないオーバーウォッチ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "p3VTGL5C2BM"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -613,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T21:50:35Z"
+  "generated_at": "2026-10-06T22:00:40Z"
 }
