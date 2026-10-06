@@ -97,14 +97,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "【#生スバル】人間が剣を振るう時代は終わりました。時代はーーー:Dinoblade【ホロライブ/大空スバル】",
-          "video_id": "KmNhWB4fcFI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T12:01:21Z",
+        "title": "【#生スバル】人間が剣を振るう時代は終わりました。時代はーーー:Dinoblade【ホロライブ/大空スバル】",
+        "video_id": "KmNhWB4fcFI"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -173,13 +171,13 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-06T12:02:30Z",
+        "title": "【 #凶乱令嬢 】第１話！同時視聴しませんか？オープニングテーマ『リスポーン!!』もついに解禁！！【角巻わため/ホロライブ４期生】",
+        "video_id": "bKe51HBcG_4"
+      },
       "name": "角巻わため",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "【 #凶乱令嬢 】第１話！同時視聴しませんか？オープニングテーマ『リスポーン!!』もついに解禁！！【角巻わため/ホロライブ４期生】",
-          "video_id": "bKe51HBcG_4"
-        },
         {
           "scheduled_at": "2026-10-06T14:00:00Z",
           "title": "【リスポーン!!先行配信待機枠】お喋りしながら正座待機！！！【角巻わため/ホロライブ４期生】",
@@ -222,7 +220,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T13:00:00Z",
+          "title": "【妹に運転を教える】俺は無免許の長女だから教えられた【尾丸ポルカ/ホロライブ】",
+          "video_id": "f11FZtZeA7s"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -450,16 +455,18 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー"
+      "name": "オーロ・クロニー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T02:00:00Z",
+          "title": "【1-2-Switch】Promise 3D Off Collab + Announcement​",
+          "video_id": "8HOdd59nt3M"
+        }
+      ]
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-06T09:01:06Z",
-        "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
-        "video_id": "zrEseXtUDNU"
-      },
       "name": "ハコス・ベールズ"
     },
     {
@@ -538,14 +545,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "【hololive Dreams】 FIRST PLAY, FIRST COLLAB #holodori #ホロドリ 【Ayunda Risu】",
-          "video_id": "hXmclHy8JDw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T12:03:22Z",
+        "title": "【hololive Dreams】 FIRST PLAY, FIRST COLLAB #holodori #ホロドリ 【Ayunda Risu】",
+        "video_id": "hXmclHy8JDw"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -577,14 +582,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】WE HOLO THE DREAMSSSSS【hololive holoro | Anya Melfissa】",
-          "video_id": "ywYTR7ACjj4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T12:05:34Z",
+        "title": "【hololive Dreams ホロライブドリームス】WE HOLO THE DREAMSSSSS【hololive holoro | Anya Melfissa】",
+        "video_id": "ywYTR7ACjj4"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -601,14 +604,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "【hololive Dreams】awake or not here i come #holodori #ホロドリ",
-          "video_id": "zQYztohcqME"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T12:03:06Z",
+        "title": "【hololive Dreams】awake or not here i come #holodori #ホロドリ",
+        "video_id": "zQYztohcqME"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -618,15 +619,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "【hololive Dreams】Dialy holodori... #holodori #ホロドリ",
-          "video_id": "FFH9wmgDjJo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T12:01:51Z",
+        "title": "【hololive Dreams】Dialy holodori... #holodori #ホロドリ",
+        "video_id": "FFH9wmgDjJo"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T12:00:44Z"
+  "generated_at": "2026-10-06T12:10:40Z"
 }
