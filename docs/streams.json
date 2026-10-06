@@ -72,23 +72,16 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T11:00:00Z",
-          "title": "【Don't Drop The Cake】姉を自称する奇妙な猫から送られてきた奇妙なゲームで遊ぶ【ホロライブ/白上フブキ】",
-          "video_id": "SxeyTYVya0s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T11:03:37Z",
+        "title": "【Don't Drop The Cake】姉を自称する奇妙な猫から送られてきた奇妙なゲームで遊ぶ【ホロライブ/白上フブキ】",
+        "video_id": "SxeyTYVya0s"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-06T10:00:44Z",
-        "title": "【 SPAGHET 】スバルからパスタの宅配です🍝【ホロライブ/夏色まつり】",
-        "video_id": "PSZCVpDgW5Q"
-      },
       "name": "夏色まつり"
     },
     {
@@ -611,5 +604,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T11:01:04Z"
+  "generated_at": "2026-10-06T11:10:22Z"
 }
