@@ -26,7 +26,7 @@
           "video_id": "TIJctYljVA0"
         },
         {
-          "scheduled_at": "2026-10-07T11:00:00Z",
+          "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【えかきうた大合戦】✨絵心あるおれたちの戦い✨【ホロライブ/さくらみこ】",
           "video_id": "hSJKa-b1VpM"
         },
@@ -67,7 +67,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T11:00:00Z",
+          "title": "【Don't Drop The Cake】姉を自称する奇妙な猫から送られてきた奇妙なゲームで遊ぶ【ホロライブ/白上フブキ】",
+          "video_id": "SxeyTYVya0s"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -108,6 +115,11 @@
       "group": "JP ゲーマーズ",
       "name": "大神ミオ",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T11:00:00Z",
+          "title": "【ホロドリ】RosaMiAで遊ぶ視聴者参加型！ミオファのみんな集合～～！【大神ミオ視点】",
+          "video_id": "80hzRYQd8Ks"
+        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
@@ -152,7 +164,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T09:00:00Z",
+          "title": "【#ホロ甲2026】大分の白銀学院高校！３年目の春！！夏の甲子園出場を目指して！【白銀ノエル/ホロライブ】",
+          "video_id": "_y1ayUIJWBo"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -292,11 +311,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-06T03:01:26Z",
-        "title": "【#ホロドリ 】お昼のホロドリ！！みんなまったりしよ～！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "Gfwq-R1Cdhw"
-      },
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
@@ -311,6 +325,11 @@
       "group": "アソビ★まわり隊！",
       "name": "熱千めら",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T10:00:00Z",
+          "title": "【過言】熱千めらが9割くらいわかる動画なのじゃ【ホロライブ】",
+          "video_id": "hyIBT46FaE8"
+        },
         {
           "scheduled_at": "2026-10-06T22:00:00Z",
           "title": "【#のじゃEnglish】DuolingoでStudy Englishですのじゃー！【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -343,7 +362,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T12:00:00Z",
+          "title": "#１　50勝するまでオーバーウォッチ!!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "aIKY8VkQoDU"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -497,11 +523,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-06T02:13:07Z",
-        "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SLEEPY OLLIE SINGS IN THE MORNING 【Kureiji Ollie】",
-        "video_id": "YIhZklHVwPU"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -534,14 +555,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T06:00:00Z",
-          "title": "【hololive Dreams】hmmm what should SMITTEN do today【#holodori】",
-          "video_id": "HucXvavmB7U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T06:00:58Z",
+        "title": "【hololive Dreams】hmmm what should SMITTEN do today【#holodori】",
+        "video_id": "HucXvavmB7U"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -549,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T06:40:26Z"
+  "generated_at": "2026-10-06T07:00:54Z"
 }
