@@ -181,14 +181,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T09:00:00Z",
-          "title": "【#ホロ甲2026】大分の白銀学院高校！３年目の春！！夏の甲子園出場を目指して！【白銀ノエル/ホロライブ】",
-          "video_id": "_y1ayUIJWBo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T09:00:12Z",
+        "title": "【#ホロ甲2026】大分の白銀学院高校！３年目の春！！夏の甲子園出場を目指して！【白銀ノエル/ホロライブ】",
+        "video_id": "_y1ayUIJWBo"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -340,14 +338,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T09:00:00Z",
-          "title": "【 カメラ 】流行りの無限シャーベット作る！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "-140TrKzKH8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T09:00:18Z",
+        "title": "【 カメラ 】流行りの無限シャーベット作る！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "-140TrKzKH8"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -459,14 +455,12 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T09:00:00Z",
-          "title": "【Free Preview】IRyS 1st Concert “HOPE ||: Beyond the Stars”【#IRySConcert2026】",
-          "video_id": "5eK3iWd0FQ0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T09:00:14Z",
+        "title": "【Free Preview】IRyS 1st Concert “HOPE ||: Beyond the Stars”【#IRySConcert2026】",
+        "video_id": "5eK3iWd0FQ0"
+      },
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -554,7 +548,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T12:00:00Z",
+          "title": "【hololive Dreams】 FIRST PLAY, FIRST COLLAB #holodori #ホロドリ 【Ayunda Risu】",
+          "video_id": "hXmclHy8JDw"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -628,5 +629,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T08:50:41Z"
+  "generated_at": "2026-10-06T09:00:44Z"
 }
