@@ -223,14 +223,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T09:00:00Z",
-          "title": "妹に運転を教えたる！！！！！！！！！【 桃鈴ねね / hololive 】",
-          "video_id": "O2sEArIem4k"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T09:01:46Z",
+        "title": "妹に運転を教えたる！！！！！！！！！【 桃鈴ねね / hololive 】",
+        "video_id": "O2sEArIem4k"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -268,6 +266,11 @@
           "scheduled_at": "2026-10-06T10:00:00Z",
           "title": "【トルネコの大冒険】ちょっとステキなリマスター！で99階チャレンジするために一発クリアを目指せ！【博衣こより/ホロライブ】",
           "video_id": "aVn9nxlffqs"
+        },
+        {
+          "scheduled_at": "2026-10-07T09:00:00Z",
+          "title": "【 #ホロドリ 】新水着ガチャコンプするぞおおおお！！！来い！ラミたん！ポルポル！りりか！凸しろ！！【博衣こより/ホロライブ】",
+          "video_id": "hWnDLFIprx4"
         },
         {
           "scheduled_at": "2026-10-07T12:00:00Z",
@@ -470,14 +473,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T09:00:00Z",
-          "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
-          "video_id": "zrEseXtUDNU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T09:01:06Z",
+        "title": "≪#IRySConcert2026≫ IRyS 1st Concert “HOPE ||: Beyond the Stars\" WATCHALONG!",
+        "video_id": "zrEseXtUDNU"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -629,5 +630,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T09:00:44Z"
+  "generated_at": "2026-10-06T09:10:27Z"
 }
