@@ -13,14 +13,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T11:00:00Z",
-          "title": "【#ホロドリ】#RosaMiA チーム対抗！スプラッシュボール視聴者参加型バトル💥 hololive Dreams【ホロライブ / AZKi】",
-          "video_id": "nZQnvkZtXgY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T11:00:42Z",
+        "title": "【#ホロドリ】#RosaMiA チーム対抗！スプラッシュボール視聴者参加型バトル💥 hololive Dreams【ホロライブ / AZKi】",
+        "video_id": "nZQnvkZtXgY"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -52,13 +50,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-06T11:00:43Z",
+        "title": "【#ホロドリ 】#RosaMiA チーム対抗すぷらっしゅボール視聴者参加バトル💥🥊 【ホロライブ/アキロゼ】",
+        "video_id": "o3Rp1OxpSgQ"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T11:00:00Z",
-          "title": "【#ホロドリ 】#RosaMiA チーム対抗すぷらっしゅボール視聴者参加バトル💥🥊 【ホロライブ/アキロゼ】",
-          "video_id": "o3Rp1OxpSgQ"
-        },
         {
           "scheduled_at": "2026-10-12T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち？｜ちょこのお悩み相談室～深夜のひとくちラジオ～",
@@ -110,7 +108,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "【】人間が剣を振るう時代は終わりました。時代はーーー【ホロライブ/大空スバル】",
+          "title": "【#生スバル】人間が剣を振るう時代は終わりました。時代はーーー:Dinoblade【ホロライブ/大空スバル】",
           "video_id": "KmNhWB4fcFI"
         }
       ]
@@ -118,13 +116,13 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-10-06T11:00:42Z",
+        "title": "【ホロドリ】RosaMiAで遊ぶ視聴者参加型！ミオファのみんな集合～～！【大神ミオ視点】",
+        "video_id": "80hzRYQd8Ks"
+      },
       "name": "大神ミオ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T11:00:00Z",
-          "title": "【ホロドリ】RosaMiAで遊ぶ視聴者参加型！ミオファのみんな集合～～！【大神ミオ視点】",
-          "video_id": "80hzRYQd8Ks"
-        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
@@ -140,25 +138,23 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T11:00:00Z",
-          "title": "【映画紹介】映画『バイオハザード』最新作レビュー！！《現代ホラー界の鬼才》ザック・クレッガー監督に特別インタビューしてきた！",
-          "video_id": "JLALCjMzjTM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T11:00:07Z",
+        "title": "【映画紹介】映画『バイオハザード』最新作レビュー！！《現代ホラー界の鬼才》ザック・クレッガー監督に特別インタビューしてきた！",
+        "video_id": "JLALCjMzjTM"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-10-06T11:00:13Z",
+        "title": "【steam】オータムセール！ホロメンにsteamのゲームプレゼントする！【ホロライブ/兎田ぺこら】",
+        "video_id": "j2KSkADnzeg"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T11:00:00Z",
-          "title": "【steam】オータムセール！ホロメンにsteamのゲームプレゼントする！【ホロライブ/兎田ぺこら】",
-          "video_id": "j2KSkADnzeg"
-        },
         {
           "scheduled_at": "2026-10-07T11:00:00Z",
           "title": "【超朗報アリ！】全員一致クイズで3期生の絆を確かめる！ぺこ！【3D】",
@@ -278,7 +274,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T11:30:00Z",
+          "title": "【 歌枠 】rakuをつかってゆるく歌ってみる【音乃瀬奏】#ReGLOSS",
+          "video_id": "irjNowlxPMc"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -343,6 +346,11 @@
           "scheduled_at": "2026-10-06T22:00:00Z",
           "title": "【#のじゃEnglish】DuolingoでStudy Englishですのじゃー！【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "Nz2BKo9T7SY"
+        },
+        {
+          "scheduled_at": "2026-10-07T10:00:00Z",
+          "title": "【てあカノ】これのデート抜きが実況【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "9OrfCLv9QKY"
         },
         {
           "scheduled_at": "2028-09-24T10:00:00Z",
@@ -603,5 +611,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T10:50:24Z"
+  "generated_at": "2026-10-06T11:01:04Z"
 }
