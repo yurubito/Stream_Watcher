@@ -576,7 +576,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T13:00:00Z",
+          "title": "【hololive Dreams】Pavonashi Beach Vacay in Soda Pop Lagoon!!! #holodori【Pavolia Reine/hololive】",
+          "video_id": "E9s4eVlRwzs"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -599,5 +606,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T08:01:02Z"
+  "generated_at": "2026-10-06T08:10:26Z"
 }
