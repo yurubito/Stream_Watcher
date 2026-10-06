@@ -564,7 +564,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T06:00:00Z",
+          "title": "【hololive Dreams】COMPLETING GOLD CROWN FISH! w/ Raora's luck🎣👑【#holodori】",
+          "video_id": "w8YJY2D608E"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -572,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T18:56:19Z"
+  "generated_at": "2026-10-06T19:40:29Z"
 }
