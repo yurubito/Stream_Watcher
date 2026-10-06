@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-06T11:00:42Z",
-        "title": "【#ホロドリ】#RosaMiA チーム対抗！スプラッシュボール視聴者参加型バトル💥 hololive Dreams【ホロライブ / AZKi】",
-        "video_id": "nZQnvkZtXgY"
-      },
       "name": "AZKi"
     },
     {
@@ -50,11 +45,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-06T11:00:43Z",
-        "title": "【#ホロドリ 】#RosaMiA チーム対抗すぷらっしゅボール視聴者参加バトル💥🥊 【ホロライブ/アキロゼ】",
-        "video_id": "o3Rp1OxpSgQ"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -107,11 +97,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-06T11:00:42Z",
-        "title": "【ホロドリ】RosaMiAで遊ぶ視聴者参加型！ミオファのみんな集合～～！【大神ミオ視点】",
-        "video_id": "80hzRYQd8Ks"
-      },
       "name": "大神ミオ",
       "upcoming": [
         {
@@ -281,11 +266,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-06T11:30:34Z",
-        "title": "【 歌枠 】rakuを使ってゆるく歌ってみる【音乃瀬奏】#ReGLOSS",
-        "video_id": "irjNowlxPMc"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -627,5 +607,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T12:20:29Z"
+  "generated_at": "2026-10-06T12:40:31Z"
 }
