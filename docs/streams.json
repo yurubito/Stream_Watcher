@@ -202,7 +202,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T10:00:00Z",
+          "title": "【 バイオハザード6 】ポンコツ同士でも1日でクリアできるんですか？レオン・ヘレナ編【#みこったかにぇ/ホロライブ】ネタバレあり",
+          "video_id": "WmmhxWD1j2s"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -219,11 +226,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-05T22:00:01Z",
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY3🎣【風真いろは/ホロライブ】",
-        "video_id": "0_DX6RJ4a0s"
-      },
       "name": "風真いろは"
     },
     {
@@ -276,7 +278,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T03:00:00Z",
+          "title": "【#ホロドリ 】お昼のホロドリ！！みんなまったりしよ～！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "Gfwq-R1Cdhw"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -536,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-05T23:20:31Z"
+  "generated_at": "2026-10-06T00:01:04Z"
 }
