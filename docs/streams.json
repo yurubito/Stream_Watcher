@@ -490,13 +490,13 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-06T02:13:07Z",
+        "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SLEEPY OLLIE SINGS IN THE MORNING 【Kureiji Ollie】",
+        "video_id": "YIhZklHVwPU"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T02:00:00Z",
-          "title": "【UNARCHIVED KARAOKE -  残さない歌枠 】 SLEEPY OLLIE SINGS IN THE MORNING 【Kureiji Ollie】",
-          "video_id": "YIhZklHVwPU"
-        },
         {
           "scheduled_at": "2026-10-07T02:00:00Z",
           "title": "【Dressmaker】 Pt.6: MAKING DRESSES FOR CLIENTS SO THAT WE CAN PROGRESS THE STORY 【Kureiji Ollie】",
@@ -542,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T02:50:26Z"
+  "generated_at": "2026-10-06T03:00:53Z"
 }
