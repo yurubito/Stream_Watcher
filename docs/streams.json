@@ -439,7 +439,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-06T13:00:00Z",
-          "title": "???",
+          "title": "My car is in danger - IRyS【Original Song 3D MV】",
           "video_id": "pIJX76AVP5M"
         }
       ]
@@ -506,7 +506,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T23:00:00Z",
+          "title": "【hololive Dreams】PLAYING WITH A CELEBRITY!!! @MoriCalliope #holodori",
+          "video_id": "nUYSD8jXufM"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -618,5 +625,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T11:30:58Z"
+  "generated_at": "2026-10-06T11:50:39Z"
 }
