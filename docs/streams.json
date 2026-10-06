@@ -296,14 +296,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T13:00:00Z",
-          "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#8【水宮枢／ホロライブDEV_IS】※ネタバレ有",
-          "video_id": "rXjkqFLbiqI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T13:00:37Z",
+        "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#8【水宮枢／ホロライブDEV_IS】※ネタバレ有",
+        "video_id": "rXjkqFLbiqI"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -423,14 +421,12 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T13:00:00Z",
-          "title": "My car is in danger - IRyS【Original Song 3D MV】",
-          "video_id": "pIJX76AVP5M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T13:00:11Z",
+        "title": "My car is in danger - IRyS【Original Song 3D MV】",
+        "video_id": "pIJX76AVP5M"
+      },
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -607,5 +603,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T12:40:31Z"
+  "generated_at": "2026-10-06T13:00:54Z"
 }
