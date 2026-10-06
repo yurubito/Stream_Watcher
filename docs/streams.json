@@ -62,11 +62,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-06T11:03:37Z",
-        "title": "【Don't Drop The Cake】姉を自称する奇妙な猫から送られてきた奇妙なゲームで遊ぶ【ホロライブ/白上フブキ】",
-        "video_id": "SxeyTYVya0s"
-      },
       "name": "白上フブキ"
     },
     {
@@ -82,7 +77,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T14:30:00Z",
+          "title": "【#ホロドリ】釣り開放するまで終われない配信📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "J8ZF7d2M-qk"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -515,7 +517,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T15:00:00Z",
+          "title": "【#holodori 】Another iomoon Date! @MoonaHoshinova 【 iofi / hololive】",
+          "video_id": "J9hnmOq6TI0"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -577,13 +586,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-06T12:01:51Z",
-        "title": "【hololive Dreams】Dialy holodori... #holodori #ホロドリ",
-        "video_id": "FFH9wmgDjJo"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T13:40:49Z"
+  "generated_at": "2026-10-06T13:50:43Z"
 }
