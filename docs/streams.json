@@ -131,11 +131,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-06T11:00:07Z",
-        "title": "【映画紹介】映画『バイオハザード』最新作レビュー！！《現代ホラー界の鬼才》ザック・クレッガー監督に特別インタビューしてきた！",
-        "video_id": "JLALCjMzjTM"
-      },
       "name": "戌神ころね"
     },
     {
@@ -271,7 +266,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-06T11:30:00Z",
-          "title": "【 歌枠 】rakuをつかってゆるく歌ってみる【音乃瀬奏】#ReGLOSS",
+          "title": "【 歌枠 】rakuを使ってゆるく歌ってみる【音乃瀬奏】#ReGLOSS",
           "video_id": "irjNowlxPMc"
         }
       ]
@@ -604,5 +599,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T11:10:22Z"
+  "generated_at": "2026-10-06T11:20:34Z"
 }
