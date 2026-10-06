@@ -351,11 +351,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-05T23:06:16Z",
-        "title": "【hololive Dreams】POKAJAN? POKAJAN. #calliolive #holodori",
-        "video_id": "GlGQAjenYqs"
-      },
       "name": "森カリオペ"
     },
     {
@@ -373,11 +368,6 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-05T23:07:04Z",
-        "title": "【hololive Dreams】Return of the Ghost of Pokajan @HakosBaelz @MoriCalliope",
-        "video_id": "qfV_Xy-6HCo"
-      },
       "name": "一伊那尓栖"
     },
     {
@@ -400,11 +390,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-05T23:06:19Z",
-        "title": "≪hololive Dreams≫ +1890 coins #holodori",
-        "video_id": "6KQSmoJPNbE"
-      },
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
@@ -550,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T00:20:33Z"
+  "generated_at": "2026-10-06T00:30:47Z"
 }
