@@ -264,7 +264,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T22:00:00Z",
+          "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY4🎣【風真いろは/ホロライブ】",
+          "video_id": "K34u3EQ6ayw"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -367,26 +374,22 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "#１　50勝するまでオーバーウォッチ!!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "aIKY8VkQoDU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T11:59:36Z",
+        "title": "#１　50勝するまでオーバーウォッチ!!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "aIKY8VkQoDU"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T12:00:00Z",
-          "title": "#1 50勝するまで終わらないオーバーウォッチ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "p3VTGL5C2BM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T11:59:32Z",
+        "title": "#1 50勝するまで終わらないオーバーウォッチ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "p3VTGL5C2BM"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -625,5 +628,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T11:50:39Z"
+  "generated_at": "2026-10-06T12:00:44Z"
 }
