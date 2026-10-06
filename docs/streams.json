@@ -77,7 +77,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T14:30:00Z",
+          "title": "【#ホロドリ】釣り開放するまで終われない配信📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "J8ZF7d2M-qk"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -141,14 +148,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T14:00:00Z",
-          "title": "【リスポーン!!先行配信待機枠】お喋りしながら正座待機！！！【角巻わため/ホロライブ４期生】",
-          "video_id": "YdWKF9y7hUI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T14:02:43Z",
+        "title": "【リスポーン!!先行配信待機枠】お喋りしながら正座待機！！！【角巻わため/ホロライブ４期生】",
+        "video_id": "YdWKF9y7hUI"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -282,14 +287,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T14:00:00Z",
-          "title": "【ガチロング縦列駐車】ガチ運転手の駐車テク！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "Is6OUDkE3ko"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T14:01:15Z",
+        "title": "【ガチロング縦列駐車】ガチ運転手の駐車テク！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "Is6OUDkE3ko"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -572,5 +575,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T14:00:51Z"
+  "generated_at": "2026-10-06T14:10:35Z"
 }
