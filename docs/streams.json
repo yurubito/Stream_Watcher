@@ -151,6 +151,11 @@
       "name": "角巻わため",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-07T08:00:00Z",
+          "title": "【 タンポポは耐える。 】リスポーン!!したらタンポポになっていた件【角巻わため/ホロライブ４期生】",
+          "video_id": "it7I4rT8pzg"
+        },
+        {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【Animation MV】リスポーン!!／角巻わため【original】",
           "video_id": "yhJ1yAqATmQ"
@@ -322,7 +327,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T03:00:00Z",
+          "title": "【#ホロドリ 】お昼のホロドリ！！新エリアクリア目指してまったり～！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "OI3C8844QuU"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -601,5 +613,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T21:30:36Z"
+  "generated_at": "2026-10-06T21:50:35Z"
 }
