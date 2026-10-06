@@ -135,7 +135,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T11:00:00Z",
+          "title": "【超朗報アリ！】全員一致クイズで3期生の絆を確かめる！ぺこ！【3D】",
+          "video_id": "Kub1-xkf2Bk"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -535,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T00:30:47Z"
+  "generated_at": "2026-10-06T02:50:26Z"
 }
