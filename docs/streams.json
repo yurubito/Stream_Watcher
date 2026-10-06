@@ -190,7 +190,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T13:00:00Z",
+          "title": "【 PUBG 】明日はリサCUPなので操作を… w/ミミたや、のあ、アステル【常闇トワ/ホロライブ】",
+          "video_id": "hIWW9gvcYJE"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -262,14 +269,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T11:30:00Z",
-          "title": "【 歌枠 】rakuを使ってゆるく歌ってみる【音乃瀬奏】#ReGLOSS",
-          "video_id": "irjNowlxPMc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T11:30:34Z",
+        "title": "【 歌枠 】rakuを使ってゆるく歌ってみる【音乃瀬奏】#ReGLOSS",
+        "video_id": "irjNowlxPMc"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -562,7 +567,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T12:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】WE HOLO THE DREAMSSSSS【hololive holoro | Anya Melfissa】",
+          "video_id": "ywYTR7ACjj4"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -579,7 +591,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T12:00:00Z",
+          "title": "【hololive Dreams】awake or not here i come #holodori #ホロドリ",
+          "video_id": "zQYztohcqME"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -599,5 +618,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T11:20:34Z"
+  "generated_at": "2026-10-06T11:30:58Z"
 }
