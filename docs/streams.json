@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-06T08:38:27Z",
-        "title": "【  ＃ホロドリ 】そろそろメガスフィアも終わって釣りですか！？？【ホロライブ/ ロボ子さん 】",
-        "video_id": "EM9dYO4JSHE"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -347,11 +342,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-06T10:00:07Z",
-        "title": "【過言】熱千めらが9割くらいわかる動画なのじゃ【ホロライブ】",
-        "video_id": "hyIBT46FaE8"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -369,11 +359,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-06T08:15:48Z",
-        "title": "ノーベル物理学賞の発表を同時視聴しよっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "tMfmWmjvI5U"
-      },
       "name": "宙科そぴあ",
       "upcoming": [
         {
@@ -623,5 +608,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T10:10:25Z"
+  "generated_at": "2026-10-06T10:20:29Z"
 }
