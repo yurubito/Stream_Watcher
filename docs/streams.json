@@ -515,11 +515,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-06T12:51:03Z",
-        "title": "【hololive Dreams】 PARTY IN DREAMS!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "JpiGbdrtGZA"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -570,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T14:30:40Z"
+  "generated_at": "2026-10-06T14:40:28Z"
 }
