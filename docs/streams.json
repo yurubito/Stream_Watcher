@@ -513,14 +513,12 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T23:00:00Z",
-          "title": "【hololive Dreams】PLAYING WITH A CELEBRITY!!! @MoriCalliope #holodori",
-          "video_id": "nUYSD8jXufM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T23:03:42Z",
+        "title": "【hololive Dreams】PLAYING WITH A CELEBRITY!!! @MoriCalliope #holodori",
+        "video_id": "nUYSD8jXufM"
+      },
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -611,5 +609,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T23:00:46Z"
+  "generated_at": "2026-10-06T23:10:27Z"
 }
