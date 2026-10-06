@@ -185,7 +185,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-06T21:00:00Z",
+          "title": "【OHAPOL】#208 10/7水曜日！今日からホロドリは俺の水着 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+          "video_id": "es8u97HLyms"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -574,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-06T20:30:38Z"
+  "generated_at": "2026-10-06T20:50:25Z"
 }
