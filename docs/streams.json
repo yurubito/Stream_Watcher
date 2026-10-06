@@ -30,13 +30,13 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-06T10:01:27Z",
+        "title": "【バイオハザード６】ポンコツバイオでゆくレオン・ヘレナ編クリア耐久【ホロライブ/#みこったかにぇ】",
+        "video_id": "TIJctYljVA0"
+      },
       "name": "さくらみこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T10:00:00Z",
-          "title": "【バイオハザード６】ポンコツバイオでゆくレオン・ヘレナ編クリア耐久【ホロライブ/#みこったかにぇ】",
-          "video_id": "TIJctYljVA0"
-        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【えかきうた大合戦】✨絵心あるおれたちの戦い✨【ホロライブ/さくらみこ】",
@@ -251,14 +251,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-06T10:00:00Z",
-          "title": "【 バイオハザード6 】ポンコツ同士でも1日でクリアできるんですか？レオン・ヘレナ編【#みこったかにぇ/ホロライブ】ネタバレあり",
-          "video_id": "WmmhxWD1j2s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-06T10:01:22Z",
+        "title": "【 バイオハザード6 】ポンコツ同士でも1日でクリアできるんですか？レオン・ヘレナ編【#みこったかにぇ/ホロライブ】ネタバレあり",
+        "video_id": "WmmhxWD1j2s"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -344,11 +342,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-06T09:00:18Z",
-        "title": "【 カメラ 】流行りの無限シャーベット作る！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "-140TrKzKH8"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -630,5 +623,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-06T10:00:50Z"
+  "generated_at": "2026-10-06T10:10:25Z"
 }
