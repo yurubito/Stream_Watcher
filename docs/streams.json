@@ -466,7 +466,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T14:00:00Z",
+          "title": "【NEVER HAPPENED】PONTHERA STRIKES AGAIN",
+          "video_id": "a8oB8nGJRbM"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -535,5 +542,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-07T18:20:36Z"
+  "generated_at": "2026-10-07T19:30:44Z"
 }
