@@ -297,7 +297,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T10:00:00Z",
+          "title": "【メン限】むにゃ【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "H-W9ae-Gt60"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -367,6 +374,11 @@
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "VS共感性羞恥のギャルゲーなのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "9OrfCLv9QKY"
+        },
+        {
+          "scheduled_at": "2026-10-08T11:00:00Z",
+          "title": "【アソビ大全】「運」の熱千めら VS「知」の宙科そぴあ【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "LyPzb9zrjXU"
         },
         {
           "scheduled_at": "2028-09-24T10:00:00Z",
@@ -600,5 +612,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T09:10:26Z"
+  "generated_at": "2026-10-07T09:20:31Z"
 }
