@@ -116,11 +116,6 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-07T14:02:27Z",
-        "title": "【ホロライブ ドリームス】#ホロドリ フレポルでガチャ並走！【不知火フレア/ホロライブ】",
-        "video_id": "KCT9xoCNMBU"
-      },
       "name": "不知火フレア"
     },
     {
@@ -190,11 +185,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-07T14:00:45Z",
-        "title": "【#ホロドリ】ポルカの水着ガチャキタコレ！！！フレアとガチャバトル！！！！【尾丸ポルカ/ホロライブ】",
-        "video_id": "_c2F9ml9acM"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -538,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T17:10:34Z"
+  "generated_at": "2026-10-07T17:40:31Z"
 }
