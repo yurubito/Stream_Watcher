@@ -192,7 +192,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T13:00:00Z",
+          "title": "【ホロドリ】自分を引くぞ～！！！夏はまだ終わらないッッ【​雪花ラミィ /ホロライブ】",
+          "video_id": "EzDxal6_Gq0"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -330,11 +337,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-07T08:59:17Z",
-        "title": "【タンポポは耐える。】ヴィヴィも耐えます。【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "Mjk9a4RCyJ0"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -578,6 +580,11 @@
           "scheduled_at": "2026-10-07T12:00:00Z",
           "title": "【hololive Dreams】uweeeeeeeeee #holodori #ホロドリ",
           "video_id": "Z4cHVm0VjJo"
+        },
+        {
+          "scheduled_at": "2026-10-07T13:15:00Z",
+          "title": "【UNO】dos, tres",
+          "video_id": "_Dl6Vu1L3kw"
         }
       ]
     },
@@ -599,5 +606,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-07T11:20:26Z"
+  "generated_at": "2026-10-07T11:30:53Z"
 }
