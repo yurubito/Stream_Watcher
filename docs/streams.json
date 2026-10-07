@@ -403,13 +403,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-07T02:20:56Z",
+        "title": "【hi】hello!! chatting, drawing and reading anniversary messages!!! in raku! #calliolive",
+        "video_id": "73TXdhcOIL4"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T02:20:00Z",
-          "title": "【hi】hello!! chatting, drawing and reading anniversary messages!!! in raku! #calliolive",
-          "video_id": "73TXdhcOIL4"
-        },
         {
           "scheduled_at": "2026-10-08T00:00:00Z",
           "title": "【ZELDA: OCARINA OF TIME】tater wemple (part 6) #calliolive",
@@ -596,5 +596,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T02:30:38Z"
+  "generated_at": "2026-10-07T02:50:21Z"
 }
