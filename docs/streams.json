@@ -547,11 +547,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-07T08:19:25Z",
-        "title": "【Hololive Dreams】AREA15 SPLASH BALL!【hololive | moona】",
-        "video_id": "oasHD6OMXZk"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -599,11 +594,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-07T05:59:08Z",
-        "title": "【hololive Dreams】COMPLETING GOLD CROWN FISH! w/ Raora's luck🎣👑【#holodori】",
-        "video_id": "w8YJY2D608E"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -612,5 +602,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T09:20:31Z"
+  "generated_at": "2026-10-07T09:31:02Z"
 }
