@@ -128,14 +128,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T11:00:00Z",
-          "title": "【超朗報アリ！】全員一致クイズで3期生の絆を確かめる！ぺこ！【3D】",
-          "video_id": "Kub1-xkf2Bk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T10:57:11Z",
+        "title": "【超朗報アリ！】全員一致クイズで3期生の絆を確かめる！ぺこ！【3D】",
+        "video_id": "Kub1-xkf2Bk"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -504,11 +502,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-07T08:17:54Z",
-        "title": "【hololive Dreams】 AREA15 HOLODORI COLLAB PLAY !! 【#holodori #ホロドリ】",
-        "video_id": "GwjrZkGxQPo"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -582,8 +575,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T12:00:00Z",
+          "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+          "video_id": "S4wHR_O4VzM"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-07T10:50:40Z"
+  "generated_at": "2026-10-07T11:00:55Z"
 }
