@@ -155,13 +155,13 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-07T08:03:28Z",
+        "title": "【 タンポポは耐える。 】リスポーン!!したらタンポポになっていた件【角巻わため/ホロライブ４期生】",
+        "video_id": "it7I4rT8pzg"
+      },
       "name": "角巻わため",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T08:00:00Z",
-          "title": "【 タンポポは耐える。 】リスポーン!!したらタンポポになっていた件【角巻わため/ホロライブ４期生】",
-          "video_id": "it7I4rT8pzg"
-        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【Animation MV】リスポーン!!／角巻わため【original】(アニメ「#凶乱令嬢」オープニングテーマ)",
@@ -258,7 +258,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T09:00:00Z",
+          "title": "【 Waterpark Simulator 】アヒヨコでプール経営！！！【音乃瀬奏】#ReGLOSS",
+          "video_id": "HyYRxpqKoY0"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -523,7 +530,7 @@
       "name": "ムーナ・ホシノヴァ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-07T08:00:00Z",
+          "scheduled_at": "2026-10-07T08:15:00Z",
           "title": "【Hololive Dreams】AREA15 SPLASH BALL!【hololive | moona】",
           "video_id": "oasHD6OMXZk"
         }
@@ -535,7 +542,7 @@
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-07T08:00:00Z",
+          "scheduled_at": "2026-10-07T08:15:00Z",
           "title": "【#holodori 】AREA15! @MoonaHoshinova @ayundarisu 【 iofi / hololive】",
           "video_id": "wAJ5VprJ7eE"
         }
@@ -589,5 +596,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T07:49:14Z"
+  "generated_at": "2026-10-07T08:10:32Z"
 }
