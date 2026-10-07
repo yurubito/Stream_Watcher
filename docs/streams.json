@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T14:00:00Z",
+          "title": "# ３【ネタバレあり】ほの暮しの庭～っ今日ものんびり探索する～【ときのそら/ホロライブ】",
+          "video_id": "SHqewCLHulM"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -106,11 +113,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-07T09:04:15Z",
-        "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
-        "video_id": "gunryHFbKyw"
-      },
       "name": "大神ミオ"
     },
     {
@@ -175,6 +177,11 @@
       "group": "JP 4期生",
       "name": "姫森ルーナ",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T10:00:00Z",
+          "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃３【姫森ルーナ/ホロライブ】※ネタバレあり",
+          "video_id": "o6B7wQUtH8M"
+        },
         {
           "scheduled_at": "2026-10-10T11:00:00Z",
           "title": "【 #姫森ルーナ生誕ロックLIVE 】帰ってきた !! Count Night TV Evolution !! 💗 BIRTHDAY 3D LIVE【ホロライブ】",
@@ -463,6 +470,11 @@
       "name": "フワワ＆モココ・アビスガード",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-08T01:00:00Z",
+          "title": "【RISE OF THE RŌNIN】i forge my own way of the sword🐾🩵 【FUWAWA SOLO】",
+          "video_id": "BeV8rpM7ngw"
+        },
+        {
           "scheduled_at": "2027-02-03T14:59:00Z",
           "title": "【INFO🐾お知らせ】𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭𝘀𝘁 𝗔𝗹𝗯𝘂𝗺 💿「FUWAMOCO à la mode ～いつだってあなたの笑顔を守るのッ～」予約受付中✨ ON PRE-ORDER NOW🩵🩷",
           "video_id": "bWmsSF2NCeE"
@@ -499,14 +511,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T13:00:00Z",
-          "title": "Golf it! and chill",
-          "video_id": "LPfin3jA_Y4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T13:40:48Z",
+        "title": "Golf it! and chill",
+        "video_id": "LPfin3jA_Y4"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -578,5 +588,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T13:30:45Z"
+  "generated_at": "2026-10-07T13:50:43Z"
 }
