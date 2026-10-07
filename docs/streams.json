@@ -223,12 +223,12 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-09T06:00:00Z",
-          "title": "【配信予定】韓国語勉強する第二弾",
+          "title": "【duolingo】한국어 공부 방송！２！",
           "video_id": "sQlSXKR3uKE"
         },
         {
           "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【配信予定】holoXコラボ配信",
+          "title": "【holoX】みんなでティア表!をやるぞ！【ラプラス・ダークネス/ホロライブ】",
           "video_id": "pGHdBSGFLqY"
         }
       ]
@@ -577,7 +577,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T13:00:00Z",
+          "title": "【hololive Dreams】Pavonashi 2: More Totally Holodori Stream #holodori【Pavolia Reine/hololive】",
+          "video_id": "te4AvMXOtcs"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -595,5 +602,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T10:10:25Z"
+  "generated_at": "2026-10-07T10:20:25Z"
 }
