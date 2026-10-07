@@ -3,11 +3,6 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-07T14:04:46Z",
-        "title": "# ３【ネタバレあり】ほの暮しの庭～っ今日ものんびり探索する～【ときのそら/ホロライブ】",
-        "video_id": "SHqewCLHulM"
-      },
       "name": "ときのそら"
     },
     {
@@ -496,11 +491,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-07T14:06:53Z",
-        "title": "【 #holoctober 】DAY 7 : Autumn Outfit【 iofi / hololive】",
-        "video_id": "QxgSd37q-v0"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -518,7 +508,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T01:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】Fishing? Splash Ball?【hololive holoro | Anya Melfissa】",
+          "video_id": "WxEXqVgvrJI"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -541,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T16:22:18Z"
+  "generated_at": "2026-10-07T17:10:34Z"
 }
