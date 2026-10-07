@@ -91,11 +91,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-07T09:01:34Z",
-        "title": "【#アヒヨコ】プールを経営して爆稼ぎしゅばああああああああああああああああああああああああああああああああ！！！！！！：Waterpark Simulator【ホロライブ/大空スバル】",
-        "video_id": "8ydoQLxJyc4"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -242,18 +237,11 @@
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
       "live": {
-        "started_at": "2026-10-07T09:01:33Z",
-        "title": "【 #ホロドリ 】新水着ガチャコンプするぞおおおお！！！来い！ラミたん！ポルポル！りりか！凸しろ！！【博衣こより/ホロライブ】",
-        "video_id": "hWnDLFIprx4"
+        "started_at": "2026-10-07T10:49:40Z",
+        "title": "【 #ホロ甲2026 】負けたら終わり‼️こんこよ高校2026⚾3年目夏県大会準々決勝から！名門＆超名門3連戦になるのか～⁉️【博衣こより/ホロライブ】",
+        "video_id": "k6TDdJOBX5c"
       },
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "【 #ホロ甲2026 】負けたら終わり‼️こんこよ高校2026⚾3年目夏県大会準々決勝から！名門＆超名門3連戦になるのか～⁉️【博衣こより/ホロライブ】",
-          "video_id": "k6TDdJOBX5c"
-        }
-      ]
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -263,11 +251,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-07T09:01:14Z",
-        "title": "【 Waterpark Simulator 】アヒヨコでプール経営！！！【音乃瀬奏】#ReGLOSS",
-        "video_id": "HyYRxpqKoY0"
-      },
       "name": "音乃瀬奏",
       "upcoming": [
         {
@@ -378,7 +361,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-07T11:00:00Z",
-          "title": "【雑談】デビューから2週間くらい経ったよーっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "title": "【雑談】ノーベル賞について語るっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "kLsldZDUa70"
         },
         {
@@ -602,5 +585,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T10:20:25Z"
+  "generated_at": "2026-10-07T10:50:40Z"
 }
