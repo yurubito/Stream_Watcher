@@ -263,14 +263,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T03:30:00Z",
-          "title": "【番外編】限界飯はなぜ動画シリーズになったのか？【りりらでん限界対談】",
-          "video_id": "jgs6vYj8dwQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T03:30:10Z",
+        "title": "【番外編】限界飯はなぜ動画シリーズになったのか？【りりらでん限界対談】",
+        "video_id": "jgs6vYj8dwQ"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -591,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T03:10:20Z"
+  "generated_at": "2026-10-07T03:30:49Z"
 }
