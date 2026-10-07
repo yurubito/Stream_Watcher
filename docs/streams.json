@@ -175,11 +175,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-07T09:58:21Z",
-        "title": "【 生誕祭告知 】10月10日は赤たんの日らしいのら👶(・o・🍬)【姫森ルーナ/ホロライブ】",
-        "video_id": "ayBj8LakWYo"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -355,13 +350,13 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-07T11:02:03Z",
+        "title": "【雑談】ノーベル賞について語るっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "kLsldZDUa70"
+      },
       "name": "宙科そぴあ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T11:00:00Z",
-          "title": "【雑談】ノーベル賞について語るっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "kLsldZDUa70"
-        },
         {
           "scheduled_at": "2026-10-09T12:00:00Z",
           "title": "【 アソビ★まわり隊！】クイズ！イグノーベル賞【宙科そぴあ/ホロライブ】",
@@ -585,5 +580,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-07T11:00:55Z"
+  "generated_at": "2026-10-07T11:10:29Z"
 }
