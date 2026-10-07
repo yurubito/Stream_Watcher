@@ -30,15 +30,15 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-07T12:03:18Z",
+        "title": "【みんなでティア表】みんなでティア表で理解度をあげていくにぇええええええええ！！！【#ホロでティア表】",
+        "video_id": "ACvWie_jpi8"
+      },
       "name": "さくらみこ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-07T12:00:00Z",
-          "title": "【みんなでティア表】みんなでティア表で理解度をあげていくにぇええええええええ！！！【#ホロでティア表】",
-          "video_id": "ACvWie_jpi8"
-        },
-        {
-          "scheduled_at": "2026-10-07T13:00:00Z",
+          "scheduled_at": "2026-10-08T13:00:00Z",
           "title": "３日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
           "video_id": "BqUfGBP3jMM"
         }
@@ -69,13 +69,13 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-07T12:01:41Z",
+        "title": "【#1】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
+        "video_id": "iy7YT8e_ckQ"
+      },
       "name": "白上フブキ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T12:00:00Z",
-          "title": "【#1】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
-          "video_id": "iy7YT8e_ckQ"
-        },
         {
           "scheduled_at": "2026-10-09T11:00:00Z",
           "title": "【#日本HP大決算】いろはにほへっとショッピング2　～あやふぶみりたーんず～【ホロライブ/白上フブキ/百鬼あやめ/大神ミオ】",
@@ -376,21 +376,11 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-07T06:01:45Z",
-        "title": "#3　50勝するまでオーバーウォッチ!!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "PF49Cj6nMY0"
-      },
       "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-07T06:01:36Z",
-        "title": "#3| 50勝するまで終わらないオーバーウォッチ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "D1BSuiL6qL4"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -528,13 +518,13 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-07T12:01:32Z",
+        "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "N6Aop1nYJB4"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:00:00Z",
-          "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "x4eIbYKOZXo"
-        },
         {
           "scheduled_at": "2026-10-12T15:30:00Z",
           "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAY WITH YOU!! 【Kureiji Ollie】",
@@ -545,14 +535,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T12:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】THERE'S A NEW EVENT~!【hololive holoro | Anya Melfissa】",
-          "video_id": "1G90RQ8uuIE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T12:04:54Z",
+        "title": "【hololive Dreams ホロライブドリームス】THERE'S A NEW EVENT~!【hololive holoro | Anya Melfissa】",
+        "video_id": "1G90RQ8uuIE"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -591,15 +579,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T12:00:00Z",
-          "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
-          "video_id": "S4wHR_O4VzM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T12:02:15Z",
+        "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+        "video_id": "S4wHR_O4VzM"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T12:01:05Z"
+  "generated_at": "2026-10-07T12:10:38Z"
 }
