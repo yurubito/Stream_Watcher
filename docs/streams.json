@@ -244,14 +244,7 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T15:00:00Z",
-          "title": "【 ホロドリ 】しゅぴなでドドドで突発ホロドリ？！【音乃瀬奏】#ReGLOSS",
-          "video_id": "GN0q9XzjmA8"
-        }
-      ]
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -561,5 +554,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T14:46:27Z"
+  "generated_at": "2026-10-07T14:50:33Z"
 }
