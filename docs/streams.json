@@ -381,11 +381,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-07T02:57:13Z",
-        "title": "【フブキ国王降臨】みろくの里コラボの全貌が激アツ！すこん部必見の現地情報！【#昼ホロ / #井月みちる】",
-        "video_id": "cSSCCEl9SDY"
-      },
       "name": "井月みちる"
     },
     {
@@ -412,7 +407,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-07T13:00:00Z",
-          "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
+          "title": "【holodori】weine we are at the beach show me ur swimsuit #kfp #キアライブ",
           "video_id": "JOHgIEKEYeU"
         }
       ]
@@ -584,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T05:10:56Z"
+  "generated_at": "2026-10-07T05:20:28Z"
 }
