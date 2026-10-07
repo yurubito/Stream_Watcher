@@ -228,7 +228,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T14:00:00Z",
+          "title": "【#ホロドリ】ポルカの水着ガチャキタコレ！！！フレアとガチャバトル！！！！【尾丸ポルカ/ホロライブ】",
+          "video_id": "_c2F9ml9acM"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -357,7 +364,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】#1 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
           "video_id": "2fpL7YtztIo"
         }
       ]
@@ -559,7 +566,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T14:00:00Z",
+          "title": "【 #holoctober 】DAY 7 : Autumn Outfit【 iofi / hololive】",
+          "video_id": "QxgSd37q-v0"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -611,5 +625,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T09:40:36Z"
+  "generated_at": "2026-10-07T09:50:34Z"
 }
