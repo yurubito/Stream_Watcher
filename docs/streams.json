@@ -59,14 +59,12 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "癖になってんだ、観光せずに帰るの【ホロライブ/赤井はあと】",
-          "video_id": "nHDuQXYOHxk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T10:00:10Z",
+        "title": "癖になってんだ、観光せずに帰るの【ホロライブ/赤井はあと】",
+        "video_id": "nHDuQXYOHxk"
+      },
+      "name": "赤井はあと"
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -168,17 +166,12 @@
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
       "live": {
-        "started_at": "2026-10-07T08:03:28Z",
-        "title": "【 タンポポは耐える。 】リスポーン!!したらタンポポになっていた件【角巻わため/ホロライブ４期生】",
-        "video_id": "it7I4rT8pzg"
+        "started_at": "2026-10-07T10:00:08Z",
+        "title": "【Animation MV】リスポーン!!／角巻わため【original】(アニメ「#凶乱令嬢」オープニングテーマ)",
+        "video_id": "yhJ1yAqATmQ"
       },
       "name": "角巻わため",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "【Animation MV】リスポーン!!／角巻わため【original】(アニメ「#凶乱令嬢」オープニングテーマ)",
-          "video_id": "yhJ1yAqATmQ"
-        },
         {
           "scheduled_at": "2026-10-07T13:00:00Z",
           "title": "【 BOMBANANA! 】先輩です、しばかないでください！！！！！！【角巻わため/ホロライブ４期生】",
@@ -201,14 +194,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "【 生誕祭告知 】10月10日は赤たんの日らしいのら👶(・o・🍬)【姫森ルーナ/ホロライブ】",
-          "video_id": "ayBj8LakWYo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T09:58:21Z",
+        "title": "【 生誕祭告知 】10月10日は赤たんの日らしいのら👶(・o・🍬)【姫森ルーナ/ホロライブ】",
+        "video_id": "ayBj8LakWYo"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -311,14 +302,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "【メン限】むにゃ【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "H-W9ae-Gt60"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T09:59:18Z",
+        "title": "【メン限】むにゃ【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "H-W9ae-Gt60"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -382,13 +371,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-07T09:58:17Z",
+        "title": "VS共感性羞恥のギャルゲーなのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "9OrfCLv9QKY"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "VS共感性羞恥のギャルゲーなのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "9OrfCLv9QKY"
-        },
         {
           "scheduled_at": "2026-10-08T11:00:00Z",
           "title": "【アソビ大全】「運」の熱千めら VS「知」の宙科そぴあ【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -625,5 +614,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T09:50:34Z"
+  "generated_at": "2026-10-07T10:00:48Z"
 }
