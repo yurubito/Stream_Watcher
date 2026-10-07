@@ -148,11 +148,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-07T15:03:31Z",
-        "title": "【 #ホロドリ 】しゅぴなでドドドで突発ホロドリ！！！！！【角巻わため/ホロライブ４期生】",
-        "video_id": "adQxwdH7dBE"
-      },
       "name": "角巻わため"
     },
     {
@@ -406,7 +401,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T13:00:00Z",
+          "title": "≪hololive Dreams≫ AREA 3 WE HERE! #holodori",
+          "video_id": "wJAuEqI20GI"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -484,11 +486,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-07T13:40:48Z",
-        "title": "Golf it! and chill",
-        "video_id": "LPfin3jA_Y4"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -544,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T16:10:40Z"
+  "generated_at": "2026-10-07T16:22:18Z"
 }
