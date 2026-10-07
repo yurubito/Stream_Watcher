@@ -59,11 +59,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-07T01:32:02Z",
-        "title": "【ホロドリ】BIG👑FISHING【ホロライブ/白上フブキ】",
-        "video_id": "30-zovBVK4E"
-      },
       "name": "白上フブキ"
     },
     {
@@ -263,11 +258,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-07T03:30:10Z",
-        "title": "【番外編】限界飯はなぜ動画シリーズになったのか？【りりらでん限界対談】",
-        "video_id": "jgs6vYj8dwQ"
-      },
       "name": "一条莉々華"
     },
     {
@@ -594,5 +584,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T04:01:01Z"
+  "generated_at": "2026-10-07T05:10:56Z"
 }
