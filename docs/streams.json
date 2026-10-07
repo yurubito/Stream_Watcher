@@ -151,21 +151,11 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-07T13:00:57Z",
-        "title": "【 BOMBANANA! 】先輩です、しばかないでください！！！！！！【角巻わため/ホロライブ４期生】",
-        "video_id": "kM8BgRxJcZI"
-      },
       "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-07T10:03:02Z",
-        "title": "【 PUBG 】#ぶいすぽGG | ドン勝たべたい～～～！！w/ミミたや、アステル、Selly　【常闇トワ/ホロライブ】",
-        "video_id": "8iKjSHSRxdc"
-      },
       "name": "常闇トワ"
     },
     {
@@ -257,11 +247,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-07T13:01:13Z",
-        "title": "【 BOMBANANA! 】見れない、聞けない、喋れない爆弾解除！！【音乃瀬奏】#ReGLOSS",
-        "video_id": "2dyp860Va10"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -292,11 +277,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-07T13:00:49Z",
-        "title": "【BOMBANANA!】仲良く爆弾解除…💣だよね？？【水宮枢／ホロライブ】",
-        "video_id": "r9WlsCrnq6M"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -565,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T14:10:36Z"
+  "generated_at": "2026-10-07T14:20:42Z"
 }
