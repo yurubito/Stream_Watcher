@@ -57,14 +57,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T01:30:00Z",
-          "title": "【ホロドリ】BIG👑FISHING【ホロライブ/白上フブキ】",
-          "video_id": "30-zovBVK4E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T01:32:02Z",
+        "title": "【ホロドリ】BIG👑FISHING【ホロライブ/白上フブキ】",
+        "video_id": "30-zovBVK4E"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -591,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T01:40:24Z"
+  "generated_at": "2026-10-07T02:10:25Z"
 }
