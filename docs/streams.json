@@ -8,6 +8,11 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-07T11:06:08Z",
+        "title": "【  ＃ホロドリ 】ついに新エリアの釣りだああああああああ【ホロライブ/ ロボ子さん 】",
+        "video_id": "xF6lHgRijKU"
+      },
       "name": "ロボ子さん"
     },
     {
@@ -175,7 +180,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T11:00:00Z",
+          "title": "【 #姫森ルーナ生誕ロックLIVE 】帰ってきた !! Count Night TV Evolution !! 💗 BIRTHDAY 3D LIVE【ホロライブ】",
+          "video_id": "l2oa8BexdmU"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -560,7 +572,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T12:00:00Z",
+          "title": "【hololive Dreams】uweeeeeeeeee #holodori #ホロドリ",
+          "video_id": "Z4cHVm0VjJo"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -580,5 +599,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-07T11:10:29Z"
+  "generated_at": "2026-10-07T11:20:26Z"
 }
