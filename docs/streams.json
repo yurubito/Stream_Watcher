@@ -13,7 +13,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T13:00:00Z",
+          "title": "【歌枠】歌うよおおおおお！新アプリ「hololive raku」で歌ってみる！Singing Stream【ホロライブ / AZKi】",
+          "video_id": "OI5bHKtbQ1o"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -84,13 +91,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-07T09:01:34Z",
+        "title": "【#アヒヨコ】プールを経営して爆稼ぎしゅばああああああああああああああああああああああああああああああああ！！！！！！：Waterpark Simulator【ホロライブ/大空スバル】",
+        "video_id": "8ydoQLxJyc4"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T09:00:00Z",
-          "title": "【#アヒヨコ】プールを経営して爆稼ぎしゅばああああああああああああああああああああああああああああああああ！！！！！！：Waterpark Simulator【ホロライブ/大空スバル】",
-          "video_id": "8ydoQLxJyc4"
-        },
         {
           "scheduled_at": "2026-10-07T12:00:00Z",
           "title": "【幻想水滸伝】教えて！幻想水滸伝！！【ホロライブ/大空スバル 姫森ルーナ 獅白ぼたん】",
@@ -106,14 +113,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T09:00:00Z",
-          "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
-          "video_id": "gunryHFbKyw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T09:04:15Z",
+        "title": "【トルネコの大冒険】大神ミオ初めての大冒険？！大丈夫そ？ 【ネタバレあり】",
+        "video_id": "gunryHFbKyw"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -243,13 +248,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-07T09:01:33Z",
+        "title": "【 #ホロドリ 】新水着ガチャコンプするぞおおおお！！！来い！ラミたん！ポルポル！りりか！凸しろ！！【博衣こより/ホロライブ】",
+        "video_id": "hWnDLFIprx4"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T09:00:00Z",
-          "title": "【 #ホロドリ 】新水着ガチャコンプするぞおおおお！！！来い！ラミたん！ポルポル！りりか！凸しろ！！【博衣こより/ホロライブ】",
-          "video_id": "hWnDLFIprx4"
-        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "【 #ホロ甲2026 】負けたら終わり‼️こんこよ高校2026⚾3年目夏県大会準々決勝から！名門＆超名門3連戦になるのか～⁉️【博衣こより/ホロライブ】",
@@ -265,13 +270,13 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-10-07T09:01:14Z",
+        "title": "【 Waterpark Simulator 】アヒヨコでプール経営！！！【音乃瀬奏】#ReGLOSS",
+        "video_id": "HyYRxpqKoY0"
+      },
       "name": "音乃瀬奏",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T09:00:00Z",
-          "title": "【 Waterpark Simulator 】アヒヨコでプール経営！！！【音乃瀬奏】#ReGLOSS",
-          "video_id": "HyYRxpqKoY0"
-        },
         {
           "scheduled_at": "2026-10-07T13:00:00Z",
           "title": "【 BOMBANANA! 】見れない、聞けない、喋れない爆弾解除！！【音乃瀬奏】#ReGLOSS",
@@ -334,11 +339,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-07T07:01:10Z",
-        "title": "【#ホロドリ】新エリア解放させたい～～！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "O0mIZwLaDX4"
-      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -367,11 +367,6 @@
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "VS共感性羞恥のギャルゲーなのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "9OrfCLv9QKY"
-        },
-        {
-          "scheduled_at": "2026-10-08T11:00:00Z",
-          "title": "【アソビ大全】「運」の熱千めら VS「知」の宙科そぴあ【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "LyPzb9zrjXU"
         },
         {
           "scheduled_at": "2028-09-24T10:00:00Z",
@@ -605,5 +600,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T09:00:59Z"
+  "generated_at": "2026-10-07T09:10:26Z"
 }
