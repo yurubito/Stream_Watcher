@@ -187,14 +187,12 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T13:00:00Z",
-          "title": "【ホロドリ】自分を引くぞ～！！！夏はまだ終わらないッッ【​雪花ラミィ /ホロライブ】",
-          "video_id": "EzDxal6_Gq0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T13:00:10Z",
+        "title": "【ホロドリ】自分を引くぞ～！！！夏はまだ終わらないッッ【​雪花ラミィ /ホロライブ】",
+        "video_id": "EzDxal6_Gq0"
+      },
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -295,13 +293,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-07T13:00:49Z",
+        "title": "【BOMBANANA!】仲良く爆弾解除…💣だよね？？【水宮枢／ホロライブ】",
+        "video_id": "r9WlsCrnq6M"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T13:00:00Z",
-          "title": "【BOMBANANA!】仲良く爆弾解除…💣だよね？？【水宮枢／ホロライブ】",
-          "video_id": "r9WlsCrnq6M"
-        },
         {
           "scheduled_at": "2026-10-08T14:00:00Z",
           "title": "【回転寿司シュミレーター】すしがたべたーい！！！【水宮枢／ホロライブ】",
@@ -393,14 +391,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T13:00:00Z",
-          "title": "【holodori】weine we are at the beach show me ur swimsuit #kfp #キアライブ",
-          "video_id": "JOHgIEKEYeU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T12:59:59Z",
+        "title": "【holodori】weine we are at the beach show me ur swimsuit #kfp #キアライブ",
+        "video_id": "JOHgIEKEYeU"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -549,14 +545,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T13:00:00Z",
-          "title": "【hololive Dreams】Pavonashi 2: More Totally Holodori Stream #holodori【Pavolia Reine/hololive】",
-          "video_id": "te4AvMXOtcs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T13:00:01Z",
+        "title": "【hololive Dreams】Pavonashi 2: More Totally Holodori Stream #holodori【Pavolia Reine/hololive】",
+        "video_id": "te4AvMXOtcs"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -591,5 +585,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T12:50:37Z"
+  "generated_at": "2026-10-07T13:01:00Z"
 }
