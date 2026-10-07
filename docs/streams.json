@@ -315,12 +315,31 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T07:00:00Z",
+          "title": "【#ホロドリ】新エリア解放させたい～～！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "O0mIZwLaDX4"
+        },
+        {
+          "scheduled_at": "2026-10-07T10:00:00Z",
+          "title": "よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "2fpL7YtztIo"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T09:00:00Z",
+          "title": "【タンポポは耐える。】ヴィヴィも耐えます。【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "Mjk9a4RCyJ0"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -359,11 +378,21 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-07T06:01:45Z",
+        "title": "#3　50勝するまでオーバーウォッチ!!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "PF49Cj6nMY0"
+      },
       "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-07T06:01:36Z",
+        "title": "#3| 50勝するまで終わらないオーバーウォッチ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "D1BSuiL6qL4"
+      },
       "name": "百灯キョーコ"
     },
     {
@@ -374,11 +403,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-07T02:20:56Z",
-        "title": "【hi】hello!! chatting, drawing and reading anniversary messages!!! in raku! #calliolive",
-        "video_id": "73TXdhcOIL4"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -484,7 +508,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T08:00:00Z",
+          "title": "【hololive Dreams】 AREA15 HOLODORI COLLAB PLAY !! 【#holodori #ホロドリ】",
+          "video_id": "GwjrZkGxQPo"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -501,7 +532,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T08:00:00Z",
+          "title": "【#holodori 】AREA15! @MoonaHoshinova @ayundarisu 【 iofi / hololive】",
+          "video_id": "wAJ5VprJ7eE"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -543,14 +581,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T06:00:00Z",
-          "title": "【hololive Dreams】COMPLETING GOLD CROWN FISH! w/ Raora's luck🎣👑【#holodori】",
-          "video_id": "w8YJY2D608E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T05:59:08Z",
+        "title": "【hololive Dreams】COMPLETING GOLD CROWN FISH! w/ Raora's luck🎣👑【#holodori】",
+        "video_id": "w8YJY2D608E"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -558,5 +594,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T05:40:22Z"
+  "generated_at": "2026-10-07T07:00:54Z"
 }
