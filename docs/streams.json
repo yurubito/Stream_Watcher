@@ -13,23 +13,16 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T13:00:00Z",
-          "title": "【歌枠】歌うよおおおおお！新アプリ「hololive raku」で歌ってみる！Singing Stream【ホロライブ / AZKi】",
-          "video_id": "OI5bHKtbQ1o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T13:01:54Z",
+        "title": "【歌枠】歌うよおおおおお！新アプリ「hololive raku」で歌ってみる！Singing Stream【ホロライブ / AZKi】",
+        "video_id": "OI5bHKtbQ1o"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-07T12:03:18Z",
-        "title": "【みんなでティア表】みんなでティア表で理解度をあげていくにぇええええええええ！！！【#ホロでティア表】",
-        "video_id": "ACvWie_jpi8"
-      },
       "name": "さくらみこ",
       "upcoming": [
         {
@@ -153,14 +146,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T13:00:00Z",
-          "title": "【 BOMBANANA! 】先輩です、しばかないでください！！！！！！【角巻わため/ホロライブ４期生】",
-          "video_id": "kM8BgRxJcZI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T13:00:57Z",
+        "title": "【 BOMBANANA! 】先輩です、しばかないでください！！！！！！【角巻わため/ホロライブ４期生】",
+        "video_id": "kM8BgRxJcZI"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -256,14 +247,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T13:00:00Z",
-          "title": "【 BOMBANANA! 】見れない、聞けない、喋れない爆弾解除！！【音乃瀬奏】#ReGLOSS",
-          "video_id": "2dyp860Va10"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T13:01:13Z",
+        "title": "【 BOMBANANA! 】見れない、聞けない、喋れない爆弾解除！！【音乃瀬奏】#ReGLOSS",
+        "video_id": "2dyp860Va10"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -585,5 +574,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T13:01:00Z"
+  "generated_at": "2026-10-07T13:10:42Z"
 }
