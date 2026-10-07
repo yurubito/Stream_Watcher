@@ -515,38 +515,32 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T08:00:00Z",
-          "title": "【hololive Dreams】 AREA15 HOLODORI COLLAB PLAY !! 【#holodori #ホロドリ】",
-          "video_id": "GwjrZkGxQPo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T08:17:54Z",
+        "title": "【hololive Dreams】 AREA15 HOLODORI COLLAB PLAY !! 【#holodori #ホロドリ】",
+        "video_id": "GwjrZkGxQPo"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T08:15:00Z",
-          "title": "【Hololive Dreams】AREA15 SPLASH BALL!【hololive | moona】",
-          "video_id": "oasHD6OMXZk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T08:19:25Z",
+        "title": "【Hololive Dreams】AREA15 SPLASH BALL!【hololive | moona】",
+        "video_id": "oasHD6OMXZk"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T08:15:00Z",
-          "title": "【#holodori 】AREA15! @MoonaHoshinova @ayundarisu 【 iofi / hololive】",
-          "video_id": "wAJ5VprJ7eE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T08:17:53Z",
+        "title": "【#holodori 】AREA15! @MoonaHoshinova @ayundarisu 【 iofi / hololive】",
+        "video_id": "wAJ5VprJ7eE"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -596,5 +590,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T08:10:32Z"
+  "generated_at": "2026-10-07T08:20:40Z"
 }
