@@ -486,7 +486,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T13:00:00Z",
+          "title": "Golf it! and chill",
+          "video_id": "LPfin3jA_Y4"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -577,5 +584,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T12:20:53Z"
+  "generated_at": "2026-10-07T12:30:37Z"
 }
