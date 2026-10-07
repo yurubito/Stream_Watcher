@@ -177,7 +177,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T10:00:00Z",
+          "title": "【 PUBG 】#ぶいすぽGG | ドン勝たべたい～～～！！w/ミミたや、アステル、Selly　【常闇トワ/ホロライブ】",
+          "video_id": "8iKjSHSRxdc"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -344,14 +351,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T09:00:00Z",
-          "title": "【タンポポは耐える。】ヴィヴィも耐えます。【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "Mjk9a4RCyJ0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T08:59:17Z",
+        "title": "【タンポポは耐える。】ヴィヴィも耐えます。【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "Mjk9a4RCyJ0"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -362,6 +367,11 @@
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "VS共感性羞恥のギャルゲーなのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "9OrfCLv9QKY"
+        },
+        {
+          "scheduled_at": "2026-10-08T11:00:00Z",
+          "title": "【アソビ大全】「運」の熱千めら VS「知」の宙科そぴあ【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "LyPzb9zrjXU"
         },
         {
           "scheduled_at": "2028-09-24T10:00:00Z",
@@ -595,5 +605,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T08:30:40Z"
+  "generated_at": "2026-10-07T09:00:59Z"
 }
