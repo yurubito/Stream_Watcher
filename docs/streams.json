@@ -71,7 +71,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T12:00:00Z",
+          "title": "【#1】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
+          "video_id": "iy7YT8e_ckQ"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -552,11 +559,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-07T08:17:53Z",
-        "title": "【#holodori 】AREA15! @MoonaHoshinova @ayundarisu 【 iofi / hololive】",
-        "video_id": "wAJ5VprJ7eE"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -579,7 +581,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-07T12:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】THERE'S A NEW EVENT~!【hololive holoro | Anya Melfissa】",
+          "video_id": "1G90RQ8uuIE"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -602,5 +611,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T09:31:02Z"
+  "generated_at": "2026-10-07T09:40:36Z"
 }
