@@ -59,11 +59,6 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-07T10:00:10Z",
-        "title": "癖になってんだ、観光せずに帰るの【ホロライブ/赤井はあと】",
-        "video_id": "nHDuQXYOHxk"
-      },
       "name": "赤井はあと"
     },
     {
@@ -165,11 +160,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-07T10:00:08Z",
-        "title": "【Animation MV】リスポーン!!／角巻わため【original】(アニメ「#凶乱令嬢」オープニングテーマ)",
-        "video_id": "yhJ1yAqATmQ"
-      },
       "name": "角巻わため",
       "upcoming": [
         {
@@ -182,14 +172,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "【 PUBG 】#ぶいすぽGG | ドン勝たべたい～～～！！w/ミミたや、アステル、Selly　【常闇トワ/ホロライブ】",
-          "video_id": "8iKjSHSRxdc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T10:03:02Z",
+        "title": "【 PUBG 】#ぶいすぽGG | ドン勝たべたい～～～！！w/ミミたや、アステル、Selly　【常闇トワ/ホロライブ】",
+        "video_id": "8iKjSHSRxdc"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -302,11 +290,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-07T09:59:18Z",
-        "title": "【メン限】むにゃ【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "H-W9ae-Gt60"
-      },
       "name": "轟はじめ"
     },
     {
@@ -349,14 +332,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】#1 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "2fpL7YtztIo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-07T10:02:08Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】#1 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "2fpL7YtztIo"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -614,5 +595,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T10:00:48Z"
+  "generated_at": "2026-10-07T10:10:25Z"
 }
