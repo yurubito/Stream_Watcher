@@ -442,7 +442,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T01:00:00Z",
+          "title": "They finally let me out of the cage... | Chatting",
+          "video_id": "SQsVlZaLrLg"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -584,5 +591,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T12:30:37Z"
+  "generated_at": "2026-10-07T12:50:37Z"
 }
