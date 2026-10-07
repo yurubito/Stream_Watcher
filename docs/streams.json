@@ -315,13 +315,13 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-07T07:01:10Z",
+        "title": "【#ホロドリ】新エリア解放させたい～～！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "O0mIZwLaDX4"
+      },
       "name": "輪堂千速",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-07T07:00:00Z",
-          "title": "【#ホロドリ】新エリア解放させたい～～！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "O0mIZwLaDX4"
-        },
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
           "title": "よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -348,7 +348,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-07T10:00:00Z",
-          "title": "【てあカノ】これのデート抜きが実況【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "title": "VS共感性羞恥のギャルゲーなのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "9OrfCLv9QKY"
         },
         {
@@ -561,11 +561,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-07T03:01:36Z",
-        "title": "【BanG Dream! Our Notes】Reading the Rest of millsage's Main Story!【hololive holoro | Anya】",
-        "video_id": "4eE6-W3Btrc"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -594,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-07T07:00:54Z"
+  "generated_at": "2026-10-07T07:10:26Z"
 }
