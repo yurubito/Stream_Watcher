@@ -150,25 +150,23 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T10:00:00Z",
-          "title": "【 重大告知あり 】１０８の日がキタ✨️ホロライブガールズコレクション⁉️【 常闇トワ/ホロライブ 】",
-          "video_id": "cNL9fTlnW38"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T09:59:17Z",
+        "title": "【 重大告知あり 】１０８の日がキタ✨️ホロライブガールズコレクション⁉️【 常闇トワ/ホロライブ 】",
+        "video_id": "cNL9fTlnW38"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-08T09:58:59Z",
+        "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃３【姫森ルーナ/ホロライブ】※ネタバレあり",
+        "video_id": "o6B7wQUtH8M"
+      },
       "name": "姫森ルーナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T10:00:00Z",
-          "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃３【姫森ルーナ/ホロライブ】※ネタバレあり",
-          "video_id": "o6B7wQUtH8M"
-        },
         {
           "scheduled_at": "2026-10-10T11:00:00Z",
           "title": "【 #姫森ルーナ生誕ロックLIVE 】帰ってきた !! Count Night TV Evolution !! 💗 BIRTHDAY 3D LIVE【ホロライブ】",
@@ -199,14 +197,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T10:00:00Z",
-          "title": "【ポルカの伝説】人間終了！利きティッシュに挑戦！",
-          "video_id": "BZrAqbLoXIg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T10:00:11Z",
+        "title": "【ポルカの伝説】人間終了！利きティッシュに挑戦！",
+        "video_id": "BZrAqbLoXIg"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -233,13 +229,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-08T09:59:47Z",
+        "title": "【 #ホロ甲2026 】最終回！こんこよ高校2026⚾3年目夏の甲子園！優勝しろ！ラストショップでキャAになれ！🔥【博衣こより/ホロライブ】",
+        "video_id": "BuvE7FiL4UM"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T10:00:00Z",
-          "title": "【 #ホロ甲2026 】最終回！こんこよ高校2026⚾3年目夏の甲子園！優勝しろ！ラストショップでキャAになれ！🔥【博衣こより/ホロライブ】",
-          "video_id": "BuvE7FiL4UM"
-        },
         {
           "scheduled_at": "2026-10-08T19:30:00Z",
           "title": "ガンダムSEED FREEDOM ZERO最新情報番組を同時視聴しよう！【博衣こより/ホロライブ】",
@@ -573,5 +569,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T09:50:30Z"
+  "generated_at": "2026-10-08T10:00:52Z"
 }
