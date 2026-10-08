@@ -165,7 +165,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-09T14:30:00Z",
-          "title": "【 誕生日カウントダウン 】んなたんの誕生日きちゃああああああ！！！🍰【姫森ルーナ/ホロライブ】",
+          "title": "【 #姫森ルーナ生誕2026 】んなたんの誕生日きちゃああああああ！！！🍰【姫森ルーナ/ホロライブ】",
           "video_id": "-hNSc-IiEsI"
         },
         {
@@ -354,7 +354,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T02:00:00Z",
+          "title": "#1 FIRST TIME PLAYING Cuphead【Hyakuto Kyoko/Hololive】",
+          "video_id": "n1VcCnoPHds"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -508,11 +515,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-08T14:01:53Z",
-        "title": "【 #holoctober 】DAY 8 : Sleepwear【 iofi / hololive】",
-        "video_id": "iU4Y-xRXO2g"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -553,5 +555,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T16:20:33Z"
+  "generated_at": "2026-10-08T16:30:45Z"
 }
