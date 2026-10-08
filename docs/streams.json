@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T13:00:00Z",
+          "title": "【#ホロドリ】少々釣りを嗜んでいきます。【ときのそら/ホロライブ】",
+          "video_id": "1keHDtiT3BM"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -65,6 +72,11 @@
           "scheduled_at": "2026-10-09T11:00:00Z",
           "title": "【#日本HP大決算】いろはにほへっとショッピング2　～あやふぶみりたーんず～【ホロライブ/白上フブキ/百鬼あやめ/大神ミオ】",
           "video_id": "FVpLKAiHYFA"
+        },
+        {
+          "scheduled_at": "2026-10-10T12:00:00Z",
+          "title": "【#ホロボドゲ部】第３回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
+          "video_id": "BmEqAde2mc0"
         }
       ]
     },
@@ -328,11 +340,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-08T10:59:03Z",
-        "title": "【アソビ大全】「運」の熱千めら VS「知」の宙科そぴあ【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "LyPzb9zrjXU"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -349,7 +356,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-09T12:00:00Z",
-          "title": "【 アソビ★まわり隊！】クイズ！イグノーベル賞【宙科そぴあ/ホロライブ】",
+          "title": "【アソビ★まわり隊！】クイズ！イグノーベル賞【宙科そぴあ/ホロライブ】",
           "video_id": "p7obMZ1KlVE"
         }
       ]
@@ -563,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T12:10:34Z"
+  "generated_at": "2026-10-08T12:40:26Z"
 }
