@@ -477,6 +477,11 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-08T21:47:20Z",
+        "title": "【hololive Dreams】clearing area 3!!!! #holodori",
+        "video_id": "DEaXutHcNA0"
+      },
       "name": "ジジ・ムリン"
     },
     {
@@ -542,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T20:30:44Z"
+  "generated_at": "2026-10-08T21:51:05Z"
 }
