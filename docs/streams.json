@@ -118,7 +118,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T12:00:00Z",
+          "title": "#2【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
+          "video_id": "U2o13h1Oib4"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -529,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T02:30:42Z"
+  "generated_at": "2026-10-08T04:01:01Z"
 }
