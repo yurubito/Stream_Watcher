@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T13:00:00Z",
-          "title": "【#ホロドリ】少々釣りを嗜んでいきます。【ときのそら/ホロライブ】",
-          "video_id": "1keHDtiT3BM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T13:03:31Z",
+        "title": "【#ホロドリ】少々釣りを嗜んでいきます。【ときのそら/ホロライブ】",
+        "video_id": "1keHDtiT3BM"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -32,14 +30,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T13:00:00Z",
-          "title": "３日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
-          "video_id": "BqUfGBP3jMM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T13:03:59Z",
+        "title": "３日目【 FCマリオ】残機０で即終了する俺のスーパーマリオブラザーズチャレンジ【ホロライブ/さくらみこ】",
+        "video_id": "BqUfGBP3jMM"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -51,6 +47,11 @@
       "group": "JP 1期生",
       "name": "アキ・ローゼンタール",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T13:30:00Z",
+          "title": "【ホロライブドリームス】配信衣装がなんと！？釣り雑談→ポカじゃん！ #ホロドリ【ホロライブ/アキロゼ】",
+          "video_id": "p9XKA6AcXio"
+        },
         {
           "scheduled_at": "2026-10-12T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち？｜ちょこのお悩み相談室～深夜のひとくちラジオ～",
@@ -180,14 +181,12 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T13:00:00Z",
-          "title": "【妹に運転を教える】無免許だけど教えてあげる♡【​雪花ラミィ /ホロライブ】",
-          "video_id": "x32aA-g3OZw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T13:01:03Z",
+        "title": "【妹に運転を教える】無免許だけど教えてあげる♡【​雪花ラミィ /ホロライブ】",
+        "video_id": "x32aA-g3OZw"
+      },
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -423,13 +422,13 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-10-08T13:01:15Z",
+        "title": "≪hololive Dreams≫ AREA 3 WE HERE! #holodori",
+        "video_id": "wJAuEqI20GI"
+      },
       "name": "ハコス・ベールズ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T13:00:00Z",
-          "title": "≪hololive Dreams≫ AREA 3 WE HERE! #holodori",
-          "video_id": "wJAuEqI20GI"
-        },
         {
           "scheduled_at": "2026-10-09T01:00:00Z",
           "title": "≪Promise Road Trip≫ Happy 3 Years Promise 💖",
@@ -563,5 +562,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T13:00:49Z"
+  "generated_at": "2026-10-08T13:10:26Z"
 }
