@@ -8,13 +8,13 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-08T02:02:47Z",
+        "title": "【  ＃ホロドリ 】マウスで釣りになれるお時間でし【ホロライブ/ ロボ子さん 】",
+        "video_id": "hjl8mph5PX8"
+      },
       "name": "ロボ子さん",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T02:00:00Z",
-          "title": "【  ＃ホロドリ 】マウスで釣りになれるお時間でし【ホロライブ/ ロボ子さん 】",
-          "video_id": "hjl8mph5PX8"
-        },
         {
           "scheduled_at": "2026-10-11T09:00:00Z",
           "title": "【オフコラボ】＃デビメタ で健康ごはん✨とわあああ食べてえええ【ホロライブ/ロボ子さん】",
@@ -256,11 +256,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-08T01:00:56Z",
-        "title": "【朝ドリ#4】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
-        "video_id": "8BIknNqUUAY"
-      },
       "name": "響咲リオナ",
       "upcoming": [
         {
@@ -539,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T01:21:00Z"
+  "generated_at": "2026-10-08T02:20:24Z"
 }
