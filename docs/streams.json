@@ -153,7 +153,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T13:00:00Z",
+          "title": "【メンバー限定配信】開設6年7ヶ月目！「マインクラフト／ザ・ムービー / A Minecraft Movie」同時視聴！【角巻わため/ホロライブ４期生】",
+          "video_id": "BWvUZ_J60Y0"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -559,5 +566,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T17:10:35Z"
+  "generated_at": "2026-10-08T17:30:46Z"
 }
