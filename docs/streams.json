@@ -413,7 +413,7 @@
       "name": "IRyS",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-10T02:30:00Z",
+          "scheduled_at": "2026-10-09T02:30:00Z",
           "title": "【Promise Road Trip】A Relaxing...? 😱 Camping Night!",
           "video_id": "3VomCoEsXGM"
         }
@@ -451,7 +451,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T01:00:00Z",
+          "title": "【Dragon's Dogma 2: Dark Arisen】The Return of Chadseki #DD2DA #sponsored",
+          "video_id": "rGnmZaFAu-0"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -495,11 +502,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-08T14:02:27Z",
-        "title": "CHATTINI LET'S HANG",
-        "video_id": "a8oB8nGJRbM"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -555,5 +557,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T16:30:45Z"
+  "generated_at": "2026-10-08T16:40:29Z"
 }
