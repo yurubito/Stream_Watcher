@@ -295,11 +295,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-08T14:08:44Z",
-        "title": "【回転寿司シュミレーター】すしがたべたーい！！！【水宮枢／ホロライブ】",
-        "video_id": "kWkREam1us0"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -566,5 +561,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T17:30:46Z"
+  "generated_at": "2026-10-08T17:40:24Z"
 }
