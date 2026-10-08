@@ -223,7 +223,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T10:00:00Z",
+          "title": "【#ねぽっくす 同時視聴】holoXでイベントDAY1を同時視聴するぞ！【 #SSholoX /ホロライブ】",
+          "video_id": "OJP8X-YEZYw"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -564,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T11:30:37Z"
+  "generated_at": "2026-10-08T11:40:41Z"
 }
