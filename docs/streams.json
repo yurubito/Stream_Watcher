@@ -535,14 +535,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T14:30:00Z",
-          "title": "【hololive Dreams】PC Rhythm Training Arc #holodori【Pavolia Reine/hololive】",
-          "video_id": "YV5v9TTR_hI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T14:30:48Z",
+        "title": "【hololive Dreams】PC Rhythm Training Arc #holodori【Pavolia Reine/hololive】",
+        "video_id": "YV5v9TTR_hI"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -560,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T14:20:37Z"
+  "generated_at": "2026-10-08T14:30:59Z"
 }
