@@ -492,11 +492,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-08T06:01:57Z",
-        "title": "【#holodori 】ioRisu in da house! @ayundarisu 【 iofi / hololive】",
-        "video_id": "pTXVlP3DaFw"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -519,14 +514,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T07:30:00Z",
-          "title": "Theodora DON'T Freak Out and Beat People Up in Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
-          "video_id": "jhtdCbM-mqQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T07:30:11Z",
+        "title": "Theodora DON'T Freak Out and Beat People Up in Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
+        "video_id": "jhtdCbM-mqQ"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -549,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T07:00:50Z"
+  "generated_at": "2026-10-08T07:30:38Z"
 }
