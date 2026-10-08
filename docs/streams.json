@@ -30,11 +30,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-08T22:01:27Z",
-        "title": "【#ホロドリ】あずいろのまったり朝釣り時間🎣 #あずいろ朝活  hololive Dreams【ホロライブ / AZKi】",
-        "video_id": "by1lXGeNU-8"
-      },
       "name": "AZKi"
     },
     {
@@ -239,11 +234,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-08T22:01:08Z",
-        "title": "【#ホロドリ】#あずいろ で朝釣り🎣金冠を狙うござるさん【風真いろは/ホロライブ】",
-        "video_id": "-m56gEFYloo"
-      },
       "name": "風真いろは"
     },
     {
@@ -473,11 +463,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-08T21:47:20Z",
-        "title": "【hololive Dreams】clearing area 3!!!! #holodori",
-        "video_id": "DEaXutHcNA0"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -543,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T22:10:25Z"
+  "generated_at": "2026-10-08T23:40:23Z"
 }
