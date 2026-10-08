@@ -236,14 +236,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T19:30:00Z",
-          "title": "ガンダムSEED FREEDOM ZERO最新情報番組を同時視聴しよう！【博衣こより/ホロライブ】",
-          "video_id": "S62dD0bqEUY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T19:30:12Z",
+        "title": "ガンダムSEED FREEDOM ZERO最新情報番組を同時視聴しよう！【博衣こより/ホロライブ】",
+        "video_id": "S62dD0bqEUY"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -554,5 +552,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T19:10:34Z"
+  "generated_at": "2026-10-08T19:30:37Z"
 }
