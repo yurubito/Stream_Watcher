@@ -164,6 +164,11 @@
       "name": "姫森ルーナ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-09T14:30:00Z",
+          "title": "【 誕生日カウントダウン 】んなたんの誕生日きちゃああああああ！！！🍰【姫森ルーナ/ホロライブ】",
+          "video_id": "-hNSc-IiEsI"
+        },
+        {
           "scheduled_at": "2026-10-10T11:00:00Z",
           "title": "【 #姫森ルーナ生誕ロックLIVE 】帰ってきた !! Count Night TV Evolution !! 💗 BIRTHDAY 3D LIVE【ホロライブ】",
           "video_id": "l2oa8BexdmU"
@@ -528,11 +533,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-08T14:03:19Z",
-        "title": "【hololive Dreams】 A-A POTENTIAL DATE STREAM WITH MOONA-SENPAI #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "8XJSCqpX4Uo"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -568,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T16:00:57Z"
+  "generated_at": "2026-10-08T16:10:37Z"
 }
