@@ -239,6 +239,11 @@
           "scheduled_at": "2026-10-08T10:00:00Z",
           "title": "【 #ホロ甲2026 】最終回！こんこよ高校2026⚾3年目夏の甲子園！優勝しろ！ラストショップでキャAになれ！🔥【博衣こより/ホロライブ】",
           "video_id": "BuvE7FiL4UM"
+        },
+        {
+          "scheduled_at": "2026-10-08T19:30:00Z",
+          "title": "ガンダムSEED FREEDOM ZERO最新情報番組を同時視聴しよう！【博衣こより/ホロライブ】",
+          "video_id": "S62dD0bqEUY"
         }
       ]
     },
@@ -372,7 +377,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T13:00:00Z",
+          "title": "#3 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "wbB1wTKd1pM"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -559,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T09:30:37Z"
+  "generated_at": "2026-10-08T09:40:30Z"
 }
