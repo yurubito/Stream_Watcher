@@ -249,7 +249,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T22:00:00Z",
+          "title": "【#ホロドリ】#あずいろ で朝釣り🎣金冠を狙うござるさん【風真いろは/ホロライブ】",
+          "video_id": "-m56gEFYloo"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -316,7 +323,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T02:00:00Z",
+          "title": "【#ホロドリ 】オリー先輩とサシ初コラボ！！  【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "cZBUJNRvNBU"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -559,5 +573,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T15:10:32Z"
+  "generated_at": "2026-10-08T15:20:36Z"
 }
