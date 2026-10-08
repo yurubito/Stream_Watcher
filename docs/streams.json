@@ -161,11 +161,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-08T09:58:59Z",
-        "title": "【 エースコンバット8 】空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃３【姫森ルーナ/ホロライブ】※ネタバレあり",
-        "video_id": "o6B7wQUtH8M"
-      },
       "name": "姫森ルーナ",
       "upcoming": [
         {
@@ -555,11 +550,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-08T14:30:48Z",
-        "title": "【hololive Dreams】PC Rhythm Training Arc #holodori【Pavolia Reine/hololive】",
-        "video_id": "YV5v9TTR_hI"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -578,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T15:30:44Z"
+  "generated_at": "2026-10-08T16:00:57Z"
 }
