@@ -16,6 +16,11 @@
       "name": "ロボ子さん",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-09T13:00:00Z",
+          "title": "【 初配信 】２Ｄではろ～ぼ～！ロボ子さんです！   #ホロドリ【ホロライブ/ ロボ子さん 】",
+          "video_id": "L3u53Hflr_k"
+        },
+        {
           "scheduled_at": "2026-10-10T10:00:00Z",
           "title": "チルノのパーフェクトさんすう教室 /ロボ子さん＆白上フブキ cover",
           "video_id": "BK2mvHvdf4c"
@@ -262,11 +267,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-08T12:01:36Z",
-        "title": "【らでんちゃん、ご在宅ですか？】儒烏風亭らでん限定凸待ち会場【一条莉々華/hololive ReGLOSS】",
-        "video_id": "trKttFgIY_0"
-      },
       "name": "一条莉々華"
     },
     {
@@ -292,13 +292,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-08T14:08:44Z",
+        "title": "【回転寿司シュミレーター】すしがたべたーい！！！【水宮枢／ホロライブ】",
+        "video_id": "kWkREam1us0"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T14:00:00Z",
-          "title": "【回転寿司シュミレーター】すしがたべたーい！！！【水宮枢／ホロライブ】",
-          "video_id": "kWkREam1us0"
-        },
         {
           "scheduled_at": "2026-10-09T13:30:00Z",
           "title": "【#1】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有※ネタバレあり【水宮枢／ホロライブ】",
@@ -478,14 +478,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T14:00:00Z",
-          "title": "CHATTINI LET'S HANG",
-          "video_id": "a8oB8nGJRbM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T14:02:27Z",
+        "title": "CHATTINI LET'S HANG",
+        "video_id": "a8oB8nGJRbM"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -495,26 +493,22 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T14:00:00Z",
-          "title": "【Hololive Dreams】memancing perkara【hololive | moona】",
-          "video_id": "iZ-GXK5b1kI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T14:03:43Z",
+        "title": "【Hololive Dreams】memancing perkara【hololive | moona】",
+        "video_id": "iZ-GXK5b1kI"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T14:00:00Z",
-          "title": "【 #holoctober 】DAY 8 : Sleepwear【 iofi / hololive】",
-          "video_id": "iU4Y-xRXO2g"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T14:01:53Z",
+        "title": "【 #holoctober 】DAY 8 : Sleepwear【 iofi / hololive】",
+        "video_id": "iU4Y-xRXO2g"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -561,5 +555,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T14:01:03Z"
+  "generated_at": "2026-10-08T14:10:28Z"
 }
