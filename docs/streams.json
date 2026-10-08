@@ -313,11 +313,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-08T11:01:31Z",
-        "title": "【ACE COMBAT 8: WINGS OF THEVE】#2 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "RHUpli0VOHA"
-      },
       "name": "輪堂千速"
     },
     {
@@ -327,7 +322,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-09T02:00:00Z",
-          "title": "【#ホロドリ 】オリー先輩とサシ初コラボ！！  【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "title": "【#ホロドリ 】オリー先輩と初サシコラボ！！  【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "cZBUJNRvNBU"
         }
       ]
@@ -385,6 +380,16 @@
           "scheduled_at": "2026-10-09T01:00:00Z",
           "title": "【member's only】chat and game as usual!! #calliolive",
           "video_id": "-K1l13cLRaU"
+        },
+        {
+          "scheduled_at": "2026-10-09T11:00:00Z",
+          "title": "【hololive Dreams】fashionlliope morrison plays lots of songs today #calliolive #holodori",
+          "video_id": "rYAixab3HZ0"
+        },
+        {
+          "scheduled_at": "2026-10-10T00:00:00Z",
+          "title": "【ZELDA: OCARINA OF TIME】hydrated. thriving. a survivor. (part 7) #calliolive",
+          "video_id": "ohHabiPPiFY"
         }
       ]
     },
@@ -573,5 +578,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T15:20:36Z"
+  "generated_at": "2026-10-08T15:30:44Z"
 }
