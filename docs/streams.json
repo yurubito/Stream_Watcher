@@ -280,14 +280,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T10:30:00Z",
-          "title": "【#EndofAbyss】地下施設への偵察任務？！最初のボス絶対倒すマン！【ホロライブ  響咲リオナ】",
-          "video_id": "d9UumCHNHLs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T10:30:19Z",
+        "title": "【#EndofAbyss】地下施設への偵察任務？！最初のボス絶対倒すマン！【ホロライブ  響咲リオナ】",
+        "video_id": "d9UumCHNHLs"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -571,5 +569,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T10:20:26Z"
+  "generated_at": "2026-10-08T10:30:33Z"
 }
