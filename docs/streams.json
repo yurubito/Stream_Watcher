@@ -396,37 +396,33 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T01:00:00Z",
-          "title": "【Five Nights at Freddy's: Security Breach】Now with monitoring heart rate",
-          "video_id": "bxPTC-TCHQo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T00:57:42Z",
+        "title": "【Five Nights at Freddy's: Security Breach】Now with monitoring heart rate",
+        "video_id": "bxPTC-TCHQo"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T01:00:00Z",
-          "title": "They finally let me out of the cage... | Chatting",
-          "video_id": "SQsVlZaLrLg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T00:54:22Z",
+        "title": "They finally let me out of the cage... | Chatting",
+        "video_id": "SQsVlZaLrLg"
+      },
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-10-08T00:55:10Z",
+        "title": "【RISE OF THE RŌNIN】i forge my own way of the sword🐾🩵 【FUWAWA SOLO】",
+        "video_id": "BeV8rpM7ngw"
+      },
       "name": "フワワ＆モココ・アビスガード",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T01:00:00Z",
-          "title": "【RISE OF THE RŌNIN】i forge my own way of the sword🐾🩵 【FUWAWA SOLO】",
-          "video_id": "BeV8rpM7ngw"
-        },
         {
           "scheduled_at": "2027-02-03T14:59:00Z",
           "title": "【INFO🐾お知らせ】𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭𝘀𝘁 𝗔𝗹𝗯𝘂𝗺 💿「FUWAMOCO à la mode ～いつだってあなたの笑顔を守るのッ～」予約受付中✨ ON PRE-ORDER NOW🩵🩷",
@@ -535,5 +531,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-08T00:01:01Z"
+  "generated_at": "2026-10-08T01:01:03Z"
 }
