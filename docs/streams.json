@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-08T02:02:47Z",
-        "title": "【  ＃ホロドリ 】マウスで釣りになれるお時間でし【ホロライブ/ ロボ子さん 】",
-        "video_id": "hjl8mph5PX8"
-      },
       "name": "ロボ子さん",
       "upcoming": [
         {
@@ -157,7 +152,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T10:00:00Z",
+          "title": "【 重大告知あり 】１０８の日がキタ✨️ホロライブガールズコレクション⁉️【 常闇トワ/ホロライブ 】",
+          "video_id": "cNL9fTlnW38"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -270,14 +272,7 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T03:00:00Z",
-          "title": "【定期配信＃47】木曜のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
-          "video_id": "1AlYoYqK1yc"
-        }
-      ]
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -309,7 +304,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T11:00:00Z",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】#2 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "RHUpli0VOHA"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -370,11 +372,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-08T00:00:09Z",
-        "title": "【ZELDA: OCARINA OF TIME】tater wemple (part 6) #calliolive",
-        "video_id": "pvoF6UyXYNI"
-      },
       "name": "森カリオペ"
     },
     {
@@ -395,7 +392,14 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー"
+      "name": "オーロ・クロニー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T01:45:00Z",
+          "title": "【Promise Road Trip】Trying Our Best To Escape A Room",
+          "video_id": "oqWDq8CMavQ"
+        }
+      ]
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -417,31 +421,16 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-08T00:57:42Z",
-        "title": "【Five Nights at Freddy's: Security Breach】Now with monitoring heart rate",
-        "video_id": "bxPTC-TCHQo"
-      },
       "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-08T00:54:22Z",
-        "title": "They finally let me out of the cage... | Chatting",
-        "video_id": "SQsVlZaLrLg"
-      },
       "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-08T00:55:10Z",
-        "title": "【RISE OF THE RŌNIN】i forge my own way of the sword🐾🩵 【FUWAWA SOLO】",
-        "video_id": "BeV8rpM7ngw"
-      },
       "name": "フワワ＆モココ・アビスガード",
       "upcoming": [
         {
@@ -488,6 +477,11 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-08T06:02:26Z",
+        "title": "【hololive Dreams】 Holodori with IoRisu ~!!!!【#holodori #ホロドリ】",
+        "video_id": "AuNushV0v6o"
+      },
       "name": "アユンダ・リス"
     },
     {
@@ -498,6 +492,11 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-08T06:01:57Z",
+        "title": "【#holodori 】ioRisu in da house! @ayundarisu 【 iofi / hololive】",
+        "video_id": "pTXVlP3DaFw"
+      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -515,17 +514,19 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-08T01:01:17Z",
-        "title": "【hololive Dreams ホロライブドリームス】Fishing? Splash Ball?【hololive holoro | Anya Melfissa】",
-        "video_id": "WxEXqVgvrJI"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T07:30:00Z",
+          "title": "Theodora DON'T Freak Out and Beat People Up in Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
+          "video_id": "jhtdCbM-mqQ"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -535,6 +536,11 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-08T05:59:34Z",
+        "title": "【hololive Dreams】MANIFESTING one last gold crown fish......【#holodori】",
+        "video_id": "9i4Dyi0490E"
+      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -543,5 +549,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T06:40:20Z"
+  "generated_at": "2026-10-08T07:00:50Z"
 }
