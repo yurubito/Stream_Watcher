@@ -86,11 +86,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-08T18:19:49Z",
-        "title": "うた",
-        "video_id": "yGaeRFePsWs"
-      },
       "name": "夏色まつり"
     },
     {
@@ -101,11 +96,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-08T14:56:12Z",
-        "title": "【#ホロドリ】深夜チル釣り配信📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "Go-aBQTNxK4"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -566,5 +556,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T18:30:41Z"
+  "generated_at": "2026-10-08T19:01:00Z"
 }
