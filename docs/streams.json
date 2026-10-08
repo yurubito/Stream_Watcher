@@ -150,19 +150,7 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-08T09:59:17Z",
-        "title": "【 重大告知あり 】１０８の日がキタ✨️ホロライブガールズコレクション⁉️【 常闇トワ/ホロライブ 】",
-        "video_id": "cNL9fTlnW38"
-      },
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T11:00:00Z",
-          "title": "Rewrite the Answer / 常闇トワ (official)",
-          "video_id": "yOI1qMpfuRw"
-        }
-      ]
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -346,13 +334,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-08T10:59:03Z",
+        "title": "【アソビ大全】「運」の熱千めら VS「知」の宙科そぴあ【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "LyPzb9zrjXU"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T11:00:00Z",
-          "title": "【アソビ大全】「運」の熱千めら VS「知」の宙科そぴあ【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "LyPzb9zrjXU"
-        },
         {
           "scheduled_at": "2028-09-24T10:00:00Z",
           "title": "【フリーチャット】概要欄にお知らせ随時追加のじゃ！",
@@ -501,7 +489,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-08T14:00:00Z",
-          "title": "【NEVER HAPPENED】PONTHERA STRIKES AGAIN",
+          "title": "CHATTINI LET'S HANG",
           "video_id": "a8oB8nGJRbM"
         }
       ]
@@ -519,11 +507,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-08T09:04:16Z",
-        "title": "【TCG CARD SHOP SIM】Opening some cards yes【 iofi / hololive】",
-        "video_id": "P8eRh91xH8g"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -576,5 +559,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T10:50:34Z"
+  "generated_at": "2026-10-08T11:00:48Z"
 }
