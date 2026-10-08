@@ -130,14 +130,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T09:00:00Z",
-          "title": "【ホロドリ】ぼこぼこビーコン信者！！！新ガチャ全員コンプいくぞおおおおお✨【白銀ノエル/ホロライブ】",
-          "video_id": "dMVBWMfHdVQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T09:00:19Z",
+        "title": "【ホロドリ】ぼこぼこビーコン信者！！！新ガチャ全員コンプいくぞおおおおお✨【白銀ノエル/ホロライブ】",
+        "video_id": "dMVBWMfHdVQ"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -484,11 +482,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-08T06:02:26Z",
-        "title": "【hololive Dreams】 Holodori with IoRisu ~!!!!【#holodori #ホロドリ】",
-        "video_id": "AuNushV0v6o"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -561,5 +554,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T08:40:29Z"
+  "generated_at": "2026-10-08T09:01:05Z"
 }
