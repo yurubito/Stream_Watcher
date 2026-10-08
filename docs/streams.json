@@ -257,7 +257,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T12:00:00Z",
+          "title": "【らでんちゃん、ご在宅ですか？】儒烏風亭らでん限定凸待ち会場【一条莉々華/hololive ReGLOSS】",
+          "video_id": "trKttFgIY_0"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -320,7 +327,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-08T09:00:00Z",
-          "title": "【耐久】75万人目指して・・・・！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "title": "【耐久】75.１万人目指して！！新アプリ『hololive raku』で歌う！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "nR7YhNhQb-E"
         }
       ]
@@ -554,5 +561,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T07:50:22Z"
+  "generated_at": "2026-10-08T08:40:29Z"
 }
