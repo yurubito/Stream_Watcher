@@ -57,11 +57,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-08T13:30:04Z",
-        "title": "【ホロライブドリームス】配信衣装がなんと！？釣り雑談→ポカじゃん！ #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "p9XKA6AcXio"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -131,11 +126,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-08T12:00:25Z",
-        "title": "#2【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
-        "video_id": "U2o13h1Oib4"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -375,7 +365,14 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T01:00:00Z",
+          "title": "【member's only】chat and game as usual!! #calliolive",
+          "video_id": "-K1l13cLRaU"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -555,5 +552,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T14:40:51Z"
+  "generated_at": "2026-10-08T14:50:42Z"
 }
