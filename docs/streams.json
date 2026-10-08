@@ -244,13 +244,13 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-08T01:00:56Z",
+        "title": "【朝ドリ#4】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
+        "video_id": "8BIknNqUUAY"
+      },
       "name": "響咲リオナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T01:00:00Z",
-          "title": "【朝ドリ#4】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
-          "video_id": "8BIknNqUUAY"
-        },
         {
           "scheduled_at": "2026-10-08T03:00:00Z",
           "title": "【定期配信＃47】木曜のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
@@ -494,14 +494,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T01:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Fishing? Splash Ball?【hololive holoro | Anya Melfissa】",
-          "video_id": "WxEXqVgvrJI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T01:01:17Z",
+        "title": "【hololive Dreams ホロライブドリームス】Fishing? Splash Ball?【hololive holoro | Anya Melfissa】",
+        "video_id": "WxEXqVgvrJI"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -521,15 +519,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T01:00:00Z",
-          "title": "【hololive Dreams】Daily holodori... #holodori #ホロドリ",
-          "video_id": "yVYyxLL9iUs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T01:01:49Z",
+        "title": "【hololive Dreams】Daily holodori... #holodori #ホロドリ",
+        "video_id": "yVYyxLL9iUs"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T01:01:03Z"
+  "generated_at": "2026-10-08T01:10:31Z"
 }
