@@ -372,7 +372,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T12:00:00Z",
+          "title": "【雑談】ゆったりお話しよ～　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "J9R3vF3W0kg"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -558,11 +565,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-08T05:59:34Z",
-        "title": "【hololive Dreams】MANIFESTING one last gold crown fish......【#holodori】",
-        "video_id": "9i4Dyi0490E"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -571,5 +573,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T09:40:30Z"
+  "generated_at": "2026-10-08T09:50:30Z"
 }
