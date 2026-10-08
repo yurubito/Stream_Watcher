@@ -392,14 +392,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T19:00:00Z",
-          "title": "【holodori】OMG WE CAN USE THESE OUTFITS NOW AAAAAAAA DONT PANIC ITS HAPPENING OMG #kfp #キアライブ",
-          "video_id": "wTD7i5xIX8Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T19:04:42Z",
+        "title": "【holodori】OMG WE CAN USE THESE OUTFITS NOW AAAAAAAA DONT PANIC ITS HAPPENING OMG #kfp #キアライブ",
+        "video_id": "wTD7i5xIX8Q"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -556,5 +554,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T19:01:00Z"
+  "generated_at": "2026-10-08T19:10:34Z"
 }
