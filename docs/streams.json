@@ -130,11 +130,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-08T09:00:19Z",
-        "title": "【ホロドリ】ぼこぼこビーコン信者！！！新ガチャ全員コンプいくぞおおおおお✨【白銀ノエル/ホロライブ】",
-        "video_id": "dMVBWMfHdVQ"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -312,14 +307,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T11:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】#2 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "RHUpli0VOHA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T11:01:31Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】#2 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "RHUpli0VOHA"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -430,6 +423,11 @@
           "scheduled_at": "2026-10-08T13:00:00Z",
           "title": "≪hololive Dreams≫ AREA 3 WE HERE! #holodori",
           "video_id": "wJAuEqI20GI"
+        },
+        {
+          "scheduled_at": "2026-10-09T01:00:00Z",
+          "title": "≪Promise Road Trip≫ Happy 3 Years Promise 💖",
+          "video_id": "7BB1hl9FqDk"
         }
       ]
     },
@@ -559,5 +557,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T11:00:48Z"
+  "generated_at": "2026-10-08T11:10:25Z"
 }
