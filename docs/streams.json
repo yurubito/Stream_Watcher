@@ -192,7 +192,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T12:00:00Z",
+          "title": "【ホロドリ】「ぽ」と「ら」と「り」を引く！！！！【獅白ぼたん/ホロライ】",
+          "video_id": "WNmTJRqh1ac"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -569,5 +576,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T10:00:52Z"
+  "generated_at": "2026-10-08T10:10:27Z"
 }
