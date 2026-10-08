@@ -178,11 +178,6 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-08T13:01:03Z",
-        "title": "【妹に運転を教える】無免許だけど教えてあげる♡【​雪花ラミィ /ホロライブ】",
-        "video_id": "x32aA-g3OZw"
-      },
       "name": "雪花ラミィ"
     },
     {
@@ -377,7 +372,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T19:00:00Z",
+          "title": "【holodori】OMG WE CAN USE THESE OUTFITS NOW AAAAAAAA DONT PANIC ITS HAPPENING OMG #kfp #キアライブ",
+          "video_id": "wTD7i5xIX8Q"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -552,5 +554,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T14:50:42Z"
+  "generated_at": "2026-10-08T15:00:56Z"
 }
