@@ -86,14 +86,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T12:00:00Z",
-          "title": "【#生スバル】みんなに(色んな)お返しするしゅばあああああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-          "video_id": "B5EyiloD_7E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T12:02:28Z",
+        "title": "【#生スバル】みんなに(色んな)お返しするしゅばあああああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+        "video_id": "B5EyiloD_7E"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -187,14 +185,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T12:00:00Z",
-          "title": "【ホロドリ】「ぽ」と「ら」と「り」を引く！！！！【獅白ぼたん/ホロライ】",
-          "video_id": "WNmTJRqh1ac"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T12:00:49Z",
+        "title": "【ホロドリ】「ぽ」と「ら」と「り」を引く！！！！【獅白ぼたん/ホロライ】",
+        "video_id": "WNmTJRqh1ac"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -260,14 +256,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T12:00:00Z",
-          "title": "【らでんちゃん、ご在宅ですか？】儒烏風亭らでん限定凸待ち会場【一条莉々華/hololive ReGLOSS】",
-          "video_id": "trKttFgIY_0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T12:01:36Z",
+        "title": "【らでんちゃん、ご在宅ですか？】儒烏風亭らでん限定凸待ち会場【一条莉々華/hololive ReGLOSS】",
+        "video_id": "trKttFgIY_0"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -405,7 +399,14 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS"
+      "name": "IRyS",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T02:30:00Z",
+          "title": "【Promise Road Trip】A Relaxing...? 😱 Camping Night!",
+          "video_id": "3VomCoEsXGM"
+        }
+      ]
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -562,5 +563,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T12:00:55Z"
+  "generated_at": "2026-10-08T12:10:34Z"
 }
