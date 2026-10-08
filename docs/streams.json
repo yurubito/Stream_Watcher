@@ -155,7 +155,14 @@
         "title": "【 重大告知あり 】１０８の日がキタ✨️ホロライブガールズコレクション⁉️【 常闇トワ/ホロライブ 】",
         "video_id": "cNL9fTlnW38"
       },
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T11:00:00Z",
+          "title": "Rewrite the Answer / 常闇トワ (official)",
+          "video_id": "yOI1qMpfuRw"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -569,5 +576,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T10:30:33Z"
+  "generated_at": "2026-10-08T10:50:34Z"
 }
