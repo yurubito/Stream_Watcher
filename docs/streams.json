@@ -321,14 +321,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T09:00:00Z",
-          "title": "【耐久】75.１万人目指して！！新アプリ『hololive raku』で歌う！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "nR7YhNhQb-E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T09:09:19Z",
+        "title": "【耐久】75.１万人目指して！！新アプリ『hololive raku』で歌う！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "nR7YhNhQb-E"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -492,13 +490,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-08T09:04:16Z",
+        "title": "【TCG CARD SHOP SIM】Opening some cards yes【 iofi / hololive】",
+        "video_id": "P8eRh91xH8g"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T09:00:00Z",
-          "title": "【TCG CARD SHOP SIM】Opening some cards yes【 iofi / hololive】",
-          "video_id": "P8eRh91xH8g"
-        },
         {
           "scheduled_at": "2026-10-08T14:00:00Z",
           "title": "【 #holoctober 】DAY 8 : Sleepwear【 iofi / hololive】",
@@ -554,5 +552,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T09:01:05Z"
+  "generated_at": "2026-10-08T09:10:24Z"
 }
