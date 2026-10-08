@@ -113,14 +113,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T12:00:00Z",
-          "title": "#2【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
-          "video_id": "U2o13h1Oib4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T12:00:25Z",
+        "title": "#2【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "U2o13h1Oib4"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -331,11 +329,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-08T09:09:19Z",
-        "title": "【耐久】75.１万人目指して！！新アプリ『hololive raku』で歌う！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "nR7YhNhQb-E"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -370,14 +363,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-08T12:00:00Z",
-          "title": "【雑談】ゆったりお話しよ～　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "J9R3vF3W0kg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-08T12:00:14Z",
+        "title": "【雑談】ゆったりお話しよ～　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "J9R3vF3W0kg"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -571,5 +562,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T11:40:41Z"
+  "generated_at": "2026-10-08T12:00:55Z"
 }
