@@ -172,7 +172,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T13:00:00Z",
+          "title": "【妹に運転を教える】無免許だけど教えてあげる♡【​雪花ラミィ /ホロライブ】",
+          "video_id": "x32aA-g3OZw"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -557,5 +564,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T11:10:25Z"
+  "generated_at": "2026-10-08T11:20:48Z"
 }
