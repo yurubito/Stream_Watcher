@@ -35,7 +35,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-08T22:00:00Z",
+          "title": "【#ホロドリ】あずいろのまったり朝釣り時間🎣 #あずいろ朝活  hololive Dreams【ホロライブ / AZKi】",
+          "video_id": "by1lXGeNU-8"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -104,11 +111,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-08T12:02:28Z",
-        "title": "【#生スバル】みんなに(色んな)お返しするしゅばあああああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-        "video_id": "B5EyiloD_7E"
-      },
       "name": "大空スバル"
     },
     {
@@ -412,11 +414,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-08T13:01:15Z",
-        "title": "≪hololive Dreams≫ AREA 3 WE HERE! #holodori",
-        "video_id": "wJAuEqI20GI"
-      },
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
@@ -558,5 +555,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T14:30:59Z"
+  "generated_at": "2026-10-08T14:40:51Z"
 }
