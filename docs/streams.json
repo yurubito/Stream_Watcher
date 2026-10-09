@@ -409,11 +409,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-09T13:59:27Z",
-        "title": "【雑談】チル～くおはなししよ！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "Czddas7oatE"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -479,6 +474,21 @@
           "scheduled_at": "2026-10-10T13:00:00Z",
           "title": "≪hololive Dreams≫ feesh #2 #holodori",
           "video_id": "T8b_jMkiQcQ"
+        },
+        {
+          "scheduled_at": "2026-10-11T01:00:00Z",
+          "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Confections Pt 2...First Playthrough #7【SPOILER WARNING】",
+          "video_id": "5pc_-YAwKAE"
+        },
+        {
+          "scheduled_at": "2026-10-11T13:00:00Z",
+          "title": "≪hololive Dreams≫ more feesh #3 #holodori",
+          "video_id": "MXUSGZT_Prs"
+        },
+        {
+          "scheduled_at": "2026-10-12T01:00:00Z",
+          "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Confections probs pt 3...First Playthrough #8【SPOILER WARNING】",
+          "video_id": "xib4vD33oYY"
         }
       ]
     },
@@ -604,5 +614,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T15:10:26Z"
+  "generated_at": "2026-10-09T15:20:30Z"
 }
