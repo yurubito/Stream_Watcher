@@ -288,14 +288,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T12:00:00Z",
-          "title": "【莉々華の呪い DAY1】何回目で成功する…？ラミィ先輩完凸チャレンジ #ホロドリ 【一条莉々華/hololive ReGLOSS】",
-          "video_id": "uVwJqZ69lmU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T12:01:17Z",
+        "title": "【莉々華の呪い DAY1】何回目で成功する…？ラミィ先輩完凸チャレンジ #ホロドリ 【一条莉々華/hololive ReGLOSS】",
+        "video_id": "uVwJqZ69lmU"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -392,14 +390,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T12:00:00Z",
-          "title": "【アソビ★まわり隊！】クイズ！イグノーベル賞【宙科そぴあ/ホロライブ】",
-          "video_id": "p7obMZ1KlVE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T12:01:26Z",
+        "title": "【アソビ★まわり隊！】クイズ！イグノーベル賞【宙科そぴあ/ホロライブ】",
+        "video_id": "p7obMZ1KlVE"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -535,13 +531,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-09T12:02:44Z",
+        "title": "【 #holoctober 】DAY 9 : Maid【 iofi / hololive】",
+        "video_id": "lPOYqayF38A"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T12:00:00Z",
-          "title": "【 #holoctober 】DAY 9 : Maid【 iofi / hololive】",
-          "video_id": "lPOYqayF38A"
-        },
         {
           "scheduled_at": "2026-10-09T15:00:00Z",
           "title": "【#holodori 】ioMoona in da House! 【 iofi / hololive】",
@@ -564,14 +560,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T12:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Holodori With The Girls! NEW DRIP...?!【hololive holoro | Anya Melfissa】",
-          "video_id": "OhVssU_z5lA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T12:02:33Z",
+        "title": "【hololive Dreams ホロライブドリームス】Holodori With The Girls! NEW DRIP...?!【hololive holoro | Anya Melfissa】",
+        "video_id": "OhVssU_z5lA"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -581,14 +575,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T12:00:00Z",
-          "title": "【hololive Dreams】USING MY HOLODORI OUTFIT #holodori #ホロドリ",
-          "video_id": "LxfUqHLhevw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T12:00:52Z",
+        "title": "【hololive Dreams】USING MY HOLODORI OUTFIT #holodori #ホロドリ",
+        "video_id": "LxfUqHLhevw"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -605,15 +597,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T12:00:00Z",
-          "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
-          "video_id": "uhnubq3gd8E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T12:04:10Z",
+        "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+        "video_id": "uhnubq3gd8E"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T12:00:58Z"
+  "generated_at": "2026-10-09T12:10:32Z"
 }
