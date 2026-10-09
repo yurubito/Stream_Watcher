@@ -498,14 +498,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T09:30:00Z",
-          "title": "【hololive Dreams】 Event and Stats Grinding !!!【#holodori #ホロドリ】",
-          "video_id": "aVPyPsjIco4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T09:29:43Z",
+        "title": "【hololive Dreams】 Event and Stats Grinding !!!【#holodori #ホロドリ】",
+        "video_id": "aVPyPsjIco4"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -579,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T09:10:31Z"
+  "generated_at": "2026-10-09T09:30:47Z"
 }
