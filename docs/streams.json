@@ -261,7 +261,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T14:00:00Z",
+          "title": "【】はいしんよてい【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "10RADClbBWA"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -312,6 +319,11 @@
       "group": "アソビ★まわり隊！",
       "name": "熱千めら",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T10:00:00Z",
+          "title": "【SPAGHET】フブキ先輩ゲームくれてやさしーのじゃ！【ホロライブ】",
+          "video_id": "D29pagC1PEY"
+        },
         {
           "scheduled_at": "2028-09-24T10:00:00Z",
           "title": "【フリーチャット】概要欄にお知らせ随時追加のじゃ！",
@@ -505,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T04:10:28Z"
+  "generated_at": "2026-10-09T04:30:40Z"
 }
