@@ -388,23 +388,16 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T01:45:00Z",
-          "title": "【Promise Road Trip】Trying Our Best To Escape A Room",
-          "video_id": "oqWDq8CMavQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T01:45:23Z",
+        "title": "【Promise Road Trip】Trying Our Best To Escape A Room",
+        "video_id": "oqWDq8CMavQ"
+      },
+      "name": "オーロ・クロニー"
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-09T00:57:31Z",
-        "title": "≪Promise Road Trip≫ Happy 3 Years Promise 💖",
-        "video_id": "7BB1hl9FqDk"
-      },
       "name": "ハコス・ベールズ"
     },
     {
@@ -519,5 +512,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T01:20:26Z"
+  "generated_at": "2026-10-09T01:50:40Z"
 }
