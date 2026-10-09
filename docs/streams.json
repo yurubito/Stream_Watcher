@@ -579,7 +579,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T04:00:00Z",
+          "title": "【hololive Dreams】BACK TO POKAJAN! 2 hours before meeting 👊【#holodori】",
+          "video_id": "r5dVVEZNP0Q"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -587,5 +594,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T19:20:30Z"
+  "generated_at": "2026-10-09T19:30:55Z"
 }
