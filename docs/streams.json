@@ -352,11 +352,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-09T13:38:51Z",
-        "title": "【トップガン同時視聴】スカイアクション！！！空戦を学びに行くぞ！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "Ry3tUlLc7ro"
-      },
       "name": "輪堂千速"
     },
     {
@@ -445,7 +440,14 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖"
+      "name": "一伊那尓栖",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T00:00:00Z",
+          "title": "【hololive Dreams】FISH @MoriCalliope",
+          "video_id": "5jJXMm7mIrU"
+        }
+      ]
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -611,5 +613,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T15:50:26Z"
+  "generated_at": "2026-10-09T16:01:05Z"
 }
