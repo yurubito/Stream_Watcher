@@ -310,11 +310,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-09T14:00:24Z",
-        "title": "【#1】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
-        "video_id": "9FpDYuWXTgQ"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -417,14 +412,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T18:30:00Z",
-          "title": "【Dragon's Dogma 2: Dark Arisen】rising like a (dark) phoenix #kfp #キアライブ",
-          "video_id": "jkTMEVknULE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T18:23:43Z",
+        "title": "【Dragon's Dogma 2: Dark Arisen】rising like a (dark) phoenix #kfp #キアライブ",
+        "video_id": "jkTMEVknULE"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -587,5 +580,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T18:20:29Z"
+  "generated_at": "2026-10-09T18:30:40Z"
 }
