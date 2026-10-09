@@ -94,7 +94,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T14:45:00Z",
+          "title": "【#ホロドリ】深夜チル釣り配信📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "l7b9PzGZo-o"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -568,21 +575,11 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-09T12:02:33Z",
-        "title": "【hololive Dreams ホロライブドリームス】Holodori With The Girls! NEW DRIP...?!【hololive holoro | Anya Melfissa】",
-        "video_id": "OhVssU_z5lA"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-09T13:10:35Z",
-        "title": "【hololive Dreams】More PC Rhythm WITH THE GIRLS NOW #holodori【Pavolia Reine/hololive】",
-        "video_id": "NiJUh04oEew"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -606,5 +603,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T14:40:29Z"
+  "generated_at": "2026-10-09T14:50:35Z"
 }
