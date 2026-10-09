@@ -15,11 +15,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-09T13:01:17Z",
-        "title": "【 初配信 】２Ｄではろ～ぼ～！ロボ子さんです！…8年の時を超えて？    #ホロドリ【ホロライブ/ ロボ子さん 】",
-        "video_id": "L3u53Hflr_k"
-      },
       "name": "ロボ子さん",
       "upcoming": [
         {
@@ -195,13 +190,13 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-09T14:29:51Z",
+        "title": "【 #姫森ルーナ生誕2026 】んなたんの誕生日きちゃああああああ！！！🍰【姫森ルーナ/ホロライブ】",
+        "video_id": "-hNSc-IiEsI"
+      },
       "name": "姫森ルーナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T14:30:00Z",
-          "title": "【 #姫森ルーナ生誕2026 】んなたんの誕生日きちゃああああああ！！！🍰【姫森ルーナ/ホロライブ】",
-          "video_id": "-hNSc-IiEsI"
-        },
         {
           "scheduled_at": "2026-10-10T11:00:00Z",
           "title": "【 #姫森ルーナ生誕ロックLIVE 】帰ってきた !! Count Night TV Evolution !! 💗 BIRTHDAY 3D LIVE【ホロライブ】",
@@ -613,5 +608,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T14:20:48Z"
+  "generated_at": "2026-10-09T14:30:55Z"
 }
