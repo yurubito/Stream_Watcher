@@ -55,6 +55,16 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-09T09:45:00Z",
+          "title": "【ホロライブドリームス】釣り埋め図鑑！ポカじゃん参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
+          "video_id": "aXlNdRbV3U8"
+        },
+        {
+          "scheduled_at": "2026-10-09T11:00:00Z",
+          "title": "【 #ホロARK 】DAY1│MAPはラグナロク！1か月間まったり生活！？【ホロライブ/アキロゼ】",
+          "video_id": "k9SsOQrUGCc"
+        },
+        {
           "scheduled_at": "2026-10-12T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち？｜ちょこのお悩み相談室～深夜のひとくちラジオ～",
           "video_id": "MxpAOjgZX3Y"
@@ -128,14 +138,7 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T11:00:00Z",
-          "title": "ホロ鯖ARKきｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "tqzLShTKJkk"
-        }
-      ]
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -384,6 +387,11 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
+      "live": {
+        "started_at": "2026-10-09T08:58:39Z",
+        "title": "【IRyS同時視聴】わたしたちガソリンになります【#holoAN / #IRyS】",
+        "video_id": "URQ9SUx_y1U"
+      },
       "name": "井月みちる"
     },
     {
@@ -485,7 +493,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T09:30:00Z",
+          "title": "【hololive Dreams】 Event and Stats Grinding !!!【#holodori #ホロドリ】",
+          "video_id": "aVPyPsjIco4"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -559,5 +574,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T08:50:26Z"
+  "generated_at": "2026-10-09T09:00:49Z"
 }
