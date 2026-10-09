@@ -256,7 +256,19 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T02:00:00Z",
+          "title": "【空の軌跡 the 2nd】完全初見！第2章突入！withシェラ姉！ #3 【博衣こより/ホロライブ】※ネタバレあり",
+          "video_id": "z8qmbc8BMC8"
+        },
+        {
+          "scheduled_at": "2026-10-10T10:00:00Z",
+          "title": "【トルネコの大冒険】ちょっとステキなリマスター！初めての99階チャレンジ！！！🔥🔥🔥【博衣こより/ホロライブ】",
+          "video_id": "U3SoGurmzoM"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -283,7 +295,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T13:00:00Z",
+          "title": "【雑談】でん同士の姿決定！など最近のお話！！【儒烏風亭らでん #ReGLOSS 】",
+          "video_id": "Q_vg-8gZwKk"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -489,7 +508,7 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-09T10:20:00Z",
+          "scheduled_at": "2026-10-09T10:30:00Z",
           "title": "【GUERILLA】JUST HANGING AROUND WITH MY NEW (old) FAVOURITE GAME",
           "video_id": "IDe8VLrT4zo"
         }
@@ -589,5 +608,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-09T10:10:22Z"
+  "generated_at": "2026-10-09T10:20:27Z"
 }
