@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T14:30:00Z",
-          "title": "【タンポポは耐える。】タンポポってかわいいよね。【ときのそら/ホロライブ】",
-          "video_id": "d7z0K8Qwip4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T14:32:57Z",
+        "title": "【タンポポは耐える。】タンポポってかわいいよね。【ときのそら/ホロライブ】",
+        "video_id": "d7z0K8Qwip4"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -608,5 +606,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T14:30:55Z"
+  "generated_at": "2026-10-09T14:40:29Z"
 }
