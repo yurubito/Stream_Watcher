@@ -86,13 +86,13 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-09T10:00:05Z",
+        "title": "【#日本HP大決算】いろはにほへっとショッピング2　～あやふぶみりたーんず～【ホロライブ/白上フブキ/百鬼あやめ/大神ミオ】",
+        "video_id": "FVpLKAiHYFA"
+      },
       "name": "白上フブキ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T10:00:00Z",
-          "title": "【#日本HP大決算】いろはにほへっとショッピング2　～あやふぶみりたーんず～【ホロライブ/白上フブキ/百鬼あやめ/大神ミオ】",
-          "video_id": "FVpLKAiHYFA"
-        },
         {
           "scheduled_at": "2026-10-10T12:00:00Z",
           "title": "【#ホロボドゲ部】第３回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
@@ -490,7 +490,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T10:20:00Z",
+          "title": "【GUERILLA】JUST HANGING AROUND WITH MY NEW (old) FAVOURITE GAME",
+          "video_id": "IDe8VLrT4zo"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -576,8 +583,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T12:00:00Z",
+          "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+          "video_id": "uhnubq3gd8E"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-09T09:50:23Z"
+  "generated_at": "2026-10-09T10:01:14Z"
 }
