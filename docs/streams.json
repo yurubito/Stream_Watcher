@@ -481,7 +481,19 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T12:00:00Z",
+          "title": "【 #holoctober 】DAY 9 : Maid【 iofi / hololive】",
+          "video_id": "lPOYqayF38A"
+        },
+        {
+          "scheduled_at": "2026-10-09T15:00:00Z",
+          "title": "【#holodori 】ioMoona in da House! 【 iofi / hololive】",
+          "video_id": "4rnxMDveKug"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -533,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T07:01:02Z"
+  "generated_at": "2026-10-09T07:20:30Z"
 }
