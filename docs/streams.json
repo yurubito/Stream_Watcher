@@ -330,18 +330,11 @@
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
       "live": {
-        "started_at": "2026-10-09T13:28:09Z",
-        "title": "【#ホロARK】初めてのホロ鯖ARK！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "Fm6BeAZhWYU"
+        "started_at": "2026-10-09T20:55:22Z",
+        "title": "【#ホロドリ 】おはよう！朝のホロドリ！！新エリアクリア目指してまったり～！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "b5nDqJmKJy8"
       },
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T21:00:00Z",
-          "title": "【#ホロドリ 】おはよう！朝のホロドリ！！新エリアクリア目指してまったり～！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "b5nDqJmKJy8"
-        }
-      ]
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -596,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T20:50:28Z"
+  "generated_at": "2026-10-09T21:00:50Z"
 }
