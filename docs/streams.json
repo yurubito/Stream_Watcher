@@ -291,14 +291,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T02:00:00Z",
-          "title": "【#ホロドリ 】オリー先輩と初サシコラボ！！  【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "cZBUJNRvNBU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T02:00:39Z",
+        "title": "【#ホロドリ 】オリー先輩と初サシコラボ！！  【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "cZBUJNRvNBU"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -332,14 +330,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T02:00:00Z",
-          "title": "#1 FIRST TIME PLAYING Cuphead【Hyakuto Kyoko/Hololive】",
-          "video_id": "n1VcCnoPHds"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T01:59:42Z",
+        "title": "【EN】#1 FIRST TIME PLAYING Cuphead【Hyakuto Kyoko/Hololive】",
+        "video_id": "n1VcCnoPHds"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -477,6 +473,11 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-09T02:00:27Z",
+        "title": "【hololive Dreams】 ホロライブで一番セクシーなおしりとホロドリやる〜！🍑✨ #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "iZKj-rHFZIo"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -512,5 +513,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T01:50:40Z"
+  "generated_at": "2026-10-09T02:00:59Z"
 }
