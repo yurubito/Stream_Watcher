@@ -525,7 +525,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T14:30:00Z",
+          "title": "【VAMPIRE SURVIVORS】6 LIVES SHOULD BE ENOUGH, RIGHT?",
+          "video_id": "M_-a09BBegM"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -580,5 +587,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T18:30:40Z"
+  "generated_at": "2026-10-09T19:20:30Z"
 }
