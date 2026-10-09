@@ -160,6 +160,11 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-09T06:03:05Z",
+        "title": "【 #ホロドリ 】ビンゴ埋めないと…でも釣りも…【常闇トワ/ホロライブ】",
+        "video_id": "kUf3E7fz8FQ"
+      },
       "name": "常闇トワ"
     },
     {
@@ -209,11 +214,6 @@
       "group": "JP holoX",
       "name": "ラプラス・ダークネス",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T06:00:00Z",
-          "title": "【duolingo】한국어 공부 방송！２！",
-          "video_id": "sQlSXKR3uKE"
-        },
         {
           "scheduled_at": "2026-10-13T12:00:00Z",
           "title": "【holoX】みんなでティア表!をやるぞ！【ラプラス・ダークネス/ホロライブ】",
@@ -370,11 +370,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-09T03:00:47Z",
-        "title": "【役満級】新作『ホロじゃん』情報解禁！【#昼ホロ / #花園さやか】",
-        "video_id": "YFHtfruBL1Q"
-      },
       "name": "井月みちる"
     },
     {
@@ -508,6 +503,11 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-09T06:01:00Z",
+        "title": "Theodora More Paralogues & Official Matches in Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
+        "video_id": "knzIO0N1jTk"
+      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -518,7 +518,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T13:30:00Z",
+          "title": "【hololive Dreams】mantacademic.......【#holodori】",
+          "video_id": "jYzFoTmaIHM"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -526,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T06:10:26Z"
+  "generated_at": "2026-10-09T07:01:02Z"
 }
