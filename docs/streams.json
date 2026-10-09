@@ -505,14 +505,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T10:30:00Z",
-          "title": "【GUERILLA】JUST HANGING AROUND WITH MY NEW (old) FAVOURITE GAME",
-          "video_id": "IDe8VLrT4zo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T10:29:46Z",
+        "title": "【GUERILLA】JUST HANGING AROUND WITH MY NEW (old) FAVOURITE GAME",
+        "video_id": "IDe8VLrT4zo"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -608,5 +606,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-09T10:23:35Z"
+  "generated_at": "2026-10-09T10:30:47Z"
 }
