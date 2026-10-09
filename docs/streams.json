@@ -50,11 +50,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-09T11:07:22Z",
-        "title": "【 #ホロARK 】DAY1│MAPはラグナロク！1か月間まったり生活！？【ホロライブ/アキロゼ】",
-        "video_id": "k9SsOQrUGCc"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -615,5 +610,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T16:30:48Z"
+  "generated_at": "2026-10-09T16:50:24Z"
 }
