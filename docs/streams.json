@@ -94,6 +94,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-09T16:15:01Z",
+        "title": "【Freetalk】深夜にまったり悪魔のARKゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "q0wYZa7eEb8"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -342,7 +347,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T04:00:00Z",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】#3 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+          "video_id": "zRm6fwyXPHw"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -603,5 +615,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T16:20:38Z"
+  "generated_at": "2026-10-09T16:30:48Z"
 }
