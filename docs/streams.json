@@ -298,12 +298,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-09T02:00:39Z",
-        "title": "【#ホロドリ 】オリー先輩と初サシコラボ！！  【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "cZBUJNRvNBU"
-      },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T13:00:00Z",
+          "title": "【配信予定】なにする？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "Fm6BeAZhWYU"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -508,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T03:40:21Z"
+  "generated_at": "2026-10-09T03:50:31Z"
 }
