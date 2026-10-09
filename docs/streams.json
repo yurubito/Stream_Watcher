@@ -35,11 +35,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-09T11:04:56Z",
-        "title": "【#ホロARK】ARKホロ鯖きちゃああああああああああああ！？【ホロライブ/さくらみこ】",
-        "video_id": "y-8p5lgHGG0"
-      },
       "name": "さくらみこ"
     },
     {
@@ -210,11 +205,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-09T12:59:41Z",
-        "title": "【#ホロ甲2026】育成配信3年目春！！厳密にはもう少しで春だ！【尾丸ポルカ/ホロライブ】",
-        "video_id": "dS0SgwQbshw"
-      },
       "name": "尾丸ポルカ",
       "upcoming": [
         {
@@ -602,5 +592,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T18:00:53Z"
+  "generated_at": "2026-10-09T18:10:30Z"
 }
