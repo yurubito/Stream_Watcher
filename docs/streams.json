@@ -8,13 +8,13 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-09T13:01:17Z",
+        "title": "【 初配信 】２Ｄではろ～ぼ～！ロボ子さんです！…8年の時を超えて？    #ホロドリ【ホロライブ/ ロボ子さん 】",
+        "video_id": "L3u53Hflr_k"
+      },
       "name": "ロボ子さん",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T13:00:00Z",
-          "title": "【 初配信 】２Ｄではろ～ぼ～！ロボ子さんです！…8年の時を超えて？    #ホロドリ【ホロライブ/ ロボ子さん 】",
-          "video_id": "L3u53Hflr_k"
-        },
         {
           "scheduled_at": "2026-10-10T10:00:00Z",
           "title": "チルノのパーフェクトさんすう教室 /ロボ子さん＆白上フブキ cover",
@@ -104,12 +104,24 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-09T12:00:45Z",
-        "title": "【#生スバル】ブラッククローバー2nd season みるしゅばああああああああああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "qJYDoYnPTHM"
-      },
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T01:00:00Z",
+          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+          "video_id": "F98fUWfgs2A"
+        },
+        {
+          "scheduled_at": "2026-10-10T04:00:00Z",
+          "title": "【#5】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+          "video_id": "VgVoVniznX8"
+        },
+        {
+          "scheduled_at": "2026-10-11T04:00:00Z",
+          "title": "【#6】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+          "video_id": "QeppR1Vk3_g"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -173,14 +185,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T13:00:00Z",
-          "title": "【メンバー限定配信】開設6年7ヶ月目！「マインクラフト／ザ・ムービー / A Minecraft Movie」同時視聴！【角巻わため/ホロライブ４期生】",
-          "video_id": "BWvUZ_J60Y0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T13:08:56Z",
+        "title": "【メンバー限定配信】開設6年7ヶ月目！「マインクラフト／ザ・ムービー / A Minecraft Movie」同時視聴！【角巻わため/ホロライブ４期生】",
+        "video_id": "BWvUZ_J60Y0"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -256,11 +266,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-09T10:03:34Z",
-        "title": "【#ねぽっくす 同時視聴】holoXでイベントDAY1を同時視聴するぞ！【 #SSholoX /ホロライブ】",
-        "video_id": "OJP8X-YEZYw"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -283,7 +288,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T22:00:00Z",
+          "title": "【#ホロドリ】朝活☀いったん餌集めをしようじゃないか【風真いろは/ホロライブ】",
+          "video_id": "4I9tJTc3Ye4"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -315,14 +327,12 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T13:00:00Z",
-          "title": "【雑談】でん同士の姿決定！など最近のお話！！【儒烏風亭らでん #ReGLOSS 】",
-          "video_id": "Q_vg-8gZwKk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T13:07:26Z",
+        "title": "【雑談】でん同士の姿決定！など最近のお話！！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "Q_vg-8gZwKk"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -382,7 +392,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-09T13:15:00Z",
-          "title": "【配信予定】なにする？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "title": "【#ホロARK】初めてのホロ鯖ARK！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "Fm6BeAZhWYU"
         }
       ]
@@ -593,7 +603,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-09T13:30:00Z",
-          "title": "【hololive Dreams】More PC Rhythm!!! I Need the Little Bottles #holodori【Pavolia Reine/hololive】",
+          "title": "【hololive Dreams】More PC Rhythm WITH THE GIRLS NOW #holodori【Pavolia Reine/hololive】",
           "video_id": "NiJUh04oEew"
         }
       ]
@@ -631,5 +641,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T13:01:05Z"
+  "generated_at": "2026-10-09T13:10:29Z"
 }
