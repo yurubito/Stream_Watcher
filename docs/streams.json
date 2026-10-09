@@ -550,21 +550,11 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-09T15:03:46Z",
-        "title": "【Hololive Dreams】ioMoona time!【hololive | moona】",
-        "video_id": "Qpm2GeNmykY"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-09T15:03:42Z",
-        "title": "【#holodori 】ioMoona in da House! 【 iofi / hololive】",
-        "video_id": "4rnxMDveKug"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -610,5 +600,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T17:00:58Z"
+  "generated_at": "2026-10-09T17:10:32Z"
 }
