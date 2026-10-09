@@ -104,24 +104,7 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T01:00:00Z",
-          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-          "video_id": "F98fUWfgs2A"
-        },
-        {
-          "scheduled_at": "2026-10-10T04:00:00Z",
-          "title": "【#5】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-          "video_id": "VgVoVniznX8"
-        },
-        {
-          "scheduled_at": "2026-10-11T04:00:00Z",
-          "title": "【#6】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-          "video_id": "QeppR1Vk3_g"
-        }
-      ]
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -185,11 +168,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-09T13:08:56Z",
-        "title": "【メンバー限定配信】開設6年7ヶ月目！「マインクラフト／ザ・ムービー / A Minecraft Movie」同時視聴！【角巻わため/ホロライブ４期生】",
-        "video_id": "BWvUZ_J60Y0"
-      },
       "name": "角巻わため"
     },
     {
@@ -391,7 +369,7 @@
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-09T13:15:00Z",
+          "scheduled_at": "2026-10-09T13:30:00Z",
           "title": "【#ホロARK】初めてのホロ鯖ARK！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "Fm6BeAZhWYU"
         }
@@ -599,14 +577,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T13:30:00Z",
-          "title": "【hololive Dreams】More PC Rhythm WITH THE GIRLS NOW #holodori【Pavolia Reine/hololive】",
-          "video_id": "NiJUh04oEew"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T13:10:35Z",
+        "title": "【hololive Dreams】More PC Rhythm WITH THE GIRLS NOW #holodori【Pavolia Reine/hololive】",
+        "video_id": "NiJUh04oEew"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -641,5 +617,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T13:10:29Z"
+  "generated_at": "2026-10-09T13:20:26Z"
 }
