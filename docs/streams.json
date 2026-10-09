@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T14:15:00Z",
+          "title": "【配信予定地】【ときのそら/ホロライブ】",
+          "video_id": "d7z0K8Qwip4"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -439,7 +446,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-10T00:00:00Z",
-          "title": "【hololive Dreams】wishin we were fishin #calliolive #holodori",
+          "title": "【hololive Dreams】ladies fear me, fish want me #calliolive #holodori",
           "video_id": "QOhMghyZLVE"
         },
         {
@@ -627,5 +634,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T13:40:34Z"
+  "generated_at": "2026-10-09T13:50:27Z"
 }
