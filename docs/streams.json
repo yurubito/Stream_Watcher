@@ -40,7 +40,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T10:00:00Z",
+          "title": "【雑談】雑談って……雑談って……雑談だね‼【星街すいせい / ＃ほしまちすたじお】",
+          "video_id": "xT_0sVK8lQU"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -538,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T08:00:59Z"
+  "generated_at": "2026-10-09T08:30:56Z"
 }
