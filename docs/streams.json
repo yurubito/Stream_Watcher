@@ -12,7 +12,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-09T13:00:00Z",
-          "title": "【 初配信 】２Ｄではろ～ぼ～！ロボ子さんです！   #ホロドリ【ホロライブ/ ロボ子さん 】",
+          "title": "【 初配信 】２Ｄではろ～ぼ～！ロボ子さんです！…8年の時を超えて？    #ホロドリ【ホロライブ/ ロボ子さん 】",
           "video_id": "L3u53Hflr_k"
         },
         {
@@ -84,14 +84,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T13:00:00Z",
-          "title": "【#ホロワンドロ】かくのじゃ～！【ホロライブ/夏色まつり】",
-          "video_id": "bWXTy9UW9gM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T12:59:24Z",
+        "title": "【#ホロワンドロ】かくのじゃ～！【ホロライブ/夏色まつり】",
+        "video_id": "bWXTy9UW9gM"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -229,13 +227,13 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-09T12:59:41Z",
+        "title": "【#ホロ甲2026】育成配信3年目春！！厳密にはもう少しで春だ！【尾丸ポルカ/ホロライブ】",
+        "video_id": "dS0SgwQbshw"
+      },
       "name": "尾丸ポルカ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T13:00:00Z",
-          "title": "【#ホロ甲2026】育成配信3年目春！！厳密にはもう少しで春だ！【尾丸ポルカ/ホロライブ】",
-          "video_id": "dS0SgwQbshw"
-        },
         {
           "scheduled_at": "2026-10-10T08:00:00Z",
           "title": "【同時視聴】『#朱色の仮面』大好きな漫画がついにアニメ化！！すうと一緒に第1話みるよ【尾丸ポルカ/水宮枢/ホロライブ】",
@@ -383,7 +381,7 @@
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-09T13:00:00Z",
+          "scheduled_at": "2026-10-09T13:15:00Z",
           "title": "【配信予定】なにする？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "Fm6BeAZhWYU"
         }
@@ -591,7 +589,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T13:30:00Z",
+          "title": "【hololive Dreams】More PC Rhythm!!! I Need the Little Bottles #holodori【Pavolia Reine/hololive】",
+          "video_id": "NiJUh04oEew"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -626,5 +631,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T12:50:40Z"
+  "generated_at": "2026-10-09T13:01:05Z"
 }
