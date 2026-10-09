@@ -349,13 +349,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-09T01:00:48Z",
+        "title": "【member's only】chat and game as usual!! #calliolive",
+        "video_id": "-K1l13cLRaU"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T01:00:00Z",
-          "title": "【member's only】chat and game as usual!! #calliolive",
-          "video_id": "-K1l13cLRaU"
-        },
         {
           "scheduled_at": "2026-10-09T11:00:00Z",
           "title": "【hololive Dreams】fashionlliope morrison plays lots of songs today #calliolive #holodori",
@@ -524,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T01:00:45Z"
+  "generated_at": "2026-10-09T01:10:26Z"
 }
