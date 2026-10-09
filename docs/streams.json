@@ -57,11 +57,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-09T09:49:13Z",
-        "title": "【ホロライブドリームス】釣り埋め図鑑！ポカじゃん参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "aXlNdRbV3U8"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -143,14 +138,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T11:00:00Z",
-          "title": "ホロ鯖ARKきｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "tqzLShTKJkk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T10:57:54Z",
+        "title": "ホロ鯖ARKきｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "tqzLShTKJkk"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -229,7 +222,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T13:00:00Z",
+          "title": "【#ホロ甲2026】育成配信3年目春！！厳密にはもう少しで春だ！【尾丸ポルカ/ホロライブ】",
+          "video_id": "dS0SgwQbshw"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -419,13 +419,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-09T11:00:12Z",
+        "title": "【hololive Dreams】fashionlliope morrison plays lots of songs today #calliolive #holodori",
+        "video_id": "rYAixab3HZ0"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T11:00:00Z",
-          "title": "【hololive Dreams】fashionlliope morrison plays lots of songs today #calliolive #holodori",
-          "video_id": "rYAixab3HZ0"
-        },
         {
           "scheduled_at": "2026-10-10T00:00:00Z",
           "title": "【hololive Dreams】wishin we were fishin #calliolive #holodori",
@@ -569,7 +569,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T12:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】Holodori With The Girls! NEW DRIP...?!【hololive holoro | Anya Melfissa】",
+          "video_id": "OhVssU_z5lA"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -611,5 +618,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-09T10:50:34Z"
+  "generated_at": "2026-10-09T11:01:01Z"
 }
