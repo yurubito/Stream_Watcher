@@ -35,14 +35,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T11:00:00Z",
-          "title": "【#ホロARK】ARKホロ鯖きちゃああああああああああああ！？【ホロライブ/さくらみこ】",
-          "video_id": "y-8p5lgHGG0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T11:04:56Z",
+        "title": "【#ホロARK】ARKホロ鯖きちゃああああああああああああ！？【ホロライブ/さくらみこ】",
+        "video_id": "y-8p5lgHGG0"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -57,13 +55,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-09T11:07:22Z",
+        "title": "【 #ホロARK 】DAY1│MAPはラグナロク！1か月間まったり生活！？【ホロライブ/アキロゼ】",
+        "video_id": "k9SsOQrUGCc"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T11:00:00Z",
-          "title": "【 #ホロARK 】DAY1│MAPはラグナロク！1か月間まったり生活！？【ホロライブ/アキロゼ】",
-          "video_id": "k9SsOQrUGCc"
-        },
         {
           "scheduled_at": "2026-10-12T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち？｜ちょこのお悩み相談室～深夜のひとくちラジオ～",
@@ -618,5 +616,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-09T11:01:01Z"
+  "generated_at": "2026-10-09T11:10:26Z"
 }
