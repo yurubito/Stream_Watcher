@@ -21,6 +21,11 @@
           "video_id": "BK2mvHvdf4c"
         },
         {
+          "scheduled_at": "2026-10-10T13:00:00Z",
+          "title": "【 ＃ホロドリ 】＃ろぼあず でポカジャンがっぽがっぽ～！！ホロメン乱入凸◎【ホロライブ/ ロボ子さん 】",
+          "video_id": "Mre0PhrgLcE"
+        },
+        {
           "scheduled_at": "2026-10-11T09:00:00Z",
           "title": "【オフコラボ】＃デビメタ で健康ごはん✨とわあああ食べてえええ【ホロライブ/ロボ子さん】",
           "video_id": "WXaEsVLtZAM"
@@ -94,14 +99,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T14:45:00Z",
-          "title": "【#ホロドリ】深夜チル釣り配信📣 【ホロライブ/癒月ちょこ】",
-          "video_id": "l7b9PzGZo-o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T14:52:08Z",
+        "title": "【#ホロドリ】深夜チル釣り配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "l7b9PzGZo-o"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -322,11 +325,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-09T13:07:26Z",
-        "title": "【雑談】でん同士の姿決定！など最近のお話！！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "Q_vg-8gZwKk"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -475,7 +473,19 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T01:00:00Z",
+          "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Confections Pt 1...First Playthrough #6【SPOILER WARNING】",
+          "video_id": "mBzidMb6vCA"
+        },
+        {
+          "scheduled_at": "2026-10-10T13:00:00Z",
+          "title": "≪hololive Dreams≫ feesh #2 #holodori",
+          "video_id": "T8b_jMkiQcQ"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -603,5 +613,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T14:50:35Z"
+  "generated_at": "2026-10-09T15:00:58Z"
 }
