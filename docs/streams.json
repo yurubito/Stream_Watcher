@@ -141,14 +141,7 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T14:00:00Z",
-          "title": "【ホロドリ】深夜のチル...！魂の釣りッッ！目標50種類！！(現在41種類)(多分)(きっと)(メイビー)【白銀ノエル/ホロライブ】",
-          "video_id": "SC0xyJeVUbY"
-        }
-      ]
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -411,11 +404,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-09T08:58:39Z",
-        "title": "【IRyS同時視聴】わたしたちガソリンになります【#holoAN / #IRyS】",
-        "video_id": "URQ9SUx_y1U"
-      },
       "name": "井月みちる"
     },
     {
@@ -617,5 +605,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-09T11:40:38Z"
+  "generated_at": "2026-10-09T11:50:22Z"
 }
