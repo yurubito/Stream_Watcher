@@ -45,11 +45,6 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-09T10:01:51Z",
-        "title": "【雑談】雑談って……雑談って……雑談だね‼【星街すいせい / ＃ほしまちすたじお】",
-        "video_id": "xT_0sVK8lQU"
-      },
       "name": "星街すいせい"
     },
     {
@@ -77,11 +72,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-09T10:00:05Z",
-        "title": "【#日本HP大決算】いろはにほへっとショッピング2　～あやふぶみりたーんず～【ホロライブ/白上フブキ/百鬼あやめ/大神ミオ】",
-        "video_id": "FVpLKAiHYFA"
-      },
       "name": "白上フブキ",
       "upcoming": [
         {
@@ -276,7 +266,19 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T10:00:00Z",
+          "title": "【 #音乃瀬奏AcousticLive 】重大告知アリ！セルフ3D×ピアノ生演奏ライブ！【音乃瀬奏】#ReGLOSS",
+          "video_id": "QvUi6KG4FRI"
+        },
+        {
+          "scheduled_at": "2026-10-12T11:00:00Z",
+          "title": "音乃瀬奏 - ？？？ (Official MV)",
+          "video_id": "LjuKylF4udw"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -616,5 +618,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-09T11:10:26Z"
+  "generated_at": "2026-10-09T11:30:41Z"
 }
