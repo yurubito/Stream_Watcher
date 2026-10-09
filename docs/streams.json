@@ -503,7 +503,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T22:25:00Z",
+          "title": "【UNARCHIVED】SMALL LITTLE KARAOKE",
+          "video_id": "lAywdxhTGKY"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -582,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T22:10:29Z"
+  "generated_at": "2026-10-09T22:20:32Z"
 }
