@@ -330,11 +330,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-09T14:00:11Z",
-        "title": "【タンポポは耐える】ぼく、たんぽぽ【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "10RADClbBWA"
-      },
       "name": "轟はじめ"
     },
     {
@@ -549,26 +544,22 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T15:00:00Z",
-          "title": "【Hololive Dreams】ioMoona time!【hololive | moona】",
-          "video_id": "Qpm2GeNmykY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T15:03:46Z",
+        "title": "【Hololive Dreams】ioMoona time!【hololive | moona】",
+        "video_id": "Qpm2GeNmykY"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T15:00:00Z",
-          "title": "【#holodori 】ioMoona in da House! 【 iofi / hololive】",
-          "video_id": "4rnxMDveKug"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T15:03:42Z",
+        "title": "【#holodori 】ioMoona in da House! 【 iofi / hololive】",
+        "video_id": "4rnxMDveKug"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -613,5 +604,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T15:00:58Z"
+  "generated_at": "2026-10-09T15:10:26Z"
 }
