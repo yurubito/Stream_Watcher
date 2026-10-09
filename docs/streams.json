@@ -138,7 +138,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T11:00:00Z",
+          "title": "ホロ鯖ARKきｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "tqzLShTKJkk"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -148,14 +155,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T09:00:00Z",
-          "title": "【SPAGHET】まつりちゃんからスパゲッティの宅配きちゃ🍝✨【白銀ノエル/ホロライブ】",
-          "video_id": "QTZ4dWHpLy0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T09:00:51Z",
+        "title": "【SPAGHET】まつりちゃんからスパゲッティの宅配きちゃ🍝✨【白銀ノエル/ホロライブ】",
+        "video_id": "QTZ4dWHpLy0"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -574,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T09:00:49Z"
+  "generated_at": "2026-10-09T09:10:31Z"
 }
