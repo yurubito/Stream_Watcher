@@ -141,12 +141,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-09T09:00:51Z",
-        "title": "【SPAGHET】まつりちゃんからスパゲッティの宅配きちゃ🍝✨【白銀ノエル/ホロライブ】",
-        "video_id": "QTZ4dWHpLy0"
-      },
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T14:00:00Z",
+          "title": "【ホロドリ】深夜のチル...！魂の釣りッッ！目標50種類！！(現在41種類)(多分)(きっと)(メイビー)【白銀ノエル/ホロライブ】",
+          "video_id": "SC0xyJeVUbY"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -525,11 +527,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-09T09:29:43Z",
-        "title": "【hololive Dreams】 Event and Stats Grinding !!!【#holodori #ホロドリ】",
-        "video_id": "aVPyPsjIco4"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -581,17 +578,19 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-09T06:01:00Z",
-        "title": "Theodora More Paralogues & Official Matches in Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
-        "video_id": "knzIO0N1jTk"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T12:00:00Z",
+          "title": "【hololive Dreams】USING MY HOLODORI OUTFIT #holodori #ホロドリ",
+          "video_id": "LxfUqHLhevw"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -618,5 +617,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-09T11:30:41Z"
+  "generated_at": "2026-10-09T11:40:38Z"
 }
