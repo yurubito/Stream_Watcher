@@ -376,7 +376,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T11:00:00Z",
+          "title": "【雑談】デビューからの2週間を振り返ろーっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "23xGIcuHdLs"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -423,7 +430,7 @@
       "name": "小鳥遊キアラ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-09T17:45:00Z",
+          "scheduled_at": "2026-10-09T18:30:00Z",
           "title": "【Dragon's Dogma 2: Dark Arisen】rising like a (dark) phoenix #kfp #キアライブ",
           "video_id": "jkTMEVknULE"
         }
@@ -595,5 +602,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T17:50:38Z"
+  "generated_at": "2026-10-09T18:00:53Z"
 }
