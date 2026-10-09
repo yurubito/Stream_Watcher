@@ -334,7 +334,14 @@
         "title": "【#ホロARK】初めてのホロ鯖ARK！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
         "video_id": "Fm6BeAZhWYU"
       },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T21:00:00Z",
+          "title": "【#ホロドリ 】おはよう！朝のホロドリ！！新エリアクリア目指してまったり～！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "b5nDqJmKJy8"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -589,5 +596,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T20:10:35Z"
+  "generated_at": "2026-10-09T20:50:28Z"
 }
