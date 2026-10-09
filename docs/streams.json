@@ -47,14 +47,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T10:00:00Z",
-          "title": "【雑談】雑談って……雑談って……雑談だね‼【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "xT_0sVK8lQU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T10:01:51Z",
+        "title": "【雑談】雑談って……雑談って……雑談だね‼【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "xT_0sVK8lQU"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -248,14 +246,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T10:00:00Z",
-          "title": "【#ねぽっくす 同時視聴】holoXでイベントDAY1を同時視聴するぞ！【 #SSholoX /ホロライブ】",
-          "video_id": "OJP8X-YEZYw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T10:03:34Z",
+        "title": "【#ねぽっくす 同時視聴】holoXでイベントDAY1を同時視聴するぞ！【 #SSholoX /ホロライブ】",
+        "video_id": "OJP8X-YEZYw"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -593,5 +589,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-09T10:01:14Z"
+  "generated_at": "2026-10-09T10:10:22Z"
 }
