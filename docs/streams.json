@@ -94,11 +94,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-09T14:52:08Z",
-        "title": "【#ホロドリ】深夜チル釣り配信📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "l7b9PzGZo-o"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -608,5 +603,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T16:10:30Z"
+  "generated_at": "2026-10-09T16:20:38Z"
 }
