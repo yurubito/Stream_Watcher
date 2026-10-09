@@ -372,14 +372,12 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T02:30:00Z",
-          "title": "【Promise Road Trip】A Relaxing...? 😱 Camping Night!",
-          "video_id": "3VomCoEsXGM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T02:29:24Z",
+        "title": "【Promise Road Trip】A Relaxing...? 😱 Camping Night!",
+        "video_id": "3VomCoEsXGM"
+      },
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -513,5 +511,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T02:20:27Z"
+  "generated_at": "2026-10-09T02:40:27Z"
 }
