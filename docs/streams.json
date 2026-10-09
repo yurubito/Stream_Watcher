@@ -128,7 +128,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T11:00:00Z",
+          "title": "ホロ鯖ARKきｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "tqzLShTKJkk"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -258,7 +265,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T12:00:00Z",
+          "title": "【莉々華の呪い DAY1】何回目で成功する…？ラミィ先輩完凸チャレンジ #ホロドリ 【一条莉々華/hololive ReGLOSS】",
+          "video_id": "uVwJqZ69lmU"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -545,5 +559,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T08:30:56Z"
+  "generated_at": "2026-10-09T08:50:26Z"
 }
