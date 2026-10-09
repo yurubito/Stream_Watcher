@@ -405,14 +405,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T01:00:00Z",
-          "title": "≪Promise Road Trip≫ Happy 3 Years Promise 💖",
-          "video_id": "7BB1hl9FqDk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T00:57:31Z",
+        "title": "≪Promise Road Trip≫ Happy 3 Years Promise 💖",
+        "video_id": "7BB1hl9FqDk"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -422,14 +420,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T01:00:00Z",
-          "title": "【Dragon's Dogma 2: Dark Arisen】The Return of Chadseki #DD2DA #sponsored",
-          "video_id": "rGnmZaFAu-0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T00:57:18Z",
+        "title": "【Dragon's Dogma 2: Dark Arisen】The Return of Chadseki #DD2DA #sponsored",
+        "video_id": "rGnmZaFAu-0"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -528,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-08T23:40:23Z"
+  "generated_at": "2026-10-09T01:00:45Z"
 }
