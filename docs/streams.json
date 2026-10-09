@@ -131,7 +131,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T09:00:00Z",
+          "title": "【SPAGHET】まつりちゃんからスパゲッティの宅配きちゃ🍝✨【白銀ノエル/ホロライブ】",
+          "video_id": "QTZ4dWHpLy0"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -382,11 +389,6 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-09T01:45:23Z",
-        "title": "【Promise Road Trip】Trying Our Best To Escape A Room",
-        "video_id": "oqWDq8CMavQ"
-      },
       "name": "オーロ・クロニー"
     },
     {
@@ -511,5 +513,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T02:40:27Z"
+  "generated_at": "2026-10-09T02:50:23Z"
 }
