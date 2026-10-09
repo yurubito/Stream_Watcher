@@ -251,14 +251,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T22:00:00Z",
-          "title": "【#ホロドリ】朝活☀いったん餌集めをしようじゃないか【風真いろは/ホロライブ】",
-          "video_id": "4I9tJTc3Ye4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T22:02:21Z",
+        "title": "【#ホロドリ】朝活☀いったん餌集めをしようじゃないか【風真いろは/ホロライブ】",
+        "video_id": "4I9tJTc3Ye4"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -584,5 +582,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T22:01:01Z"
+  "generated_at": "2026-10-09T22:10:29Z"
 }
