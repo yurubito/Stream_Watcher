@@ -99,14 +99,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T12:00:00Z",
-          "title": "【#生スバル】ブラッククローバー2nd season みるしゅばああああああああああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-          "video_id": "qJYDoYnPTHM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T12:00:45Z",
+        "title": "【#生スバル】ブラッククローバー2nd season みるしゅばああああああああああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "qJYDoYnPTHM"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -141,7 +139,19 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-09T14:00:00Z",
+          "title": "【ホロドリ】深夜のチル...！魂の釣りッッ！目標50種類！！(現在41種類)(多分)(きっと)(メイビー)【白銀ノエル/ホロライブ】",
+          "video_id": "SC0xyJeVUbY"
+        },
+        {
+          "scheduled_at": "2026-10-10T02:00:00Z",
+          "title": "【#ホロ甲2026】最終回予定！大分の白銀学院高校！３年目の夏！夏の甲子園優勝目指して！！【白銀ノエル/ホロライブ】",
+          "video_id": "k1RmSiwWFEs"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -605,5 +615,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-09T11:50:22Z"
+  "generated_at": "2026-10-09T12:00:58Z"
 }
