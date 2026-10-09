@@ -6,8 +6,8 @@
       "name": "ときのそら",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-09T14:15:00Z",
-          "title": "【配信予定地】【ときのそら/ホロライブ】",
+          "scheduled_at": "2026-10-09T14:30:00Z",
+          "title": "【タンポポは耐える。】タンポポってかわいいよね。【ときのそら/ホロライブ】",
           "video_id": "d7z0K8Qwip4"
         }
       ]
@@ -170,13 +170,13 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-10-09T14:00:41Z",
+        "title": "【ホロドリ】深夜のチル...！魂の釣りッッ！目標50種類！！(現在41種類)(多分)(きっと)(メイビー)【白銀ノエル/ホロライブ】",
+        "video_id": "SC0xyJeVUbY"
+      },
       "name": "白銀ノエル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T14:00:00Z",
-          "title": "【ホロドリ】深夜のチル...！魂の釣りッッ！目標50種類！！(現在41種類)(多分)(きっと)(メイビー)【白銀ノエル/ホロライブ】",
-          "video_id": "SC0xyJeVUbY"
-        },
         {
           "scheduled_at": "2026-10-10T02:00:00Z",
           "title": "【#ホロ甲2026】最終回予定！大分の白銀学院高校！３年目の夏！夏の甲子園優勝目指して！！【白銀ノエル/ホロライブ】",
@@ -339,14 +339,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T14:00:00Z",
-          "title": "【タンポポは耐える】ぼく、たんぽぽ【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "10RADClbBWA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T14:00:11Z",
+        "title": "【タンポポは耐える】ぼく、たんぽぽ【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "10RADClbBWA"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -361,13 +359,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-09T14:00:24Z",
+        "title": "【#1】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
+        "video_id": "9FpDYuWXTgQ"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T14:00:00Z",
-          "title": "【#1】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有※ネタバレあり【水宮枢／ホロライブ】",
-          "video_id": "9FpDYuWXTgQ"
-        },
         {
           "scheduled_at": "2026-10-10T13:30:00Z",
           "title": "【#2】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
@@ -425,14 +423,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-09T14:00:00Z",
-          "title": "【雑談】チル～くおはなししよ！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "Czddas7oatE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-09T13:59:27Z",
+        "title": "【雑談】チル～くおはなししよ！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "Czddas7oatE"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -562,11 +558,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-09T12:02:44Z",
-        "title": "【 #holoctober 】DAY 9 : Maid【 iofi / hololive】",
-        "video_id": "lPOYqayF38A"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -611,11 +602,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-09T12:00:52Z",
-        "title": "【hololive Dreams】USING MY HOLODORI OUTFIT #holodori #ホロドリ",
-        "video_id": "LxfUqHLhevw"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -634,5 +620,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-09T13:50:27Z"
+  "generated_at": "2026-10-09T14:00:50Z"
 }
