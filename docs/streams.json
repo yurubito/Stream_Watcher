@@ -278,7 +278,14 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎"
+      "name": "虎金妃笑虎",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T12:30:00Z",
+          "title": "【メン限】なんか映画みよ～！！！【虎金妃笑虎】",
+          "video_id": "Z33xx-_VHso"
+        }
+      ]
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -561,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T17:00:58Z"
+  "generated_at": "2026-10-10T17:10:40Z"
 }
