@@ -394,14 +394,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T12:30:00Z",
-          "title": "【夜勤事件】コワクナイ。【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "gTT0Af4vYyI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T12:30:08Z",
+        "title": "【夜勤事件】コワクナイ。【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "gTT0Af4vYyI"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -543,14 +541,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T12:30:00Z",
-          "title": "UNARCHIVED KARAOKE : singing singing",
-          "video_id": "cJCd_eCQx9M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T12:29:46Z",
+        "title": "UNARCHIVED KARAOKE : singing singing",
+        "video_id": "cJCd_eCQx9M"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -606,7 +602,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T12:30:00Z",
+          "title": "【hololive Dreams】where's my fish..... #holodori #ホロドリ",
+          "video_id": "gwpNGfL9Pek"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -626,5 +629,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-10T12:20:25Z"
+  "generated_at": "2026-10-10T12:30:43Z"
 }
