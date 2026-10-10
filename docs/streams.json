@@ -52,13 +52,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-10T10:14:50Z",
+        "title": "【 #ホロARK 】DAY2│ドレイクリングとパイロとブローバックと【ホロライブ/アキロゼ】",
+        "video_id": "kch-3FbzjEI"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T10:15:00Z",
-          "title": "【 #ホロARK 】DAY2│ドレイクリングとパイロとブローバックと【ホロライブ/アキロゼ】",
-          "video_id": "kch-3FbzjEI"
-        },
         {
           "scheduled_at": "2026-10-10T14:00:00Z",
           "title": "【ホロライブドリームス】ARK奴隷をかけたアキちょこミニゲーム対決（笑） #ホロドリ【ホロライブ/アキロゼ】",
@@ -604,5 +604,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T10:10:29Z"
+  "generated_at": "2026-10-10T10:20:31Z"
 }
