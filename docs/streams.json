@@ -180,11 +180,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-10T12:05:07Z",
-        "title": "プリプリプリンセス【姫森ルーナ/ホロライブ】",
-        "video_id": "wYpu_zz1P3c"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -631,5 +626,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-10T12:10:29Z"
+  "generated_at": "2026-10-10T12:20:25Z"
 }
