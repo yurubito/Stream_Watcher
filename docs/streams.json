@@ -365,14 +365,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T14:00:00Z",
-          "title": "【雑談】デビューからの2週間を振り返ろーっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "23xGIcuHdLs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T14:00:45Z",
+        "title": "【雑談】デビューからの2週間を振り返ろーっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "23xGIcuHdLs"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -593,11 +591,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-10T12:30:40Z",
-        "title": "【hololive Dreams】where's my fish..... #holodori #ホロドリ",
-        "video_id": "gwpNGfL9Pek"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -608,13 +601,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-10T12:32:02Z",
-        "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
-        "video_id": "-cP2wRg1-e0"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T13:50:42Z"
+  "generated_at": "2026-10-10T14:01:02Z"
 }
