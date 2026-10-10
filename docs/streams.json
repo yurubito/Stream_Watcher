@@ -291,6 +291,16 @@
       "name": "輪堂千速",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-11T04:00:00Z",
+          "title": "【DARK SOULS III】#10 また火を継ぎにいくぞ！！！！！※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "LAMRZYO7gf0"
+        },
+        {
+          "scheduled_at": "2026-10-11T11:45:00Z",
+          "title": "【F1同時視聴】シンガポールGP！決勝ナイトレース！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "fUfP9lBpKgs"
+        },
+        {
           "scheduled_at": "2026-10-13T10:00:00Z",
           "title": "【ACE COMBAT 8: WINGS OF THEVE】#4 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
           "video_id": "wNjLwlh7MJw"
@@ -337,7 +347,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T02:00:00Z",
+          "title": "【EN】#2 I'm already in love with this game! | Cuphead【Hyakuto Kyoko/Hololive】",
+          "video_id": "GGHPveb5wFU"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -539,5 +556,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T15:40:25Z"
+  "generated_at": "2026-10-10T15:50:30Z"
 }
