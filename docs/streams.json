@@ -147,7 +147,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T10:00:00Z",
+          "title": "ホロ鯖ARKきｔらああああああああああああああああああああ！！！DAY2【ホロライブ/兎田ぺこら】",
+          "video_id": "UjdcDg3mPnY"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -319,7 +326,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T14:00:00Z",
+          "title": "【ホロドリ】りぐろすで遊ぶぞ！！！！【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "xw_cQWay7AE"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -611,5 +625,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T08:20:26Z"
+  "generated_at": "2026-10-10T08:30:42Z"
 }
