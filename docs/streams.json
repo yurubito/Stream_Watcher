@@ -296,14 +296,14 @@
       "name": "輪堂千速",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-11T04:00:00Z",
-          "title": "【DARK SOULS III】#10 また火を継ぎにいくぞ！！！！！※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "LAMRZYO7gf0"
-        },
-        {
           "scheduled_at": "2026-10-11T11:45:00Z",
           "title": "【F1同時視聴】シンガポールGP！決勝ナイトレース！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
           "video_id": "fUfP9lBpKgs"
+        },
+        {
+          "scheduled_at": "2026-10-12T04:00:00Z",
+          "title": "【DARK SOULS III】#10 また火を継ぎにいくぞ！！！！！※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "LAMRZYO7gf0"
         },
         {
           "scheduled_at": "2026-10-13T10:00:00Z",
@@ -388,14 +388,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T17:00:00Z",
-          "title": "【Dragon's Dogma 2: Dark Arisen】get yourself a reliable Kiara pawn! #kfp #キアライブ",
-          "video_id": "XXlcblHYqtU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T16:59:52Z",
+        "title": "【Dragon's Dogma 2: Dark Arisen】get yourself a reliable Kiara pawn! #kfp #キアライブ",
+        "video_id": "XXlcblHYqtU"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -545,11 +543,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-10T15:40:12Z",
-        "title": "【hololive Dreams】Casual Pokajan Time #holodori【Pavolia Reine/hololive】",
-        "video_id": "y656wyvl3mo"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -568,5 +561,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T16:40:29Z"
+  "generated_at": "2026-10-10T17:00:58Z"
 }
