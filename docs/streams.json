@@ -94,11 +94,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-10T01:01:51Z",
-        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-        "video_id": "F98fUWfgs2A"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -580,5 +575,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T02:10:34Z"
+  "generated_at": "2026-10-10T02:40:24Z"
 }
