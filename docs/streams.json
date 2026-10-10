@@ -314,14 +314,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T09:30:00Z",
-          "title": "【タンポポは耐える】リオナは耐える。多分【ホロライブ  響咲リオナ】",
-          "video_id": "BO6FB-GPBB4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T09:30:21Z",
+        "title": "【タンポポは耐える】リオナは耐える。多分【ホロライブ  響咲リオナ】",
+        "video_id": "BO6FB-GPBB4"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -353,14 +351,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T09:15:00Z",
-          "title": "【#ホロARK】初めてのホロ鯖ARK！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "ZDPhpQExaJE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T09:20:52Z",
+        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃2【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "ZDPhpQExaJE"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -605,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T09:20:25Z"
+  "generated_at": "2026-10-10T09:30:58Z"
 }
