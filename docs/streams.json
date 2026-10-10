@@ -454,7 +454,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T23:00:00Z",
+          "title": "【Five Nights at Freddy's: Security Breach】Proof that biboo has a heart",
+          "video_id": "g4xhPCBFews"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -575,5 +582,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T17:20:33Z"
+  "generated_at": "2026-10-10T17:30:41Z"
 }
