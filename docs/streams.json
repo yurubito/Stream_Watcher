@@ -116,11 +116,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-10T10:00:29Z",
-        "title": "ホロ鯖ARKきｔらああああああああああああああああああああ！！！DAY2【ホロライブ/兎田ぺこら】",
-        "video_id": "UjdcDg3mPnY"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -236,13 +231,13 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-10T21:59:33Z",
+        "title": "【#ホロドリ】朝活☀餌は無限にほしいよな【風真いろは/ホロライブ】",
+        "video_id": "LqN7_slfuGU"
+      },
       "name": "風真いろは",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T22:00:00Z",
-          "title": "【#ホロドリ】朝活☀餌は無限にほしいよな【風真いろは/ホロライブ】",
-          "video_id": "LqN7_slfuGU"
-        },
         {
           "scheduled_at": "2026-10-11T09:00:00Z",
           "title": "ノンブレス・オブリージュ - ピノキオピー / Covered by 風真いろは",
@@ -586,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T21:40:23Z"
+  "generated_at": "2026-10-10T22:00:46Z"
 }
