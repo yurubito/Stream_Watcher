@@ -370,6 +370,11 @@
       "name": "熱千めら",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-11T10:00:00Z",
+          "title": "【リズム天国】大人気リズムゲームを初見プレイのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "mNcFyUgR_B4"
+        },
+        {
           "scheduled_at": "2028-09-24T10:00:00Z",
           "title": "【フリーチャット】概要欄にお知らせ随時追加のじゃ！",
           "video_id": "4uuYjSf0rpU"
@@ -579,7 +584,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T12:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】Just Anya With Her New Drip~【hololive holoro | Anya Melfissa】",
+          "video_id": "5CV7XchOvUU"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -609,5 +621,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-10T11:20:28Z"
+  "generated_at": "2026-10-10T11:50:24Z"
 }
