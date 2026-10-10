@@ -320,11 +320,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-10T14:00:45Z",
-        "title": "【雑談】デビューからの2週間を振り返ろーっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "23xGIcuHdLs"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -470,7 +465,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T04:00:00Z",
+          "title": "#8 DINKUM HALLOWEEN EVENT w/ @sammybollivienn & @sayaayaaulya",
+          "video_id": "z3DPrfBGFqA"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -535,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T15:20:54Z"
+  "generated_at": "2026-10-10T15:30:44Z"
 }
