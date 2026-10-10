@@ -60,7 +60,7 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-10T14:00:00Z",
+          "scheduled_at": "2026-10-10T14:10:00Z",
           "title": "【ホロライブドリームス】ARK奴隷をかけたアキちょこミニゲーム対決（笑） #ホロドリ【ホロライブ/アキロゼ】",
           "video_id": "c9XZhiqOPk4"
         },
@@ -94,7 +94,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T14:15:00Z",
+          "title": "【#ホロドリ】アキちゃんと対決だいっ📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "OXq-hxQMDlI"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -257,13 +264,13 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-10-10T14:05:29Z",
+        "title": "【 ホロドリ 】ReGLOSSでミニゲーム遊ぶぞおおおー！！【音乃瀬奏】#ReGLOSS",
+        "video_id": "J5ArluZmg5o"
+      },
       "name": "音乃瀬奏",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T14:00:00Z",
-          "title": "【 ホロドリ 】ReGLOSSでミニゲーム遊ぶぞおおおー！！【音乃瀬奏】#ReGLOSS",
-          "video_id": "J5ArluZmg5o"
-        },
         {
           "scheduled_at": "2026-10-12T10:00:00Z",
           "title": "【 #音乃瀬奏AcousticLive 】重大告知アリ！セルフ3D×ピアノ生演奏ライブ！【音乃瀬奏】#ReGLOSS",
@@ -279,14 +286,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T14:00:00Z",
-          "title": "【ReGLOSSコラボ】一緒にチル #ホロドリ 【一条莉々華/hololive ReGLOSS】",
-          "video_id": "Oczr8R0w6As"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T14:07:00Z",
+        "title": "【ReGLOSSコラボ】一緒にチル #ホロドリ 【一条莉々華/hololive ReGLOSS】",
+        "video_id": "Oczr8R0w6As"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -296,19 +301,24 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T14:00:00Z",
-          "title": "【ホロドリ】りぐろすで遊ぶぞ！！！！【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "xw_cQWay7AE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T14:05:50Z",
+        "title": "【ホロドリ】りぐろすで遊ぶぞ！！！！【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "xw_cQWay7AE"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T04:30:00Z",
+          "title": "【 ＃ホロ甲2026 】壁咲高校、最後の甲子園🔥✨【ホロライブ FLOW GLOW 響咲リオナ】",
+          "video_id": "FImpd4roHXM"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -547,14 +557,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T14:00:00Z",
-          "title": "【 #holoctober 】DAY 10 : HORROR【 iofi / hololive】",
-          "video_id": "5bOGSral8Vk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T14:03:52Z",
+        "title": "【 #holoctober 】DAY 10 : HORROR【 iofi / hololive】",
+        "video_id": "5bOGSral8Vk"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -604,5 +612,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T14:01:02Z"
+  "generated_at": "2026-10-10T14:10:29Z"
 }
