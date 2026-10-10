@@ -288,7 +288,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T10:00:00Z",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】#4 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+          "video_id": "wNjLwlh7MJw"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -509,11 +516,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-10T12:31:59Z",
-        "title": "【hololive Dreams ホロライブドリームス】Just Anya With Her New Drip~【hololive holoro | Anya Melfissa】",
-        "video_id": "5CV7XchOvUU"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -537,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T15:30:44Z"
+  "generated_at": "2026-10-10T15:40:25Z"
 }
