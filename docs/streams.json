@@ -47,11 +47,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-10T14:11:10Z",
-        "title": "【ホロライブドリームス】ARK奴隷をかけたアキちょこミニゲーム対決（笑） #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "c9XZhiqOPk4"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -84,11 +79,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-10T14:13:55Z",
-        "title": "【#ホロドリ】アキちゃんと対決だいっ📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "OXq-hxQMDlI"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -239,11 +229,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-10T14:05:29Z",
-        "title": "【 ホロドリ 】ReGLOSSでミニゲーム遊ぶぞおおおー！！【音乃瀬奏】#ReGLOSS",
-        "video_id": "J5ArluZmg5o"
-      },
       "name": "音乃瀬奏",
       "upcoming": [
         {
@@ -261,11 +246,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-10T14:07:00Z",
-        "title": "【ReGLOSSコラボ】一緒にチル #ホロドリ 【一条莉々華/hololive ReGLOSS】",
-        "video_id": "Oczr8R0w6As"
-      },
       "name": "一条莉々華"
     },
     {
@@ -276,11 +256,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-10T14:05:50Z",
-        "title": "【ホロドリ】りぐろすで遊ぶぞ！！！！【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "xw_cQWay7AE"
-      },
       "name": "轟はじめ"
     },
     {
@@ -560,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T15:10:30Z"
+  "generated_at": "2026-10-10T15:20:54Z"
 }
