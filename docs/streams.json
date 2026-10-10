@@ -8,13 +8,13 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-10T13:00:03Z",
+        "title": "【 ＃ホロドリ 】＃ろぼあず でポカジャンがっぽがっぽ～！！ホロメン乱入凸◎【ホロライブ/ ロボ子さん 】",
+        "video_id": "Mre0PhrgLcE"
+      },
       "name": "ロボ子さん",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T13:00:00Z",
-          "title": "【 ＃ホロドリ 】＃ろぼあず でポカジャンがっぽがっぽ～！！ホロメン乱入凸◎【ホロライブ/ ロボ子さん 】",
-          "video_id": "Mre0PhrgLcE"
-        },
         {
           "scheduled_at": "2026-10-11T09:00:00Z",
           "title": "【オフコラボ】＃デビメタ で健康ごはん✨とわあああ食べてえええ【ホロライブ/ロボ子さん】",
@@ -25,14 +25,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T13:00:00Z",
-          "title": "【#ホロドリ】#ろぼあず と一緒にポカジャン！！！！！！ hololive Dreams【ホロライブ / AZKi】",
-          "video_id": "UMnDc0TEYQw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T13:00:46Z",
+        "title": "【#ホロドリ】#ろぼあず と一緒にポカジャン！！！！！！ hololive Dreams【ホロライブ / AZKi】",
+        "video_id": "UMnDc0TEYQw"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -180,14 +178,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T13:00:00Z",
-          "title": "【 #ホロドリ 】ししドリ杯チームw/てぇてぇ でポカジャンとかやる‼️【常闇トワ/ホロライブ】",
-          "video_id": "DCJiRvoSD28"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T13:00:06Z",
+        "title": "【 #ホロドリ 】ししドリ杯チームw/てぇてぇ でポカジャンとかやる‼️【常闇トワ/ホロライブ】",
+        "video_id": "DCJiRvoSD28"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -416,14 +412,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T13:00:00Z",
-          "title": "#2 レベル上げ禁止！死んだらやり直し！縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "ZxcNUYQCTFE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T12:59:17Z",
+        "title": "#2 レベル上げ禁止！死んだらやり直し！縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "ZxcNUYQCTFE"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -465,13 +459,13 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-10-10T13:00:24Z",
+        "title": "≪hololive Dreams≫ feesh #2 #holodori",
+        "video_id": "T8b_jMkiQcQ"
+      },
       "name": "ハコス・ベールズ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T13:00:00Z",
-          "title": "≪hololive Dreams≫ feesh #2 #holodori",
-          "video_id": "T8b_jMkiQcQ"
-        },
         {
           "scheduled_at": "2026-10-11T01:00:00Z",
           "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Confections Pt 2...First Playthrough #7【SPOILER WARNING】",
@@ -635,5 +629,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T12:50:28Z"
+  "generated_at": "2026-10-10T13:01:05Z"
 }
