@@ -79,6 +79,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-10T16:29:09Z",
+        "title": "【ホロARK】ARK上陸するぞ！ 【ホロライブ/癒月ちょこ】",
+        "video_id": "yfVCHt9brno"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -563,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T16:20:39Z"
+  "generated_at": "2026-10-10T16:40:29Z"
 }
