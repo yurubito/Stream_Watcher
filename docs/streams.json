@@ -180,14 +180,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T12:05:00Z",
-          "title": "プリプリプリンセス【姫森ルーナ/ホロライブ】",
-          "video_id": "wYpu_zz1P3c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T12:05:07Z",
+        "title": "プリプリプリンセス【姫森ルーナ/ホロライブ】",
+        "video_id": "wYpu_zz1P3c"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -287,12 +285,17 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-10-10T12:01:23Z",
+        "title": "【優しく叩いてね…】タンポポは耐える。莉々華も耐える。【一条莉々華/hololive ReGLOSS】",
+        "video_id": "CBd8M7FW7mA"
+      },
       "name": "一条莉々華",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-10T12:00:00Z",
-          "title": "【優しく叩いてね…】タンポポは耐える。莉々華も耐える。【一条莉々華/hololive ReGLOSS】",
-          "video_id": "CBd8M7FW7mA"
+          "scheduled_at": "2026-10-10T14:00:00Z",
+          "title": "【ReGLOSSコラボ】一緒にチル #ホロドリ 【一条莉々華/hololive ReGLOSS】",
+          "video_id": "Oczr8R0w6As"
         }
       ]
     },
@@ -628,5 +631,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-10T12:00:49Z"
+  "generated_at": "2026-10-10T12:10:29Z"
 }
