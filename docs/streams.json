@@ -407,14 +407,12 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T00:00:00Z",
-          "title": "【hololive Dreams】FISH @MoriCalliope",
-          "video_id": "5jJXMm7mIrU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T00:00:42Z",
+        "title": "【hololive Dreams】FISH @MoriCalliope",
+        "video_id": "5jJXMm7mIrU"
+      },
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -584,5 +582,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T00:00:48Z"
+  "generated_at": "2026-10-10T00:10:32Z"
 }
