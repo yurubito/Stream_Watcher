@@ -239,6 +239,11 @@
       "name": "風真いろは",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-11T05:00:00Z",
+          "title": "【#ホロARK】初上陸🏝生き延びる【風真いろは/ホロライブ】",
+          "video_id": "JK8qZPCZiL8"
+        },
+        {
           "scheduled_at": "2026-10-11T09:00:00Z",
           "title": "ノンブレス・オブリージュ - ピノキオピー / Covered by 風真いろは",
           "video_id": "NfZnchcKVw0"
@@ -581,5 +586,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T22:00:46Z"
+  "generated_at": "2026-10-10T22:10:25Z"
 }
