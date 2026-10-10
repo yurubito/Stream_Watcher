@@ -37,7 +37,19 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T06:00:00Z",
+          "title": "【#ホロARK】ARKホロ鯖きちゃああああああああああああ！DAY2【ホロライブ/さくらみこ】",
+          "video_id": "tC0XhUAipq0"
+        },
+        {
+          "scheduled_at": "2026-10-11T12:00:00Z",
+          "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ！ゲスト：大神ミオ🌲【ホロライブ/さくらみこ】",
+          "video_id": "0_-7MQxVxjk"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -623,5 +635,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T12:40:26Z"
+  "generated_at": "2026-10-10T12:50:28Z"
 }
