@@ -265,7 +265,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T09:00:00Z",
+          "title": "ノンブレス・オブリージュ - ピノキオピー / Covered by 風真いろは",
+          "video_id": "NfZnchcKVw0"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -601,5 +608,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T09:30:58Z"
+  "generated_at": "2026-10-10T09:40:34Z"
 }
