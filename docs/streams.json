@@ -158,7 +158,19 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T02:00:00Z",
+          "title": "【 #1 】まったりホロ鯖ARKきたあああああああ【常闇トワ/ホロライブ】",
+          "video_id": "M7MCl7N3nlQ"
+        },
+        {
+          "scheduled_at": "2026-10-10T13:00:00Z",
+          "title": "【 #ホロドリ 】ししドリ杯チームw/てぇてぇ でポカジャンとかやる‼️【常闇トワ/ホロライブ】",
+          "video_id": "DCJiRvoSD28"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -582,5 +594,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T00:40:29Z"
+  "generated_at": "2026-10-10T00:50:32Z"
 }
