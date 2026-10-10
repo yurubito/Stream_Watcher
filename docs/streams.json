@@ -156,11 +156,6 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-10T09:00:25Z",
-        "title": "【#ホロ甲2026】3年目夏合宿から負けたら終わりの最後の甲子園！！！【ホロライブ/宝鐘マリン】",
-        "video_id": "PrhrHSn1qDw"
-      },
       "name": "宝鐘マリン"
     },
     {
@@ -383,11 +378,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-10T12:30:08Z",
-        "title": "【夜勤事件】コワクナイ。【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "gTT0Af4vYyI"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -531,7 +521,7 @@
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-10T14:30:00Z",
+          "scheduled_at": "2026-10-10T14:50:00Z",
           "title": "【VAMPIRE SURVIVORS】6 LIVES SHOULD BE ENOUGH, RIGHT?",
           "video_id": "M_-a09BBegM"
         }
@@ -610,5 +600,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T14:20:34Z"
+  "generated_at": "2026-10-10T14:30:41Z"
 }
