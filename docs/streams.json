@@ -108,11 +108,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-10T04:02:22Z",
-        "title": "【#5】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "VgVoVniznX8"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -174,14 +169,12 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "name": "宝鐘マリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T09:00:00Z",
-          "title": "【#ホロ甲2026】3年目夏合宿から負けたら終わりの最後の甲子園！！！【ホロライブ/宝鐘マリン】",
-          "video_id": "PrhrHSn1qDw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T09:00:25Z",
+        "title": "【#ホロ甲2026】3年目夏合宿から負けたら終わりの最後の甲子園！！！【ホロライブ/宝鐘マリン】",
+        "video_id": "PrhrHSn1qDw"
+      },
+      "name": "宝鐘マリン"
     },
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -377,7 +370,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T09:15:00Z",
+          "title": "【#ホロARK】初めてのホロ鯖ARK！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "ZDPhpQExaJE"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -575,11 +575,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-10T07:03:43Z",
-        "title": "【hololive Dreams】 MAKE WAY AREA 15.1 IS HERE!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "_wYzBfR8cRs"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -615,5 +610,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T08:50:29Z"
+  "generated_at": "2026-10-10T09:00:45Z"
 }
