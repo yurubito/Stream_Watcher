@@ -279,11 +279,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-10T12:01:23Z",
-        "title": "【優しく叩いてね…】タンポポは耐える。莉々華も耐える。【一条莉々華/hololive ReGLOSS】",
-        "video_id": "CBd8M7FW7mA"
-      },
       "name": "一条莉々華",
       "upcoming": [
         {
@@ -318,14 +313,7 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T14:00:00Z",
-          "title": "【メン限】歌枠させていただきます！【虎金妃笑虎】",
-          "video_id": "dDnrnfeD_0g"
-        }
-      ]
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -630,5 +618,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T13:20:28Z"
+  "generated_at": "2026-10-10T13:30:47Z"
 }
