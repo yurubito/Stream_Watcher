@@ -337,7 +337,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T14:00:00Z",
+          "title": "【タンポポは耐える。】科学ゲームと聞いて来ました！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "zIvjTJszfkM"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -538,6 +545,11 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-10T15:40:12Z",
+        "title": "【hololive Dreams】Casual Pokajan Time #holodori【Pavolia Reine/hololive】",
+        "video_id": "y656wyvl3mo"
+      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -556,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T15:50:30Z"
+  "generated_at": "2026-10-10T16:00:51Z"
 }
