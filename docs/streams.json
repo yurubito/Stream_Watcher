@@ -566,6 +566,11 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-10T07:03:43Z",
+        "title": "【hololive Dreams】 MAKE WAY AREA 15.1 IS HERE!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "_wYzBfR8cRs"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -601,5 +606,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T07:09:25Z"
+  "generated_at": "2026-10-10T07:20:24Z"
 }
