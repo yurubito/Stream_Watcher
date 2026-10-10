@@ -125,7 +125,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T09:00:00Z",
+          "title": "【ホロドリ】まだまだ夏は終わらない？？ホロドリビンゴを埋めるぞ【ホロライブ/大神ミオ】",
+          "video_id": "dwpBRg5ZYGM"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -226,14 +233,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T08:00:00Z",
-          "title": "【同時視聴】『#朱色の仮面』大好きな漫画がついにアニメ化！！すうと一緒に第1話みるよ【尾丸ポルカ/水宮枢/ホロライブ】",
-          "video_id": "DbQXMsMieE0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T07:59:52Z",
+        "title": "【同時視聴】『#朱色の仮面』大好きな漫画がついにアニメ化！！すうと一緒に第1話みるよ【尾丸ポルカ/水宮枢/ホロライブ】",
+        "video_id": "DbQXMsMieE0"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -284,6 +289,11 @@
       "group": "DEV_IS ReGLOSS",
       "name": "音乃瀬奏",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T14:00:00Z",
+          "title": "【 ホロドリ 】ReGLOSSでミニゲーム遊ぶぞおおおー！！【音乃瀬奏】#ReGLOSS",
+          "video_id": "J5ArluZmg5o"
+        },
         {
           "scheduled_at": "2026-10-12T10:00:00Z",
           "title": "【 #音乃瀬奏AcousticLive 】重大告知アリ！セルフ3D×ピアノ生演奏ライブ！【音乃瀬奏】#ReGLOSS",
@@ -606,5 +616,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T07:20:24Z"
+  "generated_at": "2026-10-10T08:00:51Z"
 }
