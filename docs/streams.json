@@ -529,37 +529,33 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T07:00:00Z",
-          "title": "【hololive Dreams】 Area15.1 plays holodori together !!!【#holodori #ホロドリ】",
-          "video_id": "VSmelPligX8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T07:02:19Z",
+        "title": "【hololive Dreams】 Area15.1 plays holodori together !!!【#holodori #ホロドリ】",
+        "video_id": "VSmelPligX8"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T07:00:00Z",
-          "title": "【Hololive Dreams】Area15.1 in the house!【hololive | moona】",
-          "video_id": "8M4IFbZ_SxA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T07:08:40Z",
+        "title": "【Hololive Dreams】Area15.1 in the house!【hololive | moona】",
+        "video_id": "8M4IFbZ_SxA"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-10T07:06:57Z",
+        "title": "【#holodori 】AREA15.1 !【 iofi / hololive】",
+        "video_id": "wuA2g_lf7ys"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T07:00:00Z",
-          "title": "【#holodori 】AREA15.1 !【 iofi / hololive】",
-          "video_id": "wuA2g_lf7ys"
-        },
         {
           "scheduled_at": "2026-10-10T14:00:00Z",
           "title": "【 #holoctober 】DAY 10 : HORROR【 iofi / hololive】",
@@ -597,11 +593,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-10T03:59:56Z",
-        "title": "【hololive Dreams】BACK TO POKAJAN! 2 hours before meeting 👊【#holodori】",
-        "video_id": "r5dVVEZNP0Q"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -610,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T07:00:55Z"
+  "generated_at": "2026-10-10T07:09:25Z"
 }
