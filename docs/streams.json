@@ -236,7 +236,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T13:00:00Z",
+          "title": "【 #ホロドリ 】ししドリ杯のあのチームと俺！？！？！？！？！？【鷹嶺ルイ/ホロライブ】",
+          "video_id": "jKWcL1XtVzY"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -365,11 +372,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-10T09:58:51Z",
-        "title": "【SPAGHET】フブキ先輩ゲームくれてやさしーのじゃ！【ホロライブ】",
-        "video_id": "D29pagC1PEY"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -612,5 +614,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-10T11:01:05Z"
+  "generated_at": "2026-10-10T11:10:27Z"
 }
