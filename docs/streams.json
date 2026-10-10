@@ -57,11 +57,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-10T10:14:50Z",
-        "title": "【 #ホロARK 】DAY2│ドレイクリングとパイロとブローバックと【ホロライブ/アキロゼ】",
-        "video_id": "kch-3FbzjEI"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -247,6 +242,11 @@
       "group": "JP holoX",
       "name": "風真いろは",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T22:00:00Z",
+          "title": "【#ホロドリ】朝活☀餌は無限にほしいよな【風真いろは/ホロライブ】",
+          "video_id": "LqN7_slfuGU"
+        },
         {
           "scheduled_at": "2026-10-11T09:00:00Z",
           "title": "ノンブレス・オブリージュ - ピノキオピー / Covered by 風真いろは",
@@ -616,5 +616,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T13:40:30Z"
+  "generated_at": "2026-10-10T13:50:42Z"
 }
