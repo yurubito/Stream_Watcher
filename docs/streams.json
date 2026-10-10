@@ -367,6 +367,11 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-10T08:43:02Z",
+        "title": "【F1同時視聴】シンガポールGP！スプリント決勝！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "97wZNNyPyO0"
+      },
       "name": "輪堂千速"
     },
     {
@@ -548,31 +553,16 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-10T07:02:19Z",
-        "title": "【hololive Dreams】 Area15.1 plays holodori together !!!【#holodori #ホロドリ】",
-        "video_id": "VSmelPligX8"
-      },
       "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-10T07:08:40Z",
-        "title": "【Hololive Dreams】Area15.1 in the house!【hololive | moona】",
-        "video_id": "8M4IFbZ_SxA"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-10T07:06:57Z",
-        "title": "【#holodori 】AREA15.1 !【 iofi / hololive】",
-        "video_id": "wuA2g_lf7ys"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -625,5 +615,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T08:30:42Z"
+  "generated_at": "2026-10-10T08:50:29Z"
 }
