@@ -35,7 +35,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T13:00:00Z",
+          "title": "【#ホロドリ】#ろぼあず と一緒にポカジャン！！！！！！ hololive Dreams【ホロライブ / AZKi】",
+          "video_id": "UMnDc0TEYQw"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -62,7 +69,14 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと"
+      "name": "赤井はあと",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T10:00:00Z",
+          "title": "【岩手】帰れるよね、これ？【ホロライブ/赤井はあと】",
+          "video_id": "9z2a1tC27fE"
+        }
+      ]
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -94,13 +108,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-10T04:02:22Z",
+        "title": "【#5】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "VgVoVniznX8"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T04:00:00Z",
-          "title": "【#5】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-          "video_id": "VgVoVniznX8"
-        },
         {
           "scheduled_at": "2026-10-11T04:00:00Z",
           "title": "【#6】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
@@ -146,7 +160,14 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "name": "宝鐘マリン"
+      "name": "宝鐘マリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T09:00:00Z",
+          "title": "【#ホロ甲2026】3年目夏合宿から負けたら終わりの最後の甲子園！！！【ホロライブ/宝鐘マリン】",
+          "video_id": "PrhrHSn1qDw"
+        }
+      ]
     },
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -293,7 +314,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T09:30:00Z",
+          "title": "【タンポポは耐える】リオナは耐える。多分【ホロライブ  響咲リオナ】",
+          "video_id": "BO6FB-GPBB4"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -315,14 +343,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T04:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】#3 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-          "video_id": "zRm6fwyXPHw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T04:01:29Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】#3 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+        "video_id": "zRm6fwyXPHw"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -352,7 +378,7 @@
       "name": "宙科そぴあ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-10T11:00:00Z",
+          "scheduled_at": "2026-10-10T14:00:00Z",
           "title": "【雑談】デビューからの2週間を振り返ろーっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "23xGIcuHdLs"
         }
@@ -366,11 +392,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-10T01:59:53Z",
-        "title": "【EN】I'll try not to scream this time! | Fears to Fathom: Carson House【Hyakuto Kyoko/Hololive】",
-        "video_id": "-_LXkoII3dw"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -388,11 +409,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-10T02:00:05Z",
-        "title": "【ZELDA: OCARINA OF TIME】hydrated. thriving. a survivor. (part 7) #calliolive",
-        "video_id": "ohHabiPPiFY"
-      },
       "name": "森カリオペ"
     },
     {
@@ -425,11 +441,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-10T01:11:01Z",
-        "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Confections Pt 1...First Playthrough #6【SPOILER WARNING】",
-        "video_id": "mBzidMb6vCA"
-      },
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
@@ -518,17 +529,43 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T07:00:00Z",
+          "title": "【hololive Dreams】 Area15.1 plays holodori together !!!【#holodori #ホロドリ】",
+          "video_id": "VSmelPligX8"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T07:00:00Z",
+          "title": "【Hololive Dreams】Area15.1 in the house!【hololive | moona】",
+          "video_id": "8M4IFbZ_SxA"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T07:00:00Z",
+          "title": "【#holodori 】AREA15.1 !【 iofi / hololive】",
+          "video_id": "wuA2g_lf7ys"
+        },
+        {
+          "scheduled_at": "2026-10-10T14:00:00Z",
+          "title": "【 #holoctober 】DAY 10 : HORROR【 iofi / hololive】",
+          "video_id": "5bOGSral8Vk"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -560,14 +597,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T04:00:00Z",
-          "title": "【hololive Dreams】BACK TO POKAJAN! 2 hours before meeting 👊【#holodori】",
-          "video_id": "r5dVVEZNP0Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T03:59:56Z",
+        "title": "【hololive Dreams】BACK TO POKAJAN! 2 hours before meeting 👊【#holodori】",
+        "video_id": "r5dVVEZNP0Q"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -575,5 +610,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T02:40:24Z"
+  "generated_at": "2026-10-10T07:00:55Z"
 }
