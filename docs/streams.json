@@ -120,14 +120,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T09:00:00Z",
-          "title": "【ホロドリ】まだまだ夏は終わらない？？ホロドリビンゴを埋めるぞ【ホロライブ/大神ミオ】",
-          "video_id": "dwpBRg5ZYGM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T09:01:38Z",
+        "title": "【ホロドリ】まだまだ夏は終わらない？？ホロドリビンゴを埋めるぞ【ホロライブ/大神ミオ】",
+        "video_id": "dwpBRg5ZYGM"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -159,11 +157,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-10T02:01:13Z",
-        "title": "【#ホロ甲2026】最終回予定！大分の白銀学院高校！３年目の夏！夏の甲子園優勝目指して！！【白銀ノエル/ホロライブ】",
-        "video_id": "k1RmSiwWFEs"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -233,11 +226,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-10T07:59:52Z",
-        "title": "【同時視聴】『#朱色の仮面』大好きな漫画がついにアニメ化！！すうと一緒に第1話みるよ【尾丸ポルカ/水宮枢/ホロライブ】",
-        "video_id": "DbQXMsMieE0"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -581,6 +569,11 @@
           "scheduled_at": "2026-10-12T15:30:00Z",
           "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAY WITH YOU!! 【Kureiji Ollie】",
           "video_id": "sX-z3lGc-8E"
+        },
+        {
+          "scheduled_at": "2026-10-13T12:00:00Z",
+          "title": "【Ollie's Ramen Birthday Party - VRCHAT】 FORCING MY FRIENDS TO EAT RAMEN ON MY BIRTHDAY 【Main POV】",
+          "video_id": "z0xUEhweI1U"
         }
       ]
     },
@@ -610,5 +603,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T09:00:45Z"
+  "generated_at": "2026-10-10T09:10:28Z"
 }
