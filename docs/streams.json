@@ -12,6 +12,11 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-10T10:00:00Z",
+          "title": "【 120万人耐久】120万人達成で重大告知解禁!??　新アプリを使ってうたっちゃお！！【ホロライブ/ ロボ子さん 】",
+          "video_id": "jCy5SoVLZqo"
+        },
+        {
+          "scheduled_at": "2026-10-10T10:00:00Z",
           "title": "チルノのパーフェクトさんすう教室 /ロボ子さん＆白上フブキ cover",
           "video_id": "BK2mvHvdf4c"
         },
@@ -439,13 +444,13 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-10-10T01:11:01Z",
+        "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Confections Pt 1...First Playthrough #6【SPOILER WARNING】",
+        "video_id": "mBzidMb6vCA"
+      },
       "name": "ハコス・ベールズ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T01:10:00Z",
-          "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Confections Pt 1...First Playthrough #6【SPOILER WARNING】",
-          "video_id": "mBzidMb6vCA"
-        },
         {
           "scheduled_at": "2026-10-10T13:00:00Z",
           "title": "≪hololive Dreams≫ feesh #2 #holodori",
@@ -589,5 +594,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T01:10:27Z"
+  "generated_at": "2026-10-10T01:11:40Z"
 }
