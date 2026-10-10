@@ -74,14 +74,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T12:00:00Z",
-          "title": "【#ホロボドゲ部】第３回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
-          "video_id": "BmEqAde2mc0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T12:00:25Z",
+        "title": "【#ホロボドゲ部】第３回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
+        "video_id": "BmEqAde2mc0"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -182,16 +180,11 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-10T10:57:53Z",
-        "title": "【 #姫森ルーナ生誕ロックLIVE 】帰ってきた !! Count Night TV Evolution !! 💗 BIRTHDAY 3D LIVE【ホロライブ】",
-        "video_id": "l2oa8BexdmU"
-      },
       "name": "姫森ルーナ",
       "upcoming": [
         {
           "scheduled_at": "2026-10-10T12:05:00Z",
-          "title": "10月10日(土)公開【姫森ルーナ/ホロライブ】",
+          "title": "プリプリプリンセス【姫森ルーナ/ホロライブ】",
           "video_id": "wYpu_zz1P3c"
         }
       ]
@@ -294,7 +287,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T12:00:00Z",
+          "title": "【優しく叩いてね…】タンポポは耐える。莉々華も耐える。【一条莉々華/hololive ReGLOSS】",
+          "video_id": "CBd8M7FW7mA"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -545,7 +545,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-10T12:30:00Z",
+          "title": "UNARCHIVED KARAOKE : singing singing",
+          "video_id": "cJCd_eCQx9M"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -587,7 +594,7 @@
       "name": "アーニャ・メルフィッサ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-10T12:00:00Z",
+          "scheduled_at": "2026-10-10T12:30:00Z",
           "title": "【hololive Dreams ホロライブドリームス】Just Anya With Her New Drip~【hololive holoro | Anya Melfissa】",
           "video_id": "5CV7XchOvUU"
         }
@@ -614,12 +621,12 @@
       "name": "こぼ・かなえる",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-10T12:00:00Z",
+          "scheduled_at": "2026-10-10T12:30:00Z",
           "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
           "video_id": "-cP2wRg1-e0"
         }
       ]
     }
   ],
-  "generated_at": "2026-10-10T11:50:24Z"
+  "generated_at": "2026-10-10T12:00:49Z"
 }
