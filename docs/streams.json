@@ -346,7 +346,7 @@
       "name": "輪堂千速",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-10T12:45:00Z",
+          "scheduled_at": "2026-10-10T13:00:00Z",
           "title": "【F1同時視聴】シンガポールGP！よっせんん！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
           "video_id": "R-g5qH0_iFY"
         }
@@ -585,14 +585,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T12:30:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Just Anya With Her New Drip~【hololive holoro | Anya Melfissa】",
-          "video_id": "5CV7XchOvUU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T12:31:59Z",
+        "title": "【hololive Dreams ホロライブドリームス】Just Anya With Her New Drip~【hololive holoro | Anya Melfissa】",
+        "video_id": "5CV7XchOvUU"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -602,14 +600,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T12:30:00Z",
-          "title": "【hololive Dreams】where's my fish..... #holodori #ホロドリ",
-          "video_id": "gwpNGfL9Pek"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T12:30:40Z",
+        "title": "【hololive Dreams】where's my fish..... #holodori #ホロドリ",
+        "video_id": "gwpNGfL9Pek"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -619,15 +615,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T12:30:00Z",
-          "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
-          "video_id": "-cP2wRg1-e0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-10T12:32:02Z",
+        "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
+        "video_id": "-cP2wRg1-e0"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T12:30:43Z"
+  "generated_at": "2026-10-10T12:40:26Z"
 }
