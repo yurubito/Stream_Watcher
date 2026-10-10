@@ -89,13 +89,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-10T01:01:51Z",
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "F98fUWfgs2A"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-10T01:00:00Z",
-          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-          "video_id": "F98fUWfgs2A"
-        },
         {
           "scheduled_at": "2026-10-10T04:00:00Z",
           "title": "【#5】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
@@ -510,11 +510,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-09T22:27:33Z",
-        "title": "【UNARCHIVED】SMALL LITTLE KARAOKE",
-        "video_id": "lAywdxhTGKY"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -594,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-10T01:00:46Z"
+  "generated_at": "2026-10-10T01:10:27Z"
 }
