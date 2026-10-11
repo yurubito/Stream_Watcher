@@ -265,14 +265,7 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T13:00:00Z",
-          "title": "【メン限】なんか映画みよ～！！！【虎金妃笑虎】",
-          "video_id": "Z33xx-_VHso"
-        }
-      ]
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -559,7 +552,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T12:30:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】HOLODORIIIIIII【hololive holoro | Anya Melfissa】",
+          "video_id": "fHt1krJuNr4"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -575,6 +575,11 @@
           "scheduled_at": "2026-10-11T12:30:00Z",
           "title": "【hololive Dreams】no fighting today! #holodori #ホロドリ",
           "video_id": "ak1Xc3TxJac"
+        },
+        {
+          "scheduled_at": "2026-10-12T01:00:00Z",
+          "title": "【#ホロドリ】リオナちゃんと一緒に遊ぶぞ～～！！✨ #holodori #hololivedreams",
+          "video_id": "M8Ld87b-bfI"
         }
       ]
     },
@@ -586,15 +591,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T12:30:00Z",
-          "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
-          "video_id": "3MWvYVYt3Nc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T12:29:48Z",
+        "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
+        "video_id": "3MWvYVYt3Nc"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T12:20:24Z"
+  "generated_at": "2026-10-11T12:30:39Z"
 }
