@@ -70,14 +70,7 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T16:00:00Z",
-          "title": "【ホロARK】ARK上陸2日目！ 文明すすめるぞっ！【ホロライブ/癒月ちょこ】",
-          "video_id": "BhR8LSitU9k"
-        }
-      ]
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -224,13 +217,13 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-11T15:30:28Z",
+        "title": "風真いろはの #ねるまえらじお 📻inメン限",
+        "video_id": "ig6BzA4gI0M"
+      },
       "name": "風真いろは",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T15:30:00Z",
-          "title": "風真いろはの #ねるまえらじお 📻inメン限",
-          "video_id": "ig6BzA4gI0M"
-        },
         {
           "scheduled_at": "2026-10-11T22:00:00Z",
           "title": "【#ホロドリ】朝活☀平日に備えよ！やせいのスプラッシュボールござる確率UP【風真いろは/ホロライブ】",
@@ -629,5 +622,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T15:20:31Z"
+  "generated_at": "2026-10-11T15:30:41Z"
 }
