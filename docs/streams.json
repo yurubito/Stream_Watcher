@@ -106,7 +106,14 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T11:00:00Z",
+          "title": "【】【ホロライブ/大空スバル】",
+          "video_id": "o0v7SG5zbQc"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -342,13 +349,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-11T09:58:27Z",
+        "title": "【リズム天国】大人気リズムゲームを初見プレイのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "mNcFyUgR_B4"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T10:00:00Z",
-          "title": "【リズム天国】大人気リズムゲームを初見プレイのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "mNcFyUgR_B4"
-        },
         {
           "scheduled_at": "2026-10-12T10:00:00Z",
           "title": "【マシュマロ雑談】１００個の質問に答えますのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -600,5 +607,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T09:50:23Z"
+  "generated_at": "2026-10-11T10:00:54Z"
 }
