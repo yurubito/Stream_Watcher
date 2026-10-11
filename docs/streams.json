@@ -82,14 +82,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T22:30:00Z",
-          "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
-          "video_id": "v49bZ8yH0I0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T22:31:18Z",
+        "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
+        "video_id": "v49bZ8yH0I0"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -175,11 +173,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-11T20:58:54Z",
-        "title": "【OHAPOL】#209 10/12月曜日！憂鬱な月曜日は祝日とポルカで帳消し！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-        "video_id": "l7p-VKl2Tco"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -596,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T22:10:24Z"
+  "generated_at": "2026-10-11T22:40:37Z"
 }
