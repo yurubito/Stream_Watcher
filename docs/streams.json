@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T14:15:00Z",
+          "title": "【雑談】やっと配信ができます！【ときのそら/ホロライブ】",
+          "video_id": "KsnHRzbHD8s"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -70,7 +77,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T14:00:00Z",
+          "title": "【#ホロドリ】深夜チル釣り配信📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "es31lfW-0No"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -252,7 +266,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T01:00:00Z",
+          "title": "【朝ドリ#6】ゼータ先輩とホロドリ❤【ホロライブ  響咲リオナ】#ホロドリ",
+          "video_id": "dBrak5ChSXQ"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -612,13 +633,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-11T12:29:48Z",
-        "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
-        "video_id": "3MWvYVYt3Nc"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T13:40:25Z"
+  "generated_at": "2026-10-11T13:50:31Z"
 }
