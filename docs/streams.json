@@ -308,11 +308,6 @@
       "name": "輪堂千速",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-11T14:30:00Z",
-          "title": "元気が残ってたらやるかもメン限配信【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "8uPD30WkoVM"
-        },
-        {
           "scheduled_at": "2026-10-12T04:00:00Z",
           "title": "【DARK SOULS III】#10 また火を継ぎにいくぞ！！！！！※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
           "video_id": "LAMRZYO7gf0"
@@ -401,14 +396,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T14:30:00Z",
-          "title": "【Fire Emblem: Fortune's Weave】END OF LEDA PART 1 / START OF DIETRICH!? #kfp #キアライブ",
-          "video_id": "aqUN0NpH1l0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T14:31:51Z",
+        "title": "【Fire Emblem: Fortune's Weave】END OF LEDA PART 1 / START OF DIETRICH!? #kfp #キアライブ",
+        "video_id": "aqUN0NpH1l0"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -592,14 +585,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T14:30:00Z",
-          "title": "【hololive Dreams】Following My Dreams (Chill Talking) #holodori【Pavolia Reine/hololive】",
-          "video_id": "yfAHMlKreS8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T14:30:48Z",
+        "title": "【hololive Dreams】Holodori and Spicy Macaroni (Chill Talking) #holodori【Pavolia Reine/hololive】",
+        "video_id": "yfAHMlKreS8"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -641,5 +632,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T14:30:42Z"
+  "generated_at": "2026-10-11T14:40:23Z"
 }
