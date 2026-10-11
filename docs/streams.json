@@ -55,6 +55,11 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-11T11:00:00Z",
+          "title": "【 Big Walk 】4人で協力謎解きできる！？#ちくまろ /ひまちゃん、べにちゃん、ちょこせん【アキロゼ/ホロライブ】",
+          "video_id": "me_Pq47Plxg"
+        },
+        {
           "scheduled_at": "2026-10-11T13:30:00Z",
           "title": "【 #ホロARK 】DAY3│原始生活セット🦖テイム！ドレイクリング冬ちゃんも！【ホロライブ/アキロゼ】",
           "video_id": "dbMiQqtqP_Y"
@@ -89,7 +94,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T11:00:00Z",
+          "title": "【#ちくまろ】わちゃわちゃBig Walk📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "IHyk0Xse3Wg"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -598,5 +610,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T08:10:25Z"
+  "generated_at": "2026-10-11T08:20:30Z"
 }
