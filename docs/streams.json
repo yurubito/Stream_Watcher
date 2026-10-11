@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T14:15:00Z",
-          "title": "【雑談】やっと配信ができます！【ときのそら/ホロライブ】",
-          "video_id": "KsnHRzbHD8s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T14:17:12Z",
+        "title": "【雑談】やっと配信ができます！【ときのそら/ホロライブ】",
+        "video_id": "KsnHRzbHD8s"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -632,6 +630,11 @@
           "scheduled_at": "2026-10-12T05:00:00Z",
           "title": "【hololive Dreams】back to the basement grind 🫵【#holodori】",
           "video_id": "facS93pFVgM"
+        },
+        {
+          "scheduled_at": "2026-10-12T13:30:00Z",
+          "title": "【PengPong】wow i can show the Pemaloe's POV in the basement now!",
+          "video_id": "6_macuVxJ4c"
         }
       ]
     },
@@ -641,5 +644,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T14:10:27Z"
+  "generated_at": "2026-10-11T14:20:30Z"
 }
