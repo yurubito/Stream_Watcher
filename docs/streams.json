@@ -28,11 +28,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-11T13:37:54Z",
-        "title": "【 #ホロARK 】DAY3│原始生活セット🦖テイム！ドレイクリング冬ちゃんも！【ホロライブ/アキロゼ】",
-        "video_id": "dbMiQqtqP_Y"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -129,7 +124,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T13:00:00Z",
+          "title": "【雑談＆お礼】ラジオに出演してきた羊！今日はすーぱーちゃお礼！【角巻わため/ホロライブ４期生】",
+          "video_id": "f0yybBkE94g"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -596,5 +598,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T21:00:58Z"
+  "generated_at": "2026-10-11T22:00:47Z"
 }
