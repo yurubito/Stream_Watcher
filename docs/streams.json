@@ -318,6 +318,11 @@
           "video_id": "fUfP9lBpKgs"
         },
         {
+          "scheduled_at": "2026-10-11T14:30:00Z",
+          "title": "元気が残ってたらやるかもメン限配信【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "8uPD30WkoVM"
+        },
+        {
           "scheduled_at": "2026-10-12T04:00:00Z",
           "title": "【DARK SOULS III】#10 また火を継ぎにいくぞ！！！！！※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
           "video_id": "LAMRZYO7gf0"
@@ -577,7 +582,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T12:30:00Z",
+          "title": "【hololive Dreams】no fighting today! #holodori #ホロドリ",
+          "video_id": "ak1Xc3TxJac"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -590,5 +602,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T11:10:26Z"
+  "generated_at": "2026-10-11T11:30:34Z"
 }
