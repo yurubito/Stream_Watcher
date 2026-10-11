@@ -70,7 +70,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T16:00:00Z",
+          "title": "【ホロARK】ARK上陸2日目！ 文明すすめるぞっ！【ホロライブ/癒月ちょこ】",
+          "video_id": "BhR8LSitU9k"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -223,6 +230,11 @@
           "scheduled_at": "2026-10-11T15:30:00Z",
           "title": "風真いろはの #ねるまえらじお 📻inメン限",
           "video_id": "ig6BzA4gI0M"
+        },
+        {
+          "scheduled_at": "2026-10-11T22:00:00Z",
+          "title": "【#ホロドリ】朝活☀平日に備えよ！やせいのスプラッシュボールござる確率UP【風真いろは/ホロライブ】",
+          "video_id": "AndoHgj3x5s"
         }
       ]
     },
@@ -273,7 +285,14 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎"
+      "name": "虎金妃笑虎",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T00:00:00Z",
+          "title": "【 ＃朝ガオ vol.16 】延期に延期を重ね月曜日になっちゃったね☕【虎金妃笑虎】",
+          "video_id": "sRwXNvZ4Uhw"
+        }
+      ]
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -511,11 +530,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-11T14:00:43Z",
-        "title": "【Hololive Dreams】MoonKae in the house!【hololive | moona】",
-        "video_id": "4H-VTnYQB-M"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -615,5 +629,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T15:10:32Z"
+  "generated_at": "2026-10-11T15:20:31Z"
 }
