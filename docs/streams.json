@@ -45,11 +45,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-11T08:02:22Z",
-        "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "PPOAqpd6Pz4"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -218,11 +213,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-11T09:00:09Z",
-        "title": "【全力オタ活！】コードギアス20周年展示会に大興奮＆爆買い！【ルイ姉、今日なにする？】#6",
-        "video_id": "4C445UFekBw"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -601,5 +591,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T09:10:27Z"
+  "generated_at": "2026-10-11T09:20:27Z"
 }
