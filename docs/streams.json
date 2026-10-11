@@ -448,7 +448,7 @@
         },
         {
           "scheduled_at": "2026-10-12T01:00:00Z",
-          "title": "≪Yakuza 7: Like a Dragon≫ Ichiban Confections probs pt 3...First Playthrough #8【SPOILER WARNING】",
+          "title": "≪Yakuza 7: Like a Dragon≫ This is a Yakuza Game...First Playthrough #8【SPOILER WARNING】",
           "video_id": "xib4vD33oYY"
         }
       ]
@@ -547,11 +547,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-11T08:00:26Z",
-        "title": "【hololive Dreams】 IN SOLITUDE... #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "xjIuE_ej0So"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -602,5 +597,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T10:10:30Z"
+  "generated_at": "2026-10-11T10:30:35Z"
 }
