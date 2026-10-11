@@ -183,11 +183,6 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-11T12:01:11Z",
-        "title": "ワンオペで挑むJapanese Ramen Simulator【獅白ぼたん/ホロライブ】",
-        "video_id": "-OGDiq0kQz8"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -428,11 +423,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-11T13:01:32Z",
-        "title": "≪hololive Dreams≫ more feesh #3 #holodori",
-        "video_id": "MXUSGZT_Prs"
-      },
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
@@ -632,5 +622,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T14:40:23Z"
+  "generated_at": "2026-10-11T14:50:27Z"
 }
