@@ -169,7 +169,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T03:00:00Z",
+          "title": "【昼雑談】祝日！！最近のお話しのんびりしよう～！！【​雪花ラミィ /ホロライブ】",
+          "video_id": "3Chh3w4q9Yo"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -415,13 +422,13 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-10-11T13:01:32Z",
+        "title": "≪hololive Dreams≫ more feesh #3 #holodori",
+        "video_id": "MXUSGZT_Prs"
+      },
       "name": "ハコス・ベールズ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T13:00:00Z",
-          "title": "≪hololive Dreams≫ more feesh #3 #holodori",
-          "video_id": "MXUSGZT_Prs"
-        },
         {
           "scheduled_at": "2026-10-12T01:00:00Z",
           "title": "≪Yakuza 7: Like a Dragon≫ This is a Yakuza Game...First Playthrough #8【SPOILER WARNING】",
@@ -518,7 +525,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T15:00:00Z",
+          "title": "【#holodori 】Late Night Fishing and Pokajan【 iofi / hololive】",
+          "video_id": "-IcAV9RgUO4"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -582,7 +596,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T14:00:00Z",
+          "title": "【hololive Dreams】MoonKae and its the daily holodori🎮【#holodori】",
+          "video_id": "624XMrg3l64"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -595,5 +616,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T13:00:53Z"
+  "generated_at": "2026-10-11T13:10:39Z"
 }
