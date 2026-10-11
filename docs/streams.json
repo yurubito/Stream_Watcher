@@ -126,14 +126,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T08:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY3🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "7oPO_-SK_CY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T08:00:11Z",
+        "title": "【#ホロ鯖ARK】DAY3🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "7oPO_-SK_CY"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -168,14 +166,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T08:00:00Z",
-          "title": "『 #姫森ルーナ生誕ロックLIVE 』の打ち上げするのら！！！(・o・🍬)【姫森ルーナ/ホロライブ】",
-          "video_id": "DUt4qLDGp3A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T07:59:06Z",
+        "title": "『 #姫森ルーナ生誕ロックLIVE 』の打ち上げするのら！！！(・o・🍬)【姫森ルーナ/ホロライブ】",
+        "video_id": "DUt4qLDGp3A"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -547,13 +543,13 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-11T08:00:26Z",
+        "title": "【hololive Dreams】 IN SOLITUDE... #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "xjIuE_ej0So"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T08:00:00Z",
-          "title": "【hololive Dreams】 IN SOLITUDE... #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "xjIuE_ej0So"
-        },
         {
           "scheduled_at": "2026-10-12T15:30:00Z",
           "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAY WITH YOU!! 【Kureiji Ollie】",
@@ -602,5 +598,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T07:40:30Z"
+  "generated_at": "2026-10-11T08:00:51Z"
 }
