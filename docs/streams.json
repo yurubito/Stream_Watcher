@@ -116,14 +116,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T09:00:00Z",
-          "title": "【#ホロローソン】あやミオ二人でキャンペーン紹介配信！【百鬼あやめ/大神ミオ/ホロライブ】",
-          "video_id": "GTlBGK-DuE8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T09:00:56Z",
+        "title": "【#ホロローソン】あやミオ二人でキャンペーン紹介配信！【百鬼あやめ/大神ミオ/ホロライブ】",
+        "video_id": "GTlBGK-DuE8"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -247,11 +245,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-11T09:00:10Z",
-        "title": "ノンブレス・オブリージュ - ピノキオピー / Covered by 風真いろは",
-        "video_id": "NfZnchcKVw0"
-      },
       "name": "風真いろは",
       "upcoming": [
         {
@@ -608,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T09:00:56Z"
+  "generated_at": "2026-10-11T09:10:27Z"
 }
