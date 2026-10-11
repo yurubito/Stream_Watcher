@@ -77,14 +77,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T14:00:00Z",
-          "title": "【#ホロドリ】深夜チル釣り配信📣 【ホロライブ/癒月ちょこ】",
-          "video_id": "es31lfW-0No"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T14:02:16Z",
+        "title": "【#ホロドリ】深夜チル釣り配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "es31lfW-0No"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -361,13 +359,13 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-11T14:00:41Z",
+        "title": "【タンポポは耐える。】科学ゲームと聞いて来ました！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "zIvjTJszfkM"
+      },
       "name": "宙科そぴあ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T14:00:00Z",
-          "title": "【タンポポは耐える。】科学ゲームと聞いて来ました！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "zIvjTJszfkM"
-        },
         {
           "scheduled_at": "2026-10-12T12:00:00Z",
           "title": "ありえんスマートな2人によるSuper Bunny Man【宙科そぴあ/鈴鳴つづり/ホロライブ/アソビ★まわり隊！】",
@@ -425,7 +423,14 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS"
+      "name": "IRyS",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T03:00:00Z",
+          "title": "【CHAT 振り返り雑談】Talking About #IRySConcert2026 !! THANK YOU!! ソロライブありがとう！！新ライブ衣装もお披露目！",
+          "video_id": "P1EiHexHkHc"
+        }
+      ]
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -533,14 +538,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T14:00:00Z",
-          "title": "【Hololive Dreams】MoonKae in the house!【hololive | moona】",
-          "video_id": "4H-VTnYQB-M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T14:00:43Z",
+        "title": "【Hololive Dreams】MoonKae in the house!【hololive | moona】",
+        "video_id": "4H-VTnYQB-M"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -618,13 +621,13 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-11T14:00:34Z",
+        "title": "【hololive Dreams】MoonKae and its the daily holodori🎮【#holodori】",
+        "video_id": "624XMrg3l64"
+      },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T14:00:00Z",
-          "title": "【hololive Dreams】MoonKae and its the daily holodori🎮【#holodori】",
-          "video_id": "624XMrg3l64"
-        },
         {
           "scheduled_at": "2026-10-12T05:00:00Z",
           "title": "【hololive Dreams】back to the basement grind 🫵【#holodori】",
@@ -638,5 +641,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T14:00:45Z"
+  "generated_at": "2026-10-11T14:10:27Z"
 }
