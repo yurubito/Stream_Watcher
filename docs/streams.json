@@ -370,6 +370,11 @@
           "scheduled_at": "2026-10-11T14:00:00Z",
           "title": "【タンポポは耐える。】科学ゲームと聞いて来ました！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "zIvjTJszfkM"
+        },
+        {
+          "scheduled_at": "2026-10-12T12:00:00Z",
+          "title": "ありえんスマートな2人によるSuper Bunny Man【宙科そぴあ/鈴鳴つづり/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "fGnE7S2OFfo"
         }
       ]
     },
@@ -599,8 +604,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T12:30:00Z",
+          "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
+          "video_id": "3MWvYVYt3Nc"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-11T11:30:34Z"
+  "generated_at": "2026-10-11T11:37:40Z"
 }
