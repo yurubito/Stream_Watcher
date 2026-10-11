@@ -552,14 +552,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T12:30:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】HOLODORIIIIIII【hololive holoro | Anya Melfissa】",
-          "video_id": "fHt1krJuNr4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T12:34:49Z",
+        "title": "【hololive Dreams ホロライブドリームス】HOLODORIIIIIII【hololive holoro | Anya Melfissa】",
+        "video_id": "fHt1krJuNr4"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -569,13 +567,13 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-11T12:31:11Z",
+        "title": "【hololive Dreams】no fighting today! #holodori #ホロドリ",
+        "video_id": "ak1Xc3TxJac"
+      },
       "name": "ベスティア・ゼータ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T12:30:00Z",
-          "title": "【hololive Dreams】no fighting today! #holodori #ホロドリ",
-          "video_id": "ak1Xc3TxJac"
-        },
         {
           "scheduled_at": "2026-10-12T01:00:00Z",
           "title": "【#ホロドリ】リオナちゃんと一緒に遊ぶぞ～～！！✨ #holodori #hololivedreams",
@@ -599,5 +597,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T12:30:39Z"
+  "generated_at": "2026-10-11T12:40:26Z"
 }
