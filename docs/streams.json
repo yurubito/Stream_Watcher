@@ -157,7 +157,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T08:00:00Z",
+          "title": "【 エースコンバット8 】最終回！空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃【姫森ルーナ/ホロライブ】※ネタバレあり",
+          "video_id": "ww3CjqrlhZw"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -261,7 +268,7 @@
       "name": "虎金妃笑虎",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-11T12:30:00Z",
+          "scheduled_at": "2026-10-11T13:00:00Z",
           "title": "【メン限】なんか映画みよ～！！！【虎金妃笑虎】",
           "video_id": "Z33xx-_VHso"
         }
@@ -324,11 +331,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-11T09:58:27Z",
-        "title": "【リズム天国】大人気リズムゲームを初見プレイのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "mNcFyUgR_B4"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -363,14 +365,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T12:15:00Z",
-          "title": "VALORANT イモータルを目指す!! 　#３【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "pvcMRIQ9jwQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T12:15:14Z",
+        "title": "VALORANT イモータルを目指す!! 　#３【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "pvcMRIQ9jwQ"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -596,5 +596,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-11T12:10:24Z"
+  "generated_at": "2026-10-11T12:20:24Z"
 }
