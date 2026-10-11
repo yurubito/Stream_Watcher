@@ -124,11 +124,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-11T15:00:53Z",
-        "title": "【ホロ鯖ARK】まさかの二枠目太郎！【白銀ノエル/ホロライブ】",
-        "video_id": "ICaqu4k_ZIw"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -552,7 +547,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T04:00:00Z",
+          "title": "【The Dandelion Endures. | タンポポは耐える。】But What Does It Endure?【hololive holoro | Anya Melfissa】",
+          "video_id": "FEhTPVe_VtU"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -594,5 +596,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T18:20:27Z"
+  "generated_at": "2026-10-11T19:01:03Z"
 }
