@@ -8,14 +8,12 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T09:00:00Z",
-          "title": "【オフコラボ】＃デビメタ で健康ごはん✨とわあああ食べてえええ【ホロライブ/ロボ子さん】",
-          "video_id": "WXaEsVLtZAM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T09:00:23Z",
+        "title": "【オフコラボ】＃デビメタ で健康ごはん✨とわあああ食べてえええ【ホロライブ/ロボ子さん】",
+        "video_id": "WXaEsVLtZAM"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -113,11 +111,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-11T04:04:31Z",
-        "title": "【#最終回】キャプテン翼2 WORLD FIGHTERS やるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "QeppR1Vk3_g"
-      },
       "name": "大空スバル"
     },
     {
@@ -227,14 +220,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T09:00:00Z",
-          "title": "【全力オタ活！】コードギアス20周年展示会に大興奮＆爆買い！【ルイ姉、今日なにする？】#6",
-          "video_id": "4C445UFekBw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T09:00:09Z",
+        "title": "【全力オタ活！】コードギアス20周年展示会に大興奮＆爆買い！【ルイ姉、今日なにする？】#6",
+        "video_id": "4C445UFekBw"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -257,16 +248,16 @@
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
       "live": {
-        "started_at": "2026-10-11T05:01:42Z",
-        "title": "【#ホロARK】初上陸🏝生き延びる【風真いろは/ホロライブ】",
-        "video_id": "JK8qZPCZiL8"
+        "started_at": "2026-10-11T09:00:10Z",
+        "title": "ノンブレス・オブリージュ - ピノキオピー / Covered by 風真いろは",
+        "video_id": "NfZnchcKVw0"
       },
       "name": "風真いろは",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-11T09:00:00Z",
-          "title": "ノンブレス・オブリージュ - ピノキオピー / Covered by 風真いろは",
-          "video_id": "NfZnchcKVw0"
+          "scheduled_at": "2026-10-11T15:30:00Z",
+          "title": "風真いろはの #ねるまえらじお 📻inメン限",
+          "video_id": "ig6BzA4gI0M"
         }
       ]
     },
@@ -617,5 +608,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T08:40:31Z"
+  "generated_at": "2026-10-11T09:00:56Z"
 }
