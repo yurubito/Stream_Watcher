@@ -70,7 +70,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T16:00:00Z",
+          "title": "【ホロARK】ARK上陸2日目！ 文明すすめるぞっ！【ホロライブ/癒月ちょこ】",
+          "video_id": "BhR8LSitU9k"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -217,11 +224,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-11T15:30:28Z",
-        "title": "風真いろはの #ねるまえらじお 📻inメン限",
-        "video_id": "ig6BzA4gI0M"
-      },
       "name": "風真いろは",
       "upcoming": [
         {
@@ -351,11 +353,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-11T14:00:41Z",
-        "title": "【タンポポは耐える。】科学ゲームと聞いて来ました！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "zIvjTJszfkM"
-      },
       "name": "宙科そぴあ",
       "upcoming": [
         {
@@ -622,5 +619,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T15:30:41Z"
+  "generated_at": "2026-10-11T15:40:35Z"
 }
