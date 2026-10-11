@@ -373,12 +373,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-11T14:31:51Z",
-        "title": "【Fire Emblem: Fortune's Weave】END OF LEDA PART 1 / START OF DIETRICH!? #kfp #キアライブ",
-        "video_id": "aqUN0NpH1l0"
-      },
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T13:00:00Z",
+          "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
+          "video_id": "yntknFdGzFw"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -589,5 +591,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T22:40:37Z"
+  "generated_at": "2026-10-11T23:20:20Z"
 }
