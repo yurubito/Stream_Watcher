@@ -18,11 +18,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-11T12:01:49Z",
-        "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ！ゲスト：大神ミオ🌲【ホロライブ/さくらみこ】",
-        "video_id": "0_-7MQxVxjk"
-      },
       "name": "さくらみこ"
     },
     {
@@ -33,11 +28,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-11T11:01:16Z",
-        "title": "【 Big Walk 】4人で協力謎解きできる！？#ちくまろ /ひまちゃん、べにちゃん、ちょこせん【アキロゼ/ホロライブ】",
-        "video_id": "me_Pq47Plxg"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -80,11 +70,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-11T11:01:51Z",
-        "title": "【#ちくまろ】わちゃわちゃBig Walk📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "IHyk0Xse3Wg"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -520,7 +505,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T14:00:00Z",
+          "title": "【Hololive Dreams】MoonKae in the house!【hololive | moona】",
+          "video_id": "4H-VTnYQB-M"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -574,7 +566,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T14:30:00Z",
+          "title": "【hololive Dreams】Following My Dreams (Chill Talking) #holodori【Pavolia Reine/hololive】",
+          "video_id": "yfAHMlKreS8"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -616,5 +615,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T13:10:39Z"
+  "generated_at": "2026-10-11T13:30:34Z"
 }
