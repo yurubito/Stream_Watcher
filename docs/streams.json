@@ -337,6 +337,11 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-11T11:35:49Z",
+        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃4【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "k00AuGOs2TQ"
+      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -614,5 +619,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-11T11:37:40Z"
+  "generated_at": "2026-10-11T11:40:28Z"
 }
