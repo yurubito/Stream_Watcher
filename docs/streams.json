@@ -79,7 +79,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T12:00:00Z",
+          "title": "【#2】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
+          "video_id": "gbCsK3KnVVE"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -610,5 +617,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T08:20:30Z"
+  "generated_at": "2026-10-11T08:40:31Z"
 }
