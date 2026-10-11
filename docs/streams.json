@@ -129,11 +129,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-11T03:00:10Z",
-        "title": "【ホロ鯖ARK】初上陸！白銀ノエル大地に立つ！！【白銀ノエル/ホロライブ】",
-        "video_id": "EFe1rUZ-Pe4"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -361,11 +356,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-11T12:15:14Z",
-        "title": "VALORANT イモータルを目指す!! 　#３【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "pvcMRIQ9jwQ"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -622,5 +612,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T14:50:27Z"
+  "generated_at": "2026-10-11T15:00:51Z"
 }
