@@ -18,11 +18,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-11T04:35:07Z",
-        "title": "【#ホロ鯖ARK】ARKホロ鯖きちゃああああああああああああ！DAY2【ホロライブ/さくらみこ】",
-        "video_id": "tC0XhUAipq0"
-      },
       "name": "さくらみこ",
       "upcoming": [
         {
@@ -222,13 +217,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-11T10:57:19Z",
+        "title": "【 3D Live 】ソロライブ情報解禁‼️初の3D新衣装お披露目ライブ＆告知アリ‼️こよりわかり手選手権👑 #夢煌めけこより 【宝鐘マリン/尾丸ポルカ/ラプラス・ダークネス/博衣こより／ホロライブ】",
+        "video_id": "bkuQTaGvLSM"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T11:00:00Z",
-          "title": "【 3D Live 】ソロライブ情報解禁‼️初の3D新衣装お披露目ライブ＆告知アリ‼️こよりわかり手選手権👑 #夢煌めけこより 【宝鐘マリン/尾丸ポルカ/ラプラス・ダークネス/博衣こより／ホロライブ】",
-          "video_id": "bkuQTaGvLSM"
-        },
         {
           "scheduled_at": "2026-10-11T12:05:00Z",
           "title": "???",
@@ -597,5 +592,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T10:30:35Z"
+  "generated_at": "2026-10-11T11:00:48Z"
 }
