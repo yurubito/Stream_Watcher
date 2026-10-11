@@ -8,6 +8,11 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-11T03:04:48Z",
+        "title": "【 ＃ホロドリ 】まだ未知のゲームがあるらしい…進める！！あ！びんご！！【ホロライブ/ ロボ子さん 】",
+        "video_id": "5sfdT6mMYZo"
+      },
       "name": "ロボ子さん",
       "upcoming": [
         {
@@ -111,7 +116,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T08:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY3🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "7oPO_-SK_CY"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -148,6 +160,11 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-11T01:23:32Z",
+        "title": "【 #ホロ鯖ARK 】その２｜石が足りないんだよおおおおおおおおお【常闇トワ/ホロライブ】",
+        "video_id": "ucchjWsw-7U"
+      },
       "name": "常闇トワ"
     },
     {
@@ -170,6 +187,11 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-11T02:30:13Z",
+        "title": "【 #ホロ鯖ARK 】自然で生きるスタイルねねち、参戦―★【 桃鈴ねね / hololive 】",
+        "video_id": "1VxtRtZOq54"
+      },
       "name": "桃鈴ねね"
     },
     {
@@ -226,11 +248,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-10T21:59:33Z",
-        "title": "【#ホロドリ】朝活☀餌は無限にほしいよな【風真いろは/ホロライブ】",
-        "video_id": "LqN7_slfuGU"
-      },
       "name": "風真いろは",
       "upcoming": [
         {
@@ -344,18 +361,11 @@
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
       "live": {
-        "started_at": "2026-10-11T00:10:15Z",
-        "title": "【#ホロドリ 】おはよう！朝のホロドリ！新エリアクリア目指す！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "1jfrtUlxO0E"
+        "started_at": "2026-10-11T02:02:28Z",
+        "title": "【#ホロARK】初めてのホロ鯖ARK！！#3【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "CufVK7_UA5o"
       },
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T02:00:00Z",
-          "title": "【#ホロARK】初めてのホロ鯖ARK！！#3【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "CufVK7_UA5o"
-        }
-      ]
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -411,14 +421,12 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T01:00:00Z",
-          "title": "【SIGNALIS】atmospheric horror game to mix it up a lil (part 1) #calliolive",
-          "video_id": "RdaWhu97HqA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T01:00:17Z",
+        "title": "【SIGNALIS】atmospheric horror game to mix it up a lil (part 1) #calliolive",
+        "video_id": "RdaWhu97HqA"
+      },
+      "name": "森カリオペ"
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -477,11 +485,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-10T23:00:07Z",
-        "title": "【Five Nights at Freddy's: Security Breach】Proof that biboo has a heart",
-        "video_id": "g4xhPCBFews"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -492,13 +495,13 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-10-11T00:55:26Z",
+        "title": "【RISE OF THE RŌNIN】ronin roamin' alone in yokohama🐾🩵 【FUWAWA SOLO】",
+        "video_id": "Izt0HwjcY3I"
+      },
       "name": "フワワ＆モココ・アビスガード",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T01:00:00Z",
-          "title": "【RISE OF THE RŌNIN】ronin roamin' alone in yokohama🐾🩵 【FUWAWA SOLO】",
-          "video_id": "Izt0HwjcY3I"
-        },
         {
           "scheduled_at": "2027-02-03T14:59:00Z",
           "title": "【INFO🐾お知らせ】𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭𝘀𝘁 𝗔𝗹𝗯𝘂𝗺 💿「FUWAMOCO à la mode ～いつだってあなたの笑顔を守るのッ～」予約受付中✨ ON PRE-ORDER NOW🩵🩷",
@@ -598,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T00:10:23Z"
+  "generated_at": "2026-10-11T03:10:34Z"
 }
