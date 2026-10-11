@@ -47,13 +47,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-11T08:02:22Z",
+        "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "PPOAqpd6Pz4"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T08:00:00Z",
-          "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "PPOAqpd6Pz4"
-        },
         {
           "scheduled_at": "2026-10-11T13:30:00Z",
           "title": "【 #ホロARK 】DAY3│原始生活セット🦖テイム！ドレイクリング冬ちゃんも！【ホロライブ/アキロゼ】",
@@ -598,5 +598,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T08:00:51Z"
+  "generated_at": "2026-10-11T08:10:25Z"
 }
