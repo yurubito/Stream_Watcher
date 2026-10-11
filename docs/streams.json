@@ -65,14 +65,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-11T16:00:00Z",
-          "title": "【ホロARK】ARK上陸2日目！ 文明すすめるぞっ！【ホロライブ/癒月ちょこ】",
-          "video_id": "BhR8LSitU9k"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-11T16:03:06Z",
+        "title": "【ホロARK】ARK上陸2日目！ 文明すすめるぞっ！【ホロライブ/癒月ちょこ】",
+        "video_id": "BhR8LSitU9k"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -218,6 +216,11 @@
           "scheduled_at": "2026-10-12T22:00:00Z",
           "title": "【 #朝こよ 】3D新衣装お披露目直後の火曜日の朝も朝こよ～！☀ #302 【博衣こより/hololive】",
           "video_id": "36D4HBxjJxM"
+        },
+        {
+          "scheduled_at": "2026-10-13T09:00:00Z",
+          "title": "【 #ホロドリ 】限界ホロドリ🔥新水着イベントラストスパート！スコアチャレンジで高得点を最後まで諦めるな！【博衣こより/ホロライブ】",
+          "video_id": "9O6d2-LDskY"
         }
       ]
     },
@@ -614,5 +617,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T16:00:54Z"
+  "generated_at": "2026-10-11T16:10:27Z"
 }
