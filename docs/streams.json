@@ -3,11 +3,6 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-11T14:17:12Z",
-        "title": "【雑談】やっと配信ができます！【ときのそら/ホロライブ】",
-        "video_id": "KsnHRzbHD8s"
-      },
       "name": "ときのそら"
     },
     {
@@ -562,11 +557,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-11T12:34:49Z",
-        "title": "【hololive Dreams ホロライブドリームス】HOLODORIIIIIII【hololive holoro | Anya Melfissa】",
-        "video_id": "fHt1krJuNr4"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -619,5 +609,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T15:40:35Z"
+  "generated_at": "2026-10-11T15:50:37Z"
 }
