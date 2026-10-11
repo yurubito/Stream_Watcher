@@ -111,11 +111,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-11T09:00:56Z",
-        "title": "【#ホロローソン】あやミオ二人でキャンペーン紹介配信！【百鬼あやめ/大神ミオ/ホロライブ】",
-        "video_id": "GTlBGK-DuE8"
-      },
       "name": "大神ミオ"
     },
     {
@@ -191,7 +186,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-11T12:00:00Z",
+          "title": "ワンオペで挑むJapanese Ramen Simulator【獅白ぼたん/ホロライブ】",
+          "video_id": "-OGDiq0kQz8"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -598,5 +600,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T09:30:54Z"
+  "generated_at": "2026-10-11T09:50:23Z"
 }
