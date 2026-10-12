@@ -139,7 +139,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T14:00:00Z",
+          "title": "【歌枠】第１３７回！わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ４期生】",
+          "video_id": "gEs6f4ARWW8"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -538,5 +545,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T21:30:52Z"
+  "generated_at": "2026-10-12T21:50:31Z"
 }
