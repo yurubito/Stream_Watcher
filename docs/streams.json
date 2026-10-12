@@ -182,11 +182,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-12T04:32:56Z",
-        "title": "【 #ホロ鯖ARK 】その３｜なんでだよおおおおおおおおおおおおおおおおお【常闇トワ/ホロライブ】",
-        "video_id": "ElRElcdQIFU"
-      },
       "name": "常闇トワ",
       "upcoming": [
         {
@@ -656,5 +651,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T10:40:32Z"
+  "generated_at": "2026-10-12T10:50:52Z"
 }
