@@ -57,13 +57,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-12T11:03:36Z",
+        "title": "【 #ホロ鯖ARK 】DAY4│パイロメイン＆ドレイクリング冬🦖テイムする！【ホロライブ/アキロゼ】",
+        "video_id": "Pz_nIQjzIyA"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T11:00:00Z",
-          "title": "【 #ホロ鯖ARK 】DAY4│パイロメイン＆ドレイクリング冬🦖テイムする！【ホロライブ/アキロゼ】",
-          "video_id": "Pz_nIQjzIyA"
-        },
         {
           "scheduled_at": "2026-10-12T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち？｜ちょこのお悩み相談室～深夜のひとくちラジオ～",
@@ -219,14 +219,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T11:00:00Z",
-          "title": "お店の売上金がなぜか合わないJapanese Ramen Simulator【獅白ぼたん/ホロライブ】",
-          "video_id": "_0H5isyZHEY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T11:01:36Z",
+        "title": "お店の売上金がなぜか合わないJapanese Ramen Simulator【獅白ぼたん/ホロライブ】",
+        "video_id": "_0H5isyZHEY"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -287,11 +285,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-12T11:00:09Z",
-        "title": "音乃瀬奏 - アイシカケ (Official MV)",
-        "video_id": "LjuKylF4udw"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -568,7 +561,19 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T12:30:00Z",
+          "title": "【 #holoctober 】DAY 12 : Apron【 iofi / hololive】",
+          "video_id": "Y_Xg7uA4NAs"
+        },
+        {
+          "scheduled_at": "2026-10-12T15:00:00Z",
+          "title": "【#holodori 】Late Night ioMoona【 iofi / hololive】",
+          "video_id": "VSZjEC1vYi0"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -644,5 +649,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T11:01:07Z"
+  "generated_at": "2026-10-12T11:10:32Z"
 }
