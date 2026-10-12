@@ -128,14 +128,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T10:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY4🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "RAFETsi0eyA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T10:00:06Z",
+        "title": "【#ホロ鯖ARK】DAY4🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "RAFETsi0eyA"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -282,13 +280,13 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-10-12T09:59:11Z",
+        "title": "【 #音乃瀬奏AcousticLive 】重大告知アリ！セルフ3D×ピアノ生演奏ライブ！【音乃瀬奏】#ReGLOSS",
+        "video_id": "QvUi6KG4FRI"
+      },
       "name": "音乃瀬奏",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T10:00:00Z",
-          "title": "【 #音乃瀬奏AcousticLive 】重大告知アリ！セルフ3D×ピアノ生演奏ライブ！【音乃瀬奏】#ReGLOSS",
-          "video_id": "QvUi6KG4FRI"
-        },
         {
           "scheduled_at": "2026-10-12T11:00:00Z",
           "title": "音乃瀬奏 - ？？？ (Official MV)",
@@ -358,13 +356,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-12T09:58:37Z",
+        "title": "【マシュマロ雑談】１００個の質問に答えますのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "W6shqY3W-Es"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T10:00:00Z",
-          "title": "【マシュマロ雑談】１００個の質問に答えますのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "W6shqY3W-Es"
-        },
         {
           "scheduled_at": "2028-09-24T10:00:00Z",
           "title": "【フリーチャット】概要欄にお知らせ随時追加のじゃ！",
@@ -641,5 +639,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T09:30:46Z"
+  "generated_at": "2026-10-12T10:00:50Z"
 }
