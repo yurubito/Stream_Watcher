@@ -185,13 +185,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-12T03:00:18Z",
+        "title": "【 #ホロ鯖ARK 】緊急参戦‼️新衣装おうち3Dも初お披露目✨とりま裸で乗り込んでみます！【博衣こより/ホロライブ】",
+        "video_id": "Uv-Kc2uBKlM"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T03:00:00Z",
-          "title": "【 #ホロ鯖ARK 】緊急参戦‼️新衣装おうち3Dも初お披露目✨とりま裸で乗り込んでみます！【博衣こより/ホロライブ】",
-          "video_id": "Uv-Kc2uBKlM"
-        },
         {
           "scheduled_at": "2026-10-12T22:00:00Z",
           "title": "【 #朝こよ 】3D新衣装お披露目直後の火曜日の朝も朝こよ～！☀ #302 【博衣こより/hololive】",
@@ -244,14 +244,7 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T01:00:00Z",
-          "title": "【朝ドリ#6】ゼータ先輩とホロドリ❤【ホロライブ  響咲リオナ】#ホロドリ",
-          "video_id": "dBrak5ChSXQ"
-        }
-      ]
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -584,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T03:00:56Z"
+  "generated_at": "2026-10-12T03:20:22Z"
 }
