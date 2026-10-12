@@ -45,13 +45,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-12T16:51:17Z",
+        "title": "【 #ホロ鯖ARK 】DAY4.5│ドレイクリング冬テイムしたい＆文明開化【ホロライブ/アキロゼ】",
+        "video_id": "JzHvkdqVgkI"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T16:30:00Z",
-          "title": "【 #ホロ鯖ARK 】DAY4.5│ドレイクリング冬テイムしたい＆文明開化【ホロライブ/アキロゼ】",
-          "video_id": "JzHvkdqVgkI"
-        },
         {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
@@ -542,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T16:30:45Z"
+  "generated_at": "2026-10-12T17:01:02Z"
 }
