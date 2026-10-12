@@ -528,14 +528,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T04:00:00Z",
-          "title": "【The Dandelion Endures. | タンポポは耐える。】But What Does It Endure?【hololive holoro | Anya Melfissa】",
-          "video_id": "FEhTPVe_VtU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T04:02:24Z",
+        "title": "【The Dandelion Endures. | タンポポは耐える。】But What Does It Endure?【hololive holoro | Anya Melfissa】",
+        "video_id": "FEhTPVe_VtU"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -577,5 +575,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T03:30:45Z"
+  "generated_at": "2026-10-12T04:20:23Z"
 }
