@@ -104,14 +104,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:30:00Z",
-          "title": "【#ホロドリ】図鑑コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
-          "video_id": "qko66-79W4w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T12:31:56Z",
+        "title": "【#ホロドリ】図鑑コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "qko66-79W4w"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -564,13 +562,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-12T12:30:37Z",
+        "title": "【 #holoctober 】DAY 12 : Apron【 iofi / hololive】",
+        "video_id": "Y_Xg7uA4NAs"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:30:00Z",
-          "title": "【 #holoctober 】DAY 12 : Apron【 iofi / hololive】",
-          "video_id": "Y_Xg7uA4NAs"
-        },
         {
           "scheduled_at": "2026-10-12T15:00:00Z",
           "title": "【#holodori 】Late Night ioMoona【 iofi / hololive】",
@@ -655,5 +653,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T12:30:46Z"
+  "generated_at": "2026-10-12T12:40:26Z"
 }
