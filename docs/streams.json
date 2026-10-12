@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-12T14:01:13Z",
-        "title": "【#ホロドリ】AZKi 新Live2D お披露目！？ここだけでしか見られない姿！hololive Dreams【ホロライブ / AZKi】",
-        "video_id": "E0dyF8v3Fk4"
-      },
       "name": "AZKi"
     },
     {
@@ -485,21 +480,11 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-12T15:03:07Z",
-        "title": "【Hololive Dreams】holodori time with ioMoon!!【hololive | moona】",
-        "video_id": "oAPhnrADlGM"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-12T15:02:14Z",
-        "title": "【#holodori 】Late Night ioMoona【 iofi / hololive】",
-        "video_id": "VSZjEC1vYi0"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -555,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T16:01:01Z"
+  "generated_at": "2026-10-12T16:20:32Z"
 }
