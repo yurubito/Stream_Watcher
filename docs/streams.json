@@ -153,14 +153,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T08:00:00Z",
-          "title": "【 エースコンバット8 】最終回！空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃【姫森ルーナ/ホロライブ】※ネタバレあり",
-          "video_id": "ww3CjqrlhZw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T07:58:33Z",
+        "title": "【 エースコンバット8 】最終回！空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃【姫森ルーナ/ホロライブ】※ネタバレあり",
+        "video_id": "ww3CjqrlhZw"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -624,5 +622,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T07:50:47Z"
+  "generated_at": "2026-10-12T08:00:48Z"
 }
