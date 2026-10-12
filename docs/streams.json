@@ -442,14 +442,12 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T21:00:00Z",
-          "title": "【DRESSMAKER】only the prettiest dresses for my fast fashion shop",
-          "video_id": "J1RSjv9Q3bE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T21:02:31Z",
+        "title": "【DRESSMAKER】only the prettiest dresses for my fast fashion shop",
+        "video_id": "J1RSjv9Q3bE"
+      },
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -545,5 +543,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T20:40:34Z"
+  "generated_at": "2026-10-12T21:10:28Z"
 }
