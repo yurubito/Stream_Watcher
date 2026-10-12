@@ -429,13 +429,13 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-10-12T00:55:13Z",
+        "title": "【HOLOLIVE DREAMS｜ホロライブドリームス】 paws perfectly tapping in rhythm🐾 #holodori 【FUWAWA SOLO】",
+        "video_id": "vMIcA8-VaPg"
+      },
       "name": "フワワ＆モココ・アビスガード",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T01:00:00Z",
-          "title": "【HOLOLIVE DREAMS｜ホロライブドリームス】 paws perfectly tapping in rhythm🐾 #holodori 【FUWAWA SOLO】",
-          "video_id": "vMIcA8-VaPg"
-        },
         {
           "scheduled_at": "2027-02-03T14:59:00Z",
           "title": "【INFO🐾お知らせ】𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭𝘀𝘁 𝗔𝗹𝗯𝘂𝗺 💿「FUWAMOCO à la mode ～いつだってあなたの笑顔を守るのッ～」予約受付中✨ ON PRE-ORDER NOW🩵🩷",
@@ -581,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T00:40:29Z"
+  "generated_at": "2026-10-12T01:00:59Z"
 }
