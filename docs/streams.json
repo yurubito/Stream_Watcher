@@ -61,7 +61,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-12T11:00:00Z",
-          "title": "【 #ホロARK 】DAY4│パイロメイン＆ドレイクリング冬🦖テイムする！【ホロライブ/アキロゼ】",
+          "title": "【 #ホロ鯖ARK 】DAY4│パイロメイン＆ドレイクリング冬🦖テイムする！【ホロライブ/アキロゼ】",
           "video_id": "Pz_nIQjzIyA"
         },
         {
@@ -288,18 +288,11 @@
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
       "live": {
-        "started_at": "2026-10-12T09:59:11Z",
-        "title": "【 #音乃瀬奏AcousticLive 】重大告知アリ！セルフ3D×ピアノ生演奏ライブ！【音乃瀬奏】#ReGLOSS",
-        "video_id": "QvUi6KG4FRI"
+        "started_at": "2026-10-12T11:00:09Z",
+        "title": "音乃瀬奏 - アイシカケ (Official MV)",
+        "video_id": "LjuKylF4udw"
       },
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T11:00:00Z",
-          "title": "音乃瀬奏 - ？？？ (Official MV)",
-          "video_id": "LjuKylF4udw"
-        }
-      ]
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -651,5 +644,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T10:50:52Z"
+  "generated_at": "2026-10-12T11:01:07Z"
 }
