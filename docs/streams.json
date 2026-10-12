@@ -264,11 +264,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-12T05:01:04Z",
-        "title": "【#ホロARK】拠点を発展させたいDAY🏝【風真いろは/ホロライブ】",
-        "video_id": "koqFM_bBLJY"
-      },
       "name": "風真いろは"
     },
     {
@@ -579,6 +574,11 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-12T12:03:08Z",
+        "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "x4eIbYKOZXo"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -595,11 +595,6 @@
           "scheduled_at": "2026-10-13T03:00:00Z",
           "title": "【SARUSHIMA】 Jalan-jalan di pulau Sarushima?! 【VLOG】",
           "video_id": "-TakcYwYUSo"
-        },
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【Ollie's Ramen Birthday Party - VRCHAT】 FORCING MY FRIENDS TO EAT RAMEN ON MY BIRTHDAY 【Main POV】",
-          "video_id": "z0xUEhweI1U"
         }
       ]
     },
@@ -653,5 +648,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T12:10:32Z"
+  "generated_at": "2026-10-12T12:20:27Z"
 }
