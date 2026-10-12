@@ -55,7 +55,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T12:00:00Z",
+          "title": "【#インボキア】呪いのダイスゲーム開催！！！！【ホロライブ/白上フブキ】",
+          "video_id": "jYaN2U7Lx_4"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -627,5 +634,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T08:20:31Z"
+  "generated_at": "2026-10-12T08:30:40Z"
 }
