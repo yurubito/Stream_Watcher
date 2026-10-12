@@ -129,7 +129,19 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "live": {
+        "started_at": "2026-10-12T04:32:56Z",
+        "title": "【 #ホロ鯖ARK 】その３｜なんでだよおおおおおおおおおおおおおおおおお【常闇トワ/ホロライブ】",
+        "video_id": "ElRElcdQIFU"
+      },
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T12:00:00Z",
+          "title": "【 #インボキア 】呪われたボードゲーム⁉️エッ⁉️ホラー⁉️【常闇トワ/ホロライブ】",
+          "video_id": "Dja0s_tl9ig"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -568,5 +580,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T05:30:37Z"
+  "generated_at": "2026-10-12T06:10:22Z"
 }
