@@ -347,7 +347,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T14:00:00Z",
+          "title": "【POKÉMON FIRE RED】1 spicy yuripean stream to go pls, with some pkmn on the side【SOUL-LINK NUZLOCKE】",
+          "video_id": "aMRFjcO58lA"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -540,5 +547,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T22:30:35Z"
+  "generated_at": "2026-10-12T22:40:30Z"
 }
