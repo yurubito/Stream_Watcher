@@ -79,26 +79,22 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:00:00Z",
-          "title": "【#インボキア】呪いのダイスゲーム開催！！！！【ホロライブ/白上フブキ】",
-          "video_id": "jYaN2U7Lx_4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T12:04:01Z",
+        "title": "【#インボキア】呪いのダイスゲーム開催！！！！【ホロライブ/白上フブキ】",
+        "video_id": "jYaN2U7Lx_4"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:00:00Z",
-          "title": "【#インボキア】こわこわなボドゲ・・・？【ホロライブ/夏色まつり】",
-          "video_id": "p56RdgclIB4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T12:03:22Z",
+        "title": "【#インボキア】こわこわなボドゲ・・・？【ホロライブ/夏色まつり】",
+        "video_id": "p56RdgclIB4"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -182,14 +178,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:00:00Z",
-          "title": "【 #インボキア 】呪われたボードゲーム⁉️エッ⁉️ホラー⁉️【常闇トワ/ホロライブ】",
-          "video_id": "Dja0s_tl9ig"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T12:03:03Z",
+        "title": "【 #インボキア 】呪われたボードゲーム⁉️エッ⁉️ホラー⁉️【常闇トワ/ホロライブ】",
+        "video_id": "Dja0s_tl9ig"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -329,13 +323,13 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-12T12:01:38Z",
+        "title": "【Invokyr】呪われたボドゲ？！？！？！なんとかなれ！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "mNCm_htibCw"
+      },
       "name": "輪堂千速",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:00:00Z",
-          "title": "【Invokyr】呪われたボドゲ？！？！？！なんとかなれ！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "mNCm_htibCw"
-        },
         {
           "scheduled_at": "2026-10-13T10:00:00Z",
           "title": "【ACE COMBAT 8: WINGS OF THEVE】#4 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
@@ -373,14 +367,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:00:00Z",
-          "title": "ありえんスマートな2人によるSuper Bunny Man【宙科そぴあ/鈴鳴つづり/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "fGnE7S2OFfo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T12:01:02Z",
+        "title": "ありえんスマートな2人によるSuper Bunny Man【宙科そぴあ/鈴鳴つづり/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "fGnE7S2OFfo"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -614,14 +606,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Playing Minigames!~【hololive holoro | Anya Melfissa】",
-          "video_id": "aHlFEvpy40E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T12:04:30Z",
+        "title": "【hololive Dreams ホロライブドリームス】Playing Minigames!~【hololive holoro | Anya Melfissa】",
+        "video_id": "aHlFEvpy40E"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -655,15 +645,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T12:00:00Z",
-          "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
-          "video_id": "n1M-2Qe7OMg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T12:01:25Z",
+        "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
+        "video_id": "n1M-2Qe7OMg"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T12:00:53Z"
+  "generated_at": "2026-10-12T12:10:32Z"
 }
