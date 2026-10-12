@@ -102,6 +102,11 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-10-12T02:00:23Z",
+        "title": "【ホロ鯖ARK】拠点を整備しつつアルゲンやパイロメインに想いをはせる【白銀ノエル/ホロライブ】",
+        "video_id": "TeLN6SpJP7Y"
+      },
       "name": "白銀ノエル"
     },
     {
@@ -393,11 +398,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-12T01:00:13Z",
-        "title": "≪Yakuza 7: Like a Dragon≫ This is a Yakuza Game...First Playthrough #8【SPOILER WARNING】",
-        "video_id": "xib4vD33oYY"
-      },
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
@@ -577,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T03:20:22Z"
+  "generated_at": "2026-10-12T03:30:45Z"
 }
