@@ -26,6 +26,11 @@
       "name": "さくらみこ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-12T10:00:00Z",
+          "title": "【#ホロ鯖ARK】ARKホロ鯖きちゃああああああああああああ！DAY3【ホロライブ/さくらみこ】",
+          "video_id": "lSHI9CQNq2E"
+        },
+        {
           "scheduled_at": "2026-10-13T12:00:00Z",
           "title": "【告知あり！】【ホロライブ/さくらみこ】",
           "video_id": "0sik9RTdQ04"
@@ -34,6 +39,11 @@
           "scheduled_at": "2026-10-13T14:30:00Z",
           "title": "【2ndアルバム発売】ついに発売！カウントダウン！！！！！！！！！！【ホロライブ/さくらみこ】",
           "video_id": "ptCKA2cAagI"
+        },
+        {
+          "scheduled_at": "2026-10-14T13:00:00Z",
+          "title": "【Japanese Ramen Simulator】＞＞＞＞＞＞ド珍らーめん屋開業＜＜＜＜＜＜＜＜【ホロライブ/さくらみこ】",
+          "video_id": "BNinM6Wa3Pk"
         }
       ]
     },
@@ -581,7 +591,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-12T15:30:00Z",
-          "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAY WITH YOU!! 【Kureiji Ollie】",
+          "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAYS WITH YOU!! 【Kureiji Ollie】",
           "video_id": "sX-z3lGc-8E"
         },
         {
@@ -648,5 +658,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T08:50:27Z"
+  "generated_at": "2026-10-12T09:00:50Z"
 }
