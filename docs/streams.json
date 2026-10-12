@@ -8,14 +8,12 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T08:00:00Z",
-          "title": "【 ＃ホロドリ 】＃ロボタール の釣り　ここ釣れてますか？？【ホロライブ/ ロボ子さん 】",
-          "video_id": "yglkhvNfWnE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T08:03:32Z",
+        "title": "【 ＃ホロドリ 】＃ロボタール の釣り　ここ釣れてますか？？【ホロライブ/ ロボ子さん 】",
+        "video_id": "yglkhvNfWnE"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -214,11 +212,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-12T03:00:18Z",
-        "title": "【 #ホロ鯖ARK 】緊急参戦‼️新衣装おうち3Dも初お披露目✨とりま裸で乗り込んでみます！【博衣こより/ホロライブ】",
-        "video_id": "Uv-Kc2uBKlM"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -622,5 +615,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T08:00:48Z"
+  "generated_at": "2026-10-12T08:10:29Z"
 }
