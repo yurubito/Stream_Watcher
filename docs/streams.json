@@ -363,11 +363,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-12T12:01:02Z",
-        "title": "ありえんスマートな2人によるSuper Bunny Man【宙科そぴあ/鈴鳴つづり/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "fGnE7S2OFfo"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -535,7 +530,7 @@
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-12T14:00:00Z",
+          "scheduled_at": "2026-10-12T14:10:00Z",
           "title": "【UNDERTALE】MAKING FRIENDS IN THE UNDERGROUND!!【pacifist run】",
           "video_id": "1pdM-tUBukA"
         }
@@ -613,14 +608,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T13:45:00Z",
-          "title": "【PengPong】wow i can show the Pemaloe's POV in the basement now!",
-          "video_id": "6_macuVxJ4c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T13:44:15Z",
+        "title": "【PengPong】wow i can show the Pemaloe's POV in the basement now!",
+        "video_id": "6_macuVxJ4c"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -628,5 +621,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T13:40:28Z"
+  "generated_at": "2026-10-12T13:50:28Z"
 }
