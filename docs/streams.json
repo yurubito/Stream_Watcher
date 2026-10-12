@@ -77,11 +77,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-12T12:03:22Z",
-        "title": "【#インボキア】こわこわなボドゲ・・・？【ホロライブ/夏色まつり】",
-        "video_id": "p56RdgclIB4"
-      },
       "name": "夏色まつり"
     },
     {
@@ -171,11 +166,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-12T12:03:03Z",
-        "title": "【 #インボキア 】呪われたボードゲーム⁉️エッ⁉️ホラー⁉️【常闇トワ/ホロライブ】",
-        "video_id": "Dja0s_tl9ig"
-      },
       "name": "常闇トワ"
     },
     {
@@ -585,5 +575,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T14:10:25Z"
+  "generated_at": "2026-10-12T14:20:34Z"
 }
