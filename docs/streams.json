@@ -104,7 +104,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T12:30:00Z",
+          "title": "【#ホロドリ】図鑑コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "qko66-79W4w"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -648,5 +655,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T12:20:27Z"
+  "generated_at": "2026-10-12T12:30:46Z"
 }
