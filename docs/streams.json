@@ -324,6 +324,11 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-12T07:38:01Z",
+        "title": "【#ホロドリ 】ついにビンゴ達成！るんるん🎶【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "eFfkDpl0Hgw"
+      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -610,5 +615,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T07:30:38Z"
+  "generated_at": "2026-10-12T07:40:25Z"
 }
