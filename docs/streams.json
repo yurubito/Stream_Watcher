@@ -104,11 +104,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-12T12:31:56Z",
-        "title": "【#ホロドリ】図鑑コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "qko66-79W4w"
-      },
       "name": "癒月ちょこ",
       "upcoming": [
         {
@@ -319,14 +314,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T13:30:00Z",
-          "title": "【dressmaker】Chill🩵センス◎をみせます【水宮枢／ホロライブ】",
-          "video_id": "B8uQ19SjIVQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T13:32:06Z",
+        "title": "【dressmaker】Chill🩵センス◎をみせます【水宮枢／ホロライブ】",
+        "video_id": "B8uQ19SjIVQ"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -578,11 +571,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-12T12:03:08Z",
-        "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "x4eIbYKOZXo"
-      },
       "name": "クレイジー・オリー",
       "upcoming": [
         {
@@ -605,11 +593,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-12T12:04:30Z",
-        "title": "【hololive Dreams ホロライブドリームス】Playing Minigames!~【hololive holoro | Anya Melfissa】",
-        "video_id": "aHlFEvpy40E"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -642,13 +625,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-12T12:01:25Z",
-        "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
-        "video_id": "n1M-2Qe7OMg"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T13:31:01Z"
+  "generated_at": "2026-10-12T13:40:28Z"
 }
