@@ -209,11 +209,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-12T09:02:02Z",
-        "title": "【 #ホロ鯖ARK 】仲間増やしたーーーーーーーーーい！！！！！【 桃鈴ねね / hololive 】",
-        "video_id": "MzTG21TTUfI"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -290,7 +285,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T13:00:00Z",
+          "title": "油はアチアチだし、足はパンパンだし、プンプン！！【一条莉々華/hololive ReGLOSS】",
+          "video_id": "s26NJKTd-qI"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -663,5 +665,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T11:50:31Z"
+  "generated_at": "2026-10-12T12:00:53Z"
 }
