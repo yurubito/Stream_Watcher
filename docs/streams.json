@@ -396,14 +396,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T13:00:00Z",
-          "title": "タンポポは耐える、キョーコは猛る。【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "PsMYUwW0_OI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T12:59:08Z",
+        "title": "タンポポは耐える、キョーコは猛る。【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "PsMYUwW0_OI"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -440,14 +438,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T13:00:00Z",
-          "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
-          "video_id": "yntknFdGzFw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T13:00:33Z",
+        "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
+        "video_id": "yntknFdGzFw"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -667,5 +663,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T12:50:26Z"
+  "generated_at": "2026-10-12T13:00:56Z"
 }
