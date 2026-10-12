@@ -372,6 +372,11 @@
       "name": "オーロ・クロニー",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-13T02:00:00Z",
+          "title": "【Hololive Dreams】Progress #holodori",
+          "video_id": "GK37bRFmm2c"
+        },
+        {
           "scheduled_at": "2026-10-17T02:00:00Z",
           "title": "【New Outfit Reveal】Feast Your Eyes 🍷 #MasqOuroade",
           "video_id": "SLLS2T4SWvg"
@@ -547,5 +552,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T22:40:30Z"
+  "generated_at": "2026-10-12T22:50:32Z"
 }
