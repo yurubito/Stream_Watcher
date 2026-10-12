@@ -60,11 +60,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-11T16:03:06Z",
-        "title": "【ホロARK】ARK上陸2日目！ 文明すすめるぞっ！【ホロライブ/癒月ちょこ】",
-        "video_id": "BhR8LSitU9k"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -82,11 +77,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-11T22:31:18Z",
-        "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
-        "video_id": "v49bZ8yH0I0"
-      },
       "name": "大神ミオ"
     },
     {
@@ -589,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T00:00:56Z"
+  "generated_at": "2026-10-12T00:10:22Z"
 }
