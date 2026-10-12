@@ -207,14 +207,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T09:00:00Z",
-          "title": "【 #ホロ鯖ARK 】仲間増やしたーーーーーーーーーい！！！！！【 桃鈴ねね / hololive 】",
-          "video_id": "MzTG21TTUfI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T09:02:02Z",
+        "title": "【 #ホロ鯖ARK 】仲間増やしたーーーーーーーーーい！！！！！【 桃鈴ねね / hololive 】",
+        "video_id": "MzTG21TTUfI"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -359,18 +357,11 @@
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
       "live": {
-        "started_at": "2026-10-12T07:38:01Z",
-        "title": "【#ホロドリ 】ついにビンゴ達成！るんるん🎶【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "eFfkDpl0Hgw"
+        "started_at": "2026-10-12T09:08:56Z",
+        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃4【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "0zTj5TCS6lo"
       },
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T09:00:00Z",
-          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃4【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "0zTj5TCS6lo"
-        }
-      ]
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -658,5 +649,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T09:00:50Z"
+  "generated_at": "2026-10-12T09:10:30Z"
 }
