@@ -339,11 +339,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-12T04:01:37Z",
-        "title": "【DARK SOULS III】#10 また火を継ぎにいくぞ！！！！！※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "LAMRZYO7gf0"
-      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -649,5 +644,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T09:10:30Z"
+  "generated_at": "2026-10-12T09:20:24Z"
 }
