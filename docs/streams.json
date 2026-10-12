@@ -45,6 +45,11 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-12T04:04:34Z",
+        "title": "【#ホロ鯖ARK】ラグナロクで生きるARK【ホロライブ/白上フブキ】",
+        "video_id": "teCNsNhFHIU"
+      },
       "name": "白上フブキ"
     },
     {
@@ -474,9 +479,9 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-12T03:00:00Z",
-          "title": "【FINAL FANTASY XIV】LEEEEEEEEETS GO FISHINGGGGGG #ad",
-          "video_id": "UIx1lScM4IU"
+          "scheduled_at": "2026-10-12T21:00:00Z",
+          "title": "【DRESSMAKER】only the prettiest dresses for my fast fashion shop",
+          "video_id": "J1RSjv9Q3bE"
         }
       ]
     },
@@ -570,5 +575,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T06:20:22Z"
+  "generated_at": "2026-10-12T06:40:23Z"
 }
