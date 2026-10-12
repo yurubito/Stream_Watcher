@@ -392,7 +392,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T06:00:00Z",
+          "title": "【HOLOLIVE DREAMS】GRINDSTONE BUT MAYBE ALSO GRAONDSTONE #holodori",
+          "video_id": "AMKwq_MXukM"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -532,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T17:50:36Z"
+  "generated_at": "2026-10-12T18:00:46Z"
 }
