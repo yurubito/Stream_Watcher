@@ -271,14 +271,12 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T00:00:00Z",
-          "title": "【 ＃朝ガオ vol.16 】延期に延期を重ね月曜日になっちゃったね☕【虎金妃笑虎】",
-          "video_id": "sRwXNvZ4Uhw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T00:00:24Z",
+        "title": "【 ＃朝ガオ vol.16 】延期に延期を重ね月曜日になっちゃったね☕【虎金妃笑虎】",
+        "video_id": "sRwXNvZ4Uhw"
+      },
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -591,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-11T23:20:20Z"
+  "generated_at": "2026-10-12T00:00:56Z"
 }
