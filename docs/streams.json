@@ -52,11 +52,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-12T04:04:34Z",
-        "title": "【#ホロ鯖ARK】ラグナロクで生きるARK【ホロライブ/白上フブキ】",
-        "video_id": "teCNsNhFHIU"
-      },
       "name": "白上フブキ"
     },
     {
@@ -329,7 +324,14 @@
         "title": "【#ホロドリ 】ついにビンゴ達成！るんるん🎶【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
         "video_id": "eFfkDpl0Hgw"
       },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T09:00:00Z",
+          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃4【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "0zTj5TCS6lo"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -612,8 +614,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T12:00:00Z",
+          "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
+          "video_id": "n1M-2Qe7OMg"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-12T07:40:25Z"
+  "generated_at": "2026-10-12T07:50:47Z"
 }
