@@ -23,11 +23,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-12T10:01:15Z",
-        "title": "【#ホロ鯖ARK】ARKホロ鯖きちゃああああああああああああ！DAY3【ホロライブ/さくらみこ】",
-        "video_id": "lSHI9CQNq2E"
-      },
       "name": "さくらみこ",
       "upcoming": [
         {
@@ -496,11 +491,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-12T12:30:37Z",
-        "title": "【 #holoctober 】DAY 12 : Apron【 iofi / hololive】",
-        "video_id": "Y_Xg7uA4NAs"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -568,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T14:40:32Z"
+  "generated_at": "2026-10-12T14:50:26Z"
 }
