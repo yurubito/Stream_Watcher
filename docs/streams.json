@@ -543,14 +543,7 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T01:00:00Z",
-          "title": "【#ホロドリ】リオナちゃんと一緒に遊ぶぞ～～！！✨ #holodori #hololivedreams",
-          "video_id": "M8Ld87b-bfI"
-        }
-      ]
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -575,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T04:20:23Z"
+  "generated_at": "2026-10-12T05:30:37Z"
 }
