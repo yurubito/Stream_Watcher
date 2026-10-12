@@ -33,6 +33,11 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-12T08:03:33Z",
+        "title": "【ホロライブドリームス】ロボタールで釣るぞ～！ #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "fID7HLF0LJY"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -166,7 +171,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T09:00:00Z",
+          "title": "【 #ホロ鯖ARK 】仲間増やしたーーーーーーーーーい！！！！！【 桃鈴ねね / hololive 】",
+          "video_id": "MzTG21TTUfI"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -615,5 +627,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T08:10:29Z"
+  "generated_at": "2026-10-12T08:20:31Z"
 }
