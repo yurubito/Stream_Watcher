@@ -266,11 +266,6 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-12T00:00:24Z",
-        "title": "【 ＃朝ガオ vol.16 】延期に延期を重ね月曜日になっちゃったね☕【虎金妃笑虎】",
-        "video_id": "sRwXNvZ4Uhw"
-      },
       "name": "虎金妃笑虎"
     },
     {
@@ -540,11 +535,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-12T04:02:24Z",
-        "title": "【The Dandelion Endures. | タンポポは耐える。】But What Does It Endure?【hololive holoro | Anya Melfissa】",
-        "video_id": "FEhTPVe_VtU"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -580,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T06:10:22Z"
+  "generated_at": "2026-10-12T06:20:22Z"
 }
