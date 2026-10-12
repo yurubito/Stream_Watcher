@@ -57,11 +57,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-12T11:03:36Z",
-        "title": "【 #ホロ鯖ARK 】DAY4│パイロメイン＆ドレイクリング冬🦖テイムする！【ホロライブ/アキロゼ】",
-        "video_id": "Pz_nIQjzIyA"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -165,11 +160,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-12T02:00:23Z",
-        "title": "【ホロ鯖ARK】拠点を整備しつつアルゲンやパイロメインに想いをはせる【白銀ノエル/ホロライブ】",
-        "video_id": "TeLN6SpJP7Y"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -200,11 +190,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-12T07:58:33Z",
-        "title": "【 エースコンバット8 】最終回！空よ、教えてくれ『ACE COMBAT 8: WINGS OF THEVE』に挑むのら！！！＃【姫森ルーナ/ホロライブ】※ネタバレあり",
-        "video_id": "ww3CjqrlhZw"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -220,11 +205,6 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-12T11:01:36Z",
-        "title": "お店の売上金がなぜか合わないJapanese Ramen Simulator【獅白ぼたん/ホロライブ】",
-        "video_id": "_0H5isyZHEY"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -388,13 +368,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-12T13:59:11Z",
+        "title": "【hololive Dreams】CHAT WITH RAT!!! #calliolive #holodori",
+        "video_id": "2Rx1Nx1cNlg"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T14:00:00Z",
-          "title": "【hololive Dreams】CHAT WITH RAT!!! #calliolive #holodori",
-          "video_id": "2Rx1Nx1cNlg"
-        },
         {
           "scheduled_at": "2026-10-14T00:00:00Z",
           "title": "【ZELDA: OCARINA OF TIME】what a journey!!! (part 8) #calliolive",
@@ -447,14 +427,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T14:00:00Z",
-          "title": "≪hololive Dreams≫ gotta catch them all w/ Calli #4 #holodori",
-          "video_id": "Ppn_FqhuiLw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T14:00:29Z",
+        "title": "≪hololive Dreams≫ gotta catch them all w/ Calli #4 #holodori",
+        "video_id": "Ppn_FqhuiLw"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -530,7 +508,7 @@
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-12T14:10:00Z",
+          "scheduled_at": "2026-10-12T14:05:00Z",
           "title": "【UNDERTALE】MAKING FRIENDS IN THE UNDERGROUND!!【pacifist run】",
           "video_id": "1pdM-tUBukA"
         }
@@ -621,5 +599,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T13:50:28Z"
+  "generated_at": "2026-10-12T14:00:49Z"
 }
