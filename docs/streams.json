@@ -245,11 +245,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-12T13:00:58Z",
-        "title": "油はアチアチだし、足はパンパンだし、プンプン！！【一条莉々華/hololive ReGLOSS】",
-        "video_id": "s26NJKTd-qI"
-      },
       "name": "一条莉々華"
     },
     {
@@ -575,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T14:20:34Z"
+  "generated_at": "2026-10-12T14:30:40Z"
 }
