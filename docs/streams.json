@@ -488,7 +488,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T12:00:00Z",
+          "title": "HAPPY BIRTHDAY TO MY WIFE AND QUEEN | Ollie's Ramen Birthday Party - VRCHAT",
+          "video_id": "fGfVta2QVeo"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -605,7 +612,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T12:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】Playing Minigames!~【hololive holoro | Anya Melfissa】",
+          "video_id": "aHlFEvpy40E"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -649,5 +663,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T11:10:32Z"
+  "generated_at": "2026-10-12T11:50:31Z"
 }
