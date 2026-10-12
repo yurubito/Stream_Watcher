@@ -198,13 +198,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-12T22:01:44Z",
+        "title": "【 #朝こよ 】未公開わかり手クイズ公開‼️火曜日の朝も朝こよ～！☀ #302 【博衣こより/hololive】",
+        "video_id": "36D4HBxjJxM"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T22:00:00Z",
-          "title": "【 #朝こよ 】未公開わかり手クイズ公開‼️火曜日の朝も朝こよ～！☀ #302 【博衣こより/hololive】",
-          "video_id": "36D4HBxjJxM"
-        },
         {
           "scheduled_at": "2026-10-13T09:00:00Z",
           "title": "【 #ホロドリ 】限界ホロドリ🔥新水着イベントラストスパート！スコアチャレンジで高得点を最後まで諦めるな！【博衣こより/ホロライブ】",
@@ -545,5 +545,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T22:00:58Z"
+  "generated_at": "2026-10-12T22:10:28Z"
 }
