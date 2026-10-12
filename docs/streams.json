@@ -185,14 +185,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T13:00:00Z",
-          "title": "【雑談＆お礼】ラジオに出演してきた羊！今日はすーぱーちゃお礼！【角巻わため/ホロライブ４期生】",
-          "video_id": "f0yybBkE94g"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T13:08:54Z",
+        "title": "【雑談＆お礼】ラジオに出演してきた羊！今日はすーぱーちゃお礼！【角巻わため/ホロライブ４期生】",
+        "video_id": "f0yybBkE94g"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -254,14 +252,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T13:00:00Z",
-          "title": "【 #ホロドリ 】ホロトリでホロドリ！？！？！？！？！？【鷹嶺ルイ/ホロライブ】",
-          "video_id": "lZd_bHhNB68"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T13:02:29Z",
+        "title": "【 #ホロドリ 】ホロトリでホロドリ！？！？！？！？！？【鷹嶺ルイ/ホロライブ】",
+        "video_id": "lZd_bHhNB68"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -270,7 +266,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-12T22:00:00Z",
-          "title": "【 #朝こよ 】3D新衣装お披露目直後の火曜日の朝も朝こよ～！☀ #302 【博衣こより/hololive】",
+          "title": "【 #朝こよ 】未公開わかり手クイズ公開‼️火曜日の朝も朝こよ～！☀ #302 【博衣こより/hololive】",
           "video_id": "36D4HBxjJxM"
         },
         {
@@ -293,14 +289,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T13:00:00Z",
-          "title": "油はアチアチだし、足はパンパンだし、プンプン！！【一条莉々華/hololive ReGLOSS】",
-          "video_id": "s26NJKTd-qI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T13:00:58Z",
+        "title": "油はアチアチだし、足はパンパンだし、プンプン！！【一条莉々華/hololive ReGLOSS】",
+        "video_id": "s26NJKTd-qI"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -364,11 +358,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-12T09:58:37Z",
-        "title": "【マシュマロ雑談】１００個の質問に答えますのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "W6shqY3W-Es"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -626,14 +615,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T13:00:00Z",
-          "title": "【hololive Dreams】BIRDS OF A FEATHER!! HOLOTORIでホロドリ #holodori【Pavolia Reine/hololive】",
-          "video_id": "SJb2L2Y0-jA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T13:01:42Z",
+        "title": "【hololive Dreams】BIRDS OF A FEATHER!! HOLOTORIでホロドリ #holodori【Pavolia Reine/hololive】",
+        "video_id": "SJb2L2Y0-jA"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -663,5 +650,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T13:00:56Z"
+  "generated_at": "2026-10-12T13:10:26Z"
 }
