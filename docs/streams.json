@@ -53,6 +53,11 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-12T16:30:00Z",
+          "title": "【 #ホロ鯖ARK 】DAY4.5│ドレイクリング冬テイムしたい＆文明開化【ホロライブ/アキロゼ】",
+          "video_id": "JzHvkdqVgkI"
+        },
+        {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
           "video_id": "C8W03Z6zWFk"
@@ -82,14 +87,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T15:30:00Z",
-          "title": "【ホロARK】ARK上陸３日目！ パイロメインテイムがしたいんじゃー！【ホロライブ/癒月ちょこ】",
-          "video_id": "Lo_TnR73v3A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-12T15:39:54Z",
+        "title": "【ホロARK】ARK上陸３日目！ パイロメインテイムがしたいんじゃー！【ホロライブ/癒月ちょこ】",
+        "video_id": "Lo_TnR73v3A"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -311,7 +314,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T11:00:00Z",
+          "title": "【漢字でGOGO!】疑惑の判定？？なにそれ？？？？【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "jI7-LRh6Dss"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -545,5 +555,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T15:30:46Z"
+  "generated_at": "2026-10-12T15:40:34Z"
 }
