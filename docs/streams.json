@@ -13,7 +13,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T14:00:00Z",
+          "title": "【#ホロドリ】AZKi 新Live2D お披露目！？ここだけでしか見られない姿！hololive Dreams【ホロライブ / AZKi】",
+          "video_id": "E0dyF8v3Fk4"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -342,6 +349,11 @@
       "name": "輪堂千速",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-12T12:00:00Z",
+          "title": "【Invokyr】呪われたボドゲ？！？！？！なんとかなれ！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "mNCm_htibCw"
+        },
+        {
           "scheduled_at": "2026-10-13T10:00:00Z",
           "title": "【ACE COMBAT 8: WINGS OF THEVE】#4 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
           "video_id": "wNjLwlh7MJw"
@@ -644,5 +656,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T10:10:33Z"
+  "generated_at": "2026-10-12T10:40:32Z"
 }
