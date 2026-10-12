@@ -201,11 +201,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-12T13:02:29Z",
-        "title": "【 #ホロドリ 】ホロトリでホロドリ！？！？！？！？！？【鷹嶺ルイ/ホロライブ】",
-        "video_id": "lZd_bHhNB68"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -354,11 +349,6 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-12T13:00:33Z",
-        "title": "【holodori】HOLOTORIHOLODORIHOLOTORIHOLODORIHOLOTORIHOLODORI #kfp #キアライブ",
-        "video_id": "yntknFdGzFw"
-      },
       "name": "小鳥遊キアラ"
     },
     {
@@ -530,11 +520,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-12T13:01:42Z",
-        "title": "【hololive Dreams】BIRDS OF A FEATHER!! HOLOTORIでホロドリ #holodori【Pavolia Reine/hololive】",
-        "video_id": "SJb2L2Y0-jA"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -558,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T14:50:26Z"
+  "generated_at": "2026-10-12T15:01:10Z"
 }
