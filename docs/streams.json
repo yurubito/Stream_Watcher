@@ -385,7 +385,14 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー"
+      "name": "オーロ・クロニー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T02:00:00Z",
+          "title": "【New Outfit Reveal】Feast Your Eyes 🍷 #MasqOuroade",
+          "video_id": "SLLS2T4SWvg"
+        }
+      ]
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -574,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T00:20:23Z"
+  "generated_at": "2026-10-12T00:40:29Z"
 }
