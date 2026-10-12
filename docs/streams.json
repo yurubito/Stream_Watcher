@@ -531,8 +531,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T01:00:00Z",
+          "title": "【hololive Dreams】HAPPY BIRTHDAY KUREIJI OLLIE daily holodori ... #holodori #ホロドリ",
+          "video_id": "hIab5_5T3g8"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-12T18:10:37Z"
+  "generated_at": "2026-10-12T18:40:33Z"
 }
