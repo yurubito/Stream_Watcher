@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-12T08:03:32Z",
-        "title": "【 ＃ホロドリ 】＃ロボタール の釣り　ここ釣れてますか？？【ホロライブ/ ロボ子さん 】",
-        "video_id": "yglkhvNfWnE"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -55,11 +50,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-12T08:03:33Z",
-        "title": "【ホロライブドリームス】ロボタールで釣るぞ～！ #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "fID7HLF0LJY"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -89,7 +79,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T12:00:00Z",
+          "title": "【#インボキア】こわこわなボドゲ・・・？【ホロライブ/夏色まつり】",
+          "video_id": "p56RdgclIB4"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -644,5 +641,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T09:20:24Z"
+  "generated_at": "2026-10-12T09:30:46Z"
 }
