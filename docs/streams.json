@@ -50,7 +50,14 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール"
+      "name": "アキ・ローゼンタール",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T14:40:00Z",
+          "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
+          "video_id": "C8W03Z6zWFk"
+        }
+      ]
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -373,7 +380,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T12:00:00Z",
+          "title": "≪Ollie's Ramen Birthday Party!!≫ HAPPY BIRTHDAY MUM",
+          "video_id": "z3qd7Kj8Shk"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -481,13 +495,13 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-12T15:29:37Z",
+        "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAYS WITH YOU!! 【Kureiji Ollie】",
+        "video_id": "sX-z3lGc-8E"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T15:30:00Z",
-          "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAYS WITH YOU!! 【Kureiji Ollie】",
-          "video_id": "sX-z3lGc-8E"
-        },
         {
           "scheduled_at": "2026-10-13T02:00:00Z",
           "title": "【hololive Dreams】 DON'T FORGET TO LOGIN TODAY!! #holodori #ホロドリ 【Kureiji Ollie】",
@@ -531,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-12T15:20:37Z"
+  "generated_at": "2026-10-12T15:30:46Z"
 }
