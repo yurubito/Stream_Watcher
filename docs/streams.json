@@ -18,13 +18,13 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-12T10:01:15Z",
+        "title": "【#ホロ鯖ARK】ARKホロ鯖きちゃああああああああああああ！DAY3【ホロライブ/さくらみこ】",
+        "video_id": "lSHI9CQNq2E"
+      },
       "name": "さくらみこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-12T10:00:00Z",
-          "title": "【#ホロ鯖ARK】ARKホロ鯖きちゃああああああああああああ！DAY3【ホロライブ/さくらみこ】",
-          "video_id": "lSHI9CQNq2E"
-        },
         {
           "scheduled_at": "2026-10-13T12:00:00Z",
           "title": "【告知あり！】【ホロライブ/さくらみこ】",
@@ -52,6 +52,11 @@
       "group": "JP 1期生",
       "name": "アキ・ローゼンタール",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-12T11:00:00Z",
+          "title": "【 #ホロARK 】DAY4│パイロメイン＆ドレイクリング冬🦖テイムする！【ホロライブ/アキロゼ】",
+          "video_id": "Pz_nIQjzIyA"
+        },
         {
           "scheduled_at": "2026-10-12T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち？｜ちょこのお悩み相談室～深夜のひとくちラジオ～",
@@ -639,5 +644,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T10:00:50Z"
+  "generated_at": "2026-10-12T10:10:33Z"
 }
