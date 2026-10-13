@@ -84,7 +84,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T11:00:00Z",
+          "title": "【BOMBANANA!】　ホロライブ２期生で協力爆弾解除できるのか？ 【ホロライブ/癒月ちょこ/大空スバル/百鬼あやめ】",
+          "video_id": "g-Pot3FcnUY"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -244,7 +251,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T09:30:00Z",
+          "title": "【 ＃ホロ甲2026 】壁咲高校、最終回！！！【ホロライブ FLOW GLOW 響咲リオナ】",
+          "video_id": "GsHf73Pm84E"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -281,9 +295,9 @@
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-13T03:00:00Z",
-          "title": "【#ホロドリ 】お昼休憩のホロドリ！いっしょに遊ぼ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "rvogrGupKGQ"
+          "scheduled_at": "2026-10-13T09:00:00Z",
+          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃6【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "cA7JRWPxPfE"
         }
       ]
     },
@@ -378,11 +392,6 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-13T02:05:59Z",
-        "title": "【Hololive Dreams】Progress #holodori",
-        "video_id": "GK37bRFmm2c"
-      },
       "name": "オーロ・クロニー",
       "upcoming": [
         {
@@ -492,7 +501,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T12:00:00Z",
+          "title": "【VRChat】Ollie's Ramen Birthday Party!! Let's EAT EAT EAT!【hololive | moona】",
+          "video_id": "hViopM3eW_o"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -500,9 +516,9 @@
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-13T04:00:00Z",
-          "title": "【#holodori 】Morning...【 iofi / hololive】",
-          "video_id": "Uqv64HCY-Fc"
+          "scheduled_at": "2026-10-13T14:00:00Z",
+          "title": "【 #holoctober 】DAY 13 : Glasses【 iofi / hololive】",
+          "video_id": "T1We6jVbj98"
         },
         {
           "scheduled_at": "2026-10-14T14:00:00Z",
@@ -514,29 +530,19 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-13T01:06:09Z",
-        "title": "【hololive Dreams】 DON'T FORGET TO LOGIN TODAY!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "0e3Z6brGBLs"
-      },
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T03:00:00Z",
-          "title": "【SARUSHIMA】 Jalan-jalan di pulau Sarushima?! 【VLOG】",
-          "video_id": "-TakcYwYUSo"
-        }
-      ]
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-13T01:05:27Z",
-        "title": "【hololive Dreams ホロライブドリームス】Playing holodori with Kobo & Our Birthday Girl!~【holo | Anya Melfissa】",
-        "video_id": "3bwEiGea-5o"
-      },
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T12:00:00Z",
+          "title": "【VRChat #OlliesRamenParty】HAPPY BIRTHDAY TO THE SWEETEST ZOMBIE!【hololive holoro | Anya Melfissa】",
+          "video_id": "OV-2TlfCqUg"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -561,7 +567,7 @@
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-13T06:00:00Z",
+          "scheduled_at": "2026-10-13T07:00:00Z",
           "title": "【hololive Dreams】might be graondstone【#holodori】",
           "video_id": "Xwx8s_qkXus"
         }
@@ -573,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T06:50:25Z"
+  "generated_at": "2026-10-13T07:00:55Z"
 }
