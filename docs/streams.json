@@ -82,7 +82,14 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T13:00:00Z",
+          "title": "【】【ホロライブ/大空スバル】",
+          "video_id": "y4TuxUICXIQ"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -449,11 +456,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-13T16:02:10Z",
-        "title": "【RATATAN】CCGG RHYTHM GAMING!! #pr",
-        "video_id": "rrmpyT1C_Wg"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -534,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T18:50:33Z"
+  "generated_at": "2026-10-13T19:30:45Z"
 }
