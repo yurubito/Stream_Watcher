@@ -216,7 +216,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T06:00:00Z",
+          "title": "はいしんよてい【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "C76Y3eNI8hU"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -520,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T17:10:26Z"
+  "generated_at": "2026-10-13T17:20:36Z"
 }
