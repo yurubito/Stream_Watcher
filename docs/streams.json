@@ -486,6 +486,11 @@
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-13T04:00:00Z",
+          "title": "【#holodori 】Morning...【 iofi / hololive】",
+          "video_id": "Uqv64HCY-Fc"
+        },
+        {
           "scheduled_at": "2026-10-14T14:00:00Z",
           "title": "【Moonfrost】New Adventure in Moonfrost!【 iofi / hololive】",
           "video_id": "BshwrRG38BU"
@@ -547,5 +552,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T02:50:21Z"
+  "generated_at": "2026-10-13T03:40:21Z"
 }
