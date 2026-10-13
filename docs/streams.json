@@ -396,7 +396,7 @@
       "name": "古石ビジュー",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-13T06:00:00Z",
+          "scheduled_at": "2026-10-13T07:00:00Z",
           "title": "【HOLOLIVE DREAMS】GRINDSTONE BUT MAYBE ALSO GRAONDSTONE #holodori",
           "video_id": "AMKwq_MXukM"
         }
@@ -446,11 +446,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-13T02:06:38Z",
-        "title": "【hololive Dreams】MEET AND GREET WITH CELEBRITY OURO KRONII #holodori",
-        "video_id": "Bf-svPy0kfU"
-      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -552,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T03:40:21Z"
+  "generated_at": "2026-10-13T06:10:25Z"
 }
