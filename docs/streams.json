@@ -287,14 +287,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T09:30:00Z",
-          "title": "【 ＃ホロ甲2026 】壁咲高校、最終回！！！【ホロライブ FLOW GLOW 響咲リオナ】",
-          "video_id": "GsHf73Pm84E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T09:30:25Z",
+        "title": "【 ＃ホロ甲2026 】壁咲高校、最終回！！！【ホロライブ FLOW GLOW 響咲リオナ】",
+        "video_id": "GsHf73Pm84E"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -642,5 +640,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-13T09:10:29Z"
+  "generated_at": "2026-10-13T09:30:46Z"
 }
