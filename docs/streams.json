@@ -246,11 +246,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-13T14:14:43Z",
-        "title": "【 タンポポは耐える。 】忍耐の水宮✋【水宮枢／ホロライブ】",
-        "video_id": "DjNZh4y9Qkk"
-      },
       "name": "水宮枢"
     },
     {
@@ -268,7 +263,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T03:00:00Z",
+          "title": "【#ホロドリ 】イナ先輩と初サシコラボ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "HmzmqCz_NWg"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -519,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T15:40:34Z"
+  "generated_at": "2026-10-13T16:01:05Z"
 }
