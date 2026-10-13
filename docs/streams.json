@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T12:30:00Z",
+          "title": "【#ホロドリ】最後までストーリー見たいよね？【ときのそら/ホロライブ】",
+          "video_id": "rbAlByJfPg4"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -52,11 +59,6 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-13T10:04:50Z",
-        "title": "【最後に告知アリ！】マシュマロ●●本ノックするよ🍬【星街すいせい / ＃ほしまちすたじお】",
-        "video_id": "RgKFjSCDADA"
-      },
       "name": "星街すいせい"
     },
     {
@@ -227,14 +229,12 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【holoX】みんなでティア表!をやるぞ！【ラプラス・ダークネス/ホロライブ】",
-          "video_id": "pGHdBSGFLqY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T11:58:42Z",
+        "title": "【#SSholox 】みんなでティア表!をやるぞ！【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "pGHdBSGFLqY"
+      },
+      "name": "ラプラス・ダークネス"
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -467,14 +467,12 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "HAPPY BIRTHDAY TO MY WIFE AND QUEEN | Ollie's Ramen Birthday Party - VRCHAT",
-          "video_id": "fGfVta2QVeo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T11:59:24Z",
+        "title": "HAPPY BIRTHDAY TO MY WIFE AND QUEEN | Ollie's Ramen Birthday Party - VRCHAT",
+        "video_id": "fGfVta2QVeo"
+      },
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -537,14 +535,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "#OlliesRamenParty HAPPY BIRTHDAY OLLIE ~!!! : we're making ramen ?!?!?",
-          "video_id": "Kk0oE7MfGCY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T12:00:19Z",
+        "title": "#OlliesRamenParty HAPPY BIRTHDAY OLLIE ~!!! : we're making ramen ?!?!?",
+        "video_id": "Kk0oE7MfGCY"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -600,14 +596,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【VRChat】HAPPY BIRTHDAY OLLIE!!!!! ❤️ ramen party? 🍜",
-          "video_id": "WNY4NI8Alrc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T11:59:25Z",
+        "title": "【VRChat】HAPPY BIRTHDAY OLLIE!!!!! ❤️ ramen party? 🍜",
+        "video_id": "WNY4NI8Alrc"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -617,15 +611,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【Ollie's Ramen Birthday Party | VRChat】HAPPY BIRTHDAY OLLIE!!! LETS EAT RAMEN TOGETHER ?!!!",
-          "video_id": "CbTM0de_DWA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T11:59:41Z",
+        "title": "【Ollie's Ramen Birthday Party | VRChat】HAPPY BIRTHDAY OLLIE!!! LETS EAT RAMEN TOGETHER ?!!!",
+        "video_id": "CbTM0de_DWA"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T11:50:37Z"
+  "generated_at": "2026-10-13T12:00:52Z"
 }
