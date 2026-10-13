@@ -91,31 +91,16 @@
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-13T11:03:03Z",
-        "title": "【BOMBANANA!】幻の2期生コラボ【百鬼あやめ/ホロライブ】",
-        "video_id": "qbpGRUKFqnA"
-      },
       "name": "百鬼あやめ"
     },
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-13T11:01:52Z",
-        "title": "【BOMBANANA!】　ホロライブ２期生で協力爆弾解除できるのか？ 【ホロライブ/癒月ちょこ/大空スバル/百鬼あやめ】",
-        "video_id": "g-Pot3FcnUY"
-      },
       "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-13T11:02:44Z",
-        "title": "【#生スバル】2期生でBOMBANANAやるしゅばああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-        "video_id": "o0v7SG5zbQc"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -291,11 +276,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-13T09:30:25Z",
-        "title": "【 ＃ホロ甲2026 】壁咲高校、最終回！！！【ホロライブ FLOW GLOW 響咲リオナ】",
-        "video_id": "GsHf73Pm84E"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -563,6 +543,11 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-13T12:01:35Z",
+        "title": "【Ollie's Ramen Birthday Party - VRCHAT】 FORCING MY FRIENDS TO EAT RAMEN ON MY BIRTHDAY 【Main POV】",
+        "video_id": "z0xUEhweI1U"
+      },
       "name": "クレイジー・オリー"
     },
     {
@@ -606,5 +591,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T12:10:42Z"
+  "generated_at": "2026-10-13T12:20:27Z"
 }
