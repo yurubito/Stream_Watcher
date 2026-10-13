@@ -500,6 +500,11 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-13T01:05:27Z",
+        "title": "【hololive Dreams ホロライブドリームス】Playing holodori with Kobo & Our Birthday Girl!~【holo | Anya Melfissa】",
+        "video_id": "3bwEiGea-5o"
+      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -535,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T01:10:25Z"
+  "generated_at": "2026-10-13T01:20:28Z"
 }
