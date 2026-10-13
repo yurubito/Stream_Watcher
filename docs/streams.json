@@ -546,7 +546,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T12:00:00Z",
+          "title": "【VRChat】HAPPY BIRTHDAY OLLIE!!!!! ❤️ ramen party? 🍜",
+          "video_id": "WNY4NI8Alrc"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -566,5 +573,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T06:30:32Z"
+  "generated_at": "2026-10-13T06:50:25Z"
 }
