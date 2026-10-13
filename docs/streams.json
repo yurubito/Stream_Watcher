@@ -169,11 +169,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-13T12:01:29Z",
-        "title": "【#ホロ甲2026】育成配信3年目夏！！負けたら終わりの甲子園が待っている！【尾丸ポルカ/ホロライブ】",
-        "video_id": "p3asKGFvKqs"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -271,6 +266,11 @@
           "scheduled_at": "2026-10-13T22:00:00Z",
           "title": "【のじゃEnglish】soccer?or football?【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "nyvtNTotwdw"
+        },
+        {
+          "scheduled_at": "2026-10-14T03:00:00Z",
+          "title": "【緊急】昨晩のインターネットリテラシーについて【ホロライブ/熱千めら】",
+          "video_id": "F53LLDirjFw"
         },
         {
           "scheduled_at": "2026-10-14T11:00:00Z",
@@ -509,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T16:20:33Z"
+  "generated_at": "2026-10-13T16:30:41Z"
 }
