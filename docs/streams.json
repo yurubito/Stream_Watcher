@@ -32,13 +32,13 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-13T12:02:48Z",
+        "title": "【検証】ついに決着をつける時がきた――――――。告知アリ！【ホロライブ/さくらみこ】",
+        "video_id": "0sik9RTdQ04"
+      },
       "name": "さくらみこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【検証】ついに決着をつける時がきた――――――。告知アリ！【ホロライブ/さくらみこ】",
-          "video_id": "0sik9RTdQ04"
-        },
         {
           "scheduled_at": "2026-10-13T13:00:00Z",
           "title": "？？？？？？？？？",
@@ -217,14 +217,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【#ホロ甲2026】育成配信3年目夏！！負けたら終わりの甲子園が待っている！【尾丸ポルカ/ホロライブ】",
-          "video_id": "p3asKGFvKqs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T12:01:29Z",
+        "title": "【#ホロ甲2026】育成配信3年目夏！！負けたら終わりの甲子園が待っている！【尾丸ポルカ/ホロライブ】",
+        "video_id": "p3asKGFvKqs"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -357,11 +355,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-13T11:01:00Z",
-        "title": "【漢字でGOGO!】疑惑の判定？？なにそれ？？？？【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "jI7-LRh6Dss"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -445,14 +438,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "≪Ollie's Ramen Birthday Party!!≫ HAPPY BIRTHDAY MUM",
-          "video_id": "z3qd7Kj8Shk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T12:05:07Z",
+        "title": "≪Ollie's Ramen Birthday Party!!≫ HAPPY BIRTHDAY MUM",
+        "video_id": "z3qd7Kj8Shk"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -489,13 +480,13 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-13T12:01:35Z",
+        "title": "🔴LIVE |【VRCHAT】Ollie's Ramen Birthday Party!  | 💄🧟‍♀️",
+        "video_id": "3l6eG_cBlKA"
+      },
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "🔴LIVE |【VRCHAT】Ollie's Ramen Birthday Party!  | 💄🧟‍♀️",
-          "video_id": "3l6eG_cBlKA"
-        },
         {
           "scheduled_at": "2027-04-25T18:00:00Z",
           "title": "🛡🌹 Rosarian Common Room ❤️ Community Hangout 🌹 🛡",
@@ -545,14 +536,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【VRChat】Ollie's Ramen Birthday Party!! Let's EAT EAT EAT!【hololive | moona】",
-          "video_id": "hViopM3eW_o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T12:01:13Z",
+        "title": "【VRChat】Ollie's Ramen Birthday Party!! Let's EAT EAT EAT!【hololive | moona】",
+        "video_id": "hViopM3eW_o"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -579,14 +568,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【VRChat #OlliesRamenParty】HAPPY BIRTHDAY TO THE SWEETEST ZOMBIE!【hololive holoro | Anya Melfissa】",
-          "video_id": "OV-2TlfCqUg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T12:00:50Z",
+        "title": "【VRChat #OlliesRamenParty】HAPPY BIRTHDAY TO THE SWEETEST ZOMBIE!【hololive holoro | Anya Melfissa】",
+        "video_id": "OV-2TlfCqUg"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -619,5 +606,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T12:00:52Z"
+  "generated_at": "2026-10-13T12:10:42Z"
 }
