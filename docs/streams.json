@@ -45,14 +45,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T10:00:00Z",
-          "title": "【最後に告知アリ！】マシュマロ●●本ノックするよ🍬【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "RgKFjSCDADA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T10:04:50Z",
+        "title": "【最後に告知アリ！】マシュマロ●●本ノックするよ🍬【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "RgKFjSCDADA"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -84,7 +82,14 @@
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "group": "JP 2期生",
-      "name": "百鬼あやめ"
+      "name": "百鬼あやめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T11:00:00Z",
+          "title": "【BOMBANANA!】幻の2期生コラボ【百鬼あやめ/ホロライブ】",
+          "video_id": "qbpGRUKFqnA"
+        }
+      ]
     },
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
@@ -197,11 +202,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-13T09:05:41Z",
-        "title": "【 Ratatan(ラタタン) 】ポルカと二人でラタタン！！！どんなゲームなの～！？【 桃鈴ねね / 尾丸ポルカ / hololive 】",
-        "video_id": "vDwkqnTSXT4"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -317,14 +317,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T10:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】#4 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-          "video_id": "wNjLwlh7MJw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T10:01:06Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】#4 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+        "video_id": "wNjLwlh7MJw"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -638,5 +636,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-13T10:00:57Z"
+  "generated_at": "2026-10-13T10:10:34Z"
 }
