@@ -536,11 +536,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-13T08:59:11Z",
-        "title": "【hololive Dreams】 TODAY IS OLLIE'S BIRTHDAY !! + fishing【#holodori #ホロドリ】",
-        "video_id": "O8k6ryullSY"
-      },
       "name": "アユンダ・リス",
       "upcoming": [
         {
@@ -631,5 +626,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-13T10:30:54Z"
+  "generated_at": "2026-10-13T10:50:43Z"
 }
