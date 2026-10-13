@@ -38,11 +38,6 @@
       "name": "さくらみこ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-13T13:00:00Z",
-          "title": "？？？？？？？？？",
-          "video_id": "i5GP5VRzB4E"
-        },
-        {
           "scheduled_at": "2026-10-13T14:30:00Z",
           "title": "【2ndアルバム発売】ついに発売！カウントダウン！！！！！！！！！！【ホロライブ/さくらみこ】",
           "video_id": "ptCKA2cAagI"
@@ -348,14 +343,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T13:00:00Z",
-          "title": "#4 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "QT2-SPuQDoo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T12:59:16Z",
+        "title": "#4 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "QT2-SPuQDoo"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -594,5 +587,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T12:50:35Z"
+  "generated_at": "2026-10-13T13:00:47Z"
 }
