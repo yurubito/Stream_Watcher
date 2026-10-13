@@ -357,7 +357,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T10:00:00Z",
+          "title": "【BOMBANANA!】wawa and her korean wifes save lifes 【IRISÉ】 #kfp #キアライブ",
+          "video_id": "24p_2T3-Z0w"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -532,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T17:40:35Z"
+  "generated_at": "2026-10-13T18:30:48Z"
 }
