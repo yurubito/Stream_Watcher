@@ -92,6 +92,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-13T14:52:13Z",
+        "title": "【#ホロドリ】図鑑コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "l9soaARALBg"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -327,11 +332,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-13T12:59:16Z",
-        "title": "#4 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "QT2-SPuQDoo"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -534,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T14:40:37Z"
+  "generated_at": "2026-10-13T15:00:53Z"
 }
