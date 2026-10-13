@@ -491,13 +491,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-13T14:02:05Z",
+        "title": "【 #holoctober 】DAY 13 : Glasses【 iofi / hololive】",
+        "video_id": "T1We6jVbj98"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T14:00:00Z",
-          "title": "【 #holoctober 】DAY 13 : Glasses【 iofi / hololive】",
-          "video_id": "T1We6jVbj98"
-        },
         {
           "scheduled_at": "2026-10-14T14:00:00Z",
           "title": "【Moonfrost】New Adventure in Moonfrost!【 iofi / hololive】",
@@ -518,7 +518,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T15:00:00Z",
+          "title": "【hololive Dreams】What Should We Play Today #holodori【Pavolia Reine/hololive】",
+          "video_id": "YnsNdN1Gw60"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -536,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T14:01:02Z"
+  "generated_at": "2026-10-13T14:10:34Z"
 }
