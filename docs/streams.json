@@ -128,7 +128,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T10:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY5🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "rQJtAEtidic"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -138,7 +145,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T14:00:00Z",
+          "title": "【ホロ鯖ARK】もっと仲間を★増やし隊【白銀ノエル/ホロライブ】",
+          "video_id": "vG_eQdfuIPs"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -610,5 +624,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T07:50:32Z"
+  "generated_at": "2026-10-13T08:00:54Z"
 }
