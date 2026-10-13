@@ -353,7 +353,14 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖"
+      "name": "一伊那尓栖",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T03:00:00Z",
+          "title": "【hololive Dreams】Playing With VIVIIIIITAAAANNNNNNN!!!!!!! @KikiraraVivi",
+          "video_id": "1u4n2v-kM_E"
+        }
+      ]
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -509,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T16:30:41Z"
+  "generated_at": "2026-10-13T16:40:33Z"
 }
