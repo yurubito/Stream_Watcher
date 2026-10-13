@@ -40,7 +40,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T10:00:00Z",
+          "title": "【最後に告知アリ！】マシュマロ●●本ノックするよ🍬【星街すいせい / ＃ほしまちすたじお】",
+          "video_id": "RgKFjSCDADA"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -356,6 +363,11 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-13T05:00:17Z",
+        "title": "【Arknights: Endfield】Catching Up On Story.....For Meowmeow!!!",
+        "video_id": "K9mIMtHW68k"
+      },
       "name": "一伊那尓栖"
     },
     {
@@ -554,5 +566,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T06:20:22Z"
+  "generated_at": "2026-10-13T06:30:32Z"
 }
