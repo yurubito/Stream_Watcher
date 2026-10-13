@@ -160,7 +160,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T08:15:00Z",
+          "title": "【 #ホロ鯖ARK 】その４｜ゆっくり焦らずまったりとね…したいんですけどね…【常闇トワ/ホロライブ】",
+          "video_id": "zSWRHI_9oLg"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -192,7 +199,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T12:00:00Z",
+          "title": "【#ホロ甲2026】育成配信3年目夏！！負けたら終わりの甲子園が待っている！【尾丸ポルカ/ホロライブ】",
+          "video_id": "p3asKGFvKqs"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -503,7 +517,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T14:30:00Z",
+          "title": "【POKÉMON LEAF GREEN】we're legally responsible for each others crimes【SOUL-LINK NUZLOCKE】",
+          "video_id": "Db8BFOGOo1o"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -589,5 +610,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T07:40:26Z"
+  "generated_at": "2026-10-13T07:50:32Z"
 }
