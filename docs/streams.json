@@ -543,7 +543,19 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T09:00:00Z",
+          "title": "【hololive Dreams】 TODAY IS OLLIE'S BIRTHDAY !! + fishing【#holodori #ホロドリ】",
+          "video_id": "O8k6ryullSY"
+        },
+        {
+          "scheduled_at": "2026-10-13T12:00:00Z",
+          "title": "#OlliesRamenParty HAPPY BIRTHDAY OLLIE ~!!! : we're making ramen ?!?!?",
+          "video_id": "Kk0oE7MfGCY"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -624,5 +636,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T08:20:24Z"
+  "generated_at": "2026-10-13T08:30:41Z"
 }
