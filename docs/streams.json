@@ -456,11 +456,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-13T07:01:34Z",
-        "title": "【HOLOLIVE DREAMS】GRINDSTONE BUT MAYBE ALSO GRAONDSTONE #holodori",
-        "video_id": "AMKwq_MXukM"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -616,11 +611,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-13T07:02:42Z",
-        "title": "【hololive Dreams】might be graondstone【#holodori】",
-        "video_id": "Xwx8s_qkXus"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -636,5 +626,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-13T10:10:34Z"
+  "generated_at": "2026-10-13T10:20:30Z"
 }
