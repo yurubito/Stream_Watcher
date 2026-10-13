@@ -161,7 +161,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T09:00:00Z",
+          "title": "【 Ratatan(ラタタン) 】ポルカと二人でラタタン！！！どんなゲームなの～！？【 桃鈴ねね / 尾丸ポルカ / hololive 】",
+          "video_id": "vDwkqnTSXT4"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -547,5 +554,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T06:10:25Z"
+  "generated_at": "2026-10-13T06:20:22Z"
 }
