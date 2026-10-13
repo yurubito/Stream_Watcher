@@ -278,14 +278,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T11:00:00Z",
-          "title": "【回転寿司シミュレーター】この道40年【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "C0ncS8lUF5U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T11:00:10Z",
+        "title": "【回転寿司シミュレーター】この道40年【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "C0ncS8lUF5U"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -626,5 +624,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-13T10:50:43Z"
+  "generated_at": "2026-10-13T11:00:52Z"
 }
