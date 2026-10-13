@@ -3,11 +3,6 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-13T12:34:18Z",
-        "title": "【#ホロドリ】最後までストーリー見たいよね？【ときのそら/ホロライブ】",
-        "video_id": "rbAlByJfPg4"
-      },
       "name": "ときのそら"
     },
     {
@@ -45,13 +40,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-13T15:32:45Z",
+        "title": "【 #ホロ鯖ARK 】DAY5│続！ドレイクリング冬テイムしたい＆拠点拡張！【ホロライブ/アキロゼ】",
+        "video_id": "-WLZDL1yJFw"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T15:30:00Z",
-          "title": "【 #ホロ鯖ARK 】DAY5│続！ドレイクリング冬テイムしたい＆拠点拡張！【ホロライブ/アキロゼ】",
-          "video_id": "-WLZDL1yJFw"
-        },
         {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
@@ -524,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T15:30:55Z"
+  "generated_at": "2026-10-13T15:40:34Z"
 }
