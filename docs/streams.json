@@ -205,11 +205,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-12T22:00:34Z",
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY5🎣【風真いろは/ホロライブ】",
-        "video_id": "whTjZLeN6J4"
-      },
       "name": "風真いろは"
     },
     {
@@ -451,11 +446,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-12T21:02:31Z",
-        "title": "【DRESSMAKER】only the prettiest dresses for my fast fashion shop",
-        "video_id": "J1RSjv9Q3bE"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -547,5 +537,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-12T23:20:23Z"
+  "generated_at": "2026-10-13T00:30:47Z"
 }
