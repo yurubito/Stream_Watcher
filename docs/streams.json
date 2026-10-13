@@ -236,7 +236,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T13:00:00Z",
+          "title": "【浮気判定シート!?】正反対の二人で女子会だ！まつりりかコラボ【一条莉々華/hololive ReGLOSS】",
+          "video_id": "xRlvKp55xIs"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -582,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T07:20:29Z"
+  "generated_at": "2026-10-13T07:40:26Z"
 }
