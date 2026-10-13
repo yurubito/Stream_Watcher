@@ -392,7 +392,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T23:00:00Z",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】GET IN THE PILOT'S SEAT BIBOO",
+          "video_id": "F7pN152ClPo"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -466,11 +473,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-13T14:02:05Z",
-        "title": "【 #holoctober 】DAY 13 : Glasses【 iofi / hololive】",
-        "video_id": "T1We6jVbj98"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -511,5 +513,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T16:50:38Z"
+  "generated_at": "2026-10-13T17:01:04Z"
 }
