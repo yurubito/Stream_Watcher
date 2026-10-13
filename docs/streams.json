@@ -60,6 +60,11 @@
           "video_id": "ku7_BDnFNQY"
         },
         {
+          "scheduled_at": "2026-10-13T15:30:00Z",
+          "title": "【 #ホロ鯖ARK 】DAY5│続！ドレイクリング冬テイムしたい＆拠点拡張！【ホロライブ/アキロゼ】",
+          "video_id": "-WLZDL1yJFw"
+        },
+        {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
           "video_id": "C8W03Z6zWFk"
@@ -104,7 +109,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-13T14:00:00Z",
+          "title": "【ホロドリ】RosaMiAで・・ガチャ対決？！？！【大神ミオ視点】",
+          "video_id": "bSU9petYzKc"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -163,11 +175,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-13T08:30:41Z",
-        "title": "【 #ホロ鯖ARK 】その４｜ゆっくり焦らずまったりとね…したいんですけどね…【常闇トワ/ホロライブ】",
-        "video_id": "zSWRHI_9oLg"
-      },
       "name": "常闇トワ"
     },
     {
@@ -425,6 +432,11 @@
       "name": "フワワ＆モココ・アビスガード",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-14T05:00:00Z",
+          "title": "【RISE OF THE RŌNIN】this is my BAUshido way🐾🩵 【FUWAWA SOLO】",
+          "video_id": "Iso6w-KKtuQ"
+        },
+        {
           "scheduled_at": "2027-02-03T14:59:00Z",
           "title": "【INFO🐾お知らせ】𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭𝘀𝘁 𝗔𝗹𝗯𝘂𝗺 💿「FUWAMOCO à la mode ～いつだってあなたの笑顔を守るのッ～」予約受付中✨ ON PRE-ORDER NOW🩵🩷",
           "video_id": "bWmsSF2NCeE"
@@ -530,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T13:30:40Z"
+  "generated_at": "2026-10-13T13:40:37Z"
 }
