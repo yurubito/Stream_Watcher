@@ -18,14 +18,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T14:00:00Z",
-          "title": "【#ホロドリ】#RosaMiA ガチャ対決！三姉妹で一番運がいいのは誰だ――⁉️hololive Dreams【ホロライブ / AZKi】",
-          "video_id": "CSDqYuiQUsc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T14:00:49Z",
+        "title": "【#ホロドリ】#RosaMiA ガチャ対決！三姉妹で一番運がいいのは誰だ――⁉️hololive Dreams【ホロライブ / AZKi】",
+        "video_id": "CSDqYuiQUsc"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -52,13 +50,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-13T14:00:47Z",
+        "title": "【#ホロドリ 】100連ガチャ対決！運のいい姉妹はだれ！？#RosaMiA  【ホロライブ/アキロゼ】",
+        "video_id": "ku7_BDnFNQY"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T14:00:00Z",
-          "title": "【#ホロドリ 】100連ガチャ対決！運のいい姉妹はだれ！？#RosaMiA  【ホロライブ/アキロゼ】",
-          "video_id": "ku7_BDnFNQY"
-        },
         {
           "scheduled_at": "2026-10-13T15:30:00Z",
           "title": "【 #ホロ鯖ARK 】DAY5│続！ドレイクリング冬テイムしたい＆拠点拡張！【ホロライブ/アキロゼ】",
@@ -109,14 +107,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T14:00:00Z",
-          "title": "【ホロドリ】RosaMiAで・・ガチャ対決？！？！【大神ミオ視点】",
-          "video_id": "bSU9petYzKc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T14:00:35Z",
+        "title": "【ホロドリ】RosaMiAで・・ガチャ対決？！？！【大神ミオ視点】",
+        "video_id": "bSU9petYzKc"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -146,14 +142,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T14:00:00Z",
-          "title": "【ホロ鯖ARK】もっと仲間を★増やし隊【白銀ノエル/ホロライブ】",
-          "video_id": "vG_eQdfuIPs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T14:00:12Z",
+        "title": "【ホロ鯖ARK】もっと仲間を★増やし隊【白銀ノエル/ホロライブ】",
+        "video_id": "vG_eQdfuIPs"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -163,14 +157,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T14:00:00Z",
-          "title": "【歌枠】第１３７回！わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ４期生】",
-          "video_id": "gEs6f4ARWW8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T14:00:42Z",
+        "title": "【歌枠】第１３７回！わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ４期生】",
+        "video_id": "gEs6f4ARWW8"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -323,7 +315,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T11:00:00Z",
+          "title": "【R.E.P.O. with アソビ★まわり隊！】博士が幽霊に負けるわけないよねっ！！【宙科そぴあ視点/ホロライブ】",
+          "video_id": "cZc0ItF8h44"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -537,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T13:50:34Z"
+  "generated_at": "2026-10-13T14:01:02Z"
 }
