@@ -421,14 +421,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T07:00:00Z",
-          "title": "【HOLOLIVE DREAMS】GRINDSTONE BUT MAYBE ALSO GRAONDSTONE #holodori",
-          "video_id": "AMKwq_MXukM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T07:01:34Z",
+        "title": "【HOLOLIVE DREAMS】GRINDSTONE BUT MAYBE ALSO GRAONDSTONE #holodori",
+        "video_id": "AMKwq_MXukM"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -564,14 +562,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T07:00:00Z",
-          "title": "【hololive Dreams】might be graondstone【#holodori】",
-          "video_id": "Xwx8s_qkXus"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T07:02:42Z",
+        "title": "【hololive Dreams】might be graondstone【#holodori】",
+        "video_id": "Xwx8s_qkXus"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -579,5 +575,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T07:00:55Z"
+  "generated_at": "2026-10-13T07:10:32Z"
 }
