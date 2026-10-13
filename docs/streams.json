@@ -291,11 +291,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-13T10:01:06Z",
-        "title": "【ACE COMBAT 8: WINGS OF THEVE】#4 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-        "video_id": "wNjLwlh7MJw"
-      },
       "name": "輪堂千速"
     },
     {
@@ -378,7 +373,7 @@
       "name": "小鳥遊キアラ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-13T14:00:00Z",
+          "scheduled_at": "2026-10-13T14:30:00Z",
           "title": "【POKÉMON FIRE RED】1 spicy yuripean stream to go pls, with some pkmn on the side【SOUL-LINK NUZLOCKE】",
           "video_id": "aMRFjcO58lA"
         }
@@ -542,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T13:40:37Z"
+  "generated_at": "2026-10-13T13:50:34Z"
 }
