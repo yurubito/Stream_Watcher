@@ -241,11 +241,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-13T13:01:26Z",
-        "title": "【浮気判定シート!?】正反対の二人で女子会だ！まつりりかコラボ【一条莉々華/hololive ReGLOSS】",
-        "video_id": "xRlvKp55xIs"
-      },
       "name": "一条莉々華"
     },
     {
@@ -293,11 +288,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-13T08:59:44Z",
-        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃6【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "cA7JRWPxPfE"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -474,14 +464,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T14:30:00Z",
-          "title": "【POKÉMON LEAF GREEN】we're legally responsible for each others crimes【SOUL-LINK NUZLOCKE】",
-          "video_id": "Db8BFOGOo1o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T14:30:29Z",
+        "title": "【POKÉMON LEAF GREEN】we're legally responsible for each others crimes【SOUL-LINK NUZLOCKE】",
+        "video_id": "Db8BFOGOo1o"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -548,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T14:20:37Z"
+  "generated_at": "2026-10-13T14:30:43Z"
 }
