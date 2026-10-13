@@ -357,11 +357,6 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-13T14:31:04Z",
-        "title": "【POKÉMON FIRE RED】1 spicy yuripean stream to go pls, with some pkmn on the side【SOUL-LINK NUZLOCKE】",
-        "video_id": "aMRFjcO58lA"
-      },
       "name": "小鳥遊キアラ"
     },
     {
@@ -467,11 +462,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-13T14:30:29Z",
-        "title": "【POKÉMON LEAF GREEN】we're legally responsible for each others crimes【SOUL-LINK NUZLOCKE】",
-        "video_id": "Db8BFOGOo1o"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -489,6 +479,21 @@
       "group": "ID AREA15",
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T05:00:00Z",
+          "title": "【#holodori 】Fishing and Yapping【 iofi / hololive】",
+          "video_id": "xkUVLMBAJXo"
+        },
+        {
+          "scheduled_at": "2026-10-14T08:00:00Z",
+          "title": "【 #holoctober 】DAY 14 : SPORTS【 iofi / hololive】",
+          "video_id": "TMiZVgLDQi8"
+        },
+        {
+          "scheduled_at": "2026-10-14T12:00:00Z",
+          "title": "【 Rebo Nyunda】Aksara Sunda【 iofi / hololive】",
+          "video_id": "UR30LZ0vm5Q"
+        },
         {
           "scheduled_at": "2026-10-14T14:00:00Z",
           "title": "【Moonfrost】New Adventure in Moonfrost!【 iofi / hololive】",
@@ -527,5 +532,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T17:20:36Z"
+  "generated_at": "2026-10-13T17:40:35Z"
 }
