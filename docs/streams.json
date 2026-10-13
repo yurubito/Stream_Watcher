@@ -231,7 +231,14 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T13:00:00Z",
+          "title": "【#4】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
+          "video_id": "-Vy4g012kl0"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -513,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T17:01:04Z"
+  "generated_at": "2026-10-13T17:10:26Z"
 }
