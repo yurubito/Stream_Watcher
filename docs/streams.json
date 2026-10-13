@@ -22,7 +22,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-13T12:00:00Z",
-          "title": "【検証】告知あり【ホロライブ/さくらみこ】",
+          "title": "【検証】ついに決着をつける時がきた――――――。告知アリ！【ホロライブ/さくらみこ】",
           "video_id": "0sik9RTdQ04"
         },
         {
@@ -332,14 +332,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T09:00:00Z",
-          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃6【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "cA7JRWPxPfE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T08:59:44Z",
+        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃6【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "cA7JRWPxPfE"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -548,13 +546,13 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-13T08:59:11Z",
+        "title": "【hololive Dreams】 TODAY IS OLLIE'S BIRTHDAY !! + fishing【#holodori #ホロドリ】",
+        "video_id": "O8k6ryullSY"
+      },
       "name": "アユンダ・リス",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T09:00:00Z",
-          "title": "【hololive Dreams】 TODAY IS OLLIE'S BIRTHDAY !! + fishing【#holodori #ホロドリ】",
-          "video_id": "O8k6ryullSY"
-        },
         {
           "scheduled_at": "2026-10-13T12:00:00Z",
           "title": "#OlliesRamenParty HAPPY BIRTHDAY OLLIE ~!!! : we're making ramen ?!?!?",
@@ -648,5 +646,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-13T08:50:41Z"
+  "generated_at": "2026-10-13T09:00:48Z"
 }
