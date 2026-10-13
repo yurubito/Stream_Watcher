@@ -173,7 +173,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T10:00:00Z",
+          "title": "【 妹に運転を教える 】んなたんはゴールド免許なのらね🚗(・o・🍬)【姫森ルーナ/ホロライブ】",
+          "video_id": "zJ7OdhVhM-A"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -203,11 +210,6 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-13T11:58:42Z",
-        "title": "【#SSholox 】みんなでティア表!をやるぞ！【ラプラス・ダークネス/ホロライブ】",
-        "video_id": "pGHdBSGFLqY"
-      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -425,11 +427,6 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-13T11:59:24Z",
-        "title": "HAPPY BIRTHDAY TO MY WIFE AND QUEEN | Ollie's Ramen Birthday Party - VRCHAT",
-        "video_id": "fGfVta2QVeo"
-      },
       "name": "ネリッサ・レイヴンクロフト"
     },
     {
@@ -570,13 +567,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-13T11:59:41Z",
-        "title": "【Ollie's Ramen Birthday Party | VRChat】HAPPY BIRTHDAY OLLIE!!! LETS EAT RAMEN TOGETHER ?!!!",
-        "video_id": "CbTM0de_DWA"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T13:10:42Z"
+  "generated_at": "2026-10-13T13:20:40Z"
 }
