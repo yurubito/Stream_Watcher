@@ -82,37 +82,33 @@
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "group": "JP 2期生",
-      "name": "百鬼あやめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T11:00:00Z",
-          "title": "【BOMBANANA!】幻の2期生コラボ【百鬼あやめ/ホロライブ】",
-          "video_id": "qbpGRUKFqnA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T11:03:03Z",
+        "title": "【BOMBANANA!】幻の2期生コラボ【百鬼あやめ/ホロライブ】",
+        "video_id": "qbpGRUKFqnA"
+      },
+      "name": "百鬼あやめ"
     },
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T11:00:00Z",
-          "title": "【BOMBANANA!】　ホロライブ２期生で協力爆弾解除できるのか？ 【ホロライブ/癒月ちょこ/大空スバル/百鬼あやめ】",
-          "video_id": "g-Pot3FcnUY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T11:01:52Z",
+        "title": "【BOMBANANA!】　ホロライブ２期生で協力爆弾解除できるのか？ 【ホロライブ/癒月ちょこ/大空スバル/百鬼あやめ】",
+        "video_id": "g-Pot3FcnUY"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-13T11:02:44Z",
+        "title": "【#生スバル】2期生でBOMBANANAやるしゅばああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+        "video_id": "o0v7SG5zbQc"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T11:00:00Z",
-          "title": "【#生スバル】2期生でBOMBANANAやるしゅばああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-          "video_id": "o0v7SG5zbQc"
-        },
         {
           "scheduled_at": "2026-10-13T13:00:00Z",
           "title": "【】本当にホラゲーなんですか？【ホロライブ/大空スバル】",
@@ -352,14 +348,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T11:00:00Z",
-          "title": "【漢字でGOGO!】疑惑の判定？？なにそれ？？？？【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "jI7-LRh6Dss"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T11:01:00Z",
+        "title": "【漢字でGOGO!】疑惑の判定？？なにそれ？？？？【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "jI7-LRh6Dss"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -624,5 +618,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-13T11:00:52Z"
+  "generated_at": "2026-10-13T11:10:32Z"
 }
