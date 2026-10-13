@@ -493,11 +493,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-13T15:01:21Z",
-        "title": "【hololive Dreams】What Should We Play Today #holodori【Pavolia Reine/hololive】",
-        "video_id": "YnsNdN1Gw60"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -516,5 +511,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T16:40:33Z"
+  "generated_at": "2026-10-13T16:50:38Z"
 }
