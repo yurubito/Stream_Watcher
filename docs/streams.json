@@ -197,7 +197,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-13T09:00:00Z",
-          "title": "【 #ホロドリ 】限界ホロドリ🔥新水着イベントラストスパート！スコアチャレンジで高得点を最後まで諦めるな！【博衣こより/ホロライブ】",
+          "title": "【 #ホロドリ 】限界ホロドリ🔥新水着イベントラストスパート！ドリーム級なスコアを目指せ！！！【博衣こより/ホロライブ】",
           "video_id": "9O6d2-LDskY"
         }
       ]
@@ -483,13 +483,13 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-13T01:06:09Z",
+        "title": "【hololive Dreams】 DON'T FORGET TO LOGIN TODAY!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "0e3Z6brGBLs"
+      },
       "name": "クレイジー・オリー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T01:00:00Z",
-          "title": "【hololive Dreams】 DON'T FORGET TO LOGIN TODAY!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "0e3Z6brGBLs"
-        },
         {
           "scheduled_at": "2026-10-13T03:00:00Z",
           "title": "【SARUSHIMA】 Jalan-jalan di pulau Sarushima?! 【VLOG】",
@@ -527,15 +527,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T01:00:00Z",
-          "title": "【hololive Dreams】HAPPY BIRTHDAY KUREIJI OLLIE daily holodori ... #holodori #ホロドリ",
-          "video_id": "hIab5_5T3g8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T01:04:25Z",
+        "title": "【hololive Dreams】HAPPY BIRTHDAY KUREIJI OLLIE daily holodori ... #holodori #ホロドリ",
+        "video_id": "hIab5_5T3g8"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T00:30:47Z"
+  "generated_at": "2026-10-13T01:10:25Z"
 }
