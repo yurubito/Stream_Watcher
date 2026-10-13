@@ -100,7 +100,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-13T11:00:00Z",
-          "title": "【】【ホロライブ/大空スバル】",
+          "title": "【#生スバル】2期生でBOMBANANAやるしゅばああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
           "video_id": "o0v7SG5zbQc"
         },
         {
@@ -194,14 +194,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T09:00:00Z",
-          "title": "【 Ratatan(ラタタン) 】ポルカと二人でラタタン！！！どんなゲームなの～！？【 桃鈴ねね / 尾丸ポルカ / hololive 】",
-          "video_id": "vDwkqnTSXT4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T09:05:41Z",
+        "title": "【 Ratatan(ラタタン) 】ポルカと二人でラタタン！！！どんなゲームなの～！？【 桃鈴ねね / 尾丸ポルカ / hololive 】",
+        "video_id": "vDwkqnTSXT4"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -240,14 +238,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-13T09:00:00Z",
-          "title": "【 #ホロドリ 】限界ホロドリ🔥新水着イベントラストスパート！ドリーム級なスコアを目指せ！！！【博衣こより/ホロライブ】",
-          "video_id": "9O6d2-LDskY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-13T09:01:12Z",
+        "title": "【 #ホロドリ 】限界ホロドリ🔥新水着イベントラストスパート！ドリーム級なスコアを目指せ！！！【博衣こより/ホロライブ】",
+        "video_id": "9O6d2-LDskY"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -646,5 +642,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-13T09:00:48Z"
+  "generated_at": "2026-10-13T09:10:29Z"
 }
