@@ -108,7 +108,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T13:00:00Z",
+          "title": "【ラーメンシミュレーター】ド珍でラーメン屋を経営するとこうなる【大神ミオ視点】",
+          "video_id": "tMOyVuhtnU8"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -247,13 +254,13 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-10-14T10:32:09Z",
+        "title": "【 ホロドリ 】しゅぴなででゆるくポカジャン！【音乃瀬奏】#ReGLOSS",
+        "video_id": "0WmS7VsEX0c"
+      },
       "name": "音乃瀬奏",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T10:30:00Z",
-          "title": "【 ホロドリ 】しゅぴなででゆるくポカジャン！【音乃瀬奏】#ReGLOSS",
-          "video_id": "0WmS7VsEX0c"
-        },
         {
           "scheduled_at": "2026-10-14T12:00:00Z",
           "title": "【 雑談 】アコースティックライブお疲れ様でした～新曲聞いてくれたカナ？！で～【音乃瀬奏】#ReGLOSS",
@@ -296,13 +303,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-14T10:31:51Z",
+        "title": "【  #ホロドリ 】ホロドリしゅぴなでポカジャン🐟＃13【水宮枢／ホロライブ】",
+        "video_id": "r6164aiVdZE"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T10:30:00Z",
-          "title": "【  #ホロドリ 】ホロドリしゅぴなでポカジャン🐟＃13【水宮枢／ホロライブ】",
-          "video_id": "r6164aiVdZE"
-        },
         {
           "scheduled_at": "2026-10-14T13:00:00Z",
           "title": "【#4】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
@@ -577,8 +584,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T12:00:00Z",
+          "title": "【hololive Dreams】HOLODORI HOLODORI DAILY GRRAAAAAAA #holodori #ホロドリ",
+          "video_id": "TM_j1DJGA-Y"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-14T10:30:37Z"
+  "generated_at": "2026-10-14T10:40:41Z"
 }
