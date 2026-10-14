@@ -239,11 +239,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-14T10:32:09Z",
-        "title": "【 ホロドリ 】しゅぴなででゆるくポカジャン！【音乃瀬奏】#ReGLOSS",
-        "video_id": "0WmS7VsEX0c"
-      },
       "name": "音乃瀬奏",
       "upcoming": [
         {
@@ -288,11 +283,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-14T10:31:51Z",
-        "title": "【  #ホロドリ 】ホロドリしゅぴなでポカジャン🐟＃13【水宮枢／ホロライブ】",
-        "video_id": "r6164aiVdZE"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -601,5 +591,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-14T11:40:26Z"
+  "generated_at": "2026-10-14T11:50:25Z"
 }
