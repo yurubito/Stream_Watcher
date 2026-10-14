@@ -311,7 +311,19 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T02:00:00Z",
+          "title": "【EN】I'm already kinda scared... | Fears to Fathom: Ironbark Lookout【Hyakuto Kyoko/Hololive】",
+          "video_id": "Dl64zfZPeYI"
+        },
+        {
+          "scheduled_at": "2026-10-15T11:00:00Z",
+          "title": "【コラボ】めらちと爆弾一緒に解除するぞーーー！！｜完全爆弾解除マニュアル【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "j_cR2j0yStw"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -468,11 +480,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-14T12:04:21Z",
-        "title": "【 Rebo Nyunda】Aksara Sunda【 iofi / hololive】",
-        "video_id": "UR30LZ0vm5Q"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -535,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T13:31:04Z"
+  "generated_at": "2026-10-14T13:40:26Z"
 }
