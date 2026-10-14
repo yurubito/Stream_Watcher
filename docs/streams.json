@@ -75,7 +75,19 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T12:00:00Z",
+          "title": "【】4人で格付けランキングするしゅばああああああああああああああああああああああああああああああああああああああああああああ【ホロライブ/大空スバル】",
+          "video_id": "SO4RGesjHjc"
+        },
+        {
+          "scheduled_at": "2026-10-16T13:00:00Z",
+          "title": "【】攻殻機動隊同時視聴【ホロライブ/大空スバル】",
+          "video_id": "csCxiQIJ6TM"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -485,5 +497,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T19:10:33Z"
+  "generated_at": "2026-10-14T19:50:34Z"
 }
