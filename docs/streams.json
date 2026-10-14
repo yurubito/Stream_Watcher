@@ -160,11 +160,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-14T09:01:13Z",
-        "title": "【 #ホロ鯖ARK 】その５｜おっしゃああああああああああああやるでええ【常闇トワ/ホロライブ】",
-        "video_id": "RMBDoEqvWfk"
-      },
       "name": "常闇トワ"
     },
     {
@@ -377,11 +372,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-14T13:00:59Z",
-        "title": "≪hololive Dreams≫ Unhinged Feeshing #5 #holodori",
-        "video_id": "6eE0uMNZ7gY"
-      },
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
@@ -525,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T14:20:38Z"
+  "generated_at": "2026-10-14T14:31:00Z"
 }
