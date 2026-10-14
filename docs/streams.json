@@ -64,7 +64,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T13:00:00Z",
+          "title": "【#ド珍組】開店★ド珍ラーメン【ホロライブ/白上フブキ】",
+          "video_id": "6dyS5PuVy24"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -79,14 +86,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T11:00:00Z",
-          "title": "【original】Candy Candy Midnight/癒月ちょこ【ホロライブ】",
-          "video_id": "FSDwet-B1P8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T11:00:11Z",
+        "title": "【original】Candy Candy Midnight/癒月ちょこ【ホロライブ】",
+        "video_id": "FSDwet-B1P8"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -335,13 +340,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-14T10:59:28Z",
+        "title": "ホロライブ新人ユニットがホラゲ「R.E.P.O.」で遊ぶのじゃ【アソビ★まわり隊！】",
+        "video_id": "xKhbOWNoYN8"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T11:00:00Z",
-          "title": "ホロライブ新人ユニットがホラゲ「R.E.P.O.」で遊ぶのじゃ【アソビ★まわり隊！】",
-          "video_id": "xKhbOWNoYN8"
-        },
         {
           "scheduled_at": "2026-10-15T11:00:00Z",
           "title": "３行しか文字読めないけど爆弾解除できますか？【ホロライブ】",
@@ -352,38 +357,32 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T11:00:00Z",
-          "title": "【R.E.P.O. with アソビ★まわり隊！】博士が幽霊に負けるわけないよねっ！！【宙科そぴあ視点/ホロライブ】",
-          "video_id": "cZc0ItF8h44"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T11:00:11Z",
+        "title": "【R.E.P.O. with アソビ★まわり隊！】博士が幽霊に負けるわけないよねっ！！【宙科そぴあ視点/ホロライブ】",
+        "video_id": "cZc0ItF8h44"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T11:00:00Z",
-          "title": "ホロライブ新人ユニットで【R.E.P.O  with.アソビ★まわり隊！】#ホロライブ #アソビまわり隊",
-          "video_id": "xl-CTTXCekc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T11:00:17Z",
+        "title": "ホロライブ新人ユニットで【R.E.P.O  with.アソビ★まわり隊！】#ホロライブ #アソビまわり隊",
+        "video_id": "xl-CTTXCekc"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T11:00:00Z",
-          "title": "【コラボ】アソビ★まわり隊！の４人でR.E.P.Oに挑戦だーーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "pHmyFfovwj8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T11:00:14Z",
+        "title": "【コラボ】アソビ★まわり隊！の４人でR.E.P.Oに挑戦だーーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "pHmyFfovwj8"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -552,7 +551,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T12:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】Let's Improve Everyone's Rhythm Skill!~【hololive holoro | Anya Melfissa】",
+          "video_id": "1kN3r2ME5HA"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -589,5 +595,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-14T10:50:31Z"
+  "generated_at": "2026-10-14T11:00:59Z"
 }
