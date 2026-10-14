@@ -475,13 +475,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-14T08:04:07Z",
+        "title": "【 #holoctober 】DAY 14 : SPORTS【 iofi / hololive】",
+        "video_id": "TMiZVgLDQi8"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T08:00:00Z",
-          "title": "【 #holoctober 】DAY 14 : SPORTS【 iofi / hololive】",
-          "video_id": "TMiZVgLDQi8"
-        },
         {
           "scheduled_at": "2026-10-14T12:00:00Z",
           "title": "【 Rebo Nyunda】Aksara Sunda【 iofi / hololive】",
@@ -525,5 +525,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T08:01:04Z"
+  "generated_at": "2026-10-14T08:10:34Z"
 }
