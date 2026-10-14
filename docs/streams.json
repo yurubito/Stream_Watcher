@@ -269,17 +269,19 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-14T10:01:10Z",
-        "title": "【ACE COMBAT 8: WINGS OF THEVE】#5 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-        "video_id": "33ypZMfzUuA"
-      },
       "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T00:00:00Z",
+          "title": "【#ホロドリ 】おはよう！お仕事前にホロドリ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "JbVlx_55QRE"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -296,7 +298,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T10:00:00Z",
+          "title": "【SPAGHET】フブキ先輩からいただいたパスタ食べるっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "NQFbTh9ftn8"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -465,11 +474,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-14T13:00:36Z",
-        "title": "【hololive Dreams】 FISHING WHILE TALKING ABOUT MY BIRTHDAY #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "7QvLKuPSqmE"
-      },
       "name": "クレイジー・オリー"
     },
     {
@@ -485,14 +489,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T15:00:00Z",
-          "title": "【hololive Dreams】Adios 1.5M Hello New Event (Tomorrow) #holodori【Pavolia Reine/hololive】",
-          "video_id": "GjTUrC0GJFQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T15:00:33Z",
+        "title": "【hololive Dreams】Adios 1.5M Hello New Event (Tomorrow) #holodori【Pavolia Reine/hololive】",
+        "video_id": "GjTUrC0GJFQ"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -515,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T14:31:00Z"
+  "generated_at": "2026-10-14T15:10:45Z"
 }
