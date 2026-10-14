@@ -123,14 +123,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T10:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY6🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "mqsCAFeZ2ks"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T10:01:52Z",
+        "title": "【#ホロ鯖ARK】DAY6🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "mqsCAFeZ2ks"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -303,14 +301,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T10:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】#5 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-          "video_id": "33ypZMfzUuA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T10:01:10Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】#5 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+        "video_id": "33ypZMfzUuA"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -577,5 +573,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T10:01:13Z"
+  "generated_at": "2026-10-14T10:03:46Z"
 }
