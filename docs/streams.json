@@ -205,6 +205,11 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-14T10:04:00Z",
+        "title": "【歌枠】KARAOKE",
+        "video_id": "_ZeTBy2v9hE"
+      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -232,6 +237,11 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-14T10:11:36Z",
+        "title": "【#ホロARK】空をなんとしても飛びたいDAY🏝【風真いろは/ホロライブ】",
+        "video_id": "X3ukSC1inr8"
+      },
       "name": "風真いろは"
     },
     {
@@ -254,7 +264,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T12:00:00Z",
+          "title": "【メン限お試し】KU100❤ASMRで疲れを癒してあげる❤【一条莉々華/hololive ReGLOSS】",
+          "video_id": "NGqnvza7N-U"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -563,5 +580,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T10:20:24Z"
+  "generated_at": "2026-10-14T10:30:37Z"
 }
