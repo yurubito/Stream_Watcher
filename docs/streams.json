@@ -514,7 +514,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T12:00:00Z",
+          "title": "【hololive Dreams】 PRACTICING RYTHM LIVE SKILL【#holodori #ホロドリ】",
+          "video_id": "J7X_-Z37pt4"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -582,7 +589,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T14:00:00Z",
+          "title": "【hololive Dreams】daily holodream and RAORA【#holodori】",
+          "video_id": "RCHwC80-wjQ"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -597,5 +611,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-14T11:10:37Z"
+  "generated_at": "2026-10-14T11:30:39Z"
 }
