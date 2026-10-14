@@ -125,14 +125,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T14:00:00Z",
-          "title": "【タンポポは耐える。】タンポポさん耐えてください！【不知火フレア/ホロライブ】",
-          "video_id": "Agjk9t3HMOg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T14:03:19Z",
+        "title": "【タンポポは耐える。】タンポポさん耐えてください！【不知火フレア/ホロライブ】",
+        "video_id": "Agjk9t3HMOg"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -224,11 +222,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-14T10:11:36Z",
-        "title": "【#ホロARK】空をなんとしても飛びたいDAY🏝【風真いろは/ホロライブ】",
-        "video_id": "X3ukSC1inr8"
-      },
       "name": "風真いろは"
     },
     {
@@ -399,11 +392,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-14T12:01:53Z",
-        "title": "【HOLOLIVE DREAMS】mother? #holodori",
-        "video_id": "asHmzNw6E6Y"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -465,24 +453,17 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-14T12:02:43Z",
-        "title": "【Hololive Dreams】it's MoonStone Time!!!【hololive | moona】",
-        "video_id": "3x2qjSw3NPM"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T14:00:00Z",
-          "title": "【Moonfrost】New Adventure in Moonfrost!【 iofi / hololive】",
-          "video_id": "BshwrRG38BU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T14:01:16Z",
+        "title": "【Moonfrost】New Adventure in Moonfrost!【 iofi / hololive】",
+        "video_id": "BshwrRG38BU"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -512,24 +493,17 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-14T11:59:58Z",
-        "title": "【hololive Dreams】RHYTHM GAME PRACTICE! 音ゲー練習 #holodori #ホロドリ",
-        "video_id": "PMLvhfz5nIo"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T14:00:00Z",
-          "title": "【hololive Dreams】daily holodream and RAORA【#holodori】",
-          "video_id": "RCHwC80-wjQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T14:01:57Z",
+        "title": "【hololive Dreams】daily holodream and RAORA【#holodori】",
+        "video_id": "RCHwC80-wjQ"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -537,5 +511,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T14:00:56Z"
+  "generated_at": "2026-10-14T14:10:32Z"
 }
