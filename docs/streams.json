@@ -60,11 +60,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-14T15:04:23Z",
-        "title": "【ホロARK】ARK上陸５日目！テイムしたいのだ！【ホロライブ/癒月ちょこ】",
-        "video_id": "a8PIv7slVGI"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -122,11 +117,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-14T13:03:26Z",
-        "title": "【 #ホロ鯖ARK 】まったりひつじ参戦！大冒険はじまる？！【角巻わため/ホロライブ４期生】",
-        "video_id": "-My48xXxdGI"
-      },
       "name": "角巻わため"
     },
     {
@@ -499,5 +489,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T20:20:32Z"
+  "generated_at": "2026-10-14T21:40:35Z"
 }
