@@ -29,7 +29,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-14T13:00:00Z",
-          "title": "【Japanese Ramen Simulator】＞＞＞＞＞＞ド珍らーめん屋開業＜＜＜＜＜＜＜＜【ホロライブ/さくらみこ】",
+          "title": "【Japanese Ramen Simulator】ド珍らーめん屋開業🍜！！！！！！！！！【ホロライブ/さくらみこ】",
           "video_id": "BNinM6Wa3Pk"
         }
       ]
@@ -42,13 +42,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-14T09:31:44Z",
+        "title": "【ホロライブドリームス】釣り雑談～お魚🐟図鑑コンプへの道！ミニゲーム参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "64GEC-f70zE"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T09:30:00Z",
-          "title": "【ホロライブドリームス】釣り雑談～お魚🐟図鑑コンプへの道！ミニゲーム参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "64GEC-f70zE"
-        },
         {
           "scheduled_at": "2026-10-14T10:45:00Z",
           "title": "【 #ホロ鯖ARK 】DAY6│拠点拡張！ルミナとギガラプも欲しい！【ホロライブ/アキロゼ】",
@@ -571,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T09:20:38Z"
+  "generated_at": "2026-10-14T09:40:25Z"
 }
