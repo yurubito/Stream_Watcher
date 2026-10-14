@@ -269,7 +269,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T11:00:00Z",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】#6 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+          "video_id": "-RyJYPrczs0"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -398,14 +405,7 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T01:00:00Z",
-          "title": "【HOLOLIVE DREAMS】omg mori calliope from holodori #holodori",
-          "video_id": "7kDvAsFbW2E"
-        }
-      ]
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -524,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T15:30:58Z"
+  "generated_at": "2026-10-14T15:40:29Z"
 }
