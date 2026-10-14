@@ -289,11 +289,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-14T10:59:28Z",
-        "title": "ホロライブ新人ユニットがホラゲ「R.E.P.O.」で遊ぶのじゃ【アソビ★まわり隊！】",
-        "video_id": "xKhbOWNoYN8"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -306,31 +301,16 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-14T11:00:11Z",
-        "title": "【R.E.P.O. with アソビ★まわり隊！】博士が幽霊に負けるわけないよねっ！！【宙科そぴあ視点/ホロライブ】",
-        "video_id": "cZc0ItF8h44"
-      },
       "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-14T11:00:17Z",
-        "title": "ホロライブ新人ユニットで【R.E.P.O  with.アソビ★まわり隊！】#ホロライブ #アソビまわり隊",
-        "video_id": "xl-CTTXCekc"
-      },
       "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-14T11:00:14Z",
-        "title": "【コラボ】アソビ★まわり隊！の４人でR.E.P.Oに挑戦だーーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "pHmyFfovwj8"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -555,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T13:20:26Z"
+  "generated_at": "2026-10-14T13:31:04Z"
 }
