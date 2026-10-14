@@ -322,13 +322,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-13T23:59:55Z",
+        "title": "【ZELDA: OCARINA OF TIME】what a journey!!! (part 8) #calliolive",
+        "video_id": "d_RYISTapbo"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T00:00:00Z",
-          "title": "【ZELDA: OCARINA OF TIME】what a journey!!! (part 8) #calliolive",
-          "video_id": "d_RYISTapbo"
-        },
         {
           "scheduled_at": "2026-10-15T01:00:00Z",
           "title": "【hololive Dreams】rocking in with biboo today #calliolive #holodori",
@@ -524,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-13T23:50:22Z"
+  "generated_at": "2026-10-14T00:10:24Z"
 }
