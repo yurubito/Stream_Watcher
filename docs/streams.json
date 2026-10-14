@@ -251,14 +251,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【メン限お試し】KU100❤ASMRで疲れを癒してあげる❤【一条莉々華/hololive ReGLOSS】",
-          "video_id": "NGqnvza7N-U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T12:00:39Z",
+        "title": "【メン限お試し】KU100❤ASMRで疲れを癒してあげる❤【一条莉々華/hololive ReGLOSS】",
+        "video_id": "NGqnvza7N-U"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -273,7 +271,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T13:00:00Z",
+          "title": "【 メンバーシップ限定 】同時視聴✨『シャッターアイランド』観る❤【ホロライブ DEV_IS 響咲リオナ】",
+          "video_id": "57EhYtFyeDo"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -557,14 +562,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【hololive Dreams】RHYTHM GAME PRACTICE! 音ゲー練習 #holodori #ホロドリ",
-          "video_id": "PMLvhfz5nIo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T11:59:58Z",
+        "title": "【hololive Dreams】RHYTHM GAME PRACTICE! 音ゲー練習 #holodori #ホロドリ",
+        "video_id": "PMLvhfz5nIo"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -591,5 +594,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-14T11:50:25Z"
+  "generated_at": "2026-10-14T12:00:53Z"
 }
