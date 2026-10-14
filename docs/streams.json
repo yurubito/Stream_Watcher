@@ -226,7 +226,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T10:30:00Z",
+          "title": "【 ホロドリ 】しゅぴなででゆるくポカジャン【音乃瀬奏】#ReGLOSS",
+          "video_id": "0WmS7VsEX0c"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -285,7 +292,14 @@
         "title": "【#ホロARK】初めてのホロ鯖ARK！！＃7【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
         "video_id": "_ic67FT1fEc"
       },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T08:25:00Z",
+          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃7【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "JEaPUi4sYWE"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -523,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T08:20:25Z"
+  "generated_at": "2026-10-14T08:30:35Z"
 }
