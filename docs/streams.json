@@ -222,7 +222,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T22:00:00Z",
+          "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY7🎣【風真いろは/ホロライブ】",
+          "video_id": "C93-V8yu8wE"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -488,7 +495,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T15:00:00Z",
+          "title": "【hololive Dreams】Adios 1.5M Hello New Event (Tomorrow) #holodori【Pavolia Reine/hololive】",
+          "video_id": "GjTUrC0GJFQ"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -511,5 +525,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T14:10:32Z"
+  "generated_at": "2026-10-14T14:20:38Z"
 }
