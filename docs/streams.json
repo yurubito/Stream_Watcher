@@ -236,7 +236,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T10:00:00Z",
+          "title": "【#ホロARK】空をなんとしても飛びたいDAY🏝【風真いろは/ホロライブ】",
+          "video_id": "cklwGpRghq0"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -426,7 +433,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T13:00:00Z",
+          "title": "≪hololive Dreams≫ Unhinged Feeshing #5 #holodori",
+          "video_id": "6eE0uMNZ7gY"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -557,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T09:10:31Z"
+  "generated_at": "2026-10-14T09:20:38Z"
 }
