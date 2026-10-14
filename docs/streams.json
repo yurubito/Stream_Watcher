@@ -558,7 +558,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T12:00:00Z",
+          "title": "【hololive Dreams】RHYTHM GAME PRACTICE! 音ゲー練習 #holodori #ホロドリ",
+          "video_id": "PMLvhfz5nIo"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -571,5 +578,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T09:40:25Z"
+  "generated_at": "2026-10-14T09:50:25Z"
 }
