@@ -8,6 +8,11 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-14T15:30:25Z",
+        "title": "【 ＃ホロドリ 】深夜のチル釣り図鑑集め🐡【ホロライブ/ ロボ子さん 】",
+        "video_id": "b-_VT1mu7bk"
+      },
       "name": "ロボ子さん"
     },
     {
@@ -55,11 +60,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-14T13:04:23Z",
-        "title": "【#ド珍組】開店★ド珍ラーメン【ホロライブ/白上フブキ】",
-        "video_id": "6dyS5PuVy24"
-      },
       "name": "白上フブキ"
     },
     {
@@ -85,11 +85,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-14T13:04:03Z",
-        "title": "【#ド珍】ラーメン屋さん開店するしゅばあああああああああああああああああああああああああああああああああああ！！！！！：Japanese Ramen Simulator【ホロライブ/大空スバル】",
-        "video_id": "y4TuxUICXIQ"
-      },
       "name": "大空スバル"
     },
     {
@@ -405,7 +400,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T01:00:00Z",
+          "title": "【HOLOLIVE DREAMS】omg mori calliope from holodori #holodori",
+          "video_id": "7kDvAsFbW2E"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -471,11 +473,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-14T14:01:16Z",
-        "title": "【Moonfrost】New Adventure in Moonfrost!【 iofi / hololive】",
-        "video_id": "BshwrRG38BU"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -524,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T15:40:29Z"
+  "generated_at": "2026-10-14T15:50:31Z"
 }
