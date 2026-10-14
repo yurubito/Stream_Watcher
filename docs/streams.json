@@ -234,7 +234,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T01:00:00Z",
+          "title": "【朝ドリ#7】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
+          "video_id": "uH9AFj1qbyA"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -473,11 +480,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-14T12:02:21Z",
-        "title": "【hololive Dreams ホロライブドリームス】Let's Improve Everyone's Rhythm Skill!~【hololive holoro | Anya Melfissa】",
-        "video_id": "1kN3r2ME5HA"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -498,11 +500,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-14T14:01:57Z",
-        "title": "【hololive Dreams】daily holodream and RAORA【#holodori】",
-        "video_id": "RCHwC80-wjQ"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -511,5 +508,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T16:01:04Z"
+  "generated_at": "2026-10-14T16:20:42Z"
 }
