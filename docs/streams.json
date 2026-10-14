@@ -230,8 +230,13 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-14T10:30:00Z",
-          "title": "【 ホロドリ 】しゅぴなででゆるくポカジャン【音乃瀬奏】#ReGLOSS",
+          "title": "【 ホロドリ 】しゅぴなででゆるくポカジャン！【音乃瀬奏】#ReGLOSS",
           "video_id": "0WmS7VsEX0c"
+        },
+        {
+          "scheduled_at": "2026-10-14T12:00:00Z",
+          "title": "【 雑談 】アコースティックライブお疲れ様でした～新曲聞いてくれたカナ？！で～【音乃瀬奏】#ReGLOSS",
+          "video_id": "zp9UdcG9VwU"
         }
       ]
     },
@@ -292,14 +297,7 @@
         "title": "【#ホロARK】初めてのホロ鯖ARK！！＃7【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
         "video_id": "_ic67FT1fEc"
       },
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T08:25:00Z",
-          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃7【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "JEaPUi4sYWE"
-        }
-      ]
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -537,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T08:30:35Z"
+  "generated_at": "2026-10-14T08:40:25Z"
 }
