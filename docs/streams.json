@@ -232,11 +232,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-14T10:00:51Z",
-        "title": "【#ホロARK】空をなんとしても飛びたいDAY🏝【風真いろは/ホロライブ】",
-        "video_id": "cklwGpRghq0"
-      },
       "name": "風真いろは"
     },
     {
@@ -327,6 +322,11 @@
           "scheduled_at": "2026-10-14T11:00:00Z",
           "title": "ホロライブ新人ユニットがホラゲ「R.E.P.O.」で遊ぶのじゃ【アソビ★まわり隊！】",
           "video_id": "xKhbOWNoYN8"
+        },
+        {
+          "scheduled_at": "2026-10-15T11:00:00Z",
+          "title": "３行しか文字読めないけど爆弾解除できますか？【ホロライブ】",
+          "video_id": "tQS9sZ_zoZI"
         }
       ]
     },
@@ -516,11 +516,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-14T08:04:07Z",
-        "title": "【 #holoctober 】DAY 14 : SPORTS【 iofi / hololive】",
-        "video_id": "TMiZVgLDQi8"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -573,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T10:03:46Z"
+  "generated_at": "2026-10-14T10:10:35Z"
 }
