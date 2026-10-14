@@ -334,6 +334,11 @@
       "name": "森カリオペ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-14T12:00:00Z",
+          "title": "【member's only】look outside (don't though) #calliolive",
+          "video_id": "PmDRXL6CJkQ"
+        },
+        {
           "scheduled_at": "2026-10-15T01:00:00Z",
           "title": "【hololive Dreams】rocking in with biboo today #calliolive #holodori",
           "video_id": "t4b9y5XGlw8"
@@ -513,5 +518,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T07:01:07Z"
+  "generated_at": "2026-10-14T07:40:25Z"
 }
