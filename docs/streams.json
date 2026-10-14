@@ -38,6 +38,16 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-14T09:30:00Z",
+          "title": "【ホロライブドリームス】釣り雑談～お魚🐟図鑑コンプへの道！ミニゲーム参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
+          "video_id": "64GEC-f70zE"
+        },
+        {
+          "scheduled_at": "2026-10-14T10:45:00Z",
+          "title": "【 #ホロ鯖ARK 】DAY6│拠点拡張！ルミナとギガラプも欲しい！【ホロライブ/アキロゼ】",
+          "video_id": "FTmZQg1h1Qg"
+        },
+        {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
           "video_id": "C8W03Z6zWFk"
@@ -67,7 +77,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T11:00:00Z",
+          "title": "【original】Candy Candy Midnight/癒月ちょこ【ホロライブ】",
+          "video_id": "FSDwet-B1P8"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -109,7 +126,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T09:00:00Z",
+          "title": "【ホロ鯖ARK】もっと仲間を★増やし隊(テリジノ、ワイバーン、スプリング編)【白銀ノエル/ホロライブ】",
+          "video_id": "c2YXDh6_NqA"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -178,7 +202,14 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T09:00:00Z",
+          "title": "【 #ホロ鯖ARK 】大冒険したい！可愛い子テイムしたい！！肩にちっちゃいネコ乗せたい！！！【博衣こより/ホロライブ】",
+          "video_id": "d2PZqRobHZ8"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -203,14 +234,7 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T06:00:00Z",
-          "title": "はいしんよてい【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "C76Y3eNI8hU"
-        }
-      ]
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -252,27 +276,17 @@
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-14T03:00:00Z",
-          "title": "【#ホロドリ 】イナ先輩と初サシコラボ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "HmzmqCz_NWg"
+          "scheduled_at": "2026-10-14T08:00:00Z",
+          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃7【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "_ic67FT1fEc"
         }
       ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-13T21:58:43Z",
-        "title": "【のじゃEnglish】soccer?or football?【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "nyvtNTotwdw"
-      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T03:00:00Z",
-          "title": "【緊急】昨晩のインターネットリテラシーについて【ホロライブ/熱千めら】",
-          "video_id": "F53LLDirjFw"
-        },
         {
           "scheduled_at": "2026-10-14T11:00:00Z",
           "title": "ホロライブ新人ユニットがホラゲ「R.E.P.O.」で遊ぶのじゃ【アソビ★まわり隊！】",
@@ -303,11 +317,6 @@
       "name": "百灯キョーコ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-14T02:00:00Z",
-          "title": "【EN】#3 Continuing on the 2nd Isle!! | Cuphead【Hyakuto Kyoko/Hololive】",
-          "video_id": "1xNlquw8BYw"
-        },
-        {
           "scheduled_at": "2026-10-14T11:00:00Z",
           "title": "【コラボ】アソビ★まわり隊！の４人でR.E.P.Oに挑戦だーーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "pHmyFfovwj8"
@@ -322,11 +331,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-13T23:59:55Z",
-        "title": "【ZELDA: OCARINA OF TIME】what a journey!!! (part 8) #calliolive",
-        "video_id": "d_RYISTapbo"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -356,14 +360,7 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T03:00:00Z",
-          "title": "【hololive Dreams】Playing With VIVIIIIITAAAANNNNNNN!!!!!!! @KikiraraVivi",
-          "video_id": "1u4n2v-kM_E"
-        }
-      ]
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -375,11 +372,6 @@
       "group": "EN Promise",
       "name": "オーロ・クロニー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T01:00:00Z",
-          "title": "【Hololive Dreams】Trying In-Game Outfit #holodori",
-          "video_id": "kEOPrfFTRpg"
-        },
         {
           "scheduled_at": "2026-10-17T02:00:00Z",
           "title": "【New Outfit Reveal】Feast Your Eyes 🍷 #MasqOuroade",
@@ -400,12 +392,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-13T22:56:59Z",
-        "title": "【ACE COMBAT 8: WINGS OF THEVE】GET IN THE PILOT'S SEAT BIBOO",
-        "video_id": "F7pN152ClPo"
-      },
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T12:00:00Z",
+          "title": "【HOLOLIVE DREAMS】mother? #holodori",
+          "video_id": "asHmzNw6E6Y"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -415,19 +409,12 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "name": "フワワ＆モココ・アビスガード",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T05:00:00Z",
-          "title": "【RISE OF THE RŌNIN】this is my BAUshido way🐾🩵 【FUWAWA SOLO】",
-          "video_id": "Iso6w-KKtuQ"
-        },
-        {
-          "scheduled_at": "2027-02-03T14:59:00Z",
-          "title": "【INFO🐾お知らせ】𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭𝘀𝘁 𝗔𝗹𝗯𝘂𝗺 💿「FUWAMOCO à la mode ～いつだってあなたの笑顔を守るのッ～」予約受付中✨ ON PRE-ORDER NOW🩵🩷",
-          "video_id": "bWmsSF2NCeE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T04:55:10Z",
+        "title": "【RISE OF THE RŌNIN】this is my BAUshido way🐾🩵 【FUWAWA SOLO】",
+        "video_id": "Iso6w-KKtuQ"
+      },
+      "name": "フワワ＆モココ・アビスガード"
     },
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
@@ -444,7 +431,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T01:00:00Z",
+          "title": "【LEAGUE OF LEGENDS】WITH MORI CALLIOPE!! (REAL)(NOTCLICKBAIT) + ANNOUNCEMENT",
+          "video_id": "w13xqPC1h1g"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -471,11 +465,6 @@
       "group": "ID AREA15",
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T05:00:00Z",
-          "title": "【#holodori 】Fishing and Yapping【 iofi / hololive】",
-          "video_id": "xkUVLMBAJXo"
-        },
         {
           "scheduled_at": "2026-10-14T08:00:00Z",
           "title": "【 #holoctober 】DAY 14 : SPORTS【 iofi / hololive】",
@@ -524,5 +513,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T00:10:24Z"
+  "generated_at": "2026-10-14T07:01:07Z"
 }
