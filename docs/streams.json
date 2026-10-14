@@ -177,14 +177,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T10:00:00Z",
-          "title": "【 妹に運転を教える 】んなたんはゴールド免許なのらね🚗(・o・🍬)【姫森ルーナ/ホロライブ】",
-          "video_id": "zJ7OdhVhM-A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T09:58:23Z",
+        "title": "【 妹に運転を教える 】んなたんはゴールド免許なのらね🚗(・o・🍬)【姫森ルーナ/ホロライブ】",
+        "video_id": "zJ7OdhVhM-A"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -236,14 +234,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T10:00:00Z",
-          "title": "【#ホロARK】空をなんとしても飛びたいDAY🏝【風真いろは/ホロライブ】",
-          "video_id": "cklwGpRghq0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T10:00:51Z",
+        "title": "【#ホロARK】空をなんとしても飛びたいDAY🏝【風真いろは/ホロライブ】",
+        "video_id": "cklwGpRghq0"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -292,6 +288,11 @@
       "group": "DEV_IS FLOW GLOW",
       "name": "水宮枢",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T10:30:00Z",
+          "title": "【  #ホロドリ 】ホロドリしゅぴなでポカジャン🐟＃13【水宮枢／ホロライブ】",
+          "video_id": "r6164aiVdZE"
+        },
         {
           "scheduled_at": "2026-10-14T13:00:00Z",
           "title": "【#4】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
@@ -399,14 +400,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T10:00:00Z",
-          "title": "【BOMBANANA!】wawa and her korean wifes save lifes 【IRISÉ】 #kfp #キアライブ",
-          "video_id": "24p_2T3-Z0w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T09:57:47Z",
+        "title": "【BOMBANANA!】wawa and her korean wifes save lifes 【IRISÉ】 #kfp #キアライブ",
+        "video_id": "24p_2T3-Z0w"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -578,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T09:50:25Z"
+  "generated_at": "2026-10-14T10:01:13Z"
 }
