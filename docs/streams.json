@@ -95,7 +95,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-14T13:00:00Z",
-          "title": "【】【ホロライブ/大空スバル】",
+          "title": "【#ド珍】ラーメン屋さん開店するしゅばあああああああああああああああああああああああああああああああああああ！！！！！：Japanese Ramen Simulator【ホロライブ/大空スバル】",
           "video_id": "y4TuxUICXIQ"
         }
       ]
@@ -177,11 +177,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-14T09:58:23Z",
-        "title": "【 妹に運転を教える 】んなたんはゴールド免許なのらね🚗(・o・🍬)【姫森ルーナ/ホロライブ】",
-        "video_id": "zJ7OdhVhM-A"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -207,11 +202,6 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-14T10:04:00Z",
-        "title": "【歌枠】KARAOKE",
-        "video_id": "_ZeTBy2v9hE"
-      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -611,5 +601,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-14T11:30:39Z"
+  "generated_at": "2026-10-14T11:40:26Z"
 }
