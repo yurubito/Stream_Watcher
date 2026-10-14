@@ -234,11 +234,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-14T12:01:31Z",
-        "title": "【 雑談 】アコースティックライブお疲れ様でした～新曲聞いてくれたカナ？！で～【音乃瀬奏】#ReGLOSS",
-        "video_id": "zp9UdcG9VwU"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -422,7 +417,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T01:00:00Z",
+          "title": "I'll see you when I wake up~ | Chatting",
+          "video_id": "qcl2kLXW0DQ"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -550,13 +552,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-14T12:05:10Z",
-        "title": "【hololive Dreams】HOLODORI HOLODORI DAILY GRRAAAAAAA #holodori #ホロドリ",
-        "video_id": "TM_j1DJGA-Y"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T13:10:25Z"
+  "generated_at": "2026-10-14T13:20:26Z"
 }
