@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-14T12:01:44Z",
-        "title": "【GeoGuessr】今日は鉄道の日！日本の鉄道車両基地をゲス！【ホロライブ / AZKi】",
-        "video_id": "Hlm-t5kEmgM"
-      },
       "name": "AZKi"
     },
     {
@@ -80,6 +75,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-14T15:04:23Z",
+        "title": "【ホロARK】ARK上陸５日目！テイムしたいのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "a8PIv7slVGI"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -517,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T15:10:45Z"
+  "generated_at": "2026-10-14T15:20:35Z"
 }
