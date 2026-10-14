@@ -398,7 +398,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T01:00:00Z",
+          "title": "【HOLOLIVE DREAMS】omg mori calliope from holodori #holodori",
+          "video_id": "7kDvAsFbW2E"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -517,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T15:20:35Z"
+  "generated_at": "2026-10-14T15:30:58Z"
 }
