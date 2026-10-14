@@ -116,7 +116,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-14T10:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY6🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "mqsCAFeZ2ks"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -126,14 +133,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T09:00:00Z",
-          "title": "【ホロ鯖ARK】もっと仲間を★増やし隊(テリジノ、ワイバーン、スプリング編)【白銀ノエル/ホロライブ】",
-          "video_id": "c2YXDh6_NqA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T09:00:45Z",
+        "title": "【ホロ鯖ARK】もっと仲間を★増やし隊(テリジノ、ワイバーン、スプリング編)【白銀ノエル/ホロライブ】",
+        "video_id": "c2YXDh6_NqA"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -204,19 +209,24 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T09:00:00Z",
+          "title": "革命道中 / 澤村光彩×鷹嶺ルイ (cover)",
+          "video_id": "ZNlovMQZ83g"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T09:00:00Z",
-          "title": "【 #ホロ鯖ARK 】大冒険したい！可愛い子テイムしたい！！肩にちっちゃいネコ乗せたい！！！【博衣こより/ホロライブ】",
-          "video_id": "d2PZqRobHZ8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T08:59:35Z",
+        "title": "【 #ホロ鯖ARK 】大冒険したい！可愛い子テイムしたい！！肩にちっちゃいネコ乗せたい！！！【博衣こより/ホロライブ】",
+        "video_id": "d2PZqRobHZ8"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -542,5 +552,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T08:50:25Z"
+  "generated_at": "2026-10-14T09:01:04Z"
 }
