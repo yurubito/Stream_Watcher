@@ -13,14 +13,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【GeoGuessr】今日は鉄道の日！日本の鉄道車両基地をゲス！【ホロライブ / AZKi】",
-          "video_id": "Hlm-t5kEmgM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T12:01:44Z",
+        "title": "【GeoGuessr】今日は鉄道の日！日本の鉄道車両基地をゲス！【ホロライブ / AZKi】",
+        "video_id": "Hlm-t5kEmgM"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -239,14 +237,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【 雑談 】アコースティックライブお疲れ様でした～新曲聞いてくれたカナ？！で～【音乃瀬奏】#ReGLOSS",
-          "video_id": "zp9UdcG9VwU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T12:01:31Z",
+        "title": "【 雑談 】アコースティックライブお疲れ様でした～新曲聞いてくれたカナ？！で～【音乃瀬奏】#ReGLOSS",
+        "video_id": "zp9UdcG9VwU"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -271,14 +267,7 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T13:00:00Z",
-          "title": "【 メンバーシップ限定 】同時視聴✨『シャッターアイランド』観る❤【ホロライブ DEV_IS 響咲リオナ】",
-          "video_id": "57EhYtFyeDo"
-        }
-      ]
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -375,11 +364,6 @@
       "name": "森カリオペ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【member's only】look outside (don't though) #calliolive",
-          "video_id": "PmDRXL6CJkQ"
-        },
-        {
           "scheduled_at": "2026-10-15T01:00:00Z",
           "title": "【hololive Dreams】rocking in with biboo today #calliolive #holodori",
           "video_id": "t4b9y5XGlw8"
@@ -394,11 +378,6 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-14T09:57:47Z",
-        "title": "【BOMBANANA!】wawa and her korean wifes save lifes 【IRISÉ】 #kfp #キアライブ",
-        "video_id": "24p_2T3-Z0w"
-      },
       "name": "小鳥遊キアラ"
     },
     {
@@ -443,14 +422,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【HOLOLIVE DREAMS】mother? #holodori",
-          "video_id": "asHmzNw6E6Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T12:01:53Z",
+        "title": "【HOLOLIVE DREAMS】mother? #holodori",
+        "video_id": "asHmzNw6E6Y"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -499,37 +476,33 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【hololive Dreams】 PRACTICING RYTHM LIVE SKILL【#holodori #ホロドリ】",
-          "video_id": "J7X_-Z37pt4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T12:05:46Z",
+        "title": "【hololive Dreams】 PRACTICING RYTHM LIVE SKILL【#holodori #ホロドリ】",
+        "video_id": "J7X_-Z37pt4"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【Hololive Dreams】it's MoonStone Time!!!【hololive | moona】",
-          "video_id": "3x2qjSw3NPM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T12:02:43Z",
+        "title": "【Hololive Dreams】it's MoonStone Time!!!【hololive | moona】",
+        "video_id": "3x2qjSw3NPM"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-14T12:04:21Z",
+        "title": "【 Rebo Nyunda】Aksara Sunda【 iofi / hololive】",
+        "video_id": "UR30LZ0vm5Q"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【 Rebo Nyunda】Aksara Sunda【 iofi / hololive】",
-          "video_id": "UR30LZ0vm5Q"
-        },
         {
           "scheduled_at": "2026-10-14T14:00:00Z",
           "title": "【Moonfrost】New Adventure in Moonfrost!【 iofi / hololive】",
@@ -545,14 +518,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Let's Improve Everyone's Rhythm Skill!~【hololive holoro | Anya Melfissa】",
-          "video_id": "1kN3r2ME5HA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T12:02:21Z",
+        "title": "【hololive Dreams ホロライブドリームス】Let's Improve Everyone's Rhythm Skill!~【hololive holoro | Anya Melfissa】",
+        "video_id": "1kN3r2ME5HA"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -584,15 +555,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-14T12:00:00Z",
-          "title": "【hololive Dreams】HOLODORI HOLODORI DAILY GRRAAAAAAA #holodori #ホロドリ",
-          "video_id": "TM_j1DJGA-Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-14T12:05:10Z",
+        "title": "【hololive Dreams】HOLODORI HOLODORI DAILY GRRAAAAAAA #holodori #ホロドリ",
+        "video_id": "TM_j1DJGA-Y"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T12:00:53Z"
+  "generated_at": "2026-10-14T12:10:33Z"
 }
