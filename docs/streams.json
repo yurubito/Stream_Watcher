@@ -23,11 +23,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-14T13:03:23Z",
-        "title": "【Japanese Ramen Simulator】ド珍らーめん屋開業🍜！！！！！！！！！【ホロライブ/さくらみこ】",
-        "video_id": "BNinM6Wa3Pk"
-      },
       "name": "さくらみこ"
     },
     {
@@ -90,11 +85,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-14T13:04:02Z",
-        "title": "【ラーメンシミュレーター】ド珍でラーメン屋を経営するとこうなる【大神ミオ視点】",
-        "video_id": "tMOyVuhtnU8"
-      },
       "name": "大神ミオ"
     },
     {
@@ -521,5 +511,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T15:50:31Z"
+  "generated_at": "2026-10-14T16:01:04Z"
 }
