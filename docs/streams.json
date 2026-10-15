@@ -178,14 +178,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T10:00:00Z",
-          "title": "【 #ホロ鯖ARK 】アルゲンテイム！！！！指示お願いします！！！！【 桃鈴ねね / hololive 】",
-          "video_id": "frkXrKsQivE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T10:01:47Z",
+        "title": "【 #ホロ鯖ARK 】アルゲンテイム！！！！指示お願いします！！！！【 桃鈴ねね / hololive 】",
+        "video_id": "frkXrKsQivE"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -322,14 +320,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T10:00:00Z",
-          "title": "【SPAGHET】フブキ先輩からいただいたパスタ食べるっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "NQFbTh9ftn8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T10:04:47Z",
+        "title": "【SPAGHET】フブキ先輩からいただいたパスタ食べるっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "NQFbTh9ftn8"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -535,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T10:00:55Z"
+  "generated_at": "2026-10-15T10:10:42Z"
 }
