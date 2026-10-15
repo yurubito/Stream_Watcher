@@ -28,13 +28,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-15T09:30:57Z",
+        "title": "【ホロライブドリームス】雑談しながら釣り餌回収エリアクエ！ミニゲーム参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "O5pc96YtYNg"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T09:30:00Z",
-          "title": "【ホロライブドリームス】雑談しながら釣り餌回収エリアクエ！ミニゲーム参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "O5pc96YtYNg"
-        },
         {
           "scheduled_at": "2026-10-15T11:00:00Z",
           "title": "【 #ホロ鯖ARK 】DAY7│みんなが使いやすそうなお家＆拠点作りたい！【ホロライブ/アキロゼ】",
@@ -493,11 +493,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-15T08:00:02Z",
-        "title": "【hololive Dreams】 SPENDING THE AFTERNOON WITH RISU AND IOFI!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "qlV6m7g2F68"
-      },
       "name": "クレイジー・オリー"
     },
     {
@@ -519,6 +514,11 @@
           "scheduled_at": "2026-10-15T11:00:00Z",
           "title": "【End of Abyss】More monsters investigation? :D",
           "video_id": "yteXMC4lL4M"
+        },
+        {
+          "scheduled_at": "2026-10-15T14:00:00Z",
+          "title": "【Hololive Dreams】UWEEEEEEEEEEEEEEEEEEEEEEEEEE✨#holodori #ホロドリ",
+          "video_id": "UQox0Df00rE"
         }
       ]
     },
@@ -533,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T09:30:57Z"
+  "generated_at": "2026-10-15T09:40:25Z"
 }
