@@ -477,14 +477,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T08:00:00Z",
-          "title": "【#holodori 】Quick daily with @ayundarisu 【 iofi / hololive】",
-          "video_id": "WBoi6qduQlY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T08:03:12Z",
+        "title": "【#holodori 】Quick daily with @ayundarisu 【 iofi / hololive】",
+        "video_id": "WBoi6qduQlY"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -522,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T08:00:50Z"
+  "generated_at": "2026-10-15T08:10:39Z"
 }
