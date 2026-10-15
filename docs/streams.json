@@ -31,6 +31,16 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-15T09:30:00Z",
+          "title": "【ホロライブドリームス】雑談しながら釣り餌回収エリアクエ！ミニゲーム参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
+          "video_id": "O5pc96YtYNg"
+        },
+        {
+          "scheduled_at": "2026-10-15T11:00:00Z",
+          "title": "【 #ホロ鯖ARK 】DAY7│みんなが使いやすそうなお家＆拠点作りたい！【ホロライブ/アキロゼ】",
+          "video_id": "yUkjRk16T_I"
+        },
+        {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
           "video_id": "C8W03Z6zWFk"
@@ -478,11 +488,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-15T08:03:12Z",
-        "title": "【#holodori 】Quick daily with @ayundarisu 【 iofi / hololive】",
-        "video_id": "WBoi6qduQlY"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -508,7 +513,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T11:00:00Z",
+          "title": "【End of Abyss】More monsters investigation? :D",
+          "video_id": "yteXMC4lL4M"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -521,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T09:10:24Z"
+  "generated_at": "2026-10-15T09:30:57Z"
 }
