@@ -424,7 +424,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T14:00:00Z",
+          "title": "Raora PLEASE SAVE ME FROM THIS PRISON | SPAGHET",
+          "video_id": "OcCkQX-mGJA"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -473,11 +480,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-15T08:00:11Z",
-        "title": "【hololive Dreams】Risu, Iofi, Ollie trying new holodori event !!【#holodori #ホロドリ】",
-        "video_id": "COli1xENiU8"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -533,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T09:40:25Z"
+  "generated_at": "2026-10-15T09:47:35Z"
 }
