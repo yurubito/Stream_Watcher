@@ -126,7 +126,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【 #ホロドリ釣り名人 】今日から釣り名人を名乗りたいひつじ🎣【角巻わため/ホロライブ４期生】",
+          "video_id": "UoIEc0ChGLA"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -247,14 +254,7 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T22:00:00Z",
-          "title": "【#ホロドリ 】おはよう！ホロドリみんなで遊ぼ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "9E92-AwEBfQ"
-        }
-      ]
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -508,5 +508,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T21:30:49Z"
+  "generated_at": "2026-10-15T21:34:12Z"
 }
