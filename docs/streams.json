@@ -143,7 +143,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T09:00:00Z",
+          "title": "【 #ホロ鯖ARK 】その６｜パイロリベンジさせろ！！！！！！！！！【常闇トワ/ホロライブ】",
+          "video_id": "9BT48CUHWe8"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -455,7 +462,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T08:00:00Z",
+          "title": "【hololive Dreams】Risu, Iofi, Ollie trying new holodori event !!【#holodori #ホロドリ】",
+          "video_id": "COli1xENiU8"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -512,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T07:20:28Z"
+  "generated_at": "2026-10-15T07:30:42Z"
 }
