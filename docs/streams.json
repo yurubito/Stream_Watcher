@@ -512,13 +512,27 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T13:00:00Z",
+          "title": "【hololive Dreams】hmmm lets think about the title of new clip【#holodori】",
+          "video_id": "wB8SEl1feZU"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T14:00:00Z",
+          "title": "【hololive Dreams】HOLODORI DAILYYY #holodori #ホロドリ",
+          "video_id": "11ZfwjKW5DE"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-15T12:40:34Z"
+  "generated_at": "2026-10-15T12:50:27Z"
 }
