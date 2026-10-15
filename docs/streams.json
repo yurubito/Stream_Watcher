@@ -117,7 +117,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T13:00:00Z",
+          "title": "【 #ホロ鯖ARK 】雪だるまわためが行く！気ままなARK大冒険の旅🦖【角巻わため/ホロライブ４期生】",
+          "video_id": "thbiFfyMn3g"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -214,9 +221,9 @@
       "name": "響咲リオナ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-15T01:00:00Z",
-          "title": "【朝ドリ#7】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
-          "video_id": "uH9AFj1qbyA"
+          "scheduled_at": "2026-10-15T11:00:00Z",
+          "title": "【妹に運転を教える】無免許だけど、長女なんでいけます！！【ホロライブ  響咲リオナ】",
+          "video_id": "sfhaGNWf0X4"
         }
       ]
     },
@@ -252,12 +259,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-15T00:16:29Z",
-        "title": "【#ホロドリ 】おはよう！お仕事前にホロドリ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "JbVlx_55QRE"
-      },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T11:00:00Z",
+          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃8【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "577mhxKG9cQ"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -487,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T00:30:44Z"
+  "generated_at": "2026-10-15T03:10:23Z"
 }
