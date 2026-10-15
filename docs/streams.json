@@ -106,7 +106,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "iPhone Duo争奪戦【ホロライブ/兎田ぺこら】",
+          "video_id": "gMNqo-VKOO4"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -427,6 +434,11 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-16T01:00:00Z",
+          "title": "【hololive Dreams】MORI CALLIOPE REAL #holodori",
+          "video_id": "9sjXc6K-R24"
+        },
+        {
           "scheduled_at": "2026-10-19T01:00:00Z",
           "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
           "video_id": "i7PxwGBGIl0"
@@ -515,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T22:40:33Z"
+  "generated_at": "2026-10-15T23:30:51Z"
 }
