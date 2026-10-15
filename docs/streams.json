@@ -158,7 +158,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T10:00:00Z",
+          "title": "【 #ホロ鯖ARK 】アルゲンテイム！！！！指示お願いします！！！！【 桃鈴ねね / hololive 】",
+          "video_id": "frkXrKsQivE"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -448,14 +455,7 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T08:00:00Z",
-          "title": "【hololive Dreams】 IoRisu holodori together ~!!【#holodori #ホロドリ】",
-          "video_id": "COli1xENiU8"
-        }
-      ]
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -477,7 +477,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T08:00:00Z",
+          "title": "【hololive Dreams】 SPENDING THE AFTERNOON WITH RISU AND IOFI!! #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "qlV6m7g2F68"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -505,5 +512,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T07:10:27Z"
+  "generated_at": "2026-10-15T07:20:28Z"
 }
