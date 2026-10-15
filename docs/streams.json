@@ -254,7 +254,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T22:00:00Z",
+          "title": "【#ホロドリ 】おはよう！ホロドリみんなで遊ぼ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "9E92-AwEBfQ"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -500,7 +507,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【hololive Dreams #ホロドリ釣り名人】GDAY MATE ITS A FISHING TOURNAMENT!!! LUCK, GIMME GIMME!!【#holodori】",
+          "video_id": "pcSdYxScZbo"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -508,5 +522,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T21:34:12Z"
+  "generated_at": "2026-10-15T21:50:34Z"
 }
