@@ -82,11 +82,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-15T14:02:12Z",
-        "title": "【#ホロドリ】図鑑コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "29K6LixDo-8"
-      },
       "name": "癒月ちょこ",
       "upcoming": [
         {
@@ -495,6 +490,11 @@
       "name": "クレイジー・オリー",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【hololive Dreams - #ホロドリ釣り名人】 IT'S A FISHING TOURNAMENT!! #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "Lf4831miTHE"
+        },
+        {
           "scheduled_at": "2026-10-17T01:00:00Z",
           "title": "【hololive Dreams】 A LITTLE GRINDING #holodori #ホロドリ 【Kureiji Ollie】",
           "video_id": "kS1znvfnNlc"
@@ -542,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T15:10:31Z"
+  "generated_at": "2026-10-15T15:20:38Z"
 }
