@@ -254,14 +254,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T22:00:00Z",
-          "title": "【#ホロドリ 】おはよう！ホロドリみんなで遊ぼ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "9E92-AwEBfQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T22:01:01Z",
+        "title": "【#ホロドリ 】おはよう！ホロドリみんなで遊ぼ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "9E92-AwEBfQ"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -522,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T21:50:34Z"
+  "generated_at": "2026-10-15T22:10:27Z"
 }
