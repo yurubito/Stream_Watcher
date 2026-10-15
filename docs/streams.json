@@ -111,26 +111,22 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T12:00:00Z",
-          "title": "【初☆ロケ】獅白ぼたんを怖がらせ隊！ in ユニバーサル・スタジオ・ジャパン！！！",
-          "video_id": "7Dt7inGp6OU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T12:00:09Z",
+        "title": "【初☆ロケ】獅白ぼたんを怖がらせ隊！ in ユニバーサル・スタジオ・ジャパン！！！",
+        "video_id": "7Dt7inGp6OU"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T12:00:00Z",
-          "title": "#3【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
-          "video_id": "8pF4qHcshDc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T12:00:16Z",
+        "title": "#3【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "8pF4qHcshDc"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -310,14 +306,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T12:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】#6 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-          "video_id": "-RyJYPrczs0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T11:59:58Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】#6 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+        "video_id": "-RyJYPrczs0"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -347,14 +341,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T12:00:00Z",
-          "title": "VALORANT イモータルを目指す!! 　#４【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "ZspvK4EGpWY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T12:00:14Z",
+        "title": "VALORANT イモータルを目指す!! 　#４【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "ZspvK4EGpWY"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -379,14 +371,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T12:00:00Z",
-          "title": "【ARKNIGHTS: ENDFIELD】goodbyefield...going on a breakfield... lastfieldforawhilefield!✨ #kfp",
-          "video_id": "l6vV2reCUeE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T11:59:32Z",
+        "title": "【ARKNIGHTS: ENDFIELD】goodbyefield...going on a breakfield... lastfieldforawhilefield!✨ #kfp",
+        "video_id": "l6vV2reCUeE"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -565,5 +555,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T11:50:24Z"
+  "generated_at": "2026-10-15T12:00:57Z"
 }
