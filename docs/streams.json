@@ -121,14 +121,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T09:00:00Z",
-          "title": "【ホロ鯖ARK】拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
-          "video_id": "95jxlctrd6s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T09:01:54Z",
+        "title": "【ホロ鯖ARK】拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
+        "video_id": "95jxlctrd6s"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -150,14 +148,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T09:00:00Z",
-          "title": "【 #ホロ鯖ARK 】その６｜パイロリベンジさせろ！！！！！！！！！【常闇トワ/ホロライブ】",
-          "video_id": "9BT48CUHWe8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T09:02:26Z",
+        "title": "【 #ホロ鯖ARK 】その６｜パイロリベンジさせろ！！！！！！！！！【常闇トワ/ホロライブ】",
+        "video_id": "9BT48CUHWe8"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -199,11 +195,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-15T09:00:10Z",
-        "title": "革命道中 / 澤村光彩×鷹嶺ルイ (cover)",
-        "video_id": "ZNlovMQZ83g"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -226,14 +217,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T09:00:00Z",
-          "title": "【#ホロARK】限界テイムアンキロくんッ生きててくれッ🏝【風真いろは/ホロライブ】",
-          "video_id": "swhK067-WOc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T09:01:05Z",
+        "title": "【#ホロARK】限界テイムアンキロくんッ生きててくれッ🏝【風真いろは/ホロライブ】",
+        "video_id": "swhK067-WOc"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -532,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T09:00:49Z"
+  "generated_at": "2026-10-15T09:10:24Z"
 }
