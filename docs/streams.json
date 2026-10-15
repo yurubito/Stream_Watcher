@@ -20,11 +20,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-15T14:02:07Z",
-        "title": "【#ホロドリ】深夜の釣りきち🌙hololive Dreams【ホロライブ / AZKi】",
-        "video_id": "wfJNqnXIZa8"
-      },
       "name": "AZKi"
     },
     {
@@ -499,23 +494,16 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T15:45:00Z",
-          "title": "【hololive Dreams】Rhythm or Pokajan or Splash Ball #holodori【Pavolia Reine/hololive】",
-          "video_id": "xA8eCKIhybg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T15:46:08Z",
+        "title": "【hololive Dreams】Rhythm or Pokajan or Splash Ball #holodori【Pavolia Reine/hololive】",
+        "video_id": "xA8eCKIhybg"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-15T13:59:57Z",
-        "title": "【Hololive Dreams】UWEEEEEEEEEEEEEEEEEEEEEEEEEE✨#holodori #ホロドリ",
-        "video_id": "UQox0Df00rE"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -534,5 +522,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T15:40:47Z"
+  "generated_at": "2026-10-15T15:50:35Z"
 }
