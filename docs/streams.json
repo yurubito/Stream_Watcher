@@ -18,14 +18,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T14:00:00Z",
-          "title": "【#ホロドリ】深夜の釣りきち🌙hololive Dreams【ホロライブ / AZKi】",
-          "video_id": "wfJNqnXIZa8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T14:02:07Z",
+        "title": "【#ホロドリ】深夜の釣りきち🌙hololive Dreams【ホロライブ / AZKi】",
+        "video_id": "wfJNqnXIZa8"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -77,13 +75,13 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-15T14:02:12Z",
+        "title": "【#ホロドリ】図鑑コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "29K6LixDo-8"
+      },
       "name": "癒月ちょこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T14:00:00Z",
-          "title": "【#ホロドリ】図鑑コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
-          "video_id": "29K6LixDo-8"
-        },
         {
           "scheduled_at": "2026-10-15T15:30:00Z",
           "title": "【#ホロ鯖ARK】ARK上陸６日目！素材たくさんほしいのだ！【ホロライブ/癒月ちょこ】",
@@ -280,11 +278,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-15T11:59:58Z",
-        "title": "【ACE COMBAT 8: WINGS OF THEVE】#6 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-        "video_id": "-RyJYPrczs0"
-      },
       "name": "輪堂千速"
     },
     {
@@ -312,7 +305,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【Poly Bridge 3】最強の可動橋つくるぞ！！！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "6HzGZ_73acM"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -481,14 +481,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T14:00:00Z",
-          "title": "【Hololive Dreams】cosplay jadi holoh3ro【hololive | moona】",
-          "video_id": "6BpZddjpdtU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T14:07:12Z",
+        "title": "【Hololive Dreams】cosplay jadi holoh3ro【hololive | moona】",
+        "video_id": "6BpZddjpdtU"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -540,15 +538,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T14:00:00Z",
-          "title": "【hololive Dreams】HOLODORI DAILYYY #holodori #ホロドリ",
-          "video_id": "11ZfwjKW5DE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T14:02:57Z",
+        "title": "【hololive Dreams】HOLODORI DAILYYY #holodori #ホロドリ",
+        "video_id": "11ZfwjKW5DE"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T14:00:54Z"
+  "generated_at": "2026-10-15T14:10:38Z"
 }
