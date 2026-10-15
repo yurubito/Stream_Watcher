@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T12:30:00Z",
+          "title": "# ４【ネタバレあり】ほの暮しの庭～おつかいも楽しいのんびりゲーム～【ときのそら/ホロライブ】",
+          "video_id": "H8nDUqLBRXU"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -558,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T11:40:25Z"
+  "generated_at": "2026-10-15T11:50:24Z"
 }
