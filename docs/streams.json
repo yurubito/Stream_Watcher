@@ -77,7 +77,19 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T14:00:00Z",
+          "title": "【#ホロドリ】図鑑コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "29K6LixDo-8"
+        },
+        {
+          "scheduled_at": "2026-10-15T15:30:00Z",
+          "title": "【#ホロ鯖ARK】ARK上陸６日目！素材たくさんほしいのだ！【ホロライブ/癒月ちょこ】",
+          "video_id": "2oT8JMG5uBY"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -315,7 +327,19 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T02:00:00Z",
+          "title": "【EN】#4 Can I finish the 2nd Isle today? | Cuphead【Hyakuto Kyoko/Hololive】",
+          "video_id": "CVsPXWqiD8k"
+        },
+        {
+          "scheduled_at": "2026-10-16T13:00:00Z",
+          "title": "#5 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "lkK4YRsqX3M"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -398,14 +422,12 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T14:00:00Z",
-          "title": "Raora PLEASE SAVE ME FROM THIS PRISON | SPAGHET",
-          "video_id": "OcCkQX-mGJA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T13:56:56Z",
+        "title": "Raora PLEASE SAVE ME FROM THIS PRISON | SPAGHET",
+        "video_id": "OcCkQX-mGJA"
+      },
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -498,14 +520,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T14:00:00Z",
-          "title": "【Hololive Dreams】UWEEEEEEEEEEEEEEEEEEEEEEEEEE✨#holodori #ホロドリ",
-          "video_id": "UQox0Df00rE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T13:59:57Z",
+        "title": "【Hololive Dreams】UWEEEEEEEEEEEEEEEEEEEEEEEEEE✨#holodori #ホロドリ",
+        "video_id": "UQox0Df00rE"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -530,5 +550,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-15T13:40:30Z"
+  "generated_at": "2026-10-15T14:00:54Z"
 }
