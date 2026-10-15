@@ -462,14 +462,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T08:00:00Z",
-          "title": "【hololive Dreams】Risu, Iofi, Ollie trying new holodori event !!【#holodori #ホロドリ】",
-          "video_id": "COli1xENiU8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T08:00:11Z",
+        "title": "【hololive Dreams】Risu, Iofi, Ollie trying new holodori event !!【#holodori #ホロドリ】",
+        "video_id": "COli1xENiU8"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -491,14 +489,12 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T08:00:00Z",
-          "title": "【hololive Dreams】 SPENDING THE AFTERNOON WITH RISU AND IOFI!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "qlV6m7g2F68"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T08:00:02Z",
+        "title": "【hololive Dreams】 SPENDING THE AFTERNOON WITH RISU AND IOFI!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "qlV6m7g2F68"
+      },
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -526,5 +522,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T07:30:42Z"
+  "generated_at": "2026-10-15T08:00:50Z"
 }
