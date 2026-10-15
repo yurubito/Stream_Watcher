@@ -159,7 +159,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第29話～【姫森ルーナ/ホロライブ】",
+          "video_id": "q2JtQgCCI1E"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -169,11 +176,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-15T10:01:47Z",
-        "title": "【 #ホロ鯖ARK 】アルゲンテイム！！！！指示お願いします！！！！【 桃鈴ねね / hololive 】",
-        "video_id": "frkXrKsQivE"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -528,5 +530,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-15T13:31:09Z"
+  "generated_at": "2026-10-15T13:40:30Z"
 }
