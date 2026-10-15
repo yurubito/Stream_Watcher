@@ -287,7 +287,7 @@
       "name": "輪堂千速",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-15T11:00:00Z",
+          "scheduled_at": "2026-10-15T12:00:00Z",
           "title": "【ACE COMBAT 8: WINGS OF THEVE】#6 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
           "video_id": "-RyJYPrczs0"
         }
@@ -330,7 +330,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T12:00:00Z",
+          "title": "VALORANT イモータルを目指す!! 　#４【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "ZspvK4EGpWY"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -531,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T10:10:42Z"
+  "generated_at": "2026-10-15T10:20:25Z"
 }
