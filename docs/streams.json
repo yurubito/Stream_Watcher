@@ -448,7 +448,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T08:00:00Z",
+          "title": "【hololive Dreams】 IoRisu holodori together ~!!【#holodori #ホロドリ】",
+          "video_id": "COli1xENiU8"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -458,7 +465,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T08:00:00Z",
+          "title": "【#holodori 】Quick daily with @ayundarisu 【 iofi / hololive】",
+          "video_id": "WBoi6qduQlY"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -491,5 +505,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T07:00:57Z"
+  "generated_at": "2026-10-15T07:10:27Z"
 }
