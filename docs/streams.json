@@ -36,17 +36,12 @@
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
       "live": {
-        "started_at": "2026-10-15T09:30:57Z",
-        "title": "【ホロライブドリームス】雑談しながら釣り餌回収エリアクエ！ミニゲーム参加型も少々 #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "O5pc96YtYNg"
+        "started_at": "2026-10-15T11:10:22Z",
+        "title": "【 #ホロ鯖ARK 】DAY7│みんなが使いやすそうなお家＆拠点作りたい！【ホロライブ/アキロゼ】",
+        "video_id": "yUkjRk16T_I"
       },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T11:00:00Z",
-          "title": "【 #ホロ鯖ARK 】DAY7│みんなが使いやすそうなお家＆拠点作りたい！【ホロライブ/アキロゼ】",
-          "video_id": "yUkjRk16T_I"
-        },
         {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
@@ -264,14 +259,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T11:00:00Z",
-          "title": "【ホロドリ】アーニャさんとポカじゃん！！【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "7wFXz7J2_lg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T11:02:39Z",
+        "title": "【ホロドリ】アーニャさんとポカじゃん！！【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "7wFXz7J2_lg"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -315,14 +308,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T11:00:00Z",
-          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃8【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "577mhxKG9cQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T11:08:42Z",
+        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃8【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "577mhxKG9cQ"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -337,11 +328,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-15T10:04:47Z",
-        "title": "【SPAGHET】フブキ先輩からいただいたパスタ食べるっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "NQFbTh9ftn8"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -513,19 +499,24 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T01:00:00Z",
+          "title": "【hololive Dreams】 A LITTLE GRINDING #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "kS1znvfnNlc"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T11:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】ばんちょー！ポカジャンやろう！！！LET'S POKAJAN, BANCHO!【hololive holoro | Anya Melfissa】",
-          "video_id": "ByLWsCXuUBY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T11:03:06Z",
+        "title": "【hololive Dreams ホロライブドリームス】ばんちょー！ポカジャンやろう！！！LET'S POKAJAN, BANCHO!【hololive holoro | Anya Melfissa】",
+        "video_id": "ByLWsCXuUBY"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -560,5 +551,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T11:01:01Z"
+  "generated_at": "2026-10-15T11:10:27Z"
 }
