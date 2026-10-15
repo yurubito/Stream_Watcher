@@ -424,14 +424,7 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T14:00:00Z",
-          "title": "Raora PLEASE SAVE ME FROM THIS PRISON | SPAGHET",
-          "video_id": "OcCkQX-mGJA"
-        }
-      ]
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -535,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T09:47:35Z"
+  "generated_at": "2026-10-15T09:50:23Z"
 }
