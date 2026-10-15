@@ -411,7 +411,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T01:00:00Z",
+          "title": "Omg it's been awhile! | hololive Dreams【#holodori】",
+          "video_id": "IEE5lHnZVRk"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -472,11 +479,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-15T14:07:12Z",
-        "title": "【Hololive Dreams】cosplay jadi holoh3ro【hololive | moona】",
-        "video_id": "6BpZddjpdtU"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -509,7 +511,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T15:45:00Z",
+          "title": "【hololive Dreams】Rhythm or Pokajan or Splash Ball #holodori【Pavolia Reine/hololive】",
+          "video_id": "xA8eCKIhybg"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -534,13 +543,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-15T14:02:57Z",
-        "title": "【hololive Dreams】HOLODORI DAILYYY #holodori #ホロドリ",
-        "video_id": "11ZfwjKW5DE"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T15:20:38Z"
+  "generated_at": "2026-10-15T15:30:51Z"
 }
