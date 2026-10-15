@@ -119,11 +119,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-15T12:00:16Z",
-        "title": "#3【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
-        "video_id": "8pF4qHcshDc"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -354,11 +349,6 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-15T11:59:32Z",
-        "title": "【ARKNIGHTS: ENDFIELD】goodbyefield...going on a breakfield... lastfieldforawhilefield!✨ #kfp",
-        "video_id": "l6vV2reCUeE"
-      },
       "name": "小鳥遊キアラ"
     },
     {
@@ -553,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T14:30:52Z"
+  "generated_at": "2026-10-15T14:50:40Z"
 }
