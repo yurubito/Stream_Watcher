@@ -42,11 +42,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-15T11:10:22Z",
-        "title": "【 #ホロ鯖ARK 】DAY7│みんなが使いやすそうなお家＆拠点作りたい！【ホロライブ/アキロゼ】",
-        "video_id": "yUkjRk16T_I"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -136,11 +131,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-15T13:05:29Z",
-        "title": "【 #ホロ鯖ARK 】雪だるまわためが行く！気ままなARK大冒険の旅🦖【角巻わため/ホロライブ４期生】",
-        "video_id": "thbiFfyMn3g"
-      },
       "name": "角巻わため"
     },
     {
@@ -516,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T19:30:41Z"
+  "generated_at": "2026-10-15T20:10:34Z"
 }
