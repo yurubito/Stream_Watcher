@@ -257,14 +257,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T00:00:00Z",
-          "title": "【#ホロドリ 】おはよう！お仕事前にホロドリ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "JbVlx_55QRE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T00:16:29Z",
+        "title": "【#ホロドリ 】おはよう！お仕事前にホロドリ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "JbVlx_55QRE"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -487,5 +485,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-14T22:00:57Z"
+  "generated_at": "2026-10-15T00:20:30Z"
 }
