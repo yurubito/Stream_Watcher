@@ -412,13 +412,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-15T21:01:11Z",
+        "title": "【StarSavior】send in the sexy maids #ad",
+        "video_id": "WB3MxWLBYXU"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T21:00:00Z",
-          "title": "【StarSavior】send in the sexy maids #ad",
-          "video_id": "WB3MxWLBYXU"
-        },
         {
           "scheduled_at": "2026-10-19T01:00:00Z",
           "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
@@ -506,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T21:00:49Z"
+  "generated_at": "2026-10-15T21:10:33Z"
 }
