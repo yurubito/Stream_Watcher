@@ -245,14 +245,12 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T13:00:00Z",
-          "title": "【晩酌雑談】栗ご飯食べながら！一緒に飲もう！！【儒烏風亭らでん #ReGLOSS 】",
-          "video_id": "ur_r-r9Q2B8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T13:00:01Z",
+        "title": "【晩酌雑談】栗ご飯食べながら！一緒に飲もう！！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "ur_r-r9Q2B8"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -512,14 +510,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T13:00:00Z",
-          "title": "【hololive Dreams】hmmm lets think about the title of new clip【#holodori】",
-          "video_id": "wB8SEl1feZU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T13:00:07Z",
+        "title": "【hololive Dreams】hmmm lets think about the title of new clip【#holodori】",
+        "video_id": "wB8SEl1feZU"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -534,5 +530,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-15T12:50:27Z"
+  "generated_at": "2026-10-15T13:00:59Z"
 }
