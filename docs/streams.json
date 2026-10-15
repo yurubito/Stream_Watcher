@@ -237,11 +237,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-15T09:01:05Z",
-        "title": "【#ホロARK】限界テイムアンキロくんッ生きててくれッ🏝【風真いろは/ホロライブ】",
-        "video_id": "swhK067-WOc"
-      },
       "name": "風真いろは"
     },
     {
@@ -269,11 +264,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-15T11:02:39Z",
-        "title": "【ホロドリ】アーニャさんとポカじゃん！！【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "7wFXz7J2_lg"
-      },
       "name": "轟はじめ"
     },
     {
@@ -321,11 +311,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-15T10:58:57Z",
-        "title": "３行しか文字読めないけど爆弾解除できますか？【ホロライブ】",
-        "video_id": "tQS9sZ_zoZI"
-      },
       "name": "熱千めら"
     },
     {
@@ -510,11 +495,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-15T11:03:06Z",
-        "title": "【hololive Dreams ホロライブドリームス】ばんちょー！ポカジャンやろう！！！LET'S POKAJAN, BANCHO!【hololive holoro | Anya Melfissa】",
-        "video_id": "ByLWsCXuUBY"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -550,5 +530,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T12:10:35Z"
+  "generated_at": "2026-10-15T12:20:26Z"
 }
