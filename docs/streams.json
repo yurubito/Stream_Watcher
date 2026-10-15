@@ -498,11 +498,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-15T15:46:08Z",
-        "title": "【hololive Dreams】Rhythm or Pokajan or Splash Ball #holodori【Pavolia Reine/hololive】",
-        "video_id": "xA8eCKIhybg"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -526,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T17:00:54Z"
+  "generated_at": "2026-10-15T17:10:35Z"
 }
