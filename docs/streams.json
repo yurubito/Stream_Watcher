@@ -331,11 +331,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-15T10:59:11Z",
-        "title": "【コラボ】めらちと爆弾一緒に解除するぞーーー！！｜完全爆弾解除マニュアル【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "j_cR2j0yStw"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -505,11 +500,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-15T11:00:32Z",
-        "title": "【End of Abyss】More monsters investigation? :D",
-        "video_id": "yteXMC4lL4M"
-      },
       "name": "ベスティア・ゼータ",
       "upcoming": [
         {
@@ -530,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T12:20:26Z"
+  "generated_at": "2026-10-15T12:30:48Z"
 }
