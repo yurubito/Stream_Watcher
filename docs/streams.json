@@ -81,7 +81,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-15T12:00:00Z",
-          "title": "【】4人で格付けランキングするしゅばああああああああああああああああああああああああああああああああああああああああああああ【ホロライブ/大空スバル】",
+          "title": "【#スバちょこルナたん】4人で格付けランキングするしゅばああああああああああああああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
           "video_id": "SO4RGesjHjc"
         },
         {
@@ -499,14 +499,7 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T01:00:00Z",
-          "title": "【hololive Dreams】 A LITTLE GRINDING #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "kS1znvfnNlc"
-        }
-      ]
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -551,5 +544,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T11:10:27Z"
+  "generated_at": "2026-10-15T11:20:29Z"
 }
