@@ -186,11 +186,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-14T22:00:36Z",
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY7🎣【風真いろは/ホロライブ】",
-        "video_id": "C93-V8yu8wE"
-      },
       "name": "風真いろは"
     },
     {
@@ -335,7 +330,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T12:00:00Z",
+          "title": "【ARKNIGHTS: ENDFIELD】goodbyefield...going on a breakfield... lastfieldforawhilefield!✨ #kfp",
+          "video_id": "l6vV2reCUeE"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -485,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T00:20:30Z"
+  "generated_at": "2026-10-15T00:30:44Z"
 }
