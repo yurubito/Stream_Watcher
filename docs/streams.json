@@ -499,7 +499,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T01:00:00Z",
+          "title": "【hololive Dreams】 A LITTLE GRINDING #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "kS1znvfnNlc"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -544,5 +551,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T11:20:29Z"
+  "generated_at": "2026-10-15T11:30:47Z"
 }
