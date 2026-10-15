@@ -439,14 +439,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-15T18:00:00Z",
-          "title": "【BORDERLANDS 2】MY NUMBER 3 COMFORT GAME (guess the other two)",
-          "video_id": "cXp659B2-gQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-15T18:02:42Z",
+        "title": "【BORDERLANDS 2】MY NUMBER 3 COMFORT GAME (guess the other two)",
+        "video_id": "cXp659B2-gQ"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -510,11 +508,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-15T13:00:07Z",
-        "title": "【hololive Dreams】hmmm lets think about the title of new clip【#holodori】",
-        "video_id": "wB8SEl1feZU"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -523,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T17:30:50Z"
+  "generated_at": "2026-10-15T18:10:43Z"
 }
