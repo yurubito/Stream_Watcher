@@ -20,7 +20,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【#ホロドリ】釣りきちAZ平 #ホロドリ釣り名人 になる！！！！！！hololive Dreams【ホロライブ / AZKi】",
+          "video_id": "OIMQ1zT21Sk"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -248,7 +255,14 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【 #ホロドリ釣り名人 】耐えの水宮✋すごいの釣りたい🎣【水宮枢／ホロライブ】",
+          "video_id": "iNaRzlLqWVw"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -522,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-15T15:50:35Z"
+  "generated_at": "2026-10-15T16:10:26Z"
 }
