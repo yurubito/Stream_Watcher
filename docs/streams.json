@@ -82,11 +82,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-15T12:02:20Z",
-        "title": "【#スバちょこルナたん】4人で格付けランキングするしゅばああああああああああああああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-        "video_id": "SO4RGesjHjc"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -159,11 +154,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-15T09:02:26Z",
-        "title": "【 #ホロ鯖ARK 】その６｜パイロリベンジさせろ！！！！！！！！！【常闇トワ/ホロライブ】",
-        "video_id": "9BT48CUHWe8"
-      },
       "name": "常闇トワ"
     },
     {
@@ -462,7 +452,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-15T14:00:00Z",
+          "title": "【Hololive Dreams】cosplay jadi holoh3ro【hololive | moona】",
+          "video_id": "6BpZddjpdtU"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -526,5 +523,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-15T13:10:25Z"
+  "generated_at": "2026-10-15T13:20:41Z"
 }
