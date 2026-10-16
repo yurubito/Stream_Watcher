@@ -514,11 +514,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-16T06:59:30Z",
-        "title": "【hololive Dreams】Holodori new event daily ~!!!【#holodori #ホロドリ】",
-        "video_id": "qUWZcDQ8yz0"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -588,5 +583,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T08:10:29Z"
+  "generated_at": "2026-10-16T08:20:31Z"
 }
