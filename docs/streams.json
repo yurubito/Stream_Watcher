@@ -33,11 +33,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-16T11:00:55Z",
-        "title": "【 #ホロドリ釣り名人】豪運でレア魚🐟を釣りまくれ！【ホロライブ/アキロゼ】",
-        "video_id": "K9iqnQtgoxc"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -122,14 +117,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T12:15:00Z",
-          "title": "【#ホロ鯖ARK】DAY7🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "AeGUXowhpOE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T12:33:26Z",
+        "title": "【#ホロ鯖ARK】DAY7🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "AeGUXowhpOE"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -156,11 +149,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-16T11:00:36Z",
-        "title": "【 #ホロドリ釣り名人 】今日から釣り名人を名乗りたいひつじ🎣【角巻わため/ホロライブ４期生】",
-        "video_id": "UoIEc0ChGLA"
-      },
       "name": "角巻わため"
     },
     {
@@ -245,11 +233,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-16T11:02:17Z",
-        "title": "【#ホロドリ釣り名人】最強の釣り師になるッッ！！ #ホロドリ【一条莉々華/hololive ReGLOSS】",
-        "video_id": "mK7OGYgrui8"
-      },
       "name": "一条莉々華"
     },
     {
@@ -527,11 +510,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-16T11:00:41Z",
-        "title": "【hololive Dreams #ホロドリ釣り名人】GDAY MATE ITS A FISHING TOURNAMENT!!! LUCK, GIMME GIMME!!【#holodori】",
-        "video_id": "pcSdYxScZbo"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -540,5 +518,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T12:30:46Z"
+  "generated_at": "2026-10-16T12:40:26Z"
 }
