@@ -114,7 +114,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T00:00:00Z",
+          "title": "【RATATAN】ローグライクなリズムゲー！ｽﾞﾝﾀｶﾀﾀｯﾀｱｲｱｲｻｰ【不知火フレア/ホロライブ】※ネタバレ注意",
+          "video_id": "gBUFIQ8G4sg"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -525,5 +532,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-16T20:10:36Z"
+  "generated_at": "2026-10-16T20:30:37Z"
 }
