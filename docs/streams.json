@@ -333,7 +333,14 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T00:00:00Z",
+          "title": "【Fortnite】pov because I love biboo #calliolive",
+          "video_id": "5TxU2NO_wO0"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -484,11 +491,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-16T13:51:53Z",
-        "title": "悲しみの釣り",
-        "video_id": "LW9TpiitMS8"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -512,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T16:30:48Z"
+  "generated_at": "2026-10-16T16:50:32Z"
 }
