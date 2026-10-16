@@ -142,7 +142,14 @@
         "title": "iPhone Duo争奪戦【ホロライブ/兎田ぺこら】",
         "video_id": "gMNqo-VKOO4"
       },
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T12:15:00Z",
+          "title": "【#ホロ鯖ARK】DAY7🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "AeGUXowhpOE"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -581,5 +588,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T11:10:27Z"
+  "generated_at": "2026-10-16T11:20:25Z"
 }
