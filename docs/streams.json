@@ -205,13 +205,13 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-16T22:00:27Z",
+        "title": "【#ホロドリ】#あずいろ で朝釣り🎣金冠を狙うござるさん#02【風真いろは/ホロライブ】",
+        "video_id": "Ef1RMZcQVaw"
+      },
       "name": "風真いろは",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T22:00:00Z",
-          "title": "【#ホロドリ】#あずいろ で朝釣り🎣金冠を狙うござるさん#02【風真いろは/ホロライブ】",
-          "video_id": "Ef1RMZcQVaw"
-        },
         {
           "scheduled_at": "2026-10-17T10:00:00Z",
           "title": "【Japanese Ramen Simulator】大繫盛確定★5店舗『ござるらぁめん』開店🍜【風真いろは/ホロライブ】",
@@ -532,5 +532,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-16T21:10:35Z"
+  "generated_at": "2026-10-16T22:00:45Z"
 }
