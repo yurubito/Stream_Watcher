@@ -302,11 +302,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-16T12:00:08Z",
-        "title": "【雑談】デビューして３週間！？色々一緒に振り返ってみよう！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "JYYIzELt2Ek"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -464,14 +459,7 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス #ホロドリ釣り名人】I AM FISHING. YOU ARE FISHING. WE ARE ALL FISHING.【Anya】",
-          "video_id": "LW9TpiitMS8"
-        }
-      ]
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -494,5 +482,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T13:20:42Z"
+  "generated_at": "2026-10-16T13:40:29Z"
 }
