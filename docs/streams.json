@@ -448,13 +448,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-16T21:02:59Z",
+        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】my estelle.........",
+        "video_id": "mrXHDxX_ylM"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T21:00:00Z",
-          "title": "【TRAILS IN THE SKY: 1ST CHAPTER】my estelle.........",
-          "video_id": "mrXHDxX_ylM"
-        },
         {
           "scheduled_at": "2026-10-19T01:00:00Z",
           "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
@@ -532,5 +532,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-16T21:00:54Z"
+  "generated_at": "2026-10-16T21:10:35Z"
 }
