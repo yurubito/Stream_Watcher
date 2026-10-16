@@ -521,7 +521,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【Hololive Dreams】im feeshing 🐟🐟#holodori #ホロドリ #ホロドリ釣り名人",
+          "video_id": "XFUfKye11X0"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -541,5 +548,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T06:10:24Z"
+  "generated_at": "2026-10-16T06:20:22Z"
 }
