@@ -313,11 +313,6 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-16T09:00:46Z",
-        "title": "【 歌枠 】久しぶりにうたうぞー！【虎金妃笑虎】",
-        "video_id": "qv113q2fMZA"
-      },
       "name": "虎金妃笑虎"
     },
     {
@@ -352,11 +347,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-16T09:00:33Z",
-        "title": "【 カメラ 】11月発売のホロライブウエハースを開封するよ～！ヴィヴィのカード出るかな！？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "OKhDdvmQocg"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -613,5 +603,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T10:10:36Z"
+  "generated_at": "2026-10-16T10:20:27Z"
 }
