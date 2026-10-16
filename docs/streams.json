@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-16T11:00:31Z",
-        "title": "【#ホロドリ】釣りきちAZ平 #ホロドリ釣り名人 になる！！！！！！hololive Dreams【ホロライブ / AZKi】",
-        "video_id": "OIMQ1zT21Sk"
-      },
       "name": "AZKi"
     },
     {
@@ -280,14 +275,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T12:30:00Z",
-          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃9 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "u8Lsi9cxUP4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T12:45:09Z",
+        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃9 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "u8Lsi9cxUP4"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -304,11 +297,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-16T11:01:33Z",
-        "title": "【Poly Bridge 3】最強の可動橋つくるぞ！！！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "6HzGZ_73acM"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -518,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T12:40:26Z"
+  "generated_at": "2026-10-16T12:50:35Z"
 }
