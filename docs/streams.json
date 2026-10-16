@@ -82,11 +82,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-16T13:00:59Z",
-        "title": "【#生スバル】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-        "video_id": "csCxiQIJ6TM"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -353,7 +348,14 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖"
+      "name": "一伊那尓栖",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T00:00:00Z",
+          "title": "【Arknights: Endfield】SI!!!!!!!!!!!!!!!!!!",
+          "video_id": "ZqVH1jonmgM"
+        }
+      ]
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -508,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T15:50:32Z"
+  "generated_at": "2026-10-16T16:10:35Z"
 }
