@@ -159,11 +159,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-16T10:58:26Z",
-        "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第29話～第36話【姫森ルーナ/ホロライブ】",
-        "video_id": "q2JtQgCCI1E"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -268,11 +263,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-16T12:00:09Z",
-        "title": "【トップガン マーヴェリック同時視聴】トップガンいくぞ！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "qn3L8mN76qI"
-      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -497,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T14:10:43Z"
+  "generated_at": "2026-10-16T14:40:28Z"
 }
