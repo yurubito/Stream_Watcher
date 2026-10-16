@@ -171,7 +171,14 @@
         "title": "【 #ホロ鯖ARK 】その７｜パイロほしい！！家作りたい‼️・・・カマキリ❔️【常闇トワ/ホロライブ】",
         "video_id": "qRWzJTFgqe4"
       },
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【 #ホロドリ 】#ホロドリ釣り名人🎣 緊急参戦‼️【常闇トワ/ホロライブ】",
+          "video_id": "e3yHNJQYUxw"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -249,7 +256,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【#ホロドリ釣り名人】釣りバカはおでだーーーｯ！！つりまくり大臣出勤🎣【風真いろは/ホロライブ】",
+          "video_id": "70TvRJfxLD8"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -286,7 +300,14 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎"
+      "name": "虎金妃笑虎",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T09:00:00Z",
+          "title": "【 歌枠 】久しぶりにうたうぞー！【虎金妃笑虎】",
+          "video_id": "qv113q2fMZA"
+        }
+      ]
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -569,5 +590,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T07:31:01Z"
+  "generated_at": "2026-10-16T08:00:47Z"
 }
