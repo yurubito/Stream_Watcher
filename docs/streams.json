@@ -263,7 +263,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T12:00:00Z",
+          "title": "【トップガン マーヴェリック同時視聴】よていち【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "qn3L8mN76qI"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -370,11 +377,6 @@
       "group": "EN Promise",
       "name": "オーロ・クロニー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T03:00:00Z",
-          "title": "【Hololive Dreams】Zone 2 I Think #holodori",
-          "video_id": "N4i72xMwAqM"
-        },
         {
           "scheduled_at": "2026-10-17T02:00:00Z",
           "title": "【New Outfit Reveal】Feast Your Eyes 🍷 #MasqOuroade",
@@ -532,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T03:10:24Z"
+  "generated_at": "2026-10-16T05:30:37Z"
 }
