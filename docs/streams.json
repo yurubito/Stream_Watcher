@@ -218,7 +218,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T22:00:00Z",
+          "title": "【#ホロドリ】#あずいろ で朝釣り🎣金冠を狙うござるさん#02【風真いろは/ホロライブ】",
+          "video_id": "Ef1RMZcQVaw"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -459,6 +466,11 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-16T13:51:53Z",
+        "title": "悲しみの釣り",
+        "video_id": "LW9TpiitMS8"
+      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -482,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T13:40:29Z"
+  "generated_at": "2026-10-16T14:01:07Z"
 }
