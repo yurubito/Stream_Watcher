@@ -50,6 +50,11 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【 #ホロドリ釣り名人】豪運でレア魚🐟を釣りまくれ！【ホロライブ/アキロゼ】",
+          "video_id": "K9iqnQtgoxc"
+        },
+        {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
           "video_id": "C8W03Z6zWFk"
@@ -318,11 +323,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-16T08:06:09Z",
-        "title": "【歌枠 KARAOKE】75万人耐久【水宮枢／ホロライブDEV_IS】",
-        "video_id": "MbMHsVK5fcQ"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -339,7 +339,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-16T12:00:00Z",
-          "title": "【トップガン マーヴェリック同時視聴】よていち【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "title": "【トップガン マーヴェリック同時視聴】トップガンいくぞ！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
           "video_id": "qn3L8mN76qI"
         }
       ]
@@ -381,7 +381,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T12:00:00Z",
+          "title": "【雑談】デビューして３週間！？色々一緒に振り返ってみよう！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "JYYIzELt2Ek"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -603,5 +610,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T10:20:27Z"
+  "generated_at": "2026-10-16T10:40:24Z"
 }
