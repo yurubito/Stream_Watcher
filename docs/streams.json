@@ -72,6 +72,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-16T14:58:38Z",
+        "title": "【#ホロドリ】金冠コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "S8zwrehMaJY"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -222,6 +227,11 @@
           "scheduled_at": "2026-10-16T22:00:00Z",
           "title": "【#ホロドリ】#あずいろ で朝釣り🎣金冠を狙うござるさん#02【風真いろは/ホロライブ】",
           "video_id": "Ef1RMZcQVaw"
+        },
+        {
+          "scheduled_at": "2026-10-17T10:00:00Z",
+          "title": "【Japanese Ramen Simulator】大繫盛確定★5店舗『ござるらぁめん』開店🍜【風真いろは/ホロライブ】",
+          "video_id": "voiuRX0Fs3Y"
         }
       ]
     },
@@ -489,5 +499,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T15:00:56Z"
+  "generated_at": "2026-10-16T15:10:33Z"
 }
