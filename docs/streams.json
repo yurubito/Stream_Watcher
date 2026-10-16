@@ -55,6 +55,11 @@
           "video_id": "K9iqnQtgoxc"
         },
         {
+          "scheduled_at": "2026-10-16T14:00:00Z",
+          "title": "【 #ホロ鯖ARK 】DAY7│めちゃでか拠点作り！テイムも行きたい【ホロライブ/アキロゼ】",
+          "video_id": "1rmBUIj_-ss"
+        },
+        {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
           "video_id": "C8W03Z6zWFk"
@@ -607,8 +612,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【hololive Dreams】I NEED TO BE SWEATY #holodori #ホロドリ",
+          "video_id": "gZteapaG5jE"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-16T10:40:24Z"
+  "generated_at": "2026-10-16T10:50:41Z"
 }
