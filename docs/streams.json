@@ -392,14 +392,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T01:00:00Z",
-          "title": "【Misty Mountain Gaming Collab】WE'RE COOKING UP SOME DICE! #sponsored 【HANDCAM】",
-          "video_id": "tvB4bZerS_8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T01:01:56Z",
+        "title": "【Misty Mountain Gaming Collab】WE'RE COOKING UP SOME DICE! #sponsored 【HANDCAM】",
+        "video_id": "tvB4bZerS_8"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -529,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T00:30:36Z"
+  "generated_at": "2026-10-16T01:10:24Z"
 }
