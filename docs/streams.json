@@ -425,7 +425,14 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖"
+      "name": "一伊那尓栖",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【hololive Dreams】#ホロドリ釣り名人 FEEEEESH THEY CALL TO MEEEE",
+          "video_id": "4k4Wr7JMQVo"
+        }
+      ]
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -601,5 +608,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T09:01:01Z"
+  "generated_at": "2026-10-16T09:20:24Z"
 }
