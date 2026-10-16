@@ -325,14 +325,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T12:00:00Z",
-          "title": "【トップガン マーヴェリック同時視聴】トップガンいくぞ！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "qn3L8mN76qI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T12:00:09Z",
+        "title": "【トップガン マーヴェリック同時視聴】トップガンいくぞ！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "qn3L8mN76qI"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -364,14 +362,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T12:00:00Z",
-          "title": "【雑談】デビューして３週間！？色々一緒に振り返ってみよう！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "JYYIzELt2Ek"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T12:00:08Z",
+        "title": "【雑談】デビューして３週間！？色々一緒に振り返ってみよう！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "JYYIzELt2Ek"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -590,5 +586,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T11:50:34Z"
+  "generated_at": "2026-10-16T12:00:49Z"
 }
