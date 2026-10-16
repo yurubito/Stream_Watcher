@@ -106,6 +106,21 @@
           "scheduled_at": "2026-10-16T13:00:00Z",
           "title": "【】攻殻機動隊STAND ALONE COMPLEX同時視聴【ホロライブ/大空スバル】",
           "video_id": "csCxiQIJ6TM"
+        },
+        {
+          "scheduled_at": "2026-10-17T01:00:00Z",
+          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+          "video_id": "1EXFqL00Iw8"
+        },
+        {
+          "scheduled_at": "2026-10-17T04:00:00Z",
+          "title": "【】閲覧注意！初見トルネコ【ホロライブ/大空スバル】",
+          "video_id": "2aY6d7tMDOs"
+        },
+        {
+          "scheduled_at": "2026-10-18T04:00:00Z",
+          "title": "【】トルネコ【ホロライブ/大空スバル】",
+          "video_id": "3sM_Hp2W-vo"
         }
       ]
     },
@@ -583,5 +598,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T08:40:23Z"
+  "generated_at": "2026-10-16T08:50:24Z"
 }
