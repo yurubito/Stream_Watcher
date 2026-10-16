@@ -451,7 +451,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【hololive Dreams #ホロドリ釣り名人】FISHING TOURNAMENT, APEX PREDATOR IN THE WILD!!!【#holodori】",
+          "video_id": "imQVfNXzypw"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -525,5 +532,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T03:00:55Z"
+  "generated_at": "2026-10-16T03:10:24Z"
 }
