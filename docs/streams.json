@@ -199,11 +199,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-16T10:00:53Z",
-        "title": "【 #ホロ甲2026 】前夜祭⚾️✨監督インタビューで各高校をチェック！本戦をもっと楽しんじゃおう！告知アリ‼️【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
-        "video_id": "YpHDZs_IMfY"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -479,11 +474,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-16T11:01:14Z",
-        "title": "【Hololive Dreams】im feeshing 🐟🐟#holodori #ホロドリ #ホロドリ釣り名人",
-        "video_id": "XFUfKye11X0"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -497,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T13:01:18Z"
+  "generated_at": "2026-10-16T13:10:38Z"
 }
