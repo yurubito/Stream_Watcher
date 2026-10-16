@@ -78,7 +78,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【 #ホロドリ 】キャッチ＆イーティング【ホロライブ/夏色まつり】",
+          "video_id": "2ZLDbpgY__A"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -562,5 +569,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T07:01:12Z"
+  "generated_at": "2026-10-16T07:31:01Z"
 }
