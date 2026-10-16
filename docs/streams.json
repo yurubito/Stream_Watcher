@@ -247,7 +247,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T14:00:00Z",
+          "title": "【 雑談 】ソロライブの当落発表がありましたね・・・  #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
+          "video_id": "DYbycC7lom0"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -313,14 +320,12 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T09:00:00Z",
-          "title": "【 歌枠 】久しぶりにうたうぞー！【虎金妃笑虎】",
-          "video_id": "qv113q2fMZA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T09:00:46Z",
+        "title": "【 歌枠 】久しぶりにうたうぞー！【虎金妃笑虎】",
+        "video_id": "qv113q2fMZA"
+      },
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -354,14 +359,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T09:00:00Z",
-          "title": "【 カメラ 】11月発売のホロライブウエハースを開封するよ～！ヴィヴィのカード出るかな！？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "OKhDdvmQocg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T09:00:33Z",
+        "title": "【 カメラ 】11月発売のホロライブウエハースを開封するよ～！ヴィヴィのカード出るかな！？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "OKhDdvmQocg"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -598,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T08:50:24Z"
+  "generated_at": "2026-10-16T09:01:01Z"
 }
