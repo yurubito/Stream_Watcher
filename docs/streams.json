@@ -375,6 +375,11 @@
           "scheduled_at": "2026-10-16T10:00:00Z",
           "title": "8番出口の続編ホラゲ「8番のりば」に挑むのじゃ…【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "nxuUKS_yq44"
+        },
+        {
+          "scheduled_at": "2026-10-17T10:00:00Z",
+          "title": "人間に擬態する化け物の「空気読み。2」【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "poERFwoVxxE"
         }
       ]
     },
@@ -571,7 +576,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス #ホロドリ釣り名人】I AM FISHING. YOU ARE FISHING. WE ARE ALL FISHING.【Anya】",
+          "video_id": "LW9TpiitMS8"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -608,5 +620,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T09:20:24Z"
+  "generated_at": "2026-10-16T09:40:26Z"
 }
