@@ -233,7 +233,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T12:00:00Z",
+          "title": "【莉々華の呪い DAY2】何回目で成功する…？自分完凸チャレンジ #ホロドリ 【一条莉々華/hololive ReGLOSS】",
+          "video_id": "knyRsVOaQC0"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -487,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T14:40:28Z"
+  "generated_at": "2026-10-16T14:50:34Z"
 }
