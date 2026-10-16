@@ -139,11 +139,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-16T13:00:56Z",
-        "title": "【ホロ鯖ARK】短時間だけ★アソビ隊【白銀ノエル/ホロライブ】",
-        "video_id": "IPEAIikq9Ww"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -499,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T15:10:33Z"
+  "generated_at": "2026-10-16T15:20:35Z"
 }
