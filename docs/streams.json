@@ -511,14 +511,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T05:00:00Z",
-          "title": "【hololive Dreams】B I R D スバル先輩と遊ぶ！ #holodori【Pavolia Reine/hololive】",
-          "video_id": "hWFJG6gLJ-Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T05:31:24Z",
+        "title": "【hololive Dreams】B I R D スバル先輩と遊ぶ！ #holodori【Pavolia Reine/hololive】",
+        "video_id": "hWFJG6gLJ-Y"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -543,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T06:00:46Z"
+  "generated_at": "2026-10-16T06:10:24Z"
 }
