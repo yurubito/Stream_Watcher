@@ -330,7 +330,14 @@
         "title": "【トップガン マーヴェリック同時視聴】トップガンいくぞ！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
         "video_id": "qn3L8mN76qI"
       },
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T11:00:00Z",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】#7 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+          "video_id": "-nP_op2vyOY"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -586,5 +593,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T12:00:49Z"
+  "generated_at": "2026-10-16T12:20:33Z"
 }
