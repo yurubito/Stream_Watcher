@@ -119,11 +119,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-16T12:33:26Z",
-        "title": "【#ホロ鯖ARK】DAY7🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "AeGUXowhpOE"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -291,7 +286,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T23:00:00Z",
+          "title": "【#ホロドリ 】おはよう！みんなと楽しむホロドリ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "0aO8zxPn6cQ"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -533,5 +535,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-16T18:30:40Z"
+  "generated_at": "2026-10-16T19:40:37Z"
 }
