@@ -37,7 +37,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T10:00:00Z",
+          "title": "タンポポは耐える。【星街すいせい / ＃ほしまちすたじお】",
+          "video_id": "ySKURYzOMJ4"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -59,7 +66,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ！！！！！！！【ホロライブ/白上フブキ】",
+          "video_id": "LSb7-waQDNQ"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -529,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T05:50:24Z"
+  "generated_at": "2026-10-16T06:00:46Z"
 }
