@@ -72,6 +72,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-16T17:56:18Z",
+        "title": "【#ホロ鯖ARK】ARK上陸７日目！ゲリラアイスワームなのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "W_CZEX0bmIU"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -528,5 +533,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-16T17:30:50Z"
+  "generated_at": "2026-10-16T18:10:32Z"
 }
