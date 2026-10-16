@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-16T11:00:29Z",
-        "title": "【 #ホロドリ釣り名人 】釣り名人にボクはなるううううううううううう！金冠こいこい【ホロライブ/ ロボ子さん 】",
-        "video_id": "AoZtWNOwEME"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -65,21 +60,11 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-16T11:01:15Z",
-        "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ！！！！！！！【ホロライブ/白上フブキ】",
-        "video_id": "LSb7-waQDNQ"
-      },
       "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-16T11:01:19Z",
-        "title": "【 #ホロドリ 】キャッチ＆イーティング【ホロライブ/夏色まつり】",
-        "video_id": "2ZLDbpgY__A"
-      },
       "name": "夏色まつり"
     },
     {
@@ -99,7 +84,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-16T13:00:00Z",
-          "title": "【】攻殻機動隊STAND ALONE COMPLEX同時視聴【ホロライブ/大空スバル】",
+          "title": "【#生スバル】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
           "video_id": "csCxiQIJ6TM"
         },
         {
@@ -137,11 +122,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-16T11:00:40Z",
-        "title": "iPhone Duo争奪戦【ホロライブ/兎田ぺこら】",
-        "video_id": "gMNqo-VKOO4"
-      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
@@ -186,11 +166,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-16T11:01:46Z",
-        "title": "【 #ホロドリ 】#ホロドリ釣り名人🎣 緊急参戦‼️【常闇トワ/ホロライブ】",
-        "video_id": "e3yHNJQYUxw"
-      },
       "name": "常闇トワ"
     },
     {
@@ -211,21 +186,11 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-16T08:05:11Z",
-        "title": "【 #ホロ鯖ARK 】ワイバーンの卵取りに行く（無理ですか？）【 桃鈴ねね / hololive 】",
-        "video_id": "JOueV7_ndiU"
-      },
       "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-16T10:57:51Z",
-        "title": "【#ホロドリ釣り名人】だからやってみろ、必ず目標を達成できる！【獅白ぼたん/ホロライブ】",
-        "video_id": "nMl9IXxPhDU"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -270,11 +235,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-16T11:00:59Z",
-        "title": "【#ホロドリ釣り名人】釣りバカはおでだーーーｯ！！つりまくり大臣出勤🎣【風真いろは/ホロライブ】",
-        "video_id": "70TvRJfxLD8"
-      },
       "name": "風真いろは"
     },
     {
@@ -315,11 +275,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-16T11:01:13Z",
-        "title": "【 #ホロドリ釣り名人 】耐えの水宮✋すごいの釣りたい🎣【水宮枢／ホロライブ】",
-        "video_id": "iNaRzlLqWVw"
-      },
       "name": "水宮枢"
     },
     {
@@ -342,7 +297,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T12:30:00Z",
+          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃9 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "u8Lsi9cxUP4"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -406,11 +368,6 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-16T11:02:18Z",
-        "title": "【hololive Dreams】#ホロドリ釣り名人 FEEEEESH THEY CALL TO MEEEE",
-        "video_id": "4k4Wr7JMQVo"
-      },
       "name": "一伊那尓栖"
     },
     {
@@ -506,11 +463,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-16T10:59:57Z",
-        "title": "【hololive Dreams #ホロドリ釣り名人】FISHING TOURNAMENT, APEX PREDATOR IN THE WILD!!!【#holodori】",
-        "video_id": "imQVfNXzypw"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -585,13 +537,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-16T10:59:32Z",
-        "title": "【hololive Dreams】I NEED TO BE SWEATY #holodori #ホロドリ",
-        "video_id": "gZteapaG5jE"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T12:20:33Z"
+  "generated_at": "2026-10-16T12:30:46Z"
 }
