@@ -301,7 +301,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-17T10:00:00Z",
-          "title": "人間に擬態する化け物の「空気読み。2」【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "title": "人間に擬態する「空気読み。」なのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "poERFwoVxxE"
         }
       ]
@@ -319,7 +319,19 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T02:00:00Z",
+          "title": "【EN】First time playing Five Nights at Freddy's!! | FNAF【Hyakuto Kyoko/Hololive】",
+          "video_id": "UoDgaiOpxIw"
+        },
+        {
+          "scheduled_at": "2026-10-17T13:00:00Z",
+          "title": "#3 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "zVSATVIfjrQ"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -458,7 +470,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-17T01:00:00Z",
-          "title": "【hololive Dreams】 A LITTLE GRINDING #holodori #ホロドリ 【Kureiji Ollie】",
+          "title": "【hololive Dreams】 KOBOLLIE TO BRIGHTEN YOUR DAY!! EHEK!!  #holodori #ホロドリ 【Kureiji Ollie】",
           "video_id": "kS1znvfnNlc"
         }
       ]
@@ -494,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T15:20:35Z"
+  "generated_at": "2026-10-16T15:30:55Z"
 }
