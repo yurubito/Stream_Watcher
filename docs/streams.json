@@ -268,7 +268,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T09:00:00Z",
+          "title": "【 カメラ 】11月発売のホロライブウエハースを開封するよ～！ヴィヴィのカード出るかな！？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "OKhDdvmQocg"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -319,7 +326,14 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "name": "井月みちる"
+      "name": "井月みちる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T03:00:00Z",
+          "title": "【秘密結社が動く】ジョイポリスコラボ第6弾！対面イベント情報も！【#昼ホロ / #花園さやか】",
+          "video_id": "Mp9aQzJ8yiY"
+        }
+      ]
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -431,13 +445,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-16T00:59:48Z",
+        "title": "【hololive Dreams】MORI CALLIOPE REAL #holodori",
+        "video_id": "9sjXc6K-R24"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T01:00:00Z",
-          "title": "【hololive Dreams】MORI CALLIOPE REAL #holodori",
-          "video_id": "9sjXc6K-R24"
-        },
         {
           "scheduled_at": "2026-10-19T01:00:00Z",
           "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
@@ -527,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T01:10:24Z"
+  "generated_at": "2026-10-16T01:40:22Z"
 }
