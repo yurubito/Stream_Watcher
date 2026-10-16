@@ -33,23 +33,18 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-16T10:00:38Z",
-        "title": "タンポポは耐える。【星街すいせい / ＃ほしまちすたじお】",
-        "video_id": "ySKURYzOMJ4"
-      },
       "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-16T11:00:55Z",
+        "title": "【 #ホロドリ釣り名人】豪運でレア魚🐟を釣りまくれ！【ホロライブ/アキロゼ】",
+        "video_id": "K9iqnQtgoxc"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【 #ホロドリ釣り名人】豪運でレア魚🐟を釣りまくれ！【ホロライブ/アキロゼ】",
-          "video_id": "K9iqnQtgoxc"
-        },
         {
           "scheduled_at": "2026-10-16T14:00:00Z",
           "title": "【 #ホロ鯖ARK 】DAY7│めちゃでか拠点作り！テイムも行きたい【ホロライブ/アキロゼ】",
@@ -70,26 +65,22 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ！！！！！！！【ホロライブ/白上フブキ】",
-          "video_id": "LSb7-waQDNQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:01:15Z",
+        "title": "【#ホロドリ釣り名人】ホロドリ釣り名人は誰だぁあああああ！！！！！！！【ホロライブ/白上フブキ】",
+        "video_id": "LSb7-waQDNQ"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【 #ホロドリ 】キャッチ＆イーティング【ホロライブ/夏色まつり】",
-          "video_id": "2ZLDbpgY__A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:01:19Z",
+        "title": "【 #ホロドリ 】キャッチ＆イーティング【ホロライブ/夏色まつり】",
+        "video_id": "2ZLDbpgY__A"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -181,14 +172,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【 #ホロドリ 】#ホロドリ釣り名人🎣 緊急参戦‼️【常闇トワ/ホロライブ】",
-          "video_id": "e3yHNJQYUxw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:01:46Z",
+        "title": "【 #ホロドリ 】#ホロドリ釣り名人🎣 緊急参戦‼️【常闇トワ/ホロライブ】",
+        "video_id": "e3yHNJQYUxw"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -267,14 +256,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【#ホロドリ釣り名人】釣りバカはおでだーーーｯ！！つりまくり大臣出勤🎣【風真いろは/ホロライブ】",
-          "video_id": "70TvRJfxLD8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:00:59Z",
+        "title": "【#ホロドリ釣り名人】釣りバカはおでだーーーｯ！！つりまくり大臣出勤🎣【風真いろは/ホロライブ】",
+        "video_id": "70TvRJfxLD8"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -284,14 +271,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【#ホロドリ釣り名人】最強の釣り師になるッッ！！ #ホロドリ【一条莉々華/hololive ReGLOSS】",
-          "video_id": "mK7OGYgrui8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:02:17Z",
+        "title": "【#ホロドリ釣り名人】最強の釣り師になるッッ！！ #ホロドリ【一条莉々華/hololive ReGLOSS】",
+        "video_id": "mK7OGYgrui8"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -316,14 +301,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【 #ホロドリ釣り名人 】耐えの水宮✋すごいの釣りたい🎣【水宮枢／ホロライブ】",
-          "video_id": "iNaRzlLqWVw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:01:13Z",
+        "title": "【 #ホロドリ釣り名人 】耐えの水宮✋すごいの釣りたい🎣【水宮枢／ホロライブ】",
+        "video_id": "iNaRzlLqWVw"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -362,14 +345,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【Poly Bridge 3】最強の可動橋つくるぞ！！！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "6HzGZ_73acM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:01:33Z",
+        "title": "【Poly Bridge 3】最強の可動橋つくるぞ！！！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "6HzGZ_73acM"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -413,14 +394,12 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【hololive Dreams】#ホロドリ釣り名人 FEEEEESH THEY CALL TO MEEEE",
-          "video_id": "4k4Wr7JMQVo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:02:18Z",
+        "title": "【hololive Dreams】#ホロドリ釣り名人 FEEEEESH THEY CALL TO MEEEE",
+        "video_id": "4k4Wr7JMQVo"
+      },
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -574,26 +553,22 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【Hololive Dreams】im feeshing 🐟🐟#holodori #ホロドリ #ホロドリ釣り名人",
-          "video_id": "XFUfKye11X0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:01:14Z",
+        "title": "【Hololive Dreams】im feeshing 🐟🐟#holodori #ホロドリ #ホロドリ釣り名人",
+        "video_id": "XFUfKye11X0"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T11:00:00Z",
-          "title": "【hololive Dreams #ホロドリ釣り名人】GDAY MATE ITS A FISHING TOURNAMENT!!! LUCK, GIMME GIMME!!【#holodori】",
-          "video_id": "pcSdYxScZbo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-16T11:00:41Z",
+        "title": "【hololive Dreams #ホロドリ釣り名人】GDAY MATE ITS A FISHING TOURNAMENT!!! LUCK, GIMME GIMME!!【#holodori】",
+        "video_id": "pcSdYxScZbo"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -606,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T11:00:50Z"
+  "generated_at": "2026-10-16T11:10:27Z"
 }
