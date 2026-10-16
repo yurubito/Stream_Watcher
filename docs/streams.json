@@ -345,11 +345,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-16T00:59:14Z",
-        "title": "【hololive Dreams】bothering her #calliolive #holodori",
-        "video_id": "TyIpkqjl7mU"
-      },
       "name": "森カリオペ"
     },
     {
@@ -404,11 +399,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-16T01:01:56Z",
-        "title": "【Misty Mountain Gaming Collab】WE'RE COOKING UP SOME DICE! #sponsored 【HANDCAM】",
-        "video_id": "tvB4bZerS_8"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -438,6 +428,11 @@
       "group": "EN Justice",
       "name": "ジジ・ムリン",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T21:00:00Z",
+          "title": "【TRAILS IN THE SKY: 1ST CHAPTER】my estelle.........",
+          "video_id": "mrXHDxX_ylM"
+        },
         {
           "scheduled_at": "2026-10-19T01:00:00Z",
           "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
@@ -534,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T05:30:37Z"
+  "generated_at": "2026-10-16T05:50:24Z"
 }
