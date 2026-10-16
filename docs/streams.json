@@ -159,6 +159,11 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-16T05:42:06Z",
+        "title": "【 #ホロ鯖ARK 】その７｜パイロほしい！！家作りたい‼️・・・カマキリ❔️【常闇トワ/ホロライブ】",
+        "video_id": "qRWzJTFgqe4"
+      },
       "name": "常闇トワ"
     },
     {
@@ -181,7 +186,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T08:00:00Z",
+          "title": "【 #ホロ鯖ARK 】ワイバーンの卵取りに行く（無理ですか？）【 桃鈴ねね / hololive 】",
+          "video_id": "JOueV7_ndiU"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -240,7 +252,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T11:00:00Z",
+          "title": "【#ホロドリ釣り名人】最強の釣り師になるッッ！！ #ホロドリ【一条莉々華/hololive ReGLOSS】",
+          "video_id": "mK7OGYgrui8"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -330,11 +349,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-16T01:59:19Z",
-        "title": "【EN】#4 Can I finish the 2nd Isle today? | Cuphead【Hyakuto Kyoko/Hololive】",
-        "video_id": "CVsPXWqiD8k"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -347,14 +361,7 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "name": "井月みちる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-16T03:00:00Z",
-          "title": "【秘密結社が動く】ジョイポリスコラボ第6弾！対面イベント情報も！【#昼ホロ / #花園さやか】",
-          "video_id": "Mp9aQzJ8yiY"
-        }
-      ]
+      "name": "井月みちる"
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -374,11 +381,6 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-16T02:01:03Z",
-        "title": "【NEW OUTFIT REVEAL】Dressing Up Real #FancyRyS 👗 おめかしタイムだ！",
-        "video_id": "SSGb-kITXQU"
-      },
       "name": "IRyS"
     },
     {
@@ -408,7 +410,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-16T23:00:00Z",
+          "title": "Any % Speedrun but I don't speed and run 【Rubinite】",
+          "video_id": "HWwZVS-lz-U"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -474,11 +483,21 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-16T06:59:30Z",
+        "title": "【hololive Dreams】Holodori new event daily ~!!!【#holodori #ホロドリ】",
+        "video_id": "qUWZcDQ8yz0"
+      },
       "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-16T06:58:42Z",
+        "title": "【Hololive Dreams】main apa hari ini?【hololive | moona】",
+        "video_id": "VZJfcLMs41I"
+      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -511,11 +530,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-16T05:31:24Z",
-        "title": "【hololive Dreams】B I R D スバル先輩と遊ぶ！ #holodori【Pavolia Reine/hololive】",
-        "video_id": "hWFJG6gLJ-Y"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -548,5 +562,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-16T06:20:22Z"
+  "generated_at": "2026-10-16T07:01:12Z"
 }
