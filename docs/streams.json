@@ -223,7 +223,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T12:00:00Z",
+          "title": "【 ホロドリ 】新エリアに行きたい！【音乃瀬奏】#ReGLOSS",
+          "video_id": "zsEJmq-XZzI"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -511,5 +518,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T11:20:31Z"
+  "generated_at": "2026-10-17T11:50:39Z"
 }
