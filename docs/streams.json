@@ -120,7 +120,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T11:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY8🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "SIxl_AYaD70"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -479,7 +486,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T11:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】The Dreams Continue!【hololive holoro | Anya Melfissa】",
+          "video_id": "l4UFpMlixj8"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -521,5 +535,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T10:20:31Z"
+  "generated_at": "2026-10-17T10:30:44Z"
 }
