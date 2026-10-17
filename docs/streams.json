@@ -33,11 +33,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-17T14:32:29Z",
-        "title": "【ホロライブドリームス】 実質雑談！エリアクエこなす！#ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "1eGF8OUnCtM"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -283,7 +278,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T02:00:00Z",
+          "title": "【EN】Picking Up Where I Left Off | Fears to Fathom: Ironbark Lookout【Hyakuto Kyoko/Hololive】",
+          "video_id": "P0CgRq-ujH8"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -379,14 +381,7 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T18:00:00Z",
-          "title": "【GUERILLA】CAN WE WIN AND GET LARA TO A HOSPITAL!?!?!?",
-          "video_id": "HdEGLyy4y4c"
-        }
-      ]
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -468,5 +463,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T15:40:34Z"
+  "generated_at": "2026-10-17T15:45:10Z"
 }
