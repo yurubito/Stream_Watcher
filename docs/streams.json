@@ -178,7 +178,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T05:30:00Z",
+          "title": "【 秋華賞 】牝馬三冠最終戦！！この秋の女王はどの馬に・・・！？【鷹嶺ルイ/ホロライブ】",
+          "video_id": "3Czc-bPlFR8"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -475,5 +482,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T21:40:30Z"
+  "generated_at": "2026-10-17T21:49:23Z"
 }
