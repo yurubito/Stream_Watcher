@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T15:00:00Z",
+          "title": "【 ＃ホロドリ 】#お子様バッテリー で深夜のチルドリ  【ホロライブ/ ロボ子さん 】",
+          "video_id": "3hzhCGG4JzU"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -97,11 +104,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-17T11:01:00Z",
-        "title": "#3【バイオハザード HDリマスター】やるです。",
-        "video_id": "3cy82zMXJvo"
-      },
       "name": "戌神ころね"
     },
     {
@@ -157,7 +159,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T09:00:00Z",
+          "title": "ガチムチ達のプランBが帰ってきたぞ～っ！＃02－Gear of War: E-Day【獅白ぼたん/ホロライブ】",
+          "video_id": "7eTWm1dCV7Q"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -224,7 +233,14 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T15:00:00Z",
+          "title": "【  #ホロドリ 】ホロドリきちゃ🐟＃13【水宮枢／ホロライブ】",
+          "video_id": "rOXIiFNDi1U"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -407,7 +423,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T03:30:00Z",
+          "title": "【Supadonoreading】THANK YOU FOR THE SUPPORT ALWAYS! #shorts【hololive ID 2nd Gen | Anya Melfissa】",
+          "video_id": "oTYyghN5fxU"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -444,5 +467,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T14:40:28Z"
+  "generated_at": "2026-10-17T15:00:48Z"
 }
