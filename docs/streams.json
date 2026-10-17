@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-17T15:05:37Z",
-        "title": "【 ＃ホロドリ 】#お子様バッテリー で深夜のチルドリ  【ホロライブ/ ロボ子さん 】",
-        "video_id": "3hzhCGG4JzU"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -240,11 +235,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-17T15:04:52Z",
-        "title": "【  #ホロドリ 】ホロドリきちゃ🐟＃13【水宮枢／ホロライブ】",
-        "video_id": "rOXIiFNDi1U"
-      },
       "name": "水宮枢"
     },
     {
@@ -482,5 +472,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T16:10:35Z"
+  "generated_at": "2026-10-17T16:20:24Z"
 }
