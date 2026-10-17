@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-17T13:00:19Z",
-        "title": "【BOMBANANA!】信じていいん…信じるのは己のみ…！？チーム #PONBANANA 【ホロライブ/ ロボ子さん 】",
-        "video_id": "L-AQ2t2mJbE"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -23,11 +18,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-17T13:00:51Z",
-        "title": "【BOMBANANA!】PONだけのPONBANANAやるにぇ！！！！！！！！！【ホロライブ/さくらみこ】",
-        "video_id": "O-bOizBC2Lg"
-      },
       "name": "さくらみこ"
     },
     {
@@ -167,11 +157,6 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-17T09:01:50Z",
-        "title": "ガチムチ達のプランBが帰ってきたぞ～っ！－Gears of War: E-Day【獅白ぼたん/ホロライブ】",
-        "video_id": "fR4-EYnSGuI"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -219,11 +204,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-17T12:00:37Z",
-        "title": "【莉々華の呪い DAY2】何回目で成功する…？自分完凸チャレンジ #ホロドリ 【一条莉々華/hololive ReGLOSS】",
-        "video_id": "knyRsVOaQC0"
-      },
       "name": "一条莉々華"
     },
     {
@@ -249,11 +229,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-17T13:00:29Z",
-        "title": "【BOMBANANA!】PONとPON(偽)とPONの爆弾解除…💣【水宮枢／ホロライブ】",
-        "video_id": "Ang9xA90VFE"
-      },
       "name": "水宮枢"
     },
     {
@@ -474,5 +449,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T14:20:32Z"
+  "generated_at": "2026-10-17T14:30:48Z"
 }
