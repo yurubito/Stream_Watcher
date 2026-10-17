@@ -382,14 +382,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T18:00:00Z",
-          "title": "【GUERILLA】CAN WE WIN AND GET LARA TO A HOSPITAL!?!?!?",
-          "video_id": "HdEGLyy4y4c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T18:01:28Z",
+        "title": "【GUERILLA】CAN WE WIN AND GET LARA TO A HOSPITAL!?!?!?",
+        "video_id": "HdEGLyy4y4c"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -461,5 +459,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T17:56:27Z"
+  "generated_at": "2026-10-17T18:10:41Z"
 }
