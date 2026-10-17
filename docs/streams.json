@@ -59,14 +59,7 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T11:00:00Z",
-          "title": "【#3】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
-          "video_id": "pBz8ZGCHqOo"
-        }
-      ]
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -113,7 +106,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T11:00:00Z",
+          "title": "#3【バイオハザード HDリマスター】やるです。",
+          "video_id": "3cy82zMXJvo"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -509,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-17T08:34:03Z"
+  "generated_at": "2026-10-17T08:40:26Z"
 }
