@@ -420,11 +420,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-17T13:00:45Z",
-        "title": "【#holodori 】Daily fishing【 iofi / hololive】",
-        "video_id": "MbskqPDCTbg"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -479,5 +474,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T14:10:45Z"
+  "generated_at": "2026-10-17T14:20:32Z"
 }
