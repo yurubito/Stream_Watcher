@@ -18,7 +18,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T13:00:00Z",
+          "title": "【ホロライブ/さくらみこ/ときのそら】",
+          "video_id": "25waBu_edn0"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -242,7 +249,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T10:00:00Z",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】#8 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+          "video_id": "I6_3dC3tfhA"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -459,5 +473,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T18:10:41Z"
+  "generated_at": "2026-10-17T18:50:41Z"
 }
