@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T11:00:00Z",
-          "title": "ときのそら 活動9周年記念EP『CHECK！』リリース記念インターネットサイン会",
-          "video_id": "rV3ts7qdzDc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T11:06:56Z",
+        "title": "ときのそら 活動9周年記念EP『CHECK！』リリース記念インターネットサイン会",
+        "video_id": "rV3ts7qdzDc"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -66,14 +64,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T11:00:00Z",
-          "title": "【#3】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
-          "video_id": "pBz8ZGCHqOo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T11:01:09Z",
+        "title": "【#3】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
+        "video_id": "pBz8ZGCHqOo"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -115,26 +111,22 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T11:00:00Z",
-          "title": "#3【バイオハザード HDリマスター】やるです。",
-          "video_id": "3cy82zMXJvo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T11:01:00Z",
+        "title": "#3【バイオハザード HDリマスター】やるです。",
+        "video_id": "3cy82zMXJvo"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T11:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY8🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "SIxl_AYaD70"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T11:00:57Z",
+        "title": "【#ホロ鯖ARK】DAY8🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "SIxl_AYaD70"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -280,14 +272,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T11:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】#7 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-          "video_id": "-nP_op2vyOY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T11:01:22Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】#7 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+        "video_id": "-nP_op2vyOY"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -488,14 +478,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T11:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】The Dreams Continue!【hololive holoro | Anya Melfissa】",
-          "video_id": "l4UFpMlixj8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T11:01:19Z",
+        "title": "【hololive Dreams ホロライブドリームス】The Dreams Continue!【hololive holoro | Anya Melfissa】",
+        "video_id": "l4UFpMlixj8"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -505,14 +493,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T11:00:00Z",
-          "title": "【Hololive Dreams】with keyboard! #holodori #ホロドリ",
-          "video_id": "VGYpAv-_IiY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T11:02:23Z",
+        "title": "【Hololive Dreams】with keyboard! #holodori #ホロドリ",
+        "video_id": "VGYpAv-_IiY"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -537,5 +523,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T11:00:44Z"
+  "generated_at": "2026-10-17T11:10:37Z"
 }
