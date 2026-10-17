@@ -196,11 +196,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-17T05:45:07Z",
-        "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY1⚾️2リーグ総当たり戦🔥 #ホロ甲2026DAY1 【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
-        "video_id": "HbnrA9b5iH8"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -223,14 +218,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T12:00:00Z",
-          "title": "【 ホロドリ 】新エリアに行きたい！【音乃瀬奏】#ReGLOSS",
-          "video_id": "zsEJmq-XZzI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T12:01:12Z",
+        "title": "【 ホロドリ 】新エリアに行きたい！【音乃瀬奏】#ReGLOSS",
+        "video_id": "zsEJmq-XZzI"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -440,14 +433,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T12:00:00Z",
-          "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
-          "video_id": "fht4M1kLgBw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T12:03:46Z",
+        "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
+        "video_id": "fht4M1kLgBw"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -514,5 +505,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T12:01:01Z"
+  "generated_at": "2026-10-17T12:10:33Z"
 }
