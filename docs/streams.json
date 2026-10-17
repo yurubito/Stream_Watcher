@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T11:00:00Z",
+          "title": "ときのそら 活動9周年記念EP『CHECK！』リリース記念インターネットサイン会",
+          "video_id": "rV3ts7qdzDc"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -67,25 +74,23 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T03:00:00Z",
-          "title": "【#ホロ鯖ARK】ARK上陸8日目！素材王子育てしながら素材集め編なのだ！【ホロライブ/癒月ちょこ】",
-          "video_id": "zeTBeqhbmBg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T06:16:57Z",
+        "title": "【#ホロ鯖ARK】ARK上陸8日目！素材王子育てしながら素材集め編なのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "1cZTpygKh80"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-17T04:03:00Z",
+        "title": "【#生スバル】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
+        "video_id": "2aY6d7tMDOs"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T04:00:00Z",
-          "title": "【#生スバル】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
-          "video_id": "2aY6d7tMDOs"
-        },
         {
           "scheduled_at": "2026-10-18T04:00:00Z",
           "title": "【】トルネコ【ホロライブ/大空スバル】",
@@ -116,11 +121,6 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-17T00:32:53Z",
-        "title": "【RATATAN】ローグライクなリズムゲー！ｽﾞﾝﾀｶﾀﾀｯﾀｱｲｱｲｻｰ【不知火フレア/ホロライブ】※ネタバレ注意",
-        "video_id": "gBUFIQ8G4sg"
-      },
       "name": "不知火フレア"
     },
     {
@@ -151,6 +151,11 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-17T06:00:12Z",
+        "title": "【タンポポは耐える。】我はたんぽぽ。強く生きる【​雪花ラミィ /ホロライブ】",
+        "video_id": "o4k31asQPGI"
+      },
       "name": "雪花ラミィ"
     },
     {
@@ -161,7 +166,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T09:00:00Z",
+          "title": "ガチムチ達のプランBが帰ってきたぞ～っ！－Gears of War: E-Day【獅白ぼたん/ホロライブ】",
+          "video_id": "fR4-EYnSGuI"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -176,25 +188,23 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T03:00:00Z",
-          "title": "【 ドラゴンクエスト ビルダーズ 】マイラガライヤ編続きしていくぞおおおお【鷹嶺ルイ/ホロライブ】ネタバレあり",
-          "video_id": "uJiq13m0xkY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T03:01:57Z",
+        "title": "【 ドラゴンクエスト ビルダーズ 】マイラガライヤ編続きしていくぞおおおお【鷹嶺ルイ/ホロライブ】ネタバレあり",
+        "video_id": "uJiq13m0xkY"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-17T05:45:07Z",
+        "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY1⚾️2リーグ総当たり戦🔥 #ホロ甲2026DAY1 【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+        "video_id": "HbnrA9b5iH8"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T06:00:00Z",
-          "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY1⚾️2リーグ総当たり戦🔥 #ホロ甲2026DAY1 【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
-          "video_id": "HbnrA9b5iH8"
-        },
         {
           "scheduled_at": "2026-10-18T07:00:00Z",
           "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY2⚾️3D✨トーナメント戦‼️ #ホロ甲2026DAY2 【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
@@ -278,11 +288,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-16T23:02:22Z",
-        "title": "【#ホロドリ 】おはよう！みんなと楽しむホロドリ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "0aO8zxPn6cQ"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -310,11 +315,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-17T01:59:19Z",
-        "title": "【EN】First time playing Five Nights at Freddy's!! | FNAF【Hyakuto Kyoko/Hololive】",
-        "video_id": "UoDgaiOpxIw"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -332,14 +332,12 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T03:00:00Z",
-          "title": "【Elden Ring】pwincess.......... (with girlDM) #calliolive",
-          "video_id": "PShNTkv1j98"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T03:11:23Z",
+        "title": "【Elden Ring】pwincess.......... (with girlDM) #calliolive",
+        "video_id": "PShNTkv1j98"
+      },
+      "name": "森カリオペ"
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -349,11 +347,6 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-17T00:00:07Z",
-        "title": "【Arknights: Endfield】SI!!!!!!!!! + New Story Playthough!!",
-        "video_id": "ZqVH1jonmgM"
-      },
       "name": "一伊那尓栖"
     },
     {
@@ -364,11 +357,6 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-17T02:01:13Z",
-        "title": "【New Outfit Reveal】Feast Your Eyes 🍷 #MasqOuroade",
-        "video_id": "SLLS2T4SWvg"
-      },
       "name": "オーロ・クロニー"
     },
     {
@@ -421,6 +409,11 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-17T21:00:00Z",
+          "title": "【CRIME SCENE CLEANER】im da cleaner",
+          "video_id": "JXx5vnvdjvQ"
+        },
+        {
           "scheduled_at": "2026-10-19T01:00:00Z",
           "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
           "video_id": "i7PxwGBGIl0"
@@ -445,12 +438,36 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T12:00:00Z",
+          "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
+          "video_id": "fht4M1kLgBw"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T08:00:00Z",
+          "title": "【 #holoctober 】DAY 17 : Outfit Swap【 iofi / hololive】",
+          "video_id": "6Nbv9FrKCQk"
+        },
+        {
+          "scheduled_at": "2026-10-17T13:00:00Z",
+          "title": "【#holodori 】Daily fishing【 iofi / hololive】",
+          "video_id": "MbskqPDCTbg"
+        },
+        {
+          "scheduled_at": "2026-10-17T15:00:00Z",
+          "title": "Karaoke or Stand Up Comedy?",
+          "video_id": "HoKQmoJExkE"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -475,13 +492,23 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-17T05:30:34Z",
+        "title": "【hololive Dreams】what song will we learn today?🤔【#holodori】",
+        "video_id": "OLAujyVXiXQ"
+      },
       "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-17T06:46:24Z",
+        "title": "【FREE TALK】LET’S TAAAALKKKKKKK !!!!!",
+        "video_id": "QYelQz1V1nQ"
+      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-17T02:50:23Z"
+  "generated_at": "2026-10-17T07:00:55Z"
 }
