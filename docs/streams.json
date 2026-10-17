@@ -28,13 +28,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-17T14:32:29Z",
+        "title": "【ホロライブドリームス】 実質雑談！エリアクエこなす！#ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "1eGF8OUnCtM"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T14:30:00Z",
-          "title": "【ホロライブドリームス】 実質雑談！エリアクエこなす！#ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "1eGF8OUnCtM"
-        },
         {
           "scheduled_at": "2026-10-17T16:00:00Z",
           "title": "【 #ホロ鯖ARK 】DAY9│ド深夜ARKでめちゃでか拠点作り！【ホロライブ/アキロゼ】",
@@ -194,11 +194,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-17T12:01:12Z",
-        "title": "【 ホロドリ 】新エリアに行きたい！【音乃瀬奏】#ReGLOSS",
-        "video_id": "zsEJmq-XZzI"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -449,5 +444,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T14:30:48Z"
+  "generated_at": "2026-10-17T14:40:28Z"
 }
