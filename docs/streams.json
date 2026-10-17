@@ -23,14 +23,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T13:00:00Z",
-          "title": "【BOMBANANA!】PONだけのPONBANANAやるにぇ！！！！！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "O-bOizBC2Lg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T13:00:51Z",
+        "title": "【BOMBANANA!】PONだけのPONBANANAやるにぇ！！！！！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "O-bOizBC2Lg"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -201,11 +199,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-17T10:01:07Z",
-        "title": "【Japanese Ramen Simulator】大繫盛確定★5店舗『ござるらぁめん』開店🍜【風真いろは/ホロライブ】",
-        "video_id": "voiuRX0Fs3Y"
-      },
       "name": "風真いろは"
     },
     {
@@ -439,13 +432,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-17T13:00:45Z",
+        "title": "【#holodori 】Daily fishing【 iofi / hololive】",
+        "video_id": "MbskqPDCTbg"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T13:00:00Z",
-          "title": "【#holodori 】Daily fishing【 iofi / hololive】",
-          "video_id": "MbskqPDCTbg"
-        },
         {
           "scheduled_at": "2026-10-17T15:00:00Z",
           "title": "Karaoke or Stand Up Comedy?",
@@ -501,5 +494,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T13:00:47Z"
+  "generated_at": "2026-10-17T13:10:38Z"
 }
