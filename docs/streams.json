@@ -350,14 +350,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T23:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】Callsign: Meteorite67",
-          "video_id": "Rdfv_gljE-Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T22:56:01Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】Callsign: Meteorite67",
+        "video_id": "Rdfv_gljE-Y"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -480,5 +478,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T22:00:46Z"
+  "generated_at": "2026-10-17T23:01:03Z"
 }
