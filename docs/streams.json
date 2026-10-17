@@ -107,14 +107,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T00:30:00Z",
-          "title": "【RATATAN】ローグライクなリズムゲー！ｽﾞﾝﾀｶﾀﾀｯﾀｱｲｱｲｻｰ【不知火フレア/ホロライブ】※ネタバレ注意",
-          "video_id": "gBUFIQ8G4sg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T00:32:53Z",
+        "title": "【RATATAN】ローグライクなリズムゲー！ｽﾞﾝﾀｶﾀﾀｯﾀｱｲｱｲｻｰ【不知火フレア/ホロライブ】※ネタバレ注意",
+        "video_id": "gBUFIQ8G4sg"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -398,14 +396,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T00:00:00Z",
-          "title": "【FORTNITE】Manifesting with @MoriCalliope",
-          "video_id": "QeyNbvaCNl4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T00:01:11Z",
+        "title": "【FORTNITE】Manifesting with @MoriCalliope",
+        "video_id": "QeyNbvaCNl4"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -516,5 +512,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T00:30:38Z"
+  "generated_at": "2026-10-17T00:50:25Z"
 }
