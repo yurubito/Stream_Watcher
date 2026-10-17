@@ -303,7 +303,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T12:00:00Z",
+          "title": "【SPAGHET】フブキ先輩からいただいたSPAGHETいっぱい食べたい!!!【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "mcxHsRQ1wEQ"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -514,5 +521,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T10:10:31Z"
+  "generated_at": "2026-10-17T10:20:31Z"
 }
