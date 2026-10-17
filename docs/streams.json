@@ -290,14 +290,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T10:00:00Z",
-          "title": "人間20年生の「空気読み。」なのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "poERFwoVxxE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T09:58:45Z",
+        "title": "人間20年生の「空気読み。」なのじゃ【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "poERFwoVxxE"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -518,5 +516,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T09:50:40Z"
+  "generated_at": "2026-10-17T10:00:43Z"
 }
