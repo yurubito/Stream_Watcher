@@ -196,7 +196,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T22:00:00Z",
+          "title": "【#ホロドリ】朝活☀#スプボの時間だよ🎣【風真いろは/ホロライブ】",
+          "video_id": "dkSBw7TZdPQ"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -276,11 +283,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-17T12:59:55Z",
-        "title": "#3 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "zVSATVIfjrQ"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -454,5 +456,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T15:10:26Z"
+  "generated_at": "2026-10-17T15:30:37Z"
 }
