@@ -407,11 +407,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-17T15:01:33Z",
-        "title": "Karaoke or Stand Up Comedy?",
-        "video_id": "HoKQmoJExkE"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -464,5 +459,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T17:01:10Z"
+  "generated_at": "2026-10-17T17:20:24Z"
 }
