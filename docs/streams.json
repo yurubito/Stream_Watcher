@@ -81,11 +81,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-17T06:16:57Z",
-        "title": "【#ホロ鯖ARK】ARK上陸8日目！素材王子育てしながら素材集め編なのだ！【ホロライブ/癒月ちょこ】",
-        "video_id": "1cZTpygKh80"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -508,8 +503,15 @@
         "title": "【FREE TALK】LET’S TAAAALKKKKKKK !!!!!",
         "video_id": "QYelQz1V1nQ"
       },
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T12:30:00Z",
+          "title": "【 #歌うまスンギ歌枠リレー】HELLO!!! LET'S SING TOGETHER ~ !! 【こぼ・かなえる 様】",
+          "video_id": "0-21K73BYWc"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-17T08:50:22Z"
+  "generated_at": "2026-10-17T09:01:04Z"
 }
