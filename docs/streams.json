@@ -379,7 +379,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T18:00:00Z",
+          "title": "【GUERILLA】CAN WE WIN AND GET LARA TO A HOSPITAL!?!?!?",
+          "video_id": "HdEGLyy4y4c"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -420,6 +427,11 @@
           "scheduled_at": "2026-10-18T03:30:00Z",
           "title": "【Supadonoreading】THANK YOU FOR THE SUPPORT ALWAYS! #shorts【hololive ID 2nd Gen | Anya Melfissa】",
           "video_id": "oTYyghN5fxU"
+        },
+        {
+          "scheduled_at": "2026-10-18T12:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】Let's Train More!~【hololive holoro | Anya Melfissa】",
+          "video_id": "HX1OvSPws0A"
         }
       ]
     },
@@ -456,5 +468,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T15:30:37Z"
+  "generated_at": "2026-10-17T15:40:34Z"
 }
