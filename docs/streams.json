@@ -60,11 +60,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-17T11:01:09Z",
-        "title": "【#3】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
-        "video_id": "pBz8ZGCHqOo"
-      },
       "name": "白上フブキ"
     },
     {
@@ -410,11 +405,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-17T11:11:38Z",
-        "title": "【hololive Dreams】RYTHM GAME PRACTICE AGAIN with Anya and Zeta ~!!!【#holodori #ホロドリ】",
-        "video_id": "XPpo3zPzVss"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -452,7 +442,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T15:00:00Z",
+          "title": "【hololive Dreams】Small Pokajan Leads to Big Explosion #holodori【Pavolia Reine/hololive】",
+          "video_id": "aXoFEtTYPPI"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -477,5 +474,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T13:50:41Z"
+  "generated_at": "2026-10-17T14:01:03Z"
 }
