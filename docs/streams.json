@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T13:00:00Z",
+          "title": "【BOMBANANA!】信じていいん…信じるのは己のみ…！？爆弾解除PONBANANA【ホロライブ/ ロボ子さん 】",
+          "video_id": "L-AQ2t2mJbE"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -510,5 +517,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T01:30:40Z"
+  "generated_at": "2026-10-17T02:30:42Z"
 }
