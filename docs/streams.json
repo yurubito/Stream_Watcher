@@ -235,14 +235,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T12:00:00Z",
-          "title": "【莉々華の呪い DAY2】何回目で成功する…？自分完凸チャレンジ #ホロドリ 【一条莉々華/hololive ReGLOSS】",
-          "video_id": "knyRsVOaQC0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T12:00:37Z",
+        "title": "【莉々華の呪い DAY2】何回目で成功する…？自分完凸チャレンジ #ホロドリ 【一条莉々華/hololive ReGLOSS】",
+        "video_id": "knyRsVOaQC0"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -309,14 +307,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T12:00:00Z",
-          "title": "【SPAGHET】フブキ先輩からいただいたSPAGHETいっぱい食べたい!!!【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "mcxHsRQ1wEQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T11:59:31Z",
+        "title": "【SPAGHET】フブキ先輩からいただいたSPAGHETいっぱい食べたい!!!【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "mcxHsRQ1wEQ"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -518,5 +514,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T11:50:39Z"
+  "generated_at": "2026-10-17T12:01:01Z"
 }
