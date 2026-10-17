@@ -280,6 +280,11 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-17T09:45:46Z",
+        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃10 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "ix1viHLQXCE"
+      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -481,7 +486,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T11:00:00Z",
+          "title": "【Hololive Dreams】with keyboard! #holodori #ホロドリ",
+          "video_id": "VGYpAv-_IiY"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -506,5 +518,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T09:30:51Z"
+  "generated_at": "2026-10-17T09:50:40Z"
 }
