@@ -32,7 +32,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T13:00:00Z",
+          "title": "【BOMBANANA!】PONだけのPONBANANAやるにぇ！！！！！！！！！【ホロライブ/さくらみこ】",
+          "video_id": "O-bOizBC2Lg"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -535,5 +542,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T10:30:44Z"
+  "generated_at": "2026-10-17T10:50:30Z"
 }
