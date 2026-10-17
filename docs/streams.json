@@ -379,13 +379,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-17T21:03:00Z",
+        "title": "【CRIME SCENE CLEANER】im da cleaner",
+        "video_id": "JXx5vnvdjvQ"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T21:00:00Z",
-          "title": "【CRIME SCENE CLEANER】im da cleaner",
-          "video_id": "JXx5vnvdjvQ"
-        },
         {
           "scheduled_at": "2026-10-19T01:00:00Z",
           "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
@@ -480,5 +480,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T19:00:57Z"
+  "generated_at": "2026-10-17T21:10:39Z"
 }
