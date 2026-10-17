@@ -345,14 +345,12 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T00:00:00Z",
-          "title": "【Arknights: Endfield】SI!!!!!!!!!!!!!!!!!!",
-          "video_id": "ZqVH1jonmgM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T00:00:07Z",
+        "title": "【Arknights: Endfield】SI!!!!!!!!! + New Story Playthough!!",
+        "video_id": "ZqVH1jonmgM"
+      },
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -512,5 +510,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T00:50:25Z"
+  "generated_at": "2026-10-17T01:30:40Z"
 }
