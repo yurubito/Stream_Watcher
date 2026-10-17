@@ -165,14 +165,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T09:00:00Z",
-          "title": "ガチムチ達のプランBが帰ってきたぞ～っ！－Gears of War: E-Day【獅白ぼたん/ホロライブ】",
-          "video_id": "fR4-EYnSGuI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T09:01:50Z",
+        "title": "ガチムチ達のプランBが帰ってきたぞ～っ！－Gears of War: E-Day【獅白ぼたん/ホロライブ】",
+        "video_id": "fR4-EYnSGuI"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -513,5 +511,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T09:01:04Z"
+  "generated_at": "2026-10-17T09:10:23Z"
 }
