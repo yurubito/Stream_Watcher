@@ -67,18 +67,20 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-17T03:00:00Z",
+          "title": "【#ホロ鯖ARK】ARK上陸8日目！素材王子育てしながら素材集め編なのだ！【ホロライブ/癒月ちょこ】",
+          "video_id": "zeTBeqhbmBg"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T01:00:00Z",
-          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-          "video_id": "1EXFqL00Iw8"
-        },
         {
           "scheduled_at": "2026-10-17T04:00:00Z",
           "title": "【#生スバル】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
@@ -367,14 +369,12 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T02:00:00Z",
-          "title": "【New Outfit Reveal】Feast Your Eyes 🍷 #MasqOuroade",
-          "video_id": "SLLS2T4SWvg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-17T02:01:13Z",
+        "title": "【New Outfit Reveal】Feast Your Eyes 🍷 #MasqOuroade",
+        "video_id": "SLLS2T4SWvg"
+      },
+      "name": "オーロ・クロニー"
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -391,21 +391,11 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-16T23:08:36Z",
-        "title": "Any % Speedrun but I don't speed and run 【Rubinite】",
-        "video_id": "HWwZVS-lz-U"
-      },
       "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-17T00:01:11Z",
-        "title": "【FORTNITE】Manifesting with @MoriCalliope",
-        "video_id": "QeyNbvaCNl4"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -433,11 +423,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-16T21:02:59Z",
-        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】my estelle.........",
-        "video_id": "mrXHDxX_ylM"
-      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -475,14 +460,7 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T01:00:00Z",
-          "title": "【hololive Dreams】 KOBOLLIE TO BRIGHTEN YOUR DAY!! EHEK!!  #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "kS1znvfnNlc"
-        }
-      ]
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -507,15 +485,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T01:00:00Z",
-          "title": "【hololive Dreams】DAILY HOLODORIIII #holodori #ホロドリ",
-          "video_id": "smyROHJ-JLE"
-        }
-      ]
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-17T02:30:42Z"
+  "generated_at": "2026-10-17T02:40:25Z"
 }
