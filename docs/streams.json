@@ -33,13 +33,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-17T16:01:08Z",
+        "title": "【 #ホロ鯖ARK 】DAY9│ド深夜ARKでめちゃでか拠点作り！【ホロライブ/アキロゼ】",
+        "video_id": "lUjjBU4jmVw"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-17T16:00:00Z",
-          "title": "【 #ホロ鯖ARK 】DAY9│ド深夜ARKでめちゃでか拠点作り！【ホロライブ/アキロゼ】",
-          "video_id": "lUjjBU4jmVw"
-        },
         {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
@@ -482,5 +482,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-17T15:50:37Z"
+  "generated_at": "2026-10-17T16:10:35Z"
 }
