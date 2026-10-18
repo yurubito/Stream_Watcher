@@ -34,17 +34,12 @@
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
       "live": {
-        "started_at": "2026-10-18T13:03:01Z",
-        "title": "【ホロライブドリームス】 実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "4615fZj_dwY"
+        "started_at": "2026-10-18T14:19:39Z",
+        "title": "【 #ホロ鯖ARK 】DAY10│ついにめちゃデカ拠点完成！凍土の洞窟へ！【ホロライブ/アキロゼ】",
+        "video_id": "eXp9OF4YbRw"
       },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T14:15:00Z",
-          "title": "【 #ホロ鯖ARK 】DAY10│ついにめちゃデカ拠点完成！凍土の洞窟へ！【ホロライブ/アキロゼ】",
-          "video_id": "eXp9OF4YbRw"
-        },
         {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
@@ -174,11 +169,6 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-18T09:01:25Z",
-        "title": "ガチムチ達のプランBが帰ってきたぞ～っ！＃02－Gear of War: E-Day【獅白ぼたん/ホロライブ】",
-        "video_id": "7eTWm1dCV7Q"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -536,5 +526,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T14:10:31Z"
+  "generated_at": "2026-10-18T14:20:25Z"
 }
