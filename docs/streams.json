@@ -393,6 +393,11 @@
           "scheduled_at": "2026-10-19T03:00:00Z",
           "title": "≪UNARCHIVED KARAOKE・歌枠≫ Training those vocal chords for REGALIA! #RoadToREGALIA",
           "video_id": "k8oEFAZ-RQc"
+        },
+        {
+          "scheduled_at": "2026-10-19T13:00:00Z",
+          "title": "≪hololive Dreams≫ TOKOYAMI TOWA #holodori",
+          "video_id": "9iP8hmE31kM"
         }
       ]
     },
@@ -463,7 +468,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T02:30:00Z",
+          "title": "#MMMalas : NEW ACCESSORIES AND ANNOUNCEMENT in MMM !?!?!",
+          "video_id": "hBef1wJIjVk"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -513,11 +525,6 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-18T14:02:19Z",
-        "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
-        "video_id": "uhsXGA58_f4"
-      },
       "name": "こぼ・かなえる",
       "upcoming": [
         {
@@ -528,5 +535,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T15:10:25Z"
+  "generated_at": "2026-10-18T15:30:38Z"
 }
