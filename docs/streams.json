@@ -52,13 +52,13 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-18T11:01:58Z",
+        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその２【ホロライブ/白上フブキ】",
+        "video_id": "3ACao2VjHJ0"
+      },
       "name": "白上フブキ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T11:00:00Z",
-          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその２【ホロライブ/白上フブキ】",
-          "video_id": "3ACao2VjHJ0"
-        },
         {
           "scheduled_at": "2026-10-19T11:00:00Z",
           "title": "【#ド珍組】ド珍検証会を開催するので３人には検証にお付き合い頂きます。【ホロライブ/白上フブキ】",
@@ -69,14 +69,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T11:00:00Z",
-          "title": "【恋愛プロフィール】まつりガチ恋勢必見！もっとまちゅを知ってね♡【ホロライブ/夏色まつり】",
-          "video_id": "kYKmNCRiC40"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T11:01:15Z",
+        "title": "【恋愛プロフィール】まつりガチ恋勢必見！もっとまちゅを知ってね♡【ホロライブ/夏色まつり】",
+        "video_id": "kYKmNCRiC40"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -293,14 +291,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T11:00:00Z",
-          "title": "【#ホロドリ 】カリオペ先輩と初サシコラボ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "gooJUZcKXPc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T11:03:10Z",
+        "title": "【#ホロドリ 】カリオペ先輩と初サシコラボ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "gooJUZcKXPc"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -466,7 +462,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T12:00:00Z",
+          "title": "【hololive Dreams】More holodori practice ~!!! With the girlies !【#holodori #ホロドリ】",
+          "video_id": "XMQ2yRBByPg"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -515,7 +518,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T12:00:00Z",
+          "title": "【Hololive Dreams】RHYTHM  TRAINING ARC !!!!!!!!! #holodori #ホロドリ",
+          "video_id": "3E_1kUJvJ64"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -542,5 +552,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T11:00:51Z"
+  "generated_at": "2026-10-18T11:10:24Z"
 }
