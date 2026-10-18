@@ -148,11 +148,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-18T02:03:07Z",
-        "title": "【 #ホロ鯖ARK 】その８｜流石に今日はパイロ‼️【常闇トワ/ホロライブ】",
-        "video_id": "kDDUFiCKD3M"
-      },
       "name": "常闇トワ"
     },
     {
@@ -479,11 +474,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-18T08:02:18Z",
-        "title": "【 #holoctober 】DAY 18 : DEMON【 iofi / hololive】",
-        "video_id": "ag4qvAuZjgU"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -496,7 +486,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T12:00:00Z",
+          "title": "【hololive Dreams】 LOCKING IN ON KEYBOARD RHYTHM!!! #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "G9EkIot_yZQ"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -552,5 +549,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T11:10:24Z"
+  "generated_at": "2026-10-18T11:20:25Z"
 }
