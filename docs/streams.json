@@ -193,14 +193,7 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T14:00:00Z",
-          "title": "【 ホロドリ 】駆け込みガチャああああああああああああああ【鷹嶺ルイ/ホロライブ】",
-          "video_id": "I2BUk-RoA4Y"
-        }
-      ]
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -495,5 +488,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T07:40:30Z"
+  "generated_at": "2026-10-18T07:50:28Z"
 }
