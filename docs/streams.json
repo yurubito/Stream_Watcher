@@ -184,11 +184,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-18T14:01:14Z",
-        "title": "【 ホロドリ 】駆け込みガチャああああああああああああああ【鷹嶺ルイ/ホロライブ】",
-        "video_id": "I2BUk-RoA4Y"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -392,7 +387,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T03:00:00Z",
+          "title": "≪UNARCHIVED KARAOKE・歌枠≫ Training those vocal chords for REGALIA! #RoadToREGALIA",
+          "video_id": "k8oEFAZ-RQc"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -526,5 +528,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T15:00:54Z"
+  "generated_at": "2026-10-18T15:10:25Z"
 }
