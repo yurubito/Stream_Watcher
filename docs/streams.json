@@ -38,6 +38,16 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-18T13:00:00Z",
+          "title": "【ホロライブドリームス】 実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
+          "video_id": "4615fZj_dwY"
+        },
+        {
+          "scheduled_at": "2026-10-18T14:15:00Z",
+          "title": "【 #ホロ鯖ARK 】DAY10│ついにめちゃデカ拠点完成！凍土の洞窟へ！【ホロライブ/アキロゼ】",
+          "video_id": "eXp9OF4YbRw"
+        },
+        {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
           "video_id": "C8W03Z6zWFk"
@@ -99,14 +109,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T12:00:00Z",
-          "title": "【ド★初見】めちゃムズ！？「餓狼伝説 City of the Wolves」遊ぶ！！",
-          "video_id": "dOZfbpgTpMI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T12:10:19Z",
+        "title": "【ド★初見】めちゃムズ！？「餓狼伝説 City of the Wolves」遊ぶ！！",
+        "video_id": "-Uqt2lT09Cw"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -215,19 +223,24 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T10:30:00Z",
+          "title": "【 #歌うまスンギ歌枠リレー   】【音乃瀬奏】#ReGLOSS",
+          "video_id": "gX9AoYgK46A"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T12:00:00Z",
-          "title": "【80億分の1】何度生まれ変わっても…【一条莉々華/hololive ReGLOSS】",
-          "video_id": "bQ0EckQTj5I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T12:02:32Z",
+        "title": "【80億分の1】何度生まれ変わっても…【一条莉々華/hololive ReGLOSS】",
+        "video_id": "bQ0EckQTj5I"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -325,6 +338,11 @@
       "name": "鈴鳴つづり",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-18T12:30:00Z",
+          "title": "【妹に運転を教える】無免許だけどお姉さんよしよし担当なら余裕でしょ！？【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "V2MOzTzCLhs"
+        },
+        {
           "scheduled_at": "2026-10-19T11:00:00Z",
           "title": "【収益化記念配信リレー】今なら運が良いのでは！？ Buckshot Roulette【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
           "video_id": "1wC1ADe7tGo"
@@ -403,7 +421,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T14:00:00Z",
+          "title": "【HOLOLIVE DREAMS】PREPPING FOR SWIMSUIT BIBOO BECAUSE SHE EXISTS TOMORROW #holodori",
+          "video_id": "vV_K_yyMYik"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -459,14 +484,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T12:00:00Z",
-          "title": "【hololive Dreams】More holodori practice ~!!! With the girlies !【#holodori #ホロドリ】",
-          "video_id": "XMQ2yRBByPg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T12:02:11Z",
+        "title": "【hololive Dreams】More holodori practice ~!!! With the girlies !【#holodori #ホロドリ】",
+        "video_id": "XMQ2yRBByPg"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -476,38 +499,32 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T12:00:00Z",
-          "title": "【#holodori 】Daily fishing PART 2【 iofi / hololive】",
-          "video_id": "OeayLSK4voE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T12:02:15Z",
+        "title": "【#holodori 】Daily fishing PART 2【 iofi / hololive】",
+        "video_id": "OeayLSK4voE"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T12:00:00Z",
-          "title": "【hololive Dreams】 LOCKING IN ON KEYBOARD RHYTHM!!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "G9EkIot_yZQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T12:05:57Z",
+        "title": "【hololive Dreams】 LOCKING IN ON KEYBOARD RHYTHM!!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "G9EkIot_yZQ"
+      },
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T12:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Let's Train More!~【hololive holoro | Anya Melfissa】",
-          "video_id": "HX1OvSPws0A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T12:02:47Z",
+        "title": "【hololive Dreams ホロライブドリームス】Let's Train More!~【hololive holoro | Anya Melfissa】",
+        "video_id": "HX1OvSPws0A"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -549,5 +566,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T12:00:51Z"
+  "generated_at": "2026-10-18T12:10:35Z"
 }
