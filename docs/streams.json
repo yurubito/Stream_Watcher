@@ -119,7 +119,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T15:00:00Z",
+          "title": "【 #ホロ鯖ARK 】深夜に突如現れる雪ダルマントマン...！今宵も気ままなARK生活🦕【角巻わため/ホロライブ４期生】",
+          "video_id": "4k5k9SkR25c"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -489,5 +496,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T18:00:47Z"
+  "generated_at": "2026-10-18T18:40:30Z"
 }
