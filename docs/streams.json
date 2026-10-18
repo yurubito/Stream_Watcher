@@ -487,11 +487,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-18T12:02:15Z",
-        "title": "【#holodori 】Daily fishing PART 2【 iofi / hololive】",
-        "video_id": "OeayLSK4voE"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -517,7 +512,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T14:00:00Z",
+          "title": "【hololive Dreams】Clang clang clang clang clang clang clang clang #holodori【Pavolia Reine/hololive】",
+          "video_id": "TBJjrebnHNs"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -554,5 +556,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T13:10:30Z"
+  "generated_at": "2026-10-18T13:20:40Z"
 }
