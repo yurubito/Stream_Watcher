@@ -82,11 +82,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-18T14:02:09Z",
-        "title": "【#ホロドリ】金冠コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "HziDaCpsubc"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -119,11 +114,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-18T11:21:04Z",
-        "title": "【#ホロ鯖ARK】DAY9🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "xPXkTgryIgs"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -525,5 +515,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T15:40:22Z"
+  "generated_at": "2026-10-18T16:00:44Z"
 }
