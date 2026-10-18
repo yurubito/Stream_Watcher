@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-18T15:00:06Z",
-        "title": "【 ＃ホロドリ 】深夜のチル釣り図鑑うめうめ🐡【ホロライブ/ ロボ子さん 】",
-        "video_id": "TnijhHRqd5w"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -184,14 +179,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T15:30:00Z",
-          "title": "風真いろはの #ねるまえらじお 📻❣ #25",
-          "video_id": "paQsqFi3uLQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T16:01:42Z",
+        "title": "風真いろはの #ねるまえらじお 📻❣ #25",
+        "video_id": "paQsqFi3uLQ"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -515,5 +508,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T16:00:44Z"
+  "generated_at": "2026-10-18T16:10:31Z"
 }
