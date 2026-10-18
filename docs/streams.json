@@ -87,7 +87,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T14:00:00Z",
+          "title": "【#ホロドリ】金冠コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "HziDaCpsubc"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -97,7 +104,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T22:30:00Z",
+          "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
+          "video_id": "JNmLGWG882g"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -539,5 +553,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T13:40:24Z"
+  "generated_at": "2026-10-18T14:01:03Z"
 }
