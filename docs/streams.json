@@ -74,6 +74,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-18T03:00:57Z",
+        "title": "【#ホロ鯖ARK】ARK上陸９日目！素材王工業炉つくりたいなのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "BVUvAtnBz5M"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -475,5 +480,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T03:40:23Z"
+  "generated_at": "2026-10-18T04:30:30Z"
 }
