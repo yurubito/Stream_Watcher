@@ -106,7 +106,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T12:00:00Z",
+          "title": "【ド★初見】めちゃムズ！？「餓狼伝説 City of the Wolves」遊ぶ！！",
+          "video_id": "dOZfbpgTpMI"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -535,5 +542,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T10:30:58Z"
+  "generated_at": "2026-10-18T10:50:41Z"
 }
