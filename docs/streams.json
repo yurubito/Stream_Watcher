@@ -116,11 +116,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-18T01:00:15Z",
-        "title": "【朝活雑談】このあとホロライブ甲子園2026本戦！！ドキドキだけどさんまありまっする💪🔥【白銀ノエル/ホロライブ】",
-        "video_id": "O3JHLJzRtGY"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -136,6 +131,11 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-18T02:03:07Z",
+        "title": "【 #ホロ鯖ARK 】その８｜流石に今日はパイロ‼️【常闇トワ/ホロライブ】",
+        "video_id": "kDDUFiCKD3M"
+      },
       "name": "常闇トワ"
     },
     {
@@ -303,7 +303,14 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T11:00:00Z",
+          "title": "【ホロドリ】ヴィヴィちゃんと話して、日本語を上達させよう！！ #calliolive #holodori #ホロドリ",
+          "video_id": "jEVsTmNEwb0"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -328,14 +335,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T02:00:00Z",
-          "title": "≪NEW OUTFIT REVEAL≫ Put on your mask its time to PARTY + BIG ANNOUNCEMENT #PartyRat",
-          "video_id": "IGOCsaF3-D4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T01:55:22Z",
+        "title": "≪NEW OUTFIT REVEAL≫ Put on your mask its time to PARTY + BIG ANNOUNCEMENT #PartyRat",
+        "video_id": "IGOCsaF3-D4"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -377,11 +382,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-17T21:03:00Z",
-        "title": "【CRIME SCENE CLEANER】im da cleaner",
-        "video_id": "JXx5vnvdjvQ"
-      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -473,5 +473,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T01:40:33Z"
+  "generated_at": "2026-10-18T02:10:38Z"
 }
