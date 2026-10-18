@@ -77,14 +77,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T22:30:00Z",
-          "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
-          "video_id": "JNmLGWG882g"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T22:30:12Z",
+        "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
+        "video_id": "JNmLGWG882g"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -508,5 +506,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T22:00:49Z"
+  "generated_at": "2026-10-18T22:30:32Z"
 }
