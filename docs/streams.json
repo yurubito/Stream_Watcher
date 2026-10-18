@@ -109,11 +109,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-18T12:10:19Z",
-        "title": "【ド★初見】めちゃムズ！？「餓狼伝説 City of the Wolves」遊ぶ！！",
-        "video_id": "-Uqt2lT09Cw"
-      },
       "name": "戌神ころね"
     },
     {
@@ -201,11 +196,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-18T06:45:11Z",
-        "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY2⚾️3D✨トーナメント戦‼️ #ホロ甲2026DAY2 【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
-        "video_id": "m73y3nyuZ6A"
-      },
       "name": "博衣こより"
     },
     {
@@ -494,6 +484,11 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-18T12:10:11Z",
+        "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
+        "video_id": "7LMSX43mAFU"
+      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -566,5 +561,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T12:10:35Z"
+  "generated_at": "2026-10-18T12:20:26Z"
 }
