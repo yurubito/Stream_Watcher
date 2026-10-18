@@ -69,7 +69,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T11:00:00Z",
+          "title": "【恋愛プロフィール】まつりガチ恋勢必見！もっとまちゅを知ってね♡【ホロライブ/夏色まつり】",
+          "video_id": "kYKmNCRiC40"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -321,6 +328,11 @@
           "scheduled_at": "2026-10-18T13:30:00Z",
           "title": "#3 深まる謎も、全部解き明かすよーー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "yaGBdBwtvWA"
+        },
+        {
+          "scheduled_at": "2026-10-19T11:30:00Z",
+          "title": "【収益化記念配信リレー】みんなー！！いつもありがとーー！！感謝の歌枠！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "EEhH3t4FhRk"
         }
       ]
     },
@@ -511,5 +523,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T09:40:39Z"
+  "generated_at": "2026-10-18T10:20:31Z"
 }
