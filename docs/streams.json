@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T15:00:00Z",
+          "title": "【 ＃ホロドリ 】深夜のチル釣り図鑑うめうめ🐡【ホロライブ/ ロボ子さん 】",
+          "video_id": "TnijhHRqd5w"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -18,11 +25,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-18T13:02:21Z",
-        "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
-        "video_id": "25waBu_edn0"
-      },
       "name": "さくらみこ"
     },
     {
@@ -476,11 +478,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-18T12:02:47Z",
-        "title": "【hololive Dreams ホロライブドリームス】Let's Train More!~【hololive holoro | Anya Melfissa】",
-        "video_id": "HX1OvSPws0A"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -526,5 +523,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T14:20:25Z"
+  "generated_at": "2026-10-18T14:30:50Z"
 }
