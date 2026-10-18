@@ -22,7 +22,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-18T13:00:00Z",
-          "title": "【ホロライブ/さくらみこ/ときのそら】",
+          "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
           "video_id": "25waBu_edn0"
         }
       ]
@@ -69,11 +69,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-18T11:01:15Z",
-        "title": "【恋愛プロフィール】まつりガチ恋勢必見！もっとまちゅを知ってね♡【ホロライブ/夏色まつり】",
-        "video_id": "kYKmNCRiC40"
-      },
       "name": "夏色まつり"
     },
     {
@@ -208,12 +203,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-18T05:01:16Z",
-        "title": "【#ホロARK】文明を進めてたいDAY🏝【風真いろは/ホロライブ】",
-        "video_id": "keX-vGIf71A"
-      },
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T15:30:00Z",
+          "title": "風真いろはの #ねるまえらじお 📻❣ #25",
+          "video_id": "paQsqFi3uLQ"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -223,7 +220,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T12:00:00Z",
+          "title": "【80億分の1】何度生まれ変わっても…【一条莉々華/hololive ReGLOSS】",
+          "video_id": "bQ0EckQTj5I"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -320,11 +324,6 @@
       "group": "アソビ★まわり隊！",
       "name": "鈴鳴つづり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T12:30:00Z",
-          "title": "【妹に運転を教える】無免許だけどお姉さんよしよし担当なら余裕でしょ！？【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "V2MOzTzCLhs"
-        },
         {
           "scheduled_at": "2026-10-19T11:00:00Z",
           "title": "【収益化記念配信リレー】今なら運が良いのでは！？ Buckshot Roulette【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
@@ -518,14 +517,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T12:00:00Z",
-          "title": "【Hololive Dreams】RHYTHM  TRAINING ARC !!!!!!!!! #holodori #ホロドリ",
-          "video_id": "3E_1kUJvJ64"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T12:00:18Z",
+        "title": "【Hololive Dreams】RHYTHM  TRAINING ARC !!!!!!!!! #holodori #ホロドリ",
+        "video_id": "3E_1kUJvJ64"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -552,5 +549,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T11:50:23Z"
+  "generated_at": "2026-10-18T12:00:51Z"
 }
