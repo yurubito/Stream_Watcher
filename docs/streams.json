@@ -265,11 +265,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-18T05:53:30Z",
-        "title": "【競馬/秋華賞】ひさびさのG1です！！！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "mC-881pDOgw"
-      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -503,5 +498,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T07:00:53Z"
+  "generated_at": "2026-10-18T07:10:25Z"
 }
