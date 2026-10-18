@@ -3,11 +3,6 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-18T09:00:09Z",
-        "title": "【cover】ファイアダンス【歌ってみた/ときのそら/町田ちま/夢追翔/春希】",
-        "video_id": "kZlHh0uCdtg"
-      },
       "name": "ときのそら"
     },
     {
@@ -84,11 +79,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-18T03:00:57Z",
-        "title": "【#ホロ鯖ARK】ARK上陸９日目！素材王工業炉つくりたいなのだ！【ホロライブ/癒月ちょこ】",
-        "video_id": "BVUvAtnBz5M"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -164,14 +154,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T09:00:00Z",
-          "title": "ガチムチ達のプランBが帰ってきたぞ～っ！＃02－Gear of War: E-Day【獅白ぼたん/ホロライブ】",
-          "video_id": "7eTWm1dCV7Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T09:01:25Z",
+        "title": "ガチムチ達のプランBが帰ってきたぞ～っ！＃02－Gear of War: E-Day【獅白ぼたん/ホロライブ】",
+        "video_id": "7eTWm1dCV7Q"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -516,5 +504,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T09:00:44Z"
+  "generated_at": "2026-10-18T09:10:22Z"
 }
