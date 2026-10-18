@@ -363,7 +363,14 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー"
+      "name": "オーロ・クロニー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T01:00:00Z",
+          "title": "【Indika】I Don't Belong Here | #1",
+          "video_id": "_x8dbbbDqMY"
+        }
+      ]
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -503,5 +510,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T19:01:07Z"
+  "generated_at": "2026-10-18T21:00:50Z"
 }
