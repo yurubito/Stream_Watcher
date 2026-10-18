@@ -87,14 +87,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T14:00:00Z",
-          "title": "【#ホロドリ】金冠コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
-          "video_id": "HziDaCpsubc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T14:02:09Z",
+        "title": "【#ホロドリ】金冠コンプ目指す釣り配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "HziDaCpsubc"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -196,14 +194,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T14:00:00Z",
-          "title": "【 ホロドリ 】駆け込みガチャああああああああああああああ【鷹嶺ルイ/ホロライブ】",
-          "video_id": "I2BUk-RoA4Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T14:01:14Z",
+        "title": "【 ホロドリ 】駆け込みガチャああああああああああああああ【鷹嶺ルイ/ホロライブ】",
+        "video_id": "I2BUk-RoA4Y"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -335,11 +331,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-18T12:29:37Z",
-        "title": "【妹に運転を教える】無免許だけどお姉さんよしよし担当なら余裕でしょ！？【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "V2MOzTzCLhs"
-      },
       "name": "鈴鳴つづり",
       "upcoming": [
         {
@@ -416,14 +407,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T14:00:00Z",
-          "title": "【HOLOLIVE DREAMS】PREPPING FOR SWIMSUIT BIBOO BECAUSE SHE EXISTS TOMORROW #holodori",
-          "video_id": "vV_K_yyMYik"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T14:02:48Z",
+        "title": "【HOLOLIVE DREAMS】PREPPING FOR SWIMSUIT BIBOO BECAUSE SHE EXISTS TOMORROW #holodori",
+        "video_id": "vV_K_yyMYik"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -467,14 +456,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T14:00:00Z",
-          "title": "【UNDERTALE】I am really not ready for this【Genocide Run】",
-          "video_id": "GTmgp_nFrXM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T14:03:24Z",
+        "title": "【UNDERTALE】I am really not ready for this【Genocide Run】",
+        "video_id": "GTmgp_nFrXM"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -509,14 +496,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T14:00:00Z",
-          "title": "【hololive Dreams】Clang clang clang clang clang clang clang clang #holodori【Pavolia Reine/hololive】",
-          "video_id": "TBJjrebnHNs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T14:01:26Z",
+        "title": "【hololive Dreams】Clang clang clang clang clang clang clang clang #holodori【Pavolia Reine/hololive】",
+        "video_id": "TBJjrebnHNs"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -526,25 +511,23 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T14:00:00Z",
-          "title": "【hololive Dreams】tomorrow is.......... KAELA BANNER and it's MONDAY!!!【#holodori】",
-          "video_id": "tQKl2WHH3GE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T14:02:15Z",
+        "title": "【hololive Dreams】tomorrow is.......... KAELA BANNER and it's MONDAY!!!【#holodori】",
+        "video_id": "tQKl2WHH3GE"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-18T14:02:19Z",
+        "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+        "video_id": "uhsXGA58_f4"
+      },
       "name": "こぼ・かなえる",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T14:00:00Z",
-          "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
-          "video_id": "uhsXGA58_f4"
-        },
         {
           "scheduled_at": "2026-10-19T12:30:00Z",
           "title": "【 #歌うまスンギ歌枠リレー】HELLO!!! LET'S SING TOGETHER ~ !! 【こぼ・かなえる 様】",
@@ -553,5 +536,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T14:01:03Z"
+  "generated_at": "2026-10-18T14:10:31Z"
 }
