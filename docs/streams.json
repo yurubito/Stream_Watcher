@@ -429,13 +429,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-18T08:02:18Z",
+        "title": "【 #holoctober 】DAY 18 : DEMON【 iofi / hololive】",
+        "video_id": "ag4qvAuZjgU"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T08:00:00Z",
-          "title": "【 #holoctober 】DAY 18 : DEMON【 iofi / hololive】",
-          "video_id": "ag4qvAuZjgU"
-        },
         {
           "scheduled_at": "2026-10-18T12:00:00Z",
           "title": "【#holodori 】Daily fishing PART 2【 iofi / hololive】",
@@ -495,5 +495,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T08:00:49Z"
+  "generated_at": "2026-10-18T08:10:24Z"
 }
