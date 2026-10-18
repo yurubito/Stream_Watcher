@@ -346,11 +346,6 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-18T05:11:55Z",
-        "title": "【Hololive Dreams】Zone 3 #holodori",
-        "video_id": "XdJ8yQO-RnU"
-      },
       "name": "オーロ・クロニー"
     },
     {
@@ -498,5 +493,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T07:10:25Z"
+  "generated_at": "2026-10-18T07:20:31Z"
 }
