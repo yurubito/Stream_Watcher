@@ -77,11 +77,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-18T22:30:12Z",
-        "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
-        "video_id": "JNmLGWG882g"
-      },
       "name": "大神ミオ"
     },
     {
@@ -259,7 +254,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T00:00:00Z",
+          "title": "【#ホロドリ 】おはよう！魚コンプ目指して！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW　　】",
+          "video_id": "zvMJdhNvlMI"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -501,5 +503,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T23:38:06Z"
+  "generated_at": "2026-10-18T23:50:25Z"
 }
