@@ -116,14 +116,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T11:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY9🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "xPXkTgryIgs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T11:21:04Z",
+        "title": "【#ホロ鯖ARK】DAY9🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "xPXkTgryIgs"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -549,5 +547,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T11:20:25Z"
+  "generated_at": "2026-10-18T11:30:38Z"
 }
