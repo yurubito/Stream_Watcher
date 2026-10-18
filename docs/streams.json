@@ -3,14 +3,7 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T09:00:00Z",
-          "title": "【cover】ファイアダンス【歌ってみた/ときのそら/町田ちま/夢追翔/春希】",
-          "video_id": "kZlHh0uCdtg"
-        }
-      ]
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -473,5 +466,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T01:20:24Z"
+  "generated_at": "2026-10-18T01:23:36Z"
 }
