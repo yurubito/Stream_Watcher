@@ -174,11 +174,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-18T16:01:42Z",
-        "title": "風真いろはの #ねるまえらじお 📻❣ #25",
-        "video_id": "paQsqFi3uLQ"
-      },
       "name": "風真いろは"
     },
     {
@@ -255,11 +250,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-18T13:09:28Z",
-        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃11 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "5aEZ7QC7YoM"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -431,11 +421,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-18T14:03:24Z",
-        "title": "【UNDERTALE】I am really not ready for this【Genocide Run】",
-        "video_id": "GTmgp_nFrXM"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -503,5 +488,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T16:50:27Z"
+  "generated_at": "2026-10-18T17:00:56Z"
 }
