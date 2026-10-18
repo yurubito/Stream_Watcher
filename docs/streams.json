@@ -363,13 +363,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-18T10:59:51Z",
+        "title": "【ホロドリ】ヴィヴィちゃんと話して、日本語を上達させよう！！ #calliolive #holodori #ホロドリ",
+        "video_id": "jEVsTmNEwb0"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T11:00:00Z",
-          "title": "【ホロドリ】ヴィヴィちゃんと話して、日本語を上達させよう！！ #calliolive #holodori #ホロドリ",
-          "video_id": "jEVsTmNEwb0"
-        },
         {
           "scheduled_at": "2026-10-19T23:00:00Z",
           "title": "【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN'T WAIT TO (finale) #calliolive",
@@ -542,5 +542,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T10:50:41Z"
+  "generated_at": "2026-10-18T11:00:51Z"
 }
