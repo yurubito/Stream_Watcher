@@ -291,11 +291,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-18T11:03:10Z",
-        "title": "【#ホロドリ 】カリオペ先輩と初サシコラボ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "gooJUZcKXPc"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -364,11 +359,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-18T10:59:51Z",
-        "title": "【ホロドリ】ヴィヴィちゃんと話して、日本語を上達させよう！！ #calliolive #holodori #ホロドリ",
-        "video_id": "jEVsTmNEwb0"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -561,5 +551,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T12:31:02Z"
+  "generated_at": "2026-10-18T12:40:24Z"
 }
