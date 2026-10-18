@@ -221,7 +221,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T11:00:00Z",
+          "title": "【初】３Dで莉々華とリングフィット アドベンチャー！【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "Qv7M3pSYW5U"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -504,5 +511,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T09:10:22Z"
+  "generated_at": "2026-10-18T09:40:39Z"
 }
