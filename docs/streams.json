@@ -235,11 +235,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-18T13:32:21Z",
-        "title": "【#5】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
-        "video_id": "301EPXwoc_A"
-      },
       "name": "水宮枢"
     },
     {
@@ -475,11 +470,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-18T14:02:15Z",
-        "title": "【hololive Dreams】tomorrow is.......... KAELA BANNER and it's MONDAY!!!【#holodori】",
-        "video_id": "tQKl2WHH3GE"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -495,5 +485,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T17:10:35Z"
+  "generated_at": "2026-10-18T17:20:42Z"
 }
