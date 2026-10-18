@@ -111,7 +111,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T11:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY9🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "xPXkTgryIgs"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -234,6 +241,11 @@
           "scheduled_at": "2026-10-19T11:00:00Z",
           "title": "【初】３Dで莉々華とリングフィット アドベンチャー！【轟はじめ/ホロライブReGLOSS】",
           "video_id": "Qv7M3pSYW5U"
+        },
+        {
+          "scheduled_at": "2026-10-20T12:00:00Z",
+          "title": "【セルフ３D】いつもありがとな千速【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "j_nflQRGPUw"
         }
       ]
     },
@@ -505,7 +517,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-18T14:00:00Z",
-          "title": "【hololive Dreams】tomorrow is.......... NEW BANNER and it's MONDAY!!!【#holodori】",
+          "title": "【hololive Dreams】tomorrow is.......... KAELA BANNER and it's MONDAY!!!【#holodori】",
           "video_id": "tQKl2WHH3GE"
         }
       ]
@@ -523,5 +535,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T10:20:31Z"
+  "generated_at": "2026-10-18T10:30:58Z"
 }
