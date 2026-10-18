@@ -18,14 +18,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T13:00:00Z",
-          "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
-          "video_id": "25waBu_edn0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T13:02:21Z",
+        "title": "【急遽コラボ】憧れのアイドルと共に―――。【ホロライブ/さくらみこ/ときのそら】",
+        "video_id": "25waBu_edn0"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -35,13 +33,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-18T13:03:01Z",
+        "title": "【ホロライブドリームス】 実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "4615fZj_dwY"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T13:00:00Z",
-          "title": "【ホロライブドリームス】 実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "4615fZj_dwY"
-        },
         {
           "scheduled_at": "2026-10-18T14:15:00Z",
           "title": "【 #ホロ鯖ARK 】DAY10│ついにめちゃデカ拠点完成！凍土の洞窟へ！【ホロライブ/アキロゼ】",
@@ -291,14 +289,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T13:00:00Z",
-          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃11 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "5aEZ7QC7YoM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T13:09:28Z",
+        "title": "【#ホロARK】初めてのホロ鯖ARK！！＃11 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "5aEZ7QC7YoM"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -558,5 +554,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T13:00:56Z"
+  "generated_at": "2026-10-18T13:10:30Z"
 }
