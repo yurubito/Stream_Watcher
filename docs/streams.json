@@ -59,7 +59,19 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T11:00:00Z",
+          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその２【ホロライブ/白上フブキ】",
+          "video_id": "3ACao2VjHJ0"
+        },
+        {
+          "scheduled_at": "2026-10-19T11:00:00Z",
+          "title": "【#ド珍組】ド珍検証会を開催するので３人には検証にお付き合い頂きます。【ホロライブ/白上フブキ】",
+          "video_id": "JLpX7HlUs1w"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -84,14 +96,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T04:00:00Z",
-          "title": "【#2】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
-          "video_id": "3sM_Hp2W-vo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T04:03:15Z",
+        "title": "【#2】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
+        "video_id": "3sM_Hp2W-vo"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -183,30 +193,31 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T05:30:00Z",
-          "title": "【 秋華賞 】牝馬三冠最終戦！！この秋の女王はどの馬に・・・！？【鷹嶺ルイ/ホロライブ】",
-          "video_id": "3Czc-bPlFR8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T05:32:00Z",
+        "title": "【 秋華賞 】牝馬三冠最終戦！！この秋の女王はどの馬に・・・！？【鷹嶺ルイ/ホロライブ】",
+        "video_id": "3Czc-bPlFR8"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T07:00:00Z",
-          "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY2⚾️3D✨トーナメント戦‼️ #ホロ甲2026DAY2 【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
-          "video_id": "m73y3nyuZ6A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T06:45:11Z",
+        "title": "【 #ホロ甲2026 】ホロライブ甲子園2026本戦DAY2⚾️3D✨トーナメント戦‼️ #ホロ甲2026DAY2 【大神ミオ・白銀ノエル・宝鐘マリン・尾丸ポルカ・博衣こより・響咲リオナ/ホロライブ】",
+        "video_id": "m73y3nyuZ6A"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-18T05:01:16Z",
+        "title": "【#ホロARK】文明を進めてたいDAY🏝【風真いろは/ホロライブ】",
+        "video_id": "keX-vGIf71A"
+      },
       "name": "風真いろは"
     },
     {
@@ -254,6 +265,11 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-18T05:53:30Z",
+        "title": "【競馬/秋華賞】ひさびさのG1です！！！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "mC-881pDOgw"
+      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -286,11 +302,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-18T01:58:34Z",
-        "title": "【EN】Picking Up Where I Left Off | Fears to Fathom: Ironbark Lookout【Hyakuto Kyoko/Hololive】",
-        "video_id": "P0CgRq-ujH8"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -314,6 +325,11 @@
           "scheduled_at": "2026-10-18T11:00:00Z",
           "title": "【ホロドリ】ヴィヴィちゃんと話して、日本語を上達させよう！！ #calliolive #holodori #ホロドリ",
           "video_id": "jEVsTmNEwb0"
+        },
+        {
+          "scheduled_at": "2026-10-19T23:00:00Z",
+          "title": "【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN'T WAIT TO (finale) #calliolive",
+          "video_id": "T6_IJ4YMW5k"
         }
       ]
     },
@@ -330,18 +346,16 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T03:15:00Z",
-          "title": "【Promise Collab】The 3 Maskateers #PromiseMasquerade",
-          "video_id": "zPCcFbCONek"
-        }
-      ]
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-10-18T05:11:55Z",
+        "title": "【Hololive Dreams】Zone 3 #holodori",
+        "video_id": "XdJ8yQO-RnU"
+      },
       "name": "オーロ・クロニー"
     },
     {
@@ -423,7 +437,19 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T08:00:00Z",
+          "title": "【 #holoctober 】DAY 18 : DEMON【 iofi / hololive】",
+          "video_id": "ag4qvAuZjgU"
+        },
+        {
+          "scheduled_at": "2026-10-18T12:00:00Z",
+          "title": "【#holodori 】Daily fishing PART 2【 iofi / hololive】",
+          "video_id": "OeayLSK4voE"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -435,11 +461,6 @@
       "group": "ID holoro",
       "name": "アーニャ・メルフィッサ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T03:30:00Z",
-          "title": "【Supadonoreading】THANK YOU FOR THE SUPPORT ALWAYS! #shorts【hololive ID 2nd Gen | Anya Melfissa】",
-          "video_id": "oTYyghN5fxU"
-        },
         {
           "scheduled_at": "2026-10-18T12:00:00Z",
           "title": "【hololive Dreams ホロライブドリームス】Let's Train More!~【hololive holoro | Anya Melfissa】",
@@ -460,7 +481,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-18T14:00:00Z",
+          "title": "【hololive Dreams】tomorrow is.......... NEW BANNER and it's MONDAY!!!【#holodori】",
+          "video_id": "tQKl2WHH3GE"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -475,5 +503,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T04:40:22Z"
+  "generated_at": "2026-10-18T07:00:53Z"
 }
