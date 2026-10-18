@@ -218,11 +218,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-18T12:02:32Z",
-        "title": "【80億分の1】何度生まれ変わっても…【一条莉々華/hololive ReGLOSS】",
-        "video_id": "bQ0EckQTj5I"
-      },
       "name": "一条莉々華"
     },
     {
@@ -500,11 +495,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-18T14:01:26Z",
-        "title": "【hololive Dreams】Clang clang clang clang clang clang clang clang #holodori【Pavolia Reine/hololive】",
-        "video_id": "TBJjrebnHNs"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -535,5 +525,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T15:30:38Z"
+  "generated_at": "2026-10-18T15:40:22Z"
 }
