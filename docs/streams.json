@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T09:00:00Z",
-          "title": "【cover】ファイアダンス【歌ってみた/ときのそら/町田ちま/夢追翔/春希】",
-          "video_id": "kZlHh0uCdtg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T09:00:09Z",
+        "title": "【cover】ファイアダンス【歌ってみた/ときのそら/町田ちま/夢追翔/春希】",
+        "video_id": "kZlHh0uCdtg"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -286,7 +284,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T10:00:00Z",
+          "title": "【収益化記念配信リレー】歌いますのじゃ！祝！収益化！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "Ozmk8fKIvVU"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -511,5 +516,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T08:50:23Z"
+  "generated_at": "2026-10-18T09:00:44Z"
 }
