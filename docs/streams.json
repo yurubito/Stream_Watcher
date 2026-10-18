@@ -8,14 +8,12 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-18T15:00:00Z",
-          "title": "【 ＃ホロドリ 】深夜のチル釣り図鑑うめうめ🐡【ホロライブ/ ロボ子さん 】",
-          "video_id": "TnijhHRqd5w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-18T15:00:06Z",
+        "title": "【 ＃ホロドリ 】深夜のチル釣り図鑑うめうめ🐡【ホロライブ/ ロボ子さん 】",
+        "video_id": "TnijhHRqd5w"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -528,5 +526,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T14:50:40Z"
+  "generated_at": "2026-10-18T15:00:54Z"
 }
