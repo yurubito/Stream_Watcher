@@ -254,14 +254,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T00:00:00Z",
-          "title": "【#ホロドリ 】おはよう！魚コンプ目指して！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW　　】",
-          "video_id": "zvMJdhNvlMI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T00:01:23Z",
+        "title": "【#ホロドリ 】おはよう！魚コンプ目指して！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW　　】",
+        "video_id": "zvMJdhNvlMI"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -503,5 +501,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-18T23:50:25Z"
+  "generated_at": "2026-10-19T00:10:32Z"
 }
