@@ -97,7 +97,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T10:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY10🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "XrvCHE7TDIY"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -179,13 +186,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-19T09:00:22Z",
+        "title": "【 #ホロドリ 】今年最後の水着ガチャ⁉️全員コンプする‼️～莉々華の呪いを乗り越えろ～【博衣こより/ホロライブ】",
+        "video_id": "0Ykzy39ad28"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T09:00:00Z",
-          "title": "【 #ホロドリ 】今年最後の水着ガチャ⁉️全員コンプする‼️～莉々華の呪いを乗り越えろ～【博衣こより/ホロライブ】",
-          "video_id": "0Ykzy39ad28"
-        },
         {
           "scheduled_at": "2026-10-19T22:00:00Z",
           "title": "【 #朝こよ 】3週連続告知アリ①周目‼️ホロ甲表彰式も⚾️火曜日の朝は朝こよ～！☀ #303 【博衣こより/hololive】",
@@ -407,11 +414,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-19T02:01:00Z",
-        "title": "【ACE COMBAT 8: WINGS OF THEVE】I'm winging it",
-        "video_id": "Dt5OHkR6Tok"
-      },
       "name": "古石ビジュー",
       "upcoming": [
         {
@@ -540,5 +542,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T08:40:39Z"
+  "generated_at": "2026-10-19T09:01:01Z"
 }
