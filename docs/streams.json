@@ -200,11 +200,6 @@
           "scheduled_at": "2026-10-19T22:00:00Z",
           "title": "【 #朝こよ 】3週連続告知アリ①周目‼️ホロ甲表彰式も⚾️火曜日の朝は朝こよ～！☀ #303 【博衣こより/hololive】",
           "video_id": "T99ShFJ2DXA"
-        },
-        {
-          "scheduled_at": "2026-10-20T10:00:00Z",
-          "title": "【 #ホロ甲2026 】ホロ甲切り抜き鑑賞会⚾️打ち上げ！できたらこんこよ高校4年目後日談もやるかも⁉️【博衣こより/ホロライブ】",
-          "video_id": "D4XfCKw3TOw"
         }
       ]
     },
@@ -306,7 +301,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T22:00:00Z",
+          "title": "【のじゃEnglish】中学英語を復習のじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "fDYDxbqHn3o"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -528,5 +530,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T13:58:52Z"
+  "generated_at": "2026-10-19T14:00:52Z"
 }
