@@ -296,7 +296,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T19:00:00Z",
+          "title": "H3ロケット10号機 MMX 打ち上げ 同時視聴【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "qecm94a_Uok"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -446,11 +453,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-19T11:59:50Z",
-        "title": "【Hololive Dreams】Play together~【hololive | moona】",
-        "video_id": "c3G1J9wnny4"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -461,11 +463,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-19T11:57:45Z",
-        "title": "【hololive Dreams】 THE END OF SUMMER IS COMING!!  #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "twJxcLQGULI"
-      },
       "name": "クレイジー・オリー"
     },
     {
@@ -486,11 +483,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-19T11:29:14Z",
-        "title": "【Hololive Dreams】GACHAAAAAAA AND PLAY #holodori #ホロドリ",
-        "video_id": "nn2jkZ0D6nE"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -514,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T13:10:29Z"
+  "generated_at": "2026-10-19T13:20:45Z"
 }
