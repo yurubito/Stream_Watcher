@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-19T14:02:28Z",
-        "title": "【#ホロドリ】深夜のチル釣り雑談🌙hololive Dreams【ホロライブ / AZKi】",
-        "video_id": "Aw_TKJSolpQ"
-      },
       "name": "AZKi"
     },
     {
@@ -33,13 +28,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-19T16:10:59Z",
+        "title": "【 #ホロ鯖ARK 】DAY11│設備のお引越し！なんかテイム【ホロライブ/アキロゼ】",
+        "video_id": "NTAafRzR9SE"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T16:00:00Z",
-          "title": "【 #ホロ鯖ARK 】DAY11│設備のお引越し！なんかテイム【ホロライブ/アキロゼ】",
-          "video_id": "NTAafRzR9SE"
-        },
         {
           "scheduled_at": "2026-10-26T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第57回】📞恋人と毎日連絡したい派🆚💬会う時に濃く話したい派  あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
@@ -520,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T16:10:33Z"
+  "generated_at": "2026-10-19T16:20:34Z"
 }
