@@ -354,14 +354,12 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T02:00:00Z",
-          "title": "【Indika】I Don't Belong Here | #1 – Powered by Polish Video Game Days #PVGD #ad",
-          "video_id": "W0pBGtkN11c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T02:01:11Z",
+        "title": "【Indika】I Don't Belong Here | #1 – Powered by Polish Video Game Days #PVGD #ad",
+        "video_id": "W0pBGtkN11c"
+      },
+      "name": "オーロ・クロニー"
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -499,5 +497,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T01:50:27Z"
+  "generated_at": "2026-10-19T02:20:23Z"
 }
