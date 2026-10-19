@@ -52,11 +52,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-19T11:01:34Z",
-        "title": "【#ド珍組】ド珍検証会を開催するので３人には検証にお付き合い頂きます。【ホロライブ/白上フブキ】",
-        "video_id": "JLpX7HlUs1w"
-      },
       "name": "白上フブキ"
     },
     {
@@ -144,14 +139,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T12:00:00Z",
-          "title": "【 #ポルーナお披露目 】告知あり！今年もポルーナはありま～す！！！2人でお揃いの髪型にしたのら！！！✨【姫森ルーナ&尾丸ポルカ/ホロライブ】",
-          "video_id": "WKNo6ObGB_Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T12:00:42Z",
+        "title": "【 #ポルーナお披露目 】告知あり！今年もポルーナはありま～す！！！2人でお揃いの髪型にしたのら！！！✨【姫森ルーナ&尾丸ポルカ/ホロライブ】",
+        "video_id": "WKNo6ObGB_Y"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -200,11 +193,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-19T09:00:22Z",
-        "title": "【 #ホロドリ 】今年最後の水着ガチャ⁉️全員コンプする‼️～莉々華の呪いを乗り越えろ～【博衣こより/ホロライブ】",
-        "video_id": "0Ykzy39ad28"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -251,11 +239,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-19T11:00:10Z",
-        "title": "【初】３Dで莉々華とリングフィット アドベンチャー！【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "Qv7M3pSYW5U"
-      },
       "name": "轟はじめ",
       "upcoming": [
         {
@@ -317,14 +300,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T12:00:00Z",
-          "title": "翌早朝打ち上げ！H3ロケット＆MMXについて語るっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "TU7Npnj52IQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T12:00:51Z",
+        "title": "翌早朝打ち上げ！H3ロケット＆MMXについて語るっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "TU7Npnj52IQ"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -548,5 +529,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T12:00:52Z"
+  "generated_at": "2026-10-19T12:10:38Z"
 }
