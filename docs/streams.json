@@ -35,13 +35,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-19T13:06:19Z",
+        "title": "【ホロライブドリームス】 今日も実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "SLpQS06YZ-M"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T13:00:00Z",
-          "title": "【ホロライブドリームス】 今日も実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "SLpQS06YZ-M"
-        },
         {
           "scheduled_at": "2026-10-19T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
@@ -72,6 +72,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-19T13:03:15Z",
+        "title": "【#ホロドリ】ミニゲーム強化配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "QzNidZMF2e4"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -144,11 +149,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-19T12:00:42Z",
-        "title": "【 #ポルーナお披露目 】告知あり！今年もポルーナはありま～す！！！2人でお揃いの髪型にしたのら！！！✨【姫森ルーナ&尾丸ポルカ/ホロライブ】",
-        "video_id": "WKNo6ObGB_Y"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -159,14 +159,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T13:00:00Z",
-          "title": "【 浮気判定シート 】ねねたちの愛を受け止めて…？💛（雪民さんとねっ子のみんな参考にしてください）【 桃鈴ねね / 雪花ラミィ / hololive 】#まがまがーず",
-          "video_id": "9CpRJl5TDjw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T13:01:05Z",
+        "title": "【 浮気判定シート 】ねねたちの愛を受け止めて…？💛（雪民さんとねっ子のみんな参考にしてください）【 桃鈴ねね / 雪花ラミィ / hololive 】#まがまがーず",
+        "video_id": "9CpRJl5TDjw"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -176,11 +174,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-19T13:00:08Z",
-        "title": "チェリーポップ - 尾丸ポルカ/姫森ルーナ(cover)",
-        "video_id": "vShW-eC3M4I"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -360,14 +353,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T13:00:00Z",
-          "title": "≪hololive Dreams≫ TOKOYAMI TOWA #holodori",
-          "video_id": "9iP8hmE31kM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T13:01:56Z",
+        "title": "≪hololive Dreams≫ TOKOYAMI TOWA #holodori",
+        "video_id": "9iP8hmE31kM"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -384,13 +375,13 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-10-19T13:02:56Z",
+        "title": "【HOLOLIVE DREAMS】swimsuit biboo. that it. that's the stream #holodori",
+        "video_id": "7LQx7N-K2OM"
+      },
       "name": "古石ビジュー",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T13:00:00Z",
-          "title": "【HOLOLIVE DREAMS】swimsuit biboo. that it. that's the stream #holodori",
-          "video_id": "7LQx7N-K2OM"
-        },
         {
           "scheduled_at": "2026-10-19T15:00:00Z",
           "title": "【DETROIT: BECOME HUMAN】67 STAB WOUNDS WITH @holoen_ceciliaimmergreen",
@@ -505,27 +496,23 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T13:00:00Z",
-          "title": "【hololive Dreams】Pemaloe. luck. gimme.【#holodori】",
-          "video_id": "QqBm7SLR1dA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T13:01:35Z",
+        "title": "【hololive Dreams】Pemaloe. luck. gimme.【#holodori】",
+        "video_id": "QqBm7SLR1dA"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T14:10:00Z",
-          "title": "【hololive Dreams】gacha kaela cuz she's my genmate #holodori #ホロドリ",
-          "video_id": "rd9l86n4vdE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T13:03:19Z",
+        "title": "【hololive Dreams】gacha kaela cuz she's my genmate #holodori #ホロドリ",
+        "video_id": "rd9l86n4vdE"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T13:00:51Z"
+  "generated_at": "2026-10-19T13:10:29Z"
 }
