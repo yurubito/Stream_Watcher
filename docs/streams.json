@@ -352,14 +352,12 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T23:00:00Z",
-          "title": "My Cat Got Crushed by a Computer then Isekai'd to be a Typist 【Isekat】",
-          "video_id": "Jb3661juuz4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T22:59:52Z",
+        "title": "My Cat Got Crushed by a Computer then Isekai'd to be a Typist 【Isekat】",
+        "video_id": "Jb3661juuz4"
+      },
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -468,5 +466,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T22:10:36Z"
+  "generated_at": "2026-10-19T23:00:45Z"
 }
