@@ -259,14 +259,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T11:30:00Z",
-          "title": "【 #ホロARK 】上陸！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
-          "video_id": "xiNcUd7UJkQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T11:30:19Z",
+        "title": "【 #ホロARK 】上陸！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
+        "video_id": "xiNcUd7UJkQ"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -322,24 +320,17 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-19T10:59:41Z",
-        "title": "【収益化記念配信リレー】今なら運が良いのでは！？ Buckshot Roulette【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "1wC1ADe7tGo"
-      },
       "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T11:30:00Z",
-          "title": "【収益化記念配信リレー】みんなー！！いつもありがとーー！！感謝の歌枠！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "EEhH3t4FhRk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T11:29:12Z",
+        "title": "【収益化記念配信リレー】みんなー！！いつもありがとーー！！感謝の歌枠！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "EEhH3t4FhRk"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -513,14 +504,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T11:30:00Z",
-          "title": "【Hololive Dreams】GACHAAAAAAA AND PLAY #holodori #ホロドリ",
-          "video_id": "nn2jkZ0D6nE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T11:29:14Z",
+        "title": "【Hololive Dreams】GACHAAAAAAA AND PLAY #holodori #ホロドリ",
+        "video_id": "nn2jkZ0D6nE"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -552,5 +541,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T11:10:23Z"
+  "generated_at": "2026-10-19T11:30:41Z"
 }
