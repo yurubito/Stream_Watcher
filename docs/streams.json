@@ -327,6 +327,11 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
+      "live": {
+        "started_at": "2026-10-19T02:58:46Z",
+        "title": "【ホロカ新弾】ライフ10だと！？「グローリー・エコー」新規カードの能力を最速公開！【#昼ホロ / #風白ゆき】",
+        "video_id": "u1A0Md1Uv28"
+      },
       "name": "井月みちる"
     },
     {
@@ -493,5 +498,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T04:10:20Z"
+  "generated_at": "2026-10-19T04:40:23Z"
 }
