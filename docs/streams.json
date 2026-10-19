@@ -97,14 +97,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T10:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY10🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "XrvCHE7TDIY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T10:00:57Z",
+        "title": "【#ホロ鯖ARK】DAY10🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "XrvCHE7TDIY"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -151,7 +149,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T12:00:00Z",
+          "title": "【 #ポルーナお披露目 】告知あり！今年もポルーナはありまぁす！！！2人でお揃いの髪型にしたのら！！！✨【姫森ルーナ&尾丸ポルカ/ホロライブ】",
+          "video_id": "WKNo6ObGB_Y"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -547,5 +552,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T10:00:45Z"
+  "generated_at": "2026-10-19T10:10:24Z"
 }
