@@ -380,11 +380,6 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-19T02:01:11Z",
-        "title": "【Indika】I Don't Belong Here – Powered by Polish Video Game Days #PVGD #ad",
-        "video_id": "W0pBGtkN11c"
-      },
       "name": "オーロ・クロニー"
     },
     {
@@ -518,7 +513,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T13:00:00Z",
+          "title": "【hololive Dreams】Pemaloe. luck. gimme.【#holodori】",
+          "video_id": "QqBm7SLR1dA"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -533,5 +535,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T07:10:31Z"
+  "generated_at": "2026-10-19T07:20:46Z"
 }
