@@ -67,14 +67,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T03:15:00Z",
-          "title": "【#ホロ鯖ARK】ARK上陸10日目！素材王科学作業台つくりたいなのだ！【ホロライブ/癒月ちょこ】",
-          "video_id": "YVeGtFxm8A0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T03:14:37Z",
+        "title": "【#ホロ鯖ARK】ARK上陸10日目！素材王科学作業台つくりたいなのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "YVeGtFxm8A0"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -495,5 +493,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T04:00:40Z"
+  "generated_at": "2026-10-19T04:10:20Z"
 }
