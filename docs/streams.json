@@ -473,14 +473,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T07:00:00Z",
-          "title": "【hololive Dreams】IoRisu hololive dream collab ~!!!【#holodori #ホロドリ】",
-          "video_id": "fHMPLC--VH4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T07:02:45Z",
+        "title": "【hololive Dreams】IoRisu hololive dream collab ~!!!【#holodori #ホロドリ】",
+        "video_id": "fHMPLC--VH4"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -490,14 +488,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T07:00:00Z",
-          "title": "【#holodori 】ioRisu in da house【 iofi / hololive】",
-          "video_id": "c5SjOOZNX68"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T07:03:17Z",
+        "title": "【#holodori 】ioRisu in da house【 iofi / hololive】",
+        "video_id": "c5SjOOZNX68"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -537,5 +533,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T07:00:55Z"
+  "generated_at": "2026-10-19T07:10:31Z"
 }
