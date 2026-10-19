@@ -13,7 +13,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T14:00:00Z",
+          "title": "【#ホロドリ】深夜のチル釣り雑談🌙hololive Dreams【ホロライブ / AZKi】",
+          "video_id": "Aw_TKJSolpQ"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -45,14 +52,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T11:00:00Z",
-          "title": "【#ド珍組】ド珍検証会を開催するので３人には検証にお付き合い頂きます。【ホロライブ/白上フブキ】",
-          "video_id": "JLpX7HlUs1w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T11:01:34Z",
+        "title": "【#ド珍組】ド珍検証会を開催するので３人には検証にお付き合い頂きます。【ホロライブ/白上フブキ】",
+        "video_id": "JLpX7HlUs1w"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -67,11 +72,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-19T03:14:37Z",
-        "title": "【#ホロ鯖ARK】ARK上陸10日目！素材王科学作業台つくりたいなのだ！【ホロライブ/癒月ちょこ】",
-        "video_id": "YVeGtFxm8A0"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -552,5 +552,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T11:01:12Z"
+  "generated_at": "2026-10-19T11:10:23Z"
 }
