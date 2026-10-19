@@ -141,6 +141,11 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-19T06:00:32Z",
+        "title": "【 #ホロ鯖ARK 】その９｜はちみつ…❔️そしてユウティラ…❔️海⁉️【常闇トワ/ホロライブ】",
+        "video_id": "eaJE2X2rPSQ"
+      },
       "name": "常闇トワ"
     },
     {
@@ -498,5 +503,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T04:40:23Z"
+  "generated_at": "2026-10-19T06:00:43Z"
 }
