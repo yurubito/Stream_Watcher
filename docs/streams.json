@@ -33,11 +33,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-19T14:43:04Z",
-        "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
-        "video_id": "C8W03Z6zWFk"
-      },
       "name": "アキ・ローゼンタール"
     },
     {
@@ -118,14 +113,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T15:00:00Z",
-          "title": "【 #ホロ鯖ARK 】深夜に突如現れる雪ダルマントマン...！今宵も気ままなARK生活🦕【角巻わため/ホロライブ４期生】",
-          "video_id": "4k5k9SkR25c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T15:07:39Z",
+        "title": "【 #ホロ鯖ARK 】深夜に突如現れる雪ダルマントマン...！今宵も気ままなARK生活🦕【角巻わため/ホロライブ４期生】",
+        "video_id": "4k5k9SkR25c"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -391,14 +384,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T15:00:00Z",
-          "title": "【DETROIT: BECOME HUMAN】67 STAB WOUNDS WITH @holoen_ceciliaimmergreen",
-          "video_id": "Yn624nnrVNQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T15:01:23Z",
+        "title": "【DETROIT: BECOME HUMAN】67 STAB WOUNDS WITH @holoen_ceciliaimmergreen",
+        "video_id": "Yn624nnrVNQ"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -517,5 +508,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T15:00:58Z"
+  "generated_at": "2026-10-19T15:10:31Z"
 }
