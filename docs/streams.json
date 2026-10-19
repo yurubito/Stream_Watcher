@@ -97,7 +97,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T01:00:00Z",
+          "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
+          "video_id": "ZoikqpOA7OE"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -501,5 +508,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T00:10:32Z"
+  "generated_at": "2026-10-19T01:00:49Z"
 }
