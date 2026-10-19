@@ -13,14 +13,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T14:00:00Z",
-          "title": "【#ホロドリ】深夜のチル釣り雑談🌙hololive Dreams【ホロライブ / AZKi】",
-          "video_id": "Aw_TKJSolpQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T14:02:28Z",
+        "title": "【#ホロドリ】深夜のチル釣り雑談🌙hololive Dreams【ホロライブ / AZKi】",
+        "video_id": "Aw_TKJSolpQ"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -35,11 +33,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-19T13:06:19Z",
-        "title": "【ホロライブドリームス】 今日も実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "SLpQS06YZ-M"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -72,11 +65,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-19T13:03:15Z",
-        "title": "【#ホロドリ】ミニゲーム強化配信📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "QzNidZMF2e4"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -200,6 +188,11 @@
           "scheduled_at": "2026-10-19T22:00:00Z",
           "title": "【 #朝こよ 】3週連続告知アリ①周目‼️ホロ甲表彰式も⚾️火曜日の朝は朝こよ～！☀ #303 【博衣こより/hololive】",
           "video_id": "T99ShFJ2DXA"
+        },
+        {
+          "scheduled_at": "2026-10-20T10:00:00Z",
+          "title": "【 #ホロ甲2026 】ホロ甲切り抜き鑑賞会⚾️打ち上げ！できたらこんこよ高校4年目後日談もやるかも⁉️【博衣こより/ホロライブ】",
+          "video_id": "D4XfCKw3TOw"
         }
       ]
     },
@@ -340,13 +333,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-19T14:00:54Z",
+        "title": "【hololive Dreams】just grinding songs tonight #calliolive #holodori",
+        "video_id": "C4oi8InF-ls"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T14:00:00Z",
-          "title": "【hololive Dreams】just grinding songs tonight #calliolive #holodori",
-          "video_id": "C4oi8InF-ls"
-        },
         {
           "scheduled_at": "2026-10-19T23:00:00Z",
           "title": "【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN'T WAIT TO (finale) #calliolive",
@@ -530,5 +523,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T14:00:52Z"
+  "generated_at": "2026-10-19T14:10:37Z"
 }
