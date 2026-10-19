@@ -334,11 +334,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-19T11:29:12Z",
-        "title": "【収益化記念配信リレー】みんなー！！いつもありがとーー！！感謝の歌枠！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "EEhH3t4FhRk"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -481,14 +476,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T12:00:00Z",
-          "title": "【Hololive Dreams】Play together~【hololive | moona】",
-          "video_id": "c3G1J9wnny4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T11:59:50Z",
+        "title": "【Hololive Dreams】Play together~【hololive | moona】",
+        "video_id": "c3G1J9wnny4"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -498,14 +491,12 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T12:00:00Z",
-          "title": "【hololive Dreams】 THE END OF SUMMER IS COMING!!  #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "twJxcLQGULI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T11:57:45Z",
+        "title": "【hololive Dreams】 THE END OF SUMMER IS COMING!!  #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "twJxcLQGULI"
+      },
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -557,5 +548,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T11:50:47Z"
+  "generated_at": "2026-10-19T12:00:52Z"
 }
