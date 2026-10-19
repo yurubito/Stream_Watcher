@@ -166,7 +166,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T13:00:00Z",
+          "title": "【 浮気判定シート 】ねねたちの愛を受け止めて…？💛（雪民さんとねっ子のみんな参考にしてください）【 桃鈴ねね / 雪花ラミィ / hololive 】#まがまがーず",
+          "video_id": "9CpRJl5TDjw"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -213,14 +220,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T10:30:00Z",
-          "title": "【 #歌うまスンギ歌枠リレー   】【音乃瀬奏】#ReGLOSS",
-          "video_id": "gX9AoYgK46A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T10:31:30Z",
+        "title": "【 #歌うまスンギ歌枠リレー   】【音乃瀬奏】#ReGLOSS",
+        "video_id": "gX9AoYgK46A"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -305,11 +310,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-19T09:59:10Z",
-        "title": "【収益化記念配信リレー】歌いますのじゃ！祝！収益化！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "Ozmk8fKIvVU"
-      },
       "name": "熱千めら"
     },
     {
@@ -363,6 +363,11 @@
       "group": "EN Myth",
       "name": "森カリオペ",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T14:00:00Z",
+          "title": "【hololive Dreams】just grinding songs tonight #calliolive #holodori",
+          "video_id": "C4oi8InF-ls"
+        },
         {
           "scheduled_at": "2026-10-19T23:00:00Z",
           "title": "【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN'T WAIT TO (finale) #calliolive",
@@ -552,5 +557,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T10:30:35Z"
+  "generated_at": "2026-10-19T10:40:41Z"
 }
