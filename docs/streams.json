@@ -137,7 +137,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T10:00:00Z",
+          "title": "【 鳴潮 】千咲ガチャ✨キャラ達の育成をしていくのら！！！Ver.3.7 ＃29【姫森ルーナ/ホロライブ】",
+          "video_id": "ua4sbXI2v1A"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -147,11 +154,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-19T13:01:05Z",
-        "title": "【 浮気判定シート 】ねねたちの愛を受け止めて…？💛（雪民さんとねっ子のみんな参考にしてください）【 桃鈴ねね / 雪花ラミィ / hololive 】#まがまがーず",
-        "video_id": "9CpRJl5TDjw"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -370,11 +372,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-19T13:01:56Z",
-        "title": "≪hololive Dreams≫ TOKOYAMI TOWA #holodori",
-        "video_id": "9iP8hmE31kM"
-      },
       "name": "ハコス・ベールズ"
     },
     {
@@ -515,13 +512,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-19T13:03:19Z",
-        "title": "【hololive Dreams】gacha kaela cuz she's my genmate #holodori #ホロドリ",
-        "video_id": "rd9l86n4vdE"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T14:10:37Z"
+  "generated_at": "2026-10-19T14:20:33Z"
 }
