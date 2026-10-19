@@ -482,7 +482,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T13:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】TOWA-SAMAAAAA CUTEEEEEEEEEEEE【hololive holoro | Anya Melfissa】",
+          "video_id": "JUrki_ovv1Y"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -529,5 +536,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T12:30:38Z"
+  "generated_at": "2026-10-19T12:40:27Z"
 }
