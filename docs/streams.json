@@ -412,7 +412,19 @@
         "title": "【ACE COMBAT 8: WINGS OF THEVE】I'm winging it",
         "video_id": "Dt5OHkR6Tok"
       },
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T13:00:00Z",
+          "title": "【HOLOLIVE DREAMS】swimsuit biboo. that it. that's the stream #holodori",
+          "video_id": "7LQx7N-K2OM"
+        },
+        {
+          "scheduled_at": "2026-10-19T15:00:00Z",
+          "title": "【DETROIT: BECOME HUMAN】67 STAB WOUNDS WITH @holoen_ceciliaimmergreen",
+          "video_id": "Yn624nnrVNQ"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -529,9 +541,14 @@
           "scheduled_at": "2026-10-19T12:30:00Z",
           "title": "【 #歌うまスンギ歌枠リレー】HELLO!!! LET'S SING TOGETHER ~ !! 【こぼ・かなえる 様】",
           "video_id": "0-21K73BYWc"
+        },
+        {
+          "scheduled_at": "2026-10-19T14:10:00Z",
+          "title": "【hololive Dreams】gacha kaela cuz she's my genmate #holodori #ホロドリ",
+          "video_id": "rd9l86n4vdE"
         }
       ]
     }
   ],
-  "generated_at": "2026-10-19T08:10:44Z"
+  "generated_at": "2026-10-19T08:20:22Z"
 }
