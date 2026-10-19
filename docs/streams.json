@@ -478,11 +478,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-19T07:02:45Z",
-        "title": "【hololive Dreams】IoRisu hololive dream collab ~!!!【#holodori #ホロドリ】",
-        "video_id": "fHMPLC--VH4"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -493,11 +488,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-19T07:03:17Z",
-        "title": "【#holodori 】ioRisu in da house【 iofi / hololive】",
-        "video_id": "c5SjOOZNX68"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -550,5 +540,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T08:20:22Z"
+  "generated_at": "2026-10-19T08:40:39Z"
 }
