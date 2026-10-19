@@ -102,11 +102,6 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-19T01:02:53Z",
-        "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
-        "video_id": "ZoikqpOA7OE"
-      },
       "name": "不知火フレア"
     },
     {
@@ -186,7 +181,19 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T09:00:00Z",
+          "title": "【 #ホロドリ 】今年最後の水着ガチャ⁉️全員コンプする‼️～莉々華の呪いを乗り越えろ～【博衣こより/ホロライブ】",
+          "video_id": "0Ykzy39ad28"
+        },
+        {
+          "scheduled_at": "2026-10-19T22:00:00Z",
+          "title": "【 #朝こよ 】3週連続告知アリ①周目‼️ホロ甲表彰式も⚾️火曜日の朝は朝こよ～！☀ #303 【博衣こより/hololive】",
+          "video_id": "T99ShFJ2DXA"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -213,7 +220,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T10:00:00Z",
+          "title": "【山種美術館】好きな日本画を紹介します！一緒に見ましょう！【儒烏風亭らでん/ホロライブ】",
+          "video_id": "8E4XsqE6xTk"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -235,7 +249,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T11:30:00Z",
+          "title": "【 #ホロARK 】上陸！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
+          "video_id": "xiNcUd7UJkQ"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -318,11 +339,6 @@
       "name": "百灯キョーコ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-19T02:00:00Z",
-          "title": "【EN】#3  I wanna get way higher!!| PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
-          "video_id": "eOJF7fQ1wVU"
-        },
-        {
           "scheduled_at": "2026-10-19T11:30:00Z",
           "title": "【収益化記念配信リレー】みんなー！！いつもありがとーー！！感謝の歌枠！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "EEhH3t4FhRk"
@@ -332,11 +348,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-19T02:58:46Z",
-        "title": "【ホロカ新弾】ライフ10だと！？「グローリー・エコー」新規カードの能力を最速公開！【#昼ホロ / #風白ゆき】",
-        "video_id": "u1A0Md1Uv28"
-      },
       "name": "井月みちる"
     },
     {
@@ -371,7 +382,7 @@
       "group": "EN Promise",
       "live": {
         "started_at": "2026-10-19T02:01:11Z",
-        "title": "【Indika】I Don't Belong Here | #1 – Powered by Polish Video Game Days #PVGD #ad",
+        "title": "【Indika】I Don't Belong Here – Powered by Polish Video Game Days #PVGD #ad",
         "video_id": "W0pBGtkN11c"
       },
       "name": "オーロ・クロニー"
@@ -382,11 +393,6 @@
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-19T03:00:00Z",
-          "title": "≪UNARCHIVED KARAOKE・歌枠≫ Training those vocal chords for REGALIA! #RoadToREGALIA",
-          "video_id": "k8oEFAZ-RQc"
-        },
-        {
           "scheduled_at": "2026-10-19T13:00:00Z",
           "title": "≪hololive Dreams≫ TOKOYAMI TOWA #holodori",
           "video_id": "9iP8hmE31kM"
@@ -396,7 +402,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T23:00:00Z",
+          "title": "My Cat Got Crushed by a Computer then Isekai'd to be a Typist 【Isekat】",
+          "video_id": "Jb3661juuz4"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -433,7 +446,19 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T00:00:00Z",
+          "title": "【DEADLOCK】NEW PLAYER TEACHES ME DEADLOCK!",
+          "video_id": "iLxNEAxN8_U"
+        },
+        {
+          "scheduled_at": "2026-11-24T09:00:00Z",
+          "title": "BUY!!!!!!",
+          "video_id": "rzxphuacYxo"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -448,12 +473,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-19T02:31:56Z",
-        "title": "#MMMalas : NEW ACCESSORIES AND ANNOUNCEMENT in MMM !?!?!",
-        "video_id": "hBef1wJIjVk"
-      },
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T07:00:00Z",
+          "title": "【hololive Dreams】IoRisu hololive dream collab ~!!!【#holodori #ホロドリ】",
+          "video_id": "fHMPLC--VH4"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -463,7 +490,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T07:00:00Z",
+          "title": "【#holodori 】ioRisu in da house【 iofi / hololive】",
+          "video_id": "c5SjOOZNX68"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -503,5 +537,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T06:00:43Z"
+  "generated_at": "2026-10-19T07:00:55Z"
 }
