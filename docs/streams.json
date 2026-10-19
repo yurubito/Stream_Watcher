@@ -28,11 +28,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-19T16:10:59Z",
-        "title": "【 #ホロ鯖ARK 】DAY11│設備のお引越し！なんかテイム【ホロライブ/アキロゼ】",
-        "video_id": "NTAafRzR9SE"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -169,11 +164,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-19T22:01:28Z",
-        "title": "【 #朝こよ 】3週連続告知アリ①周目‼️ホロ甲表彰式も⚾️火曜日の朝は朝こよ～！☀ #303 【博衣こより/hololive】",
-        "video_id": "T99ShFJ2DXA"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -464,5 +454,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T23:04:15Z"
+  "generated_at": "2026-10-19T23:10:32Z"
 }
