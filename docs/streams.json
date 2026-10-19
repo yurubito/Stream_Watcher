@@ -300,14 +300,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T10:00:00Z",
-          "title": "【収益化記念配信リレー】歌いますのじゃ！祝！収益化！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "Ozmk8fKIvVU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T09:59:10Z",
+        "title": "【収益化記念配信リレー】歌いますのじゃ！祝！収益化！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "Ozmk8fKIvVU"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -549,5 +547,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T09:30:35Z"
+  "generated_at": "2026-10-19T10:00:45Z"
 }
