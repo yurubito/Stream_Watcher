@@ -422,14 +422,12 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T01:00:00Z",
-          "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
-          "video_id": "i7PxwGBGIl0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T00:58:39Z",
+        "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
+        "video_id": "i7PxwGBGIl0"
+      },
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -501,5 +499,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T01:40:27Z"
+  "generated_at": "2026-10-19T01:50:27Z"
 }
