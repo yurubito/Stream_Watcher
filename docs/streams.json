@@ -33,7 +33,14 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール"
+      "name": "アキ・ローゼンタール",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T14:40:00Z",
+          "title": "【#アキちょこナイパレ｜第57回】📞恋人と毎日連絡したい派🆚💬会う時に濃く話したい派  あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
+          "video_id": "dTbDAIbG84I"
+        }
+      ]
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -508,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T15:10:31Z"
+  "generated_at": "2026-10-19T15:20:35Z"
 }
