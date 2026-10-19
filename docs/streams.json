@@ -97,14 +97,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T01:00:00Z",
-          "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
-          "video_id": "ZoikqpOA7OE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T01:02:53Z",
+        "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
+        "video_id": "ZoikqpOA7OE"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -261,11 +259,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-19T00:01:23Z",
-        "title": "【#ホロドリ 】おはよう！魚コンプ目指して！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW　　】",
-        "video_id": "zvMJdhNvlMI"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -508,5 +501,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T01:00:49Z"
+  "generated_at": "2026-10-19T01:37:07Z"
 }
