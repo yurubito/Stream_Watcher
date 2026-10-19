@@ -337,11 +337,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-19T14:00:54Z",
-        "title": "【hololive Dreams】just grinding songs tonight #calliolive #holodori",
-        "video_id": "C4oi8InF-ls"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -515,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T16:20:34Z"
+  "generated_at": "2026-10-19T16:30:40Z"
 }
