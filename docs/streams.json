@@ -259,7 +259,14 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T13:00:00Z",
+          "title": "【インボギア】呪いのボードゲーム⁉️こ、こわくねーし✋【水宮枢／ホロライブ】",
+          "video_id": "UTbW5ggmTTU"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -478,5 +485,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T19:00:56Z"
+  "generated_at": "2026-10-19T19:10:27Z"
 }
