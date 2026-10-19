@@ -169,11 +169,6 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-19T13:56:42Z",
-        "title": "【ホロドリ】トワ様、助けて。初めてのホロドリ配信【ラプラス・ダークネス/ホロライブ】",
-        "video_id": "gU9N2n5lDsU"
-      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -515,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T14:20:33Z"
+  "generated_at": "2026-10-19T14:30:57Z"
 }
