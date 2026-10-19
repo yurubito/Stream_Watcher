@@ -440,14 +440,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T02:30:00Z",
-          "title": "#MMMalas : NEW ACCESSORIES AND ANNOUNCEMENT in MMM !?!?!",
-          "video_id": "hBef1wJIjVk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T02:31:56Z",
+        "title": "#MMMalas : NEW ACCESSORIES AND ANNOUNCEMENT in MMM !?!?!",
+        "video_id": "hBef1wJIjVk"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -497,5 +495,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T02:50:27Z"
+  "generated_at": "2026-10-19T04:00:40Z"
 }
