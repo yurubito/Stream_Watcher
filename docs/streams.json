@@ -514,13 +514,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-19T12:29:25Z",
+        "title": "【 #歌うまスンギ歌枠リレー】HELLO!!! LET'S SING TOGETHER ~ !! 【こぼ・かなえる 様】",
+        "video_id": "0-21K73BYWc"
+      },
       "name": "こぼ・かなえる",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T12:30:00Z",
-          "title": "【 #歌うまスンギ歌枠リレー】HELLO!!! LET'S SING TOGETHER ~ !! 【こぼ・かなえる 様】",
-          "video_id": "0-21K73BYWc"
-        },
         {
           "scheduled_at": "2026-10-19T14:10:00Z",
           "title": "【hololive Dreams】gacha kaela cuz she's my genmate #holodori #ホロドリ",
@@ -529,5 +529,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T12:10:38Z"
+  "generated_at": "2026-10-19T12:30:38Z"
 }
