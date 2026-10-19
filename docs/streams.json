@@ -110,11 +110,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-19T15:07:39Z",
-        "title": "【 #ホロ鯖ARK 】深夜に突如現れる雪ダルマントマン...！今宵も気ままなARK生活🦕【角巻わため/ホロライブ４期生】",
-        "video_id": "4k5k9SkR25c"
-      },
       "name": "角巻わため"
     },
     {
@@ -174,13 +169,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-19T22:01:28Z",
+        "title": "【 #朝こよ 】3週連続告知アリ①周目‼️ホロ甲表彰式も⚾️火曜日の朝は朝こよ～！☀ #303 【博衣こより/hololive】",
+        "video_id": "T99ShFJ2DXA"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T22:00:00Z",
-          "title": "【 #朝こよ 】3週連続告知アリ①周目‼️ホロ甲表彰式も⚾️火曜日の朝は朝こよ～！☀ #303 【博衣こより/hololive】",
-          "video_id": "T99ShFJ2DXA"
-        },
         {
           "scheduled_at": "2026-10-20T10:00:00Z",
           "title": "【 #ホロ甲2026 】ホロ甲切り抜き鑑賞会⚾️打ち上げ！できたらこんこよ高校4年目後日談もやるかも⁉️【博衣こより/ホロライブ】",
@@ -473,5 +468,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T22:00:51Z"
+  "generated_at": "2026-10-19T22:10:36Z"
 }
