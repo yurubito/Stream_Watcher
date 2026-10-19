@@ -525,7 +525,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T11:30:00Z",
+          "title": "【Hololive Dreams】GACHAAAAAAA AND PLAY #holodori #ホロドリ",
+          "video_id": "nn2jkZ0D6nE"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -557,5 +564,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T10:40:41Z"
+  "generated_at": "2026-10-19T10:50:25Z"
 }
