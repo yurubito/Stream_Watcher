@@ -105,7 +105,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T13:00:00Z",
+          "title": "【 インボキア 】呪いのボードゲームのお時間です..............【角巻わため/ホロライブ４期生】",
+          "video_id": "RCrquCVZPtM"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -176,11 +183,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-19T22:00:11Z",
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY9🎣【風真いろは/ホロライブ】",
-        "video_id": "jP1u8rfEWJw"
-      },
       "name": "風真いろは"
     },
     {
@@ -454,5 +456,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T23:10:32Z"
+  "generated_at": "2026-10-19T23:20:32Z"
 }
