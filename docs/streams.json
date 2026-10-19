@@ -495,7 +495,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T12:00:00Z",
+          "title": "【hololive Dreams】 THE END OF SUMMER IS COMING!!  #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "twJxcLQGULI"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -542,5 +549,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T09:01:01Z"
+  "generated_at": "2026-10-19T09:30:35Z"
 }
