@@ -67,7 +67,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-19T03:15:00Z",
+          "title": "【#ホロ鯖ARK】ARK上陸10日目！素材王科学作業台つくりたいなのだ！【ホロライブ/癒月ちょこ】",
+          "video_id": "YVeGtFxm8A0"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -386,14 +393,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T02:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】I'm winging it",
-          "video_id": "Dt5OHkR6Tok"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T02:01:00Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】I'm winging it",
+        "video_id": "Dt5OHkR6Tok"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -420,11 +425,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-19T00:58:39Z",
-        "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
-        "video_id": "i7PxwGBGIl0"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -497,5 +497,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T02:20:23Z"
+  "generated_at": "2026-10-19T02:50:27Z"
 }
