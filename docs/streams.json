@@ -293,14 +293,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T19:00:00Z",
-          "title": "H3ロケット10号機 MMX 打ち上げ 同時視聴【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "qecm94a_Uok"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T19:00:11Z",
+        "title": "H3ロケット10号機 MMX 打ち上げ 同時視聴【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "qecm94a_Uok"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -480,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T18:00:54Z"
+  "generated_at": "2026-10-19T19:00:56Z"
 }
