@@ -107,14 +107,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-19T08:00:00Z",
-          "title": "【ホロ鯖ARK】今度こそ拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
-          "video_id": "IRtl8s__ptk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-19T08:00:49Z",
+        "title": "【ホロ鯖ARK】今度こそ拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
+        "video_id": "IRtl8s__ptk"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -535,5 +533,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-19T07:20:46Z"
+  "generated_at": "2026-10-19T08:10:44Z"
 }
