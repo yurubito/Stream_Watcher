@@ -266,11 +266,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-20T10:01:27Z",
-        "title": "【山種美術館】好きな日本画を紹介します！一緒に見ましょう！【儒烏風亭らでん/ホロライブ】",
-        "video_id": "8E4XsqE6xTk"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -484,11 +479,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-20T09:00:20Z",
-        "title": "【TCG CARD SHOP SIM】I AM RICH【 iofi / hololive】",
-        "video_id": "kHEdoPQicgM"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -536,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T11:10:41Z"
+  "generated_at": "2026-10-20T11:20:26Z"
 }
