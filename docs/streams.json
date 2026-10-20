@@ -28,13 +28,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-20T16:01:33Z",
+        "title": "【 #ホロ鯖ARK 】DAY12│拠点大整理とダエオドン！からの洞窟！【ホロライブ/アキロゼ】",
+        "video_id": "nNAjbIxlmDA"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T16:00:00Z",
-          "title": "【 #ホロ鯖ARK 】DAY12│拠点大整理とダエオドン！からの洞窟！【ホロライブ/アキロゼ】",
-          "video_id": "nNAjbIxlmDA"
-        },
         {
           "scheduled_at": "2026-10-26T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第57回】📞恋人と毎日連絡したい派🆚💬会う時に濃く話したい派  あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
@@ -489,5 +489,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T15:50:32Z"
+  "generated_at": "2026-10-20T16:10:32Z"
 }
