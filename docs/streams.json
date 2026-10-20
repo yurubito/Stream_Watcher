@@ -219,11 +219,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-20T11:00:16Z",
-        "title": "【アークナイツ】戦闘システムが好き！アークナイツの世界に帰還！初配信～！【尾丸ポルカ/ホロライブ】",
-        "video_id": "CI5KKwUfKtM"
-      },
       "name": "尾丸ポルカ",
       "upcoming": [
         {
@@ -573,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T12:10:25Z"
+  "generated_at": "2026-10-20T12:20:47Z"
 }
