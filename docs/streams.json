@@ -175,7 +175,14 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス"
+      "name": "ラプラス・ダークネス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T10:00:00Z",
+          "title": "【餓狼伝説 City of the Wolves 】不知火舞さんの新衣装がSWITCH2で実装！？告知もあるよ!!【ラプラス・ダークネス/ホロライブ】",
+          "video_id": "yJ1Br8Vc1JA"
+        }
+      ]
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -470,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T03:50:23Z"
+  "generated_at": "2026-10-20T05:00:40Z"
 }
