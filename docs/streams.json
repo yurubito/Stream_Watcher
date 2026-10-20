@@ -147,17 +147,19 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-20T10:30:10Z",
-        "title": "【 #ホロ鯖ARK 】その１０｜なにか行きたいなとは…【常闇トワ/ホロライブ】",
-        "video_id": "rmqSq8an8FY"
-      },
       "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T10:00:00Z",
+          "title": "【 ガンプラ 】∀ターンエーガンダムのガンプラを作るのら！！！Building a Turn A Gundam model kit【姫森ルーナ/ホロライブ】",
+          "video_id": "p6gozBm1ivg"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -505,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T14:30:48Z"
+  "generated_at": "2026-10-20T14:40:41Z"
 }
