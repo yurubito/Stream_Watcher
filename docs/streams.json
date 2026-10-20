@@ -28,18 +28,13 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-20T14:06:56Z",
+        "title": "【ホロライブドリームス】 釣り対決！w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "mqbSYtp8auE"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T14:00:00Z",
-          "title": "【ホロライブドリームス】 釣り！w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
-          "video_id": "mqbSYtp8auE"
-        },
-        {
-          "scheduled_at": "2026-10-20T15:30:00Z",
-          "title": "【 #ホロ鯖ARK 】DAY12│拠点大整理とダエオドン！からの洞窟！【ホロライブ/アキロゼ】",
-          "video_id": "G8ecvgF6WvY"
-        },
         {
           "scheduled_at": "2026-10-26T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第57回】📞恋人と毎日連絡したい派🆚💬会う時に濃く話したい派  あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
@@ -70,14 +65,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T14:00:00Z",
-          "title": "【#ホロドリ】深夜のわちゃわちゃ釣り対決配信📣 【ホロライブ/癒月ちょこ/アキ・ローゼンタール/アーニャ・メルフィッサ】",
-          "video_id": "d79Vkg3Yxyw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T14:04:28Z",
+        "title": "【#ホロドリ】深夜のわちゃわちゃ釣り対決配信📣 【ホロライブ/癒月ちょこ/アキ・ローゼンタール/アーニャ・メルフィッサ】",
+        "video_id": "d79Vkg3Yxyw"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -371,7 +364,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T03:00:00Z",
+          "title": "≪OFF COLLAB≫ TOWA SAMA IN THE FLESH + BIG ANNOUNCEMENT #RoadToREGALIA",
+          "video_id": "z2eCGbnrPIA"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -481,26 +481,22 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T14:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】珍しいメンツでのお釣り〜！【hololive holoro | Anya Melfissa】",
-          "video_id": "WcC1pWBo-6I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T14:04:14Z",
+        "title": "【hololive Dreams ホロライブドリームス】珍しいメンツでのお釣り〜！【hololive holoro | Anya Melfissa】",
+        "video_id": "WcC1pWBo-6I"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T14:00:00Z",
-          "title": "【hololive Dreams】Holodori My Soul #holodori【Pavolia Reine/hololive】",
-          "video_id": "r4F6-lUv9a0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T14:01:25Z",
+        "title": "【hololive Dreams】Holodori My Soul #holodori【Pavolia Reine/hololive】",
+        "video_id": "r4F6-lUv9a0"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -523,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T14:00:49Z"
+  "generated_at": "2026-10-20T14:10:41Z"
 }
