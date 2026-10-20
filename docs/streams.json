@@ -477,11 +477,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-20T07:01:01Z",
-        "title": "【#holodori 】Daily and Weekly【 iofi / hololive】",
-        "video_id": "T8rzpzPGIIM"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -527,5 +522,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T07:40:34Z"
+  "generated_at": "2026-10-20T08:40:26Z"
 }
