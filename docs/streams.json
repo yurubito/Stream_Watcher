@@ -168,7 +168,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T13:00:00Z",
+          "title": "【メンバー限定】喉が終わり散らかしてる【雪花ラミィ /ホロライブ】",
+          "video_id": "b5U66onVI1E"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -183,14 +190,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T11:00:00Z",
-          "title": "ガチムチ達のプランBが帰ってきたぞ～っ！＃03－Gear of War: E-Day【獅白ぼたん/ホロライブ】",
-          "video_id": "HNwI1do6kO4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T11:01:02Z",
+        "title": "ガチムチ達のプランBが帰ってきたぞ～っ！＃03－Gear of War: E-Day【獅白ぼたん/ホロライブ】",
+        "video_id": "HNwI1do6kO4"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -334,14 +339,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T11:00:00Z",
-          "title": "【アソビ★まわり隊！】4人で協力アクション、できるのかっ！？【PICO PARK/ホロライブ】",
-          "video_id": "m2z1mA9ICSI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T11:01:41Z",
+        "title": "【アソビ★まわり隊！】4人で協力アクション、できるのかっ！？【PICO PARK/ホロライブ】",
+        "video_id": "m2z1mA9ICSI"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -533,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T11:00:52Z"
+  "generated_at": "2026-10-20T11:10:41Z"
 }
