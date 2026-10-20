@@ -386,13 +386,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-20T20:01:25Z",
+        "title": "【hololive Dreams】CCGG HOLODORI #holodori",
+        "video_id": "jnMODXBj9iE"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T20:00:00Z",
-          "title": "【hololive Dreams】CCGG HOLODORI #holodori",
-          "video_id": "jnMODXBj9iE"
-        },
         {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
@@ -475,5 +475,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-20T20:01:06Z"
+  "generated_at": "2026-10-20T20:10:35Z"
 }
