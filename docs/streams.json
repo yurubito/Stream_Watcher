@@ -50,14 +50,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T13:00:00Z",
-          "title": "【雑談】おはなしきいてっ！【ホロライブ/夏色まつり】",
-          "video_id": "kLFsqvruEFs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T13:00:20Z",
+        "title": "【雑談】おはなしきいてっ！【ホロライブ/夏色まつり】",
+        "video_id": "kLFsqvruEFs"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -558,5 +556,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T12:50:27Z"
+  "generated_at": "2026-10-20T13:00:47Z"
 }
