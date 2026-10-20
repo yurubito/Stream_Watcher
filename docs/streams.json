@@ -31,6 +31,11 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-20T16:00:00Z",
+          "title": "【 #ホロ鯖ARK 】DAY12│拠点大整理とダエオドン！からの洞窟！【ホロライブ/アキロゼ】",
+          "video_id": "nNAjbIxlmDA"
+        },
+        {
           "scheduled_at": "2026-10-26T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第57回】📞恋人と毎日連絡したい派🆚💬会う時に濃く話したい派  あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
           "video_id": "dTbDAIbG84I"
@@ -92,11 +97,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-20T13:06:55Z",
-        "title": "【コラボ】可愛すぎる4人で呪いのゲーム『インボキア』に挑戦！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "IDzeb4Zhs1o"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -213,14 +213,7 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T13:00:00Z",
-          "title": "【 インボキア 】呪いのボードゲーム？！やってみる！！【音乃瀬奏】#ReGLOSS",
-          "video_id": "N3VTS_7uPx0"
-        }
-      ]
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -257,11 +250,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-20T13:06:48Z",
-        "title": "【インボキア】呪いのボードゲーム⁉️こ、こわくねーし✋【水宮枢／ホロライブ】",
-        "video_id": "UTbW5ggmTTU"
-      },
       "name": "水宮枢"
     },
     {
@@ -504,5 +492,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T15:20:36Z"
+  "generated_at": "2026-10-20T15:30:49Z"
 }
