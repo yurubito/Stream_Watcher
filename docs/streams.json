@@ -50,11 +50,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-20T13:00:20Z",
-        "title": "【雑談】おはなしきいてっ！【ホロライブ/夏色まつり】",
-        "video_id": "kLFsqvruEFs"
-      },
       "name": "夏色まつり"
     },
     {
@@ -493,11 +488,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-20T12:00:12Z",
-        "title": "【Hololive Dreams】bit of trolling #holodori #ホロドリ",
-        "video_id": "qvgeJEpelBM"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -516,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T13:40:26Z"
+  "generated_at": "2026-10-20T13:50:33Z"
 }
