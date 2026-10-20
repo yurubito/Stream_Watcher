@@ -179,21 +179,11 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-20T09:01:54Z",
-        "title": "【 #ホロ鯖ARK 】なんか自慢できることしたい！！！！内容募集中【 桃鈴ねね / hololive 】",
-        "video_id": "wKIDLO8ZIOs"
-      },
       "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-20T11:01:02Z",
-        "title": "ガチムチ達のプランBが帰ってきたぞ～っ！＃03－Gear of War: E-Day【獅白ぼたん/ホロライブ】",
-        "video_id": "HNwI1do6kO4"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -526,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T13:30:47Z"
+  "generated_at": "2026-10-20T13:40:26Z"
 }
