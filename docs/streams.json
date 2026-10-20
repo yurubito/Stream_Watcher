@@ -458,12 +458,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-20T14:01:25Z",
-        "title": "【hololive Dreams】Holodori My Soul #holodori【Pavolia Reine/hololive】",
-        "video_id": "r4F6-lUv9a0"
-      },
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T06:00:00Z",
+          "title": "【BOMBANANA!】Holoro Monkey Business 2【Pavolia Reine/hololive】",
+          "video_id": "CaDX-pheWK0"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -486,5 +488,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T16:30:46Z"
+  "generated_at": "2026-10-20T16:40:33Z"
 }
