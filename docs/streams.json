@@ -55,6 +55,11 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-20T13:00:20Z",
+        "title": "【雑談】おはなしきいてっ！【ホロライブ/夏色まつり】",
+        "video_id": "kLFsqvruEFs"
+      },
       "name": "夏色まつり"
     },
     {
@@ -289,7 +294,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T11:00:00Z",
+          "title": "収益化記念枠のお礼配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "mxO8GECgCas"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -492,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T15:30:49Z"
+  "generated_at": "2026-10-20T15:40:33Z"
 }
