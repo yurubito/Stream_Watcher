@@ -50,7 +50,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T13:00:00Z",
+          "title": "【雑談】おはなしきいてっ！【ホロライブ/夏色まつり】",
+          "video_id": "kLFsqvruEFs"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -317,7 +324,19 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "live": {
+        "started_at": "2026-10-20T11:46:34Z",
+        "title": "【#ホロドリ 】夜の釣り🎣ただいま【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "dV7D2lATU1w"
+      },
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T13:00:00Z",
+          "title": "【#ホロARK】初めてのホロ鯖ARK！！＃11【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "4FBV1OqyOlE"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -474,7 +493,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T12:00:00Z",
+          "title": "【Hololive Dreams】Grind~?【hololive | moona】",
+          "video_id": "WET_Y25XXhY"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -513,7 +539,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T12:00:00Z",
+          "title": "【Hololive Dreams】bit of trolling #holodori #ホロドリ",
+          "video_id": "qvgeJEpelBM"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -526,5 +559,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T11:20:26Z"
+  "generated_at": "2026-10-20T11:50:22Z"
 }
