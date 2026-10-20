@@ -418,11 +418,6 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-20T00:55:08Z",
-        "title": "【RISE OF THE RŌNIN】i'm the lone demon dog of yokohama🐾🩵 【FUWAWA SOLO】",
-        "video_id": "ZCb16LGdEM4"
-      },
       "name": "フワワ＆モココ・アビスガード"
     },
     {
@@ -501,7 +496,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T12:00:00Z",
+          "title": "【hololive Dreams】 KEYBOARD RHYTHM IS THE WAY!!  #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "Qd9ynQNf3pQ"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -529,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T10:10:33Z"
+  "generated_at": "2026-10-20T10:20:31Z"
 }
