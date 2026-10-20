@@ -386,13 +386,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-20T00:00:36Z",
+        "title": "【DEADLOCK】NEW PLAYER TEACHES ME DEADLOCK!",
+        "video_id": "iLxNEAxN8_U"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T00:00:00Z",
-          "title": "【DEADLOCK】NEW PLAYER TEACHES ME DEADLOCK!",
-          "video_id": "iLxNEAxN8_U"
-        },
         {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
@@ -456,5 +456,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-19T23:20:32Z"
+  "generated_at": "2026-10-20T00:00:56Z"
 }
