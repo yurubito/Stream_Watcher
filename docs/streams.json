@@ -446,7 +446,24 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T07:00:00Z",
+          "title": "【#holodori 】Daily and Weekly【 iofi / hololive】",
+          "video_id": "T8rzpzPGIIM"
+        },
+        {
+          "scheduled_at": "2026-10-20T09:00:00Z",
+          "title": "【TCG CARD SHOP SIM】I AM RICH【 iofi / hololive】",
+          "video_id": "kHEdoPQicgM"
+        },
+        {
+          "scheduled_at": "2026-10-20T14:00:00Z",
+          "title": "【 #holoctober 】DAY 20 : Gender Bend【 iofi / hololive】",
+          "video_id": "yW9Pm_oGexg"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -479,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T05:50:22Z"
+  "generated_at": "2026-10-20T06:00:38Z"
 }
