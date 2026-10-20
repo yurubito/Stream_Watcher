@@ -229,6 +229,11 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-20T01:00:09Z",
+        "title": "【朝ドリ#8】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
+        "video_id": "WJz-YOx6fsE"
+      },
       "name": "響咲リオナ"
     },
     {
@@ -362,14 +367,12 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "name": "フワワ＆モココ・アビスガード",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T01:00:00Z",
-          "title": "【RISE OF THE RŌNIN】i'm the lone demon dog of yokohama🐾🩵 【FUWAWA SOLO】",
-          "video_id": "ZCb16LGdEM4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T00:55:08Z",
+        "title": "【RISE OF THE RŌNIN】i'm the lone demon dog of yokohama🐾🩵 【FUWAWA SOLO】",
+        "video_id": "ZCb16LGdEM4"
+      },
+      "name": "フワワ＆モココ・アビスガード"
     },
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
@@ -456,5 +459,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T00:00:56Z"
+  "generated_at": "2026-10-20T01:10:29Z"
 }
