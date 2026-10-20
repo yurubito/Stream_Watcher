@@ -301,7 +301,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T11:00:00Z",
+          "title": "【アソビ★まわり隊！】4人で協力アクション、できるのかっ！？【PICO PARK/ホロライブ】",
+          "video_id": "m2z1mA9ICSI"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -472,5 +479,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T05:20:28Z"
+  "generated_at": "2026-10-20T05:50:22Z"
 }
