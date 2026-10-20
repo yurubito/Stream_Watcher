@@ -420,11 +420,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-20T14:22:57Z",
-        "title": "【ART】DRAWING IS FUN!!!",
-        "video_id": "ui0rXLYE0_U"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -487,8 +482,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T04:00:00Z",
+          "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
+          "video_id": "SKsBzv6XUsQ"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-20T17:20:33Z"
+  "generated_at": "2026-10-20T18:00:48Z"
 }
