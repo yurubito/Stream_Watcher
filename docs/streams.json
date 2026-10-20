@@ -97,11 +97,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-20T12:00:21Z",
-        "title": "【タンポポは耐える。】ころねのPCも耐えてくれ。",
-        "video_id": "alUDRkSYyc8"
-      },
       "name": "戌神ころね"
     },
     {
@@ -464,14 +459,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T14:00:00Z",
-          "title": "【 #holoctober 】DAY 20 : Gender Bend【 iofi / hololive】",
-          "video_id": "yW9Pm_oGexg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T14:11:22Z",
+        "title": "【 #holoctober 】DAY 20 : Gender Bend【 iofi / hololive】",
+        "video_id": "yW9Pm_oGexg"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -519,5 +512,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T14:10:41Z"
+  "generated_at": "2026-10-20T14:20:46Z"
 }
