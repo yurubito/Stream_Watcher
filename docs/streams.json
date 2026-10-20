@@ -65,7 +65,14 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T12:00:00Z",
+          "title": "【】【ホロライブ/大空スバル】",
+          "video_id": "6QdqwaNwa68"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -531,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T10:30:33Z"
+  "generated_at": "2026-10-20T10:40:32Z"
 }
