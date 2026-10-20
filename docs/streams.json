@@ -111,11 +111,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-20T10:00:07Z",
-        "title": "【#ホロ鯖ARK】DAY11🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "GEa150_DsKY"
-      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
@@ -309,7 +304,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-20T13:00:00Z",
-          "title": "【インボギア】呪いのボードゲーム⁉️こ、こわくねーし✋【水宮枢／ホロライブ】",
+          "title": "【インボキア】呪いのボードゲーム⁉️こ、こわくねーし✋【水宮枢／ホロライブ】",
           "video_id": "UTbW5ggmTTU"
         }
       ]
@@ -568,5 +563,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T12:20:47Z"
+  "generated_at": "2026-10-20T12:40:32Z"
 }
