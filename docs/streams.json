@@ -227,14 +227,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T10:00:00Z",
-          "title": "【 #ホロ甲2026 】ホロ甲切り抜き鑑賞会⚾️打ち上げ！できたらこんこよ高校4年目後日談もやるかも⁉️【博衣こより/ホロライブ】",
-          "video_id": "D4XfCKw3TOw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T10:01:49Z",
+        "title": "【 #ホロ甲2026 】ホロ甲切り抜き鑑賞会⚾️打ち上げ！できたらこんこよ高校4年目後日談もやるかも⁉️【博衣こより/ホロライブ】",
+        "video_id": "D4XfCKw3TOw"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -268,14 +266,12 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T10:00:00Z",
-          "title": "【山種美術館】好きな日本画を紹介します！一緒に見ましょう！【儒烏風亭らでん/ホロライブ】",
-          "video_id": "8E4XsqE6xTk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T10:01:27Z",
+        "title": "【山種美術館】好きな日本画を紹介します！一緒に見ましょう！【儒烏風亭らでん/ホロライブ】",
+        "video_id": "8E4XsqE6xTk"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -331,11 +327,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-20T10:00:10Z",
-        "title": "【配信OP】インターネット火消しのじゃ～【熱千めら/ホロライブ】",
-        "video_id": "_8EFStz9Hcs"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -538,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T10:00:55Z"
+  "generated_at": "2026-10-20T10:10:33Z"
 }
