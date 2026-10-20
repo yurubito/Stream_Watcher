@@ -403,13 +403,13 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-20T19:00:26Z",
+        "title": "【REBROADCAST】UNARCHIVED KARAOKE RERUN!!!",
+        "video_id": "f3s7xRhIZmw"
+      },
       "name": "セシリア・イマーグリーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T19:00:00Z",
-          "title": "【REBROADCAST】UNARCHIVED KARAOKE RERUN!!!",
-          "video_id": "f3s7xRhIZmw"
-        },
         {
           "scheduled_at": "2026-10-20T20:00:00Z",
           "title": "【HOLODORI】THE MASTER TAKES ON A NEW STUDENT",
@@ -482,5 +482,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-20T18:30:46Z"
+  "generated_at": "2026-10-20T19:01:01Z"
 }
