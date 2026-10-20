@@ -469,11 +469,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-20T12:00:44Z",
-        "title": "【Hololive Dreams】Grind~?【hololive | moona】",
-        "video_id": "WET_Y25XXhY"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -501,7 +496,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T14:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】珍しいメンツでのお釣り〜！【hololive holoro | Anya Melfissa】",
+          "video_id": "WcC1pWBo-6I"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -531,13 +533,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-20T12:06:15Z",
-        "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
-        "video_id": "qKYIe9s5T6s"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T13:10:33Z"
+  "generated_at": "2026-10-20T13:20:53Z"
 }
