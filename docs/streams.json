@@ -266,14 +266,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T22:00:00Z",
-          "title": "【のじゃEnglish】中学英語を復習のじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "fDYDxbqHn3o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T21:59:48Z",
+        "title": "【のじゃEnglish】ENGLISH STUDY のじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "fDYDxbqHn3o"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -477,5 +475,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-20T21:00:51Z"
+  "generated_at": "2026-10-20T22:00:46Z"
 }
