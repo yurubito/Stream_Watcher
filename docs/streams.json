@@ -445,11 +445,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-20T14:04:14Z",
-        "title": "【hololive Dreams ホロライブドリームス】珍しいメンツでのお釣り〜！【hololive holoro | Anya Melfissa】",
-        "video_id": "WcC1pWBo-6I"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -492,5 +487,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-20T18:00:48Z"
+  "generated_at": "2026-10-20T18:20:34Z"
 }
