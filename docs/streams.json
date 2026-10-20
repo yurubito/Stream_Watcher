@@ -31,6 +31,16 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-20T14:00:00Z",
+          "title": "【ホロライブドリームス】 釣り！w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
+          "video_id": "mqbSYtp8auE"
+        },
+        {
+          "scheduled_at": "2026-10-20T15:30:00Z",
+          "title": "【 #ホロ鯖ARK 】DAY12│拠点大整理とダエオドン！からの洞窟！【ホロライブ/アキロゼ】",
+          "video_id": "G8ecvgF6WvY"
+        },
+        {
           "scheduled_at": "2026-10-26T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第57回】📞恋人と毎日連絡したい派🆚💬会う時に濃く話したい派  あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
           "video_id": "dTbDAIbG84I"
@@ -483,7 +493,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T14:00:00Z",
+          "title": "【hololive Dreams】Holodori My Soul #holodori【Pavolia Reine/hololive】",
+          "video_id": "r4F6-lUv9a0"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -506,5 +523,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T13:50:33Z"
+  "generated_at": "2026-10-20T14:00:49Z"
 }
