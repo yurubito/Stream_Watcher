@@ -89,7 +89,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-20T13:00:00Z",
-          "title": "【コラボ】可愛すぎる4人で呪いのゲームに挑戦！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+          "title": "【コラボ】可愛すぎる4人で呪いのゲーム『インボキア』に挑戦！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
           "video_id": "IDzeb4Zhs1o"
         }
       ]
@@ -319,11 +319,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-19T23:01:03Z",
-        "title": "【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN'T WAIT TO (finale) #calliolive",
-        "video_id": "T6_IJ4YMW5k"
-      },
       "name": "森カリオペ"
     },
     {
@@ -468,5 +463,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T02:10:32Z"
+  "generated_at": "2026-10-20T02:40:34Z"
 }
