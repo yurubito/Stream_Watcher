@@ -249,14 +249,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T23:00:00Z",
-          "title": "【#ホロドリ 】いろは先輩と初サシコラボ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #風真いろは】",
-          "video_id": "XcDskINdvo4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T23:00:23Z",
+        "title": "【#ホロドリ 】いろは先輩と初サシコラボ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #風真いろは】",
+        "video_id": "XcDskINdvo4"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -347,14 +345,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T23:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】COPE AND THEVE",
-          "video_id": "NwXvWnw7QPY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T22:58:02Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】COPE AND THEVE",
+        "video_id": "NwXvWnw7QPY"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -470,5 +466,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-20T22:50:22Z"
+  "generated_at": "2026-10-20T23:00:48Z"
 }
