@@ -168,7 +168,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T13:00:00Z",
+          "title": "【メンバー限定】喉が終わり散らかしてる【雪花ラミィ /ホロライブ】",
+          "video_id": "b5U66onVI1E"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -460,7 +467,7 @@
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-20T13:00:00Z",
+          "scheduled_at": "2026-10-20T14:00:00Z",
           "title": "【ART】DRAWING IS FUN!!!",
           "video_id": "ui0rXLYE0_U"
         }
@@ -538,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T10:40:32Z"
+  "generated_at": "2026-10-20T10:50:34Z"
 }
