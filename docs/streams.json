@@ -146,7 +146,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T10:30:00Z",
+          "title": "【 #ホロ鯖ARK 】その１０｜なにか行きたいなとは…【常闇トワ/ホロライブ】",
+          "video_id": "rmqSq8an8FY"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -253,7 +260,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T03:30:00Z",
+          "title": "こらー！先輩を冷笑うな！★ミ【#一条莉々華の限界飯】",
+          "video_id": "tmw3NuK0-ww"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -528,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T09:20:44Z"
+  "generated_at": "2026-10-20T09:50:22Z"
 }
