@@ -381,6 +381,11 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-20T22:36:37Z",
+        "title": "【DEADLOCK】LITERALLY ONLY ONE GAME",
+        "video_id": "AtO7F_Zle78"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -460,5 +465,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-20T22:30:39Z"
+  "generated_at": "2026-10-20T22:40:33Z"
 }
