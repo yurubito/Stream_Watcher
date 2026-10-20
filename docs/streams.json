@@ -122,11 +122,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-20T13:07:01Z",
-        "title": "【 インボキア 】呪いのボードゲームのお時間です..............【角巻わため/ホロライブ４期生】",
-        "video_id": "RCrquCVZPtM"
-      },
       "name": "角巻わため"
     },
     {
@@ -186,11 +181,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-20T10:01:49Z",
-        "title": "【 #ホロ甲2026 】ホロ甲切り抜き鑑賞会⚾️打ち上げ！できたらこんこよ高校4年目後日談もやるかも⁉️【博衣こより/ホロライブ】",
-        "video_id": "D4XfCKw3TOw"
-      },
       "name": "博衣こより"
     },
     {
@@ -245,7 +235,14 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T13:00:00Z",
+          "title": "【#６】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
+          "video_id": "dmPELDvXPKA"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -489,5 +486,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T16:10:32Z"
+  "generated_at": "2026-10-20T16:30:46Z"
 }
