@@ -28,11 +28,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-20T14:06:56Z",
-        "title": "【ホロライブドリームス】 釣り対決！w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "mqbSYtp8auE"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -65,11 +60,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-20T14:04:28Z",
-        "title": "【#ホロドリ】深夜のわちゃわちゃ釣り対決配信📣 【ホロライブ/癒月ちょこ/アキ・ローゼンタール/アーニャ・メルフィッサ】",
-        "video_id": "d79Vkg3Yxyw"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -211,7 +201,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T23:00:00Z",
+          "title": "【#ホロドリ】朝活☀仲間見ぃつけた👀【風真いろは/ホロライブ】",
+          "video_id": "7IhINpnafwI"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -507,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T14:40:41Z"
+  "generated_at": "2026-10-20T15:20:36Z"
 }
