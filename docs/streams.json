@@ -157,11 +157,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-20T09:58:31Z",
-        "title": "【 鳴潮 】千咲ガチャ✨キャラ達の育成をしていくのら！！！Ver.3.7 ＃29【姫森ルーナ/ホロライブ】",
-        "video_id": "ua4sbXI2v1A"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -437,14 +432,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T14:15:00Z",
-          "title": "【ART】DRAWING IS FUN!!!",
-          "video_id": "ui0rXLYE0_U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-20T14:22:57Z",
+        "title": "【ART】DRAWING IS FUN!!!",
+        "video_id": "ui0rXLYE0_U"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -512,5 +505,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T14:20:46Z"
+  "generated_at": "2026-10-20T14:30:48Z"
 }
