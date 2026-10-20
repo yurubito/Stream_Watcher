@@ -168,14 +168,7 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T13:00:00Z",
-          "title": "【メンバー限定】喉が終わり散らかしてる【雪花ラミィ /ホロライブ】",
-          "video_id": "b5U66onVI1E"
-        }
-      ]
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -202,13 +195,13 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-20T11:00:16Z",
+        "title": "【アークナイツ】戦闘システムが好き！アークナイツの世界に帰還！初配信～！【尾丸ポルカ/ホロライブ】",
+        "video_id": "CI5KKwUfKtM"
+      },
       "name": "尾丸ポルカ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-20T11:00:00Z",
-          "title": "【アークナイツ】戦闘システムが好き！アークナイツの世界に帰還！初配信～！【尾丸ポルカ/ホロライブ】",
-          "video_id": "CI5KKwUfKtM"
-        },
         {
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
@@ -219,11 +212,6 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-20T09:59:42Z",
-        "title": "【餓狼伝説 City of the Wolves 】不知火舞さんの新衣装がSWITCH2で実装！？告知もあるよ!!【ラプラス・ダークネス/ホロライブ】",
-        "video_id": "yJ1Br8Vc1JA"
-      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -545,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T10:50:34Z"
+  "generated_at": "2026-10-20T11:00:52Z"
 }
