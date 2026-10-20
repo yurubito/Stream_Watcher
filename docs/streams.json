@@ -359,7 +359,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T23:00:00Z",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】COPE AND THEVE",
+          "video_id": "NwXvWnw7QPY"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -475,5 +482,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-20T20:10:35Z"
+  "generated_at": "2026-10-20T20:40:34Z"
 }
