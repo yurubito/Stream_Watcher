@@ -109,7 +109,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-20T09:00:00Z",
+          "title": "【ホロ鯖ARK】本当に今度こそ拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
+          "video_id": "UlWtKMIFG1g"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -176,6 +183,11 @@
           "scheduled_at": "2026-10-20T11:00:00Z",
           "title": "【アークナイツ】戦闘システムが好き！アークナイツの世界に帰還！初配信～！【尾丸ポルカ/ホロライブ】",
           "video_id": "CI5KKwUfKtM"
+        },
+        {
+          "scheduled_at": "2026-10-23T10:00:00Z",
+          "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
+          "video_id": "QoQRLGY7LFg"
         }
       ]
     },
@@ -299,6 +311,11 @@
       "name": "熱千めら",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-20T10:00:00Z",
+          "title": "【配信OP】インターネット火消しのじゃ～【熱千めら/ホロライブ】",
+          "video_id": "_8EFStz9Hcs"
+        },
+        {
           "scheduled_at": "2026-10-20T22:00:00Z",
           "title": "【のじゃEnglish】中学英語を復習のじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "fDYDxbqHn3o"
@@ -325,11 +342,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-20T01:59:29Z",
-        "title": "【EN】I'm back at Five Nights at Freddy's!! | FNAF【Hyakuto Kyoko/Hololive】",
-        "video_id": "hgqohSU3vpg"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -417,6 +429,11 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-20T20:00:00Z",
+          "title": "【hololive Dreams】CCGG HOLODORI #holodori",
+          "video_id": "jnMODXBj9iE"
+        },
+        {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
           "video_id": "rzxphuacYxo"
@@ -503,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-20T06:50:22Z"
+  "generated_at": "2026-10-20T07:00:57Z"
 }
