@@ -28,11 +28,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-20T16:01:33Z",
-        "title": "【 #ホロ鯖ARK 】DAY12│拠点大整理とダエオドン！からの洞窟！【ホロライブ/アキロゼ】",
-        "video_id": "nNAjbIxlmDA"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -386,11 +381,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-20T20:01:25Z",
-        "title": "【hololive Dreams】CCGG HOLODORI #holodori",
-        "video_id": "jnMODXBj9iE"
-      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -403,11 +393,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-20T19:58:53Z",
-        "title": "【HOLODORI】THE MASTER TAKES ON A NEW STUDENT",
-        "video_id": "pPGahrMUZWY"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -475,5 +460,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-20T22:00:46Z"
+  "generated_at": "2026-10-20T22:30:39Z"
 }
