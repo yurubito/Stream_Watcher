@@ -33,11 +33,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-21T12:32:03Z",
-        "title": "【ホロライブドリームス】 今日も実質雑談！図鑑コンプまで残り5匹！#ホロドリ【ホロライブ/アキロゼ】",
-        "video_id": "-0sau-6cD0s"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -490,14 +485,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T14:00:00Z",
-          "title": "【Hololive Dreams】ZECRETARY LETS PLAY #holodori #ホロドリ",
-          "video_id": "gAw5tzBP75Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T14:01:27Z",
+        "title": "【Hololive Dreams】ZECRETARY LETS PLAY #holodori #ホロドリ",
+        "video_id": "gAw5tzBP75Y"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -515,5 +508,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T14:00:50Z"
+  "generated_at": "2026-10-21T14:10:38Z"
 }
