@@ -374,13 +374,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-21T21:01:43Z",
+        "title": "【DEADLOCK】green goblin mask calling to me DEADLOCK YOU WILL PLAY DEADLOCK",
+        "video_id": "1kPBkAmaHkA"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T21:00:00Z",
-          "title": "【DEADLOCK】green goblin mask calling to me DEADLOCK YOU WILL PLAY DEADLOCK",
-          "video_id": "1kPBkAmaHkA"
-        },
         {
           "scheduled_at": "2026-10-28T21:00:00Z",
           "title": "【#GBVSR】sandalphon wait for me...we will win.. #ad",
@@ -449,5 +449,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T21:00:50Z"
+  "generated_at": "2026-10-21T21:10:29Z"
 }
