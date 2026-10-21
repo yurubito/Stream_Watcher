@@ -120,7 +120,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T12:00:00Z",
+          "title": "【ド★初見】めちゃムズ！？「餓狼伝説 City of the Wolves」遊ぶ！！",
+          "video_id": "Pz6TeGoIu1M"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -243,7 +250,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T10:00:00Z",
+          "title": "【メン限】へろへろのおんなぁ【一条莉々華/hololive ReGLOSS】",
+          "video_id": "AoTNGQnDdZ0"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -528,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T09:30:42Z"
+  "generated_at": "2026-10-21T09:40:24Z"
 }
