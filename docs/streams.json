@@ -398,18 +398,11 @@
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
       "live": {
-        "started_at": "2026-10-21T14:43:54Z",
-        "title": "KARAOKE + NEW  ORIGINAL SONG MV PREMIERE !!!!!",
-        "video_id": "IOExErf_EcQ"
+        "started_at": "2026-10-21T17:00:08Z",
+        "title": "【Ayunda Risu】S.O.Re : Song Of Reality 【Original Song MV】",
+        "video_id": "ZngEAESMgyI"
       },
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T17:00:00Z",
-          "title": "【Ayunda Risu】S.O.Re : Song Of Reality 【Original Song MV】",
-          "video_id": "ZngEAESMgyI"
-        }
-      ]
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -434,11 +427,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-21T13:45:32Z",
-        "title": "【hololive Dreams】Gyu-Don My Soul #holodori【Pavolia Reine/hololive】",
-        "video_id": "HmuDOgwpB6Y"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -462,5 +450,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T16:50:26Z"
+  "generated_at": "2026-10-21T17:01:00Z"
 }
