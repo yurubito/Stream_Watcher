@@ -67,7 +67,19 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T09:00:00Z",
+          "title": "【#ホロドリ】ロボ子さんに釣られた癒月さん📣 【ホロライブ/癒月ちょこ/ロボ子さん】",
+          "video_id": "DrK2kWKmIwo"
+        },
+        {
+          "scheduled_at": "2026-10-21T10:15:00Z",
+          "title": "【#ホロ鯖ARK】ARK上陸11日目！素材王、ギブるのだ！【ホロライブ/癒月ちょこ】",
+          "video_id": "kLXUelsQne8"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -458,5 +470,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T04:20:20Z"
+  "generated_at": "2026-10-21T06:10:25Z"
 }
