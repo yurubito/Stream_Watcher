@@ -183,11 +183,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-20T23:01:17Z",
-        "title": "【#ホロドリ】朝活☀仲間見ぃつけた👀【風真いろは/ホロライブ】",
-        "video_id": "7IhINpnafwI"
-      },
       "name": "風真いろは"
     },
     {
@@ -254,11 +249,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-20T23:00:23Z",
-        "title": "【#ホロドリ 】いろは先輩と初サシコラボ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #風真いろは】",
-        "video_id": "XcDskINdvo4"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -464,5 +454,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T00:10:27Z"
+  "generated_at": "2026-10-21T00:20:31Z"
 }
