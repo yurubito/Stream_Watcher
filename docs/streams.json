@@ -365,11 +365,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-20T22:36:37Z",
-        "title": "【DEADLOCK】LITERALLY ONLY ONE GAME",
-        "video_id": "AtO7F_Zle78"
-      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -382,11 +377,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-20T22:36:41Z",
-        "title": "【GUERILLA】Deadlock??",
-        "video_id": "e7Er77h73Gc"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -454,5 +444,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T00:20:31Z"
+  "generated_at": "2026-10-21T00:30:41Z"
 }
