@@ -382,6 +382,11 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-21T21:00:00Z",
+          "title": "【DEADLOCK】green goblin mask calling to me DEADLOCK YOU WILL PLAY DEADLOCK",
+          "video_id": "1kPBkAmaHkA"
+        },
+        {
           "scheduled_at": "2026-10-28T21:00:00Z",
           "title": "【#GBVSR】sandalphon wait for me...we will win.. #ad",
           "video_id": "eAQXQI2Sl_I"
@@ -449,5 +454,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T19:30:53Z"
+  "generated_at": "2026-10-21T20:20:33Z"
 }
