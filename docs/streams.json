@@ -45,14 +45,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T16:00:00Z",
-          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその３【ホロライブ/白上フブキ】",
-          "video_id": "zYASoDUesEs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T16:00:15Z",
+        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその３【ホロライブ/白上フブキ】",
+        "video_id": "zYASoDUesEs"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -139,11 +137,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-21T10:00:59Z",
-        "title": "【 ガンプラ 】∀ターンエーガンダムのガンプラを作るのら！！！Building a Turn A Gundam model kit【姫森ルーナ/ホロライブ】",
-        "video_id": "p6gozBm1ivg"
-      },
       "name": "姫森ルーナ",
       "upcoming": [
         {
@@ -477,5 +470,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T15:40:36Z"
+  "generated_at": "2026-10-21T16:01:00Z"
 }
