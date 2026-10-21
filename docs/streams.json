@@ -40,7 +40,14 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと"
+      "name": "赤井はあと",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T10:00:00Z",
+          "title": "【AI旅】人権とは・・・【ホロライブ/赤井はあと】",
+          "video_id": "D_Lz6j9PBOE"
+        }
+      ]
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -281,7 +288,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T14:00:00Z",
+          "title": "パスタでチルーーー！！！…できそうか？？【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "Bu2RjjOeIx8"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -301,11 +315,6 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-21T00:02:02Z",
-        "title": "【#GBVSR】First Time Playing!!!! Start Of My Training Arc...! #sponsored",
-        "video_id": "LPw6xcrP9mY"
-      },
       "name": "一伊那尓栖"
     },
     {
@@ -372,6 +381,11 @@
       "group": "EN Justice",
       "name": "ジジ・ムリン",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T21:00:00Z",
+          "title": "【#GBVSR】sandalphon wait for me...we will win.. #ad",
+          "video_id": "eAQXQI2Sl_I"
+        },
         {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
@@ -449,5 +463,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T00:50:32Z"
+  "generated_at": "2026-10-21T02:20:25Z"
 }
