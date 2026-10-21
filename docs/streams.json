@@ -227,11 +227,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-21T10:39:28Z",
-        "title": "【 ショート雑談 】ねむねむだけどしゃべりたい！【音乃瀬奏】#ReGLOSS",
-        "video_id": "Z3lDXrbqiPM"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -527,5 +522,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T11:10:26Z"
+  "generated_at": "2026-10-21T11:30:47Z"
 }
