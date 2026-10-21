@@ -342,11 +342,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-21T13:00:43Z",
-        "title": "≪hololive Dreams≫ Low Cortizol Hours #holodori",
-        "video_id": "IKHPXuQiF5M"
-      },
       "name": "ハコス・ベールズ"
     },
     {
@@ -423,13 +418,13 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-21T14:43:54Z",
+        "title": "KARAOKE + NEW  ORIGINAL SONG MV PREMIERE !!!!!",
+        "video_id": "IOExErf_EcQ"
+      },
       "name": "アユンダ・リス",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T14:00:00Z",
-          "title": "KARAOKE + NEW  ORIGINAL SONG MV PREMIERE !!!!!",
-          "video_id": "IOExErf_EcQ"
-        },
         {
           "scheduled_at": "2026-10-21T17:00:00Z",
           "title": "【Ayunda Risu】S.O.Re : Song Of Reality 【Original Song MV】",
@@ -498,5 +493,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T14:40:42Z"
+  "generated_at": "2026-10-21T14:50:27Z"
 }
