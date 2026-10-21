@@ -330,14 +330,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T03:00:00Z",
-          "title": "≪OFF COLLAB≫ TOWA SAMA IN THE FLESH + BIG ANNOUNCEMENT #RoadToREGALIA",
-          "video_id": "z2eCGbnrPIA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T03:00:44Z",
+        "title": "≪OFF COLLAB≫ TOWA SAMA IN THE FLESH + BIG ANNOUNCEMENT #RoadToREGALIA",
+        "video_id": "z2eCGbnrPIA"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -465,5 +463,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T03:10:25Z"
+  "generated_at": "2026-10-21T03:20:24Z"
 }
