@@ -194,11 +194,6 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-21T13:44:38Z",
-        "title": "お話",
-        "video_id": "zGhdPzvDKBY"
-      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -315,13 +310,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-21T13:59:29Z",
+        "title": "パスタでチルーーー！！！…できそうか？？【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "Bu2RjjOeIx8"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T14:00:00Z",
-          "title": "パスタでチルーーー！！！…できそうか？？【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "Bu2RjjOeIx8"
-        },
         {
           "scheduled_at": "2026-10-22T10:00:00Z",
           "title": "【#ホロ鯖かくれんぼ】みんなで観光たのしむぞーーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -520,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T13:50:34Z"
+  "generated_at": "2026-10-21T14:00:50Z"
 }
