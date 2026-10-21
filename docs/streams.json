@@ -40,7 +40,14 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと"
+      "name": "赤井はあと",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "琵琶湖、どこ？【ホロライブ/赤井はあと】",
+          "video_id": "94vPLN6KQY4"
+        }
+      ]
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -445,5 +452,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T17:10:30Z"
+  "generated_at": "2026-10-21T17:50:35Z"
 }
