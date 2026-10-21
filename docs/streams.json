@@ -88,7 +88,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-21T12:00:00Z",
-          "title": "【】【ホロライブ/大空スバル】",
+          "title": "【#ド珍】ラーメン屋さん開店するしゅばあああああああああああああああああああああああああああああああああああ！！！！！：Japanese Ramen Simulator【ホロライブ/大空スバル】",
           "video_id": "6QdqwaNwa68"
         }
       ]
@@ -106,14 +106,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T12:00:00Z",
-          "title": "【ド★初見】めちゃムズ！？「餓狼伝説 City of the Wolves」遊ぶ！！",
-          "video_id": "Pz6TeGoIu1M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T12:00:09Z",
+        "title": "【ド★初見】めちゃムズ！？「餓狼伝説 City of the Wolves」遊ぶ！！",
+        "video_id": "Pz6TeGoIu1M"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -318,13 +316,13 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-21T11:59:33Z",
+        "title": "【歌枠】　はじめての歌枠!!!!楽しむぞー!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "r-NQcMkTvmo"
+      },
       "name": "鈴鳴つづり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T12:00:00Z",
-          "title": "【歌枠】　はじめての歌枠!!!!楽しむぞー!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "r-NQcMkTvmo"
-        },
         {
           "scheduled_at": "2026-10-22T10:00:00Z",
           "title": "【#ホロ鯖かくれんぼ】遂に上陸!?　先輩と会いたいけど...【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
@@ -492,7 +490,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T13:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】Forging My Holodori Skill & Soul【hololive holoro | Anya Melfissa】",
+          "video_id": "Q9VhYASmjFA"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -522,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T11:30:47Z"
+  "generated_at": "2026-10-21T12:00:58Z"
 }
