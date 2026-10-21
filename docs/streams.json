@@ -105,11 +105,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-21T10:00:49Z",
-        "title": "【#ホロ鯖ARK】DAY12🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "ioEKuzmwOYI"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -244,11 +239,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-21T13:00:35Z",
-        "title": "【#６】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
-        "video_id": "dmPELDvXPKA"
-      },
       "name": "水宮枢"
     },
     {
@@ -508,5 +498,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T14:10:38Z"
+  "generated_at": "2026-10-21T14:40:42Z"
 }
