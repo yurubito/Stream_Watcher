@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T09:00:00Z",
+          "title": "【 ＃ホロドリ 】先生図鑑埋まってるの！？なんで！！ねえ！！ねえ！！【ホロライブ/ ロボ子さん 】",
+          "video_id": "fanR5mMMtyM"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -127,6 +134,11 @@
           "scheduled_at": "2026-10-21T07:30:00Z",
           "title": "【ホロドリ】久々のホロドリ！現在54種類～お魚コンプ目指して１時間釣り太郎ッ！【白銀ノエル/ホロライブ】",
           "video_id": "tqpAhwF-yU4"
+        },
+        {
+          "scheduled_at": "2026-10-21T09:00:00Z",
+          "title": "【ホロ鯖ARK】拠点完成まであと60％！完成目指して！(至高ガチャやダエオドンテイムもしたい！)【白銀ノエル/ホロライブ】",
+          "video_id": "HL79bf1HLKo"
         }
       ]
     },
@@ -207,7 +219,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T10:00:00Z",
+          "title": "【#ホロARK】トワ様からもらったワイバーン卵育児DAY🏝【風真いろは/ホロライブ】",
+          "video_id": "3gq5H4yCRNc"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -217,14 +236,7 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T03:30:00Z",
-          "title": "こらー！先輩を冷笑うな！★ミ【#一条莉々華の限界飯】",
-          "video_id": "tmw3NuK0-ww"
-        }
-      ]
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -413,6 +425,11 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-21T06:04:46Z",
+        "title": "【hololive Dreams】IoRisu holodori time ~!!!【#holodori #ホロドリ】",
+        "video_id": "vAghMnlaPvM"
+      },
       "name": "アユンダ・リス"
     },
     {
@@ -423,29 +440,42 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-21T06:01:25Z",
+        "title": "【#holodori 】ioRisu again! Cihuy【 iofi / hololive】",
+        "video_id": "GNjgna9YQWE"
+      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-21T05:59:45Z",
+        "title": "【BOMBANANA!】 WE'RE COMPLETING THE GAME!! 【Kureiji Ollie】",
+        "video_id": "w8IDo6EoBws"
+      },
       "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-21T06:00:16Z",
+        "title": "【BOMBANANA!】LEVEL 21-30 HOLORO SWEEP【hololive holoro | Anya Melfissa】",
+        "video_id": "QnOG89sUJJ8"
+      },
       "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T06:00:00Z",
-          "title": "【BOMBANANA!】Holoro Monkey Business 2【Pavolia Reine/hololive】",
-          "video_id": "CaDX-pheWK0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T06:00:19Z",
+        "title": "【BOMBANANA!】Holoro Monkey Business 2【Pavolia Reine/hololive】",
+        "video_id": "CaDX-pheWK0"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -460,15 +490,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T04:00:00Z",
-          "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
-          "video_id": "SKsBzv6XUsQ"
-        }
-      ]
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T06:10:25Z"
+  "generated_at": "2026-10-21T07:01:02Z"
 }
