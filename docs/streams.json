@@ -470,14 +470,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T13:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Forging My Holodori Skill & Soul【hololive holoro | Anya Melfissa】",
-          "video_id": "Q9VhYASmjFA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T13:07:59Z",
+        "title": "【hololive Dreams ホロライブドリームス】Forging My Holodori Skill & Soul【hololive holoro | Anya Melfissa】",
+        "video_id": "Q9VhYASmjFA"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -499,14 +497,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T13:05:00Z",
-          "title": "【hololive Dreams】KAELA EVENT. GRRRRRRRRRRRRRRRRRRIND.【#holodori】",
-          "video_id": "nuPuhR4xf2A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T13:04:38Z",
+        "title": "【hololive Dreams】KAELA EVENT. GRRRRRRRRRRRRRRRRRRIND.【#holodori】",
+        "video_id": "nuPuhR4xf2A"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -514,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T13:00:56Z"
+  "generated_at": "2026-10-21T13:10:27Z"
 }
