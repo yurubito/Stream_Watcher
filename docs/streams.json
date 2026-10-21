@@ -454,11 +454,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-21T06:01:25Z",
-        "title": "【#holodori 】ioRisu again! Cihuy【 iofi / hololive】",
-        "video_id": "GNjgna9YQWE"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -507,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T07:10:30Z"
+  "generated_at": "2026-10-21T07:20:30Z"
 }
