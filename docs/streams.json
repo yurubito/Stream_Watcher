@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-21T09:29:06Z",
-        "title": "【 ＃ホロドリ 】先生図鑑埋まってるの！？なんで！！ねえ！！ねえ！！【ホロライブ/ ロボ子さん 】",
-        "video_id": "x1fTCIGvTIo"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -80,18 +75,11 @@
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
       "live": {
-        "started_at": "2026-10-21T09:02:15Z",
-        "title": "【#ホロドリ】ロボ子さんに釣られた癒月さん📣 【ホロライブ/癒月ちょこ/ロボ子さん】",
-        "video_id": "DrK2kWKmIwo"
+        "started_at": "2026-10-21T10:32:51Z",
+        "title": "【#ホロ鯖ARK】ARK上陸11日目！素材王、ギブるのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "kLXUelsQne8"
       },
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T10:15:00Z",
-          "title": "【#ホロ鯖ARK】ARK上陸11日目！素材王、ギブるのだ！【ホロライブ/癒月ちょこ】",
-          "video_id": "kLXUelsQne8"
-        }
-      ]
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -239,6 +227,11 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-10-21T10:39:28Z",
+        "title": "【 ショート雑談 】ねむねむだけどしゃべりたい！【音乃瀬奏】#ReGLOSS",
+        "video_id": "Z3lDXrbqiPM"
+      },
       "name": "音乃瀬奏"
     },
     {
@@ -519,7 +512,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T13:05:00Z",
+          "title": "【hololive Dreams】KAELA EVENT. GRRRRRRRRRRRRRRRRRRIND.【#holodori】",
+          "video_id": "nuPuhR4xf2A"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -527,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T10:20:27Z"
+  "generated_at": "2026-10-21T10:40:34Z"
 }
