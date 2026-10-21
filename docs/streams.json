@@ -142,11 +142,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-21T07:34:45Z",
-        "title": "【ホロドリ】久々のホロドリ！現在54種類～お魚コンプ目指して１時間釣り太郎ッ！【白銀ノエル/ホロライブ】",
-        "video_id": "tqpAhwF-yU4"
-      },
       "name": "白銀ノエル",
       "upcoming": [
         {
@@ -449,6 +444,11 @@
       "name": "アユンダ・リス",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-21T14:00:00Z",
+          "title": "KARAOKE + NEW  ORIGINAL SONG MV PREMIERE !!!!!",
+          "video_id": "IOExErf_EcQ"
+        },
+        {
           "scheduled_at": "2026-10-21T17:00:00Z",
           "title": "【Ayunda Risu】S.O.Re : Song Of Reality 【Original Song MV】",
           "video_id": "ZngEAESMgyI"
@@ -496,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T07:40:25Z"
+  "generated_at": "2026-10-21T08:40:25Z"
 }
