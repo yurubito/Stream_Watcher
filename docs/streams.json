@@ -287,11 +287,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-21T13:59:29Z",
-        "title": "パスタでチルーーー！！！…できそうか？？【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "Bu2RjjOeIx8"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -457,11 +452,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-21T14:01:27Z",
-        "title": "【Hololive Dreams】ZECRETARY LETS PLAY #holodori #ホロドリ",
-        "video_id": "gAw5tzBP75Y"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -480,5 +470,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T15:20:37Z"
+  "generated_at": "2026-10-21T15:30:43Z"
 }
