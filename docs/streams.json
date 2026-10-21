@@ -33,6 +33,11 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-21T12:32:03Z",
+        "title": "【ホロライブドリームス】 今日も実質雑談！図鑑コンプまで残り5匹！#ホロドリ【ホロライブ/アキロゼ】",
+        "video_id": "-0sau-6cD0s"
+      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -513,5 +518,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T12:40:39Z"
+  "generated_at": "2026-10-21T12:50:26Z"
 }
