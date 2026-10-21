@@ -142,14 +142,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T09:00:00Z",
-          "title": "【ホロ鯖ARK】拠点完成まであと60％！完成目指して！(至高ガチャやダエオドンテイムもしたい！)【白銀ノエル/ホロライブ】",
-          "video_id": "HL79bf1HLKo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T09:00:36Z",
+        "title": "【ホロ鯖ARK】拠点完成まであと60％！完成目指して！(至高ガチャやダエオドンテイムもしたい！)【白銀ノエル/ホロライブ】",
+        "video_id": "HL79bf1HLKo"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -503,5 +501,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T08:50:26Z"
+  "generated_at": "2026-10-21T09:00:58Z"
 }
