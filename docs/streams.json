@@ -25,7 +25,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T12:00:00Z",
+          "title": "【Japanese Ramen Simulator】ド珍らーめん屋開業🍜！！！！！！！！！【ホロライブ/さくらみこ】",
+          "video_id": "30yvrPeSFlA"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -354,7 +361,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T13:00:00Z",
+          "title": "≪hololive Dreams≫ Low Cortizol Hours #holodori",
+          "video_id": "IKHPXuQiF5M"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -493,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T07:01:02Z"
+  "generated_at": "2026-10-21T07:10:30Z"
 }
