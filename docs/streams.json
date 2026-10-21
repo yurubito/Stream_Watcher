@@ -8,14 +8,12 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T09:00:00Z",
-          "title": "【 ＃ホロドリ 】先生図鑑埋まってるの！？なんで！！ねえ！！ねえ！！【ホロライブ/ ロボ子さん 】",
-          "video_id": "fanR5mMMtyM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T09:02:27Z",
+        "title": "【 ＃ホロドリ 】先生図鑑埋まってるの！？なんで！！ねえ！！ねえ！！【ホロライブ/ ロボ子さん 】",
+        "video_id": "fanR5mMMtyM"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -88,13 +86,13 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-21T09:02:15Z",
+        "title": "【#ホロドリ】ロボ子さんに釣られた癒月さん📣 【ホロライブ/癒月ちょこ/ロボ子さん】",
+        "video_id": "DrK2kWKmIwo"
+      },
       "name": "癒月ちょこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T09:00:00Z",
-          "title": "【#ホロドリ】ロボ子さんに釣られた癒月さん📣 【ホロライブ/癒月ちょこ/ロボ子さん】",
-          "video_id": "DrK2kWKmIwo"
-        },
         {
           "scheduled_at": "2026-10-21T10:15:00Z",
           "title": "【#ホロ鯖ARK】ARK上陸11日目！素材王、ギブるのだ！【ホロライブ/癒月ちょこ】",
@@ -132,7 +130,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T10:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY12🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "ioEKuzmwOYI"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -292,14 +297,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T09:00:00Z",
-          "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃13【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "lFE7x8fo3f8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T09:02:50Z",
+        "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃13【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "lFE7x8fo3f8"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -332,6 +335,11 @@
           "scheduled_at": "2026-10-21T14:00:00Z",
           "title": "パスタでチルーーー！！！…できそうか？？【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "Bu2RjjOeIx8"
+        },
+        {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "【#ホロ鯖かくれんぼ】みんなで観光たのしむぞーーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "ihKbojqvGAk"
         }
       ]
     },
@@ -501,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T09:00:58Z"
+  "generated_at": "2026-10-21T09:10:29Z"
 }
