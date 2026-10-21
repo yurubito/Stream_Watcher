@@ -298,11 +298,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-21T11:59:33Z",
-        "title": "【歌枠】　はじめての歌枠!!!!楽しむぞー!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "r-NQcMkTvmo"
-      },
       "name": "鈴鳴つづり",
       "upcoming": [
         {
@@ -384,6 +379,11 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-10-21T13:09:07Z",
+        "title": "【HOLOLIVE DREAMS】KAELA SONG KAELA SONG #holodori",
+        "video_id": "njkU0cMAWVM"
+      },
       "name": "古石ビジュー"
     },
     {
@@ -510,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T13:10:27Z"
+  "generated_at": "2026-10-21T13:20:32Z"
 }
