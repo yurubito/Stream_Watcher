@@ -52,14 +52,12 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T10:00:00Z",
-          "title": "【AI旅】人権とは・・・【ホロライブ/赤井はあと】",
-          "video_id": "D_Lz6j9PBOE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T10:00:07Z",
+        "title": "【AI旅】人権とは・・・【ホロライブ/赤井はあと】",
+        "video_id": "D_Lz6j9PBOE"
+      },
+      "name": "赤井はあと"
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -238,14 +236,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T10:00:00Z",
-          "title": "【#ホロARK】トワ様からもらったワイバーン卵育児DAY🏝【風真いろは/ホロライブ】",
-          "video_id": "3gq5H4yCRNc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T09:59:51Z",
+        "title": "【#ホロARK】トワ様からもらったワイバーン卵育児DAY🏝【風真いろは/ホロライブ】",
+        "video_id": "3gq5H4yCRNc"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -299,14 +295,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T10:00:00Z",
-          "title": "【ACE COMBAT 8: WINGS OF THEVE】#8 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
-          "video_id": "I6_3dC3tfhA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T10:00:08Z",
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】#8 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
+        "video_id": "I6_3dC3tfhA"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -547,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T09:50:30Z"
+  "generated_at": "2026-10-21T10:00:56Z"
 }
