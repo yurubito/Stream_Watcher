@@ -194,7 +194,14 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス"
+      "name": "ラプラス・ダークネス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T13:45:00Z",
+          "title": "お話",
+          "video_id": "zGhdPzvDKBY"
+        }
+      ]
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -259,6 +266,11 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-21T13:33:23Z",
+        "title": "【歌枠/KARAOKE】ちょっと歌ってみるか！！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "XHI2asm60G4"
+      },
       "name": "輪堂千速"
     },
     {
@@ -281,11 +293,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-21T11:01:00Z",
-        "title": "収益化記念枠のお礼配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "mxO8GECgCas"
-      },
       "name": "宙科そぴあ",
       "upcoming": [
         {
@@ -492,7 +499,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T14:00:00Z",
+          "title": "【Hololive Dreams】ZECRETARY LETS PLAY #holodori #ホロドリ",
+          "video_id": "gAw5tzBP75Y"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -510,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T13:20:32Z"
+  "generated_at": "2026-10-21T13:40:42Z"
 }
