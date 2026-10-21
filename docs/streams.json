@@ -453,8 +453,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T04:00:00Z",
+          "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+          "video_id": "KviedHsy-8M"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-21T22:20:33Z"
+  "generated_at": "2026-10-21T22:40:32Z"
 }
