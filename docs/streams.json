@@ -306,14 +306,12 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T00:00:00Z",
-          "title": "【#GBVSR】First Time Playing!!!! Start Of My Training Arc...! #sponsored",
-          "video_id": "LPw6xcrP9mY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T00:02:02Z",
+        "title": "【#GBVSR】First Time Playing!!!! Start Of My Training Arc...! #sponsored",
+        "video_id": "LPw6xcrP9mY"
+      },
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -466,5 +464,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-20T23:40:31Z"
+  "generated_at": "2026-10-21T00:10:27Z"
 }
