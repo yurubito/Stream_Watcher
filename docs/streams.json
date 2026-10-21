@@ -66,7 +66,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T12:00:00Z",
+          "title": "【#ド珍組】第二回　開店★ド珍ラーメン　【ホロライブ/白上フブキ】",
+          "video_id": "OO2kY-Yrz68"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -135,13 +142,13 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-10-21T07:34:45Z",
+        "title": "【ホロドリ】久々のホロドリ！現在54種類～お魚コンプ目指して１時間釣り太郎ッ！【白銀ノエル/ホロライブ】",
+        "video_id": "tqpAhwF-yU4"
+      },
       "name": "白銀ノエル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T07:30:00Z",
-          "title": "【ホロドリ】久々のホロドリ！現在54種類～お魚コンプ目指して１時間釣り太郎ッ！【白銀ノエル/ホロライブ】",
-          "video_id": "tqpAhwF-yU4"
-        },
         {
           "scheduled_at": "2026-10-21T09:00:00Z",
           "title": "【ホロ鯖ARK】拠点完成まであと60％！完成目指して！(至高ガチャやダエオドンテイムもしたい！)【白銀ノエル/ホロライブ】",
@@ -461,31 +468,16 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-21T05:59:45Z",
-        "title": "【BOMBANANA!】 WE'RE COMPLETING THE GAME!! 【Kureiji Ollie】",
-        "video_id": "w8IDo6EoBws"
-      },
       "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-21T06:00:16Z",
-        "title": "【BOMBANANA!】LEVEL 21-30 HOLORO SWEEP【hololive holoro | Anya Melfissa】",
-        "video_id": "QnOG89sUJJ8"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-21T06:00:19Z",
-        "title": "【BOMBANANA!】Holoro Monkey Business 2【Pavolia Reine/hololive】",
-        "video_id": "CaDX-pheWK0"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -504,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T07:31:38Z"
+  "generated_at": "2026-10-21T07:40:25Z"
 }
