@@ -18,14 +18,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T12:00:00Z",
-          "title": "【Japanese Ramen Simulator】ド珍らーめん屋開業🍜！！！！！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "30yvrPeSFlA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T12:07:32Z",
+        "title": "【Japanese Ramen Simulator】ド珍らーめん屋開業🍜！！！！！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "30yvrPeSFlA"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -52,14 +50,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T12:00:00Z",
-          "title": "【#ド珍組】第二回　開店★ド珍ラーメン　【ホロライブ/白上フブキ】",
-          "video_id": "OO2kY-Yrz68"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T12:06:43Z",
+        "title": "【#ド珍組】第二回　開店★ド珍ラーメン　【ホロライブ/白上フブキ】",
+        "video_id": "OO2kY-Yrz68"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -84,14 +80,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-21T12:00:00Z",
-          "title": "【#ド珍】ラーメン屋さん開店するしゅばあああああああああああああああああああああああああああああああああああ！！！！！：Japanese Ramen Simulator【ホロライブ/大空スバル】",
-          "video_id": "6QdqwaNwa68"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-21T12:06:49Z",
+        "title": "【#ド珍】ラーメン屋さん開店するしゅばあああああああああああああああああああああああああああああああああああ！！！！！：Japanese Ramen Simulator【ホロライブ/大空スバル】",
+        "video_id": "6QdqwaNwa68"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -527,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T12:00:58Z"
+  "generated_at": "2026-10-21T12:10:28Z"
 }
