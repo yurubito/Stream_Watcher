@@ -307,7 +307,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "【#ホロ鯖かくれんぼ】先輩コラボ解禁なのじゃあああああ！！！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "bB5HkHSQWkI"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -318,13 +325,30 @@
           "scheduled_at": "2026-10-21T11:00:00Z",
           "title": "収益化記念枠のお礼配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "mxO8GECgCas"
+        },
+        {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "【#ホロ鯖かくれんぼ】ホロメンの先輩とかくれんぼするぞーっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "Uy-KPheZe7U"
         }
       ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-21T12:00:00Z",
+          "title": "【歌枠】　はじめての歌枠!!!!楽しむぞー!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "r-NQcMkTvmo"
+        },
+        {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "【#ホロ鯖かくれんぼ】遂に上陸!?　先輩と会いたいけど...【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "mOeNtn8bn3A"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -509,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T09:10:29Z"
+  "generated_at": "2026-10-21T09:20:31Z"
 }
