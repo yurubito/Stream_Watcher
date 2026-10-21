@@ -244,11 +244,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-21T10:00:43Z",
-        "title": "【メン限】へろへろのおんなぁ【一条莉々華/hololive ReGLOSS】",
-        "video_id": "AoTNGQnDdZ0"
-      },
       "name": "一条莉々華"
     },
     {
@@ -532,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-21T10:10:32Z"
+  "generated_at": "2026-10-21T10:20:27Z"
 }
