@@ -67,7 +67,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T03:00:00Z",
+          "title": "【#ホロ鯖ARK】ARK上陸12日目！素材王、海賊船つくるのだ！【ホロライブ/癒月ちょこ】",
+          "video_id": "Ccc3TOS2254"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -290,13 +297,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-22T01:59:15Z",
+        "title": "【EN】#5 YAY!! I made it to the 3rd Isle!! | Cuphead【Hyakuto Kyoko/Hololive】",
+        "video_id": "HhcEbmmIkFY"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T02:00:00Z",
-          "title": "【EN】#5 YAY!! I made it to the 3rd Isle!! | Cuphead【Hyakuto Kyoko/Hololive】",
-          "video_id": "HhcEbmmIkFY"
-        },
         {
           "scheduled_at": "2026-10-22T10:00:00Z",
           "title": "【#ホロ鯖かくれんぼ】みんなで観光たのしむぞーーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -342,11 +349,6 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-21T22:56:28Z",
-        "title": "Learning Japanese with Doujins【Studying】",
-        "video_id": "YQu-0jotU0w"
-      },
       "name": "シオリ・ノヴェラ"
     },
     {
@@ -396,7 +398,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "【 #ホロ鯖かくれんぼ 】WHERE ARE MY KOHAI!?",
+          "video_id": "AqXLFyrg5XM"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -456,5 +465,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-21T23:50:31Z"
+  "generated_at": "2026-10-22T02:40:21Z"
 }
