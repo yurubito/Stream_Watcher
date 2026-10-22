@@ -288,11 +288,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-22T09:58:56Z",
-        "title": "【#ホロ鯖かくれんぼ】みんなで観光たのしむぞーーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "ihKbojqvGAk"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -423,7 +418,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T19:00:00Z",
+          "title": "【BORDERLANDS 2】WHO NEEDS TO LEVEL WHEN YOU CAN MASH HEAD AGAINST WALL",
+          "video_id": "LmHO_FLZvk0"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -503,5 +505,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T12:10:43Z"
+  "generated_at": "2026-10-22T12:20:28Z"
 }
