@@ -279,11 +279,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-22T10:13:05Z",
-        "title": "【＃ホロ鯖かくれんぼ】伝説の農婦復活！？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "FXd5UkKblhA"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -471,7 +466,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T12:00:00Z",
+          "title": "【hololive Dreams】holodori collab yeaaahhhh !!!!!【#holodori #ホロドリ】",
+          "video_id": "qdCCLKBPs5Y"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -521,5 +523,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T11:30:52Z"
+  "generated_at": "2026-10-22T11:40:24Z"
 }
