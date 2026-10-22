@@ -178,13 +178,13 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-22T13:00:16Z",
+        "title": "【#ホロドリ】天井までに全員引くぞ！！！！ホロドリガチャ！！！！【尾丸ポルカ/ホロライブ】",
+        "video_id": "JP3UUwvy-XQ"
+      },
       "name": "尾丸ポルカ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T13:00:00Z",
-          "title": "【#ホロドリ】天井までに全員引くぞ！！！！ホロドリガチャ！！！！【尾丸ポルカ/ホロライブ】",
-          "video_id": "JP3UUwvy-XQ"
-        },
         {
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
@@ -312,13 +312,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-22T12:59:46Z",
+        "title": "【member's only】gaming WITH MEMBERS! help!! #calliolive #holodori",
+        "video_id": "ZRBJcZEoqHQ"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T13:00:00Z",
-          "title": "【member's only】gaming WITH MEMBERS! help!! #calliolive #holodori",
-          "video_id": "ZRBJcZEoqHQ"
-        },
         {
           "scheduled_at": "2026-10-24T00:00:00Z",
           "title": "【SIGNALIS】remember (part 3) #calliolive",
@@ -526,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T12:50:26Z"
+  "generated_at": "2026-10-22T13:00:53Z"
 }
