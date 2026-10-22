@@ -3,11 +3,6 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-22T10:08:28Z",
-        "title": "【Minecraft】マイクラでかくれんぼ？あそびまわっちゃえ～！！【ときのそら/ホロライブ】",
-        "video_id": "7Aq266GeNx8"
-      },
       "name": "ときのそら"
     },
     {
@@ -82,14 +77,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T12:00:00Z",
-          "title": "【】最強生物を創ろう！！！！！！！！！！！【ホロライブ/大空スバル】",
-          "video_id": "0cflsAhcWZM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T12:02:59Z",
+        "title": "【#生スバル】最強生物を創るしゅばああああああああああああああああああああああああああああああああああ！！！！：Strange_Seed【ホロライブ/大空スバル】",
+        "video_id": "0cflsAhcWZM"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -109,14 +102,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T12:00:00Z",
-          "title": "#4【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
-          "video_id": "t8q3XEmK0aM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T12:00:47Z",
+        "title": "#4【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "t8q3XEmK0aM"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -267,11 +258,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-22T10:49:55Z",
-        "title": "【#ホロ鯖かくれんぼ】見つけた・・・・👀【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "ln7rqltCLnM"
-      },
       "name": "輪堂千速"
     },
     {
@@ -287,31 +273,16 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-22T09:59:04Z",
-        "title": "【#ホロ鯖かくれんぼ】先輩コラボ解禁なのじゃあああああ！！！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "bB5HkHSQWkI"
-      },
       "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-22T10:00:56Z",
-        "title": "【#ホロ鯖かくれんぼ】ホロメンの先輩とマイクラで かくれんぼっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "Uy-KPheZe7U"
-      },
       "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-22T10:00:14Z",
-        "title": "【#ホロ鯖かくれんぼ】遂に上陸!?　先輩と会いたいけど...【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "mOeNtn8bn3A"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -469,26 +440,22 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T12:00:00Z",
-          "title": "【hololive Dreams】holodori collab yeaaahhhh !!!!!【#holodori #ホロドリ】",
-          "video_id": "qdCCLKBPs5Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T12:05:47Z",
+        "title": "【hololive Dreams】holodori collab yeaaahhhh !!!!!【#holodori #ホロドリ】",
+        "video_id": "qdCCLKBPs5Y"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T12:00:00Z",
-          "title": "【Hololive Dreams】What r we playin today?【hololive | moona】",
-          "video_id": "MPlSBcrtmMo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T12:06:07Z",
+        "title": "【Hololive Dreams】What r we playin today?【hololive | moona】",
+        "video_id": "MPlSBcrtmMo"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -503,14 +470,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T12:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Very Casual Dreaming Today!~【hololive holoro | Anya Melfissa】",
-          "video_id": "BXcX-NlFCVI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T12:01:27Z",
+        "title": "【hololive Dreams ホロライブドリームス】Very Casual Dreaming Today!~【hololive holoro | Anya Melfissa】",
+        "video_id": "BXcX-NlFCVI"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -520,14 +485,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T12:00:00Z",
-          "title": "【Hololive Dreams】GOATED #holodori #ホロドリ",
-          "video_id": "dcAj-I6de44"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T12:03:30Z",
+        "title": "【Hololive Dreams】GOATED #holodori #ホロドリ",
+        "video_id": "dcAj-I6de44"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -540,5 +503,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T12:00:58Z"
+  "generated_at": "2026-10-22T12:10:43Z"
 }
