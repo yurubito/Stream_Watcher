@@ -184,6 +184,11 @@
       "name": "尾丸ポルカ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-22T14:30:00Z",
+          "title": "【R.E.P.O.】ポルカもそろそろまぜろよ【尾丸ポルカ視点/ホロライブ】",
+          "video_id": "sF7SZcOidhM"
+        },
+        {
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
           "video_id": "QoQRLGY7LFg"
@@ -233,11 +238,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-22T12:00:25Z",
-        "title": "【 #ホロARK 】上陸！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
-        "video_id": "mzouMr5cY3A"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -509,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T14:20:36Z"
+  "generated_at": "2026-10-22T14:30:39Z"
 }
