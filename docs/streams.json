@@ -69,7 +69,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T12:00:00Z",
+          "title": "【凸待ち】新人限定🌀凸待ち会場！【ホロライブ/夏色まつり】",
+          "video_id": "wrurxY9WgGs"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -109,11 +116,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-22T12:00:47Z",
-        "title": "#4【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
-        "video_id": "t8q3XEmK0aM"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -213,7 +215,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T22:00:00Z",
+          "title": "【#ホロドリ】#あずいろ で朝活🎣健康な1日のはじまりである【風真いろは/ホロライブ】",
+          "video_id": "3gRKVX0rdzc"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -509,5 +518,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T14:40:29Z"
+  "generated_at": "2026-10-22T14:50:26Z"
 }
