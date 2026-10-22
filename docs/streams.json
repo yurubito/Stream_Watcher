@@ -197,11 +197,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-22T22:00:41Z",
-        "title": "【#ホロドリ】#あずいろ で朝活🎣健康な1日のはじまりである【風真いろは/ホロライブ】",
-        "video_id": "3gRKVX0rdzc"
-      },
       "name": "風真いろは"
     },
     {
@@ -511,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T23:30:43Z"
+  "generated_at": "2026-10-22T23:40:27Z"
 }
