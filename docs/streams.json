@@ -54,14 +54,12 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "琵琶湖、どこ？【ホロライブ/赤井はあと】",
-          "video_id": "94vPLN6KQY4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T10:00:09Z",
+        "title": "琵琶湖、どこ？【ホロライブ/赤井はあと】",
+        "video_id": "94vPLN6KQY4"
+      },
+      "name": "赤井はあと"
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -191,13 +189,13 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-22T10:00:10Z",
+        "title": "【ポルカの伝説】ゲストのらでんと業界用語わかるかな～！？",
+        "video_id": "anxRIt1Y9Uw"
+      },
       "name": "尾丸ポルカ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "【ポルカの伝説】ゲストのらでんと業界用語わかるかな～！？",
-          "video_id": "anxRIt1Y9Uw"
-        },
         {
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
@@ -255,13 +253,13 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-22T10:00:30Z",
+        "title": "【 #ホロ鯖かくれんぼ 】可愛い可愛い後輩ちゃん、みーーーつけたっ！！！！【ホロライブ  響咲リオナ】",
+        "video_id": "4U7eDs9AmBE"
+      },
       "name": "響咲リオナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "【 #ホロ鯖かくれんぼ 】可愛い可愛い後輩ちゃん、みーーーつけたっ！！！！【ホロライブ  響咲リオナ】",
-          "video_id": "4U7eDs9AmBE"
-        },
         {
           "scheduled_at": "2026-10-22T12:00:00Z",
           "title": "【 #ホロARK 】上陸！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
@@ -304,14 +302,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "【#ホロ鯖かくれんぼ】先輩コラボ解禁なのじゃあああああ！！！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "bB5HkHSQWkI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T09:59:04Z",
+        "title": "【#ホロ鯖かくれんぼ】先輩コラボ解禁なのじゃあああああ！！！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "bB5HkHSQWkI"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -328,26 +324,22 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "【#ホロ鯖かくれんぼ】遂に上陸!?　先輩と会いたいけど...【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "mOeNtn8bn3A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T10:00:14Z",
+        "title": "【#ホロ鯖かくれんぼ】遂に上陸!?　先輩と会いたいけど...【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "mOeNtn8bn3A"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "【#ホロ鯖かくれんぼ】みんなで観光たのしむぞーーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "ihKbojqvGAk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T09:58:56Z",
+        "title": "【#ホロ鯖かくれんぼ】みんなで観光たのしむぞーーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "ihKbojqvGAk"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -485,7 +477,7 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-22T10:00:00Z",
+          "scheduled_at": "2026-10-22T10:15:00Z",
           "title": "【 #ホロ鯖かくれんぼ 】WHERE ARE MY KOHAI!?",
           "video_id": "AqXLFyrg5XM"
         }
@@ -549,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T09:50:34Z"
+  "generated_at": "2026-10-22T10:00:49Z"
 }
