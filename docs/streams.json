@@ -23,7 +23,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "【Minecraft】あそびまわりたいをみつけたい【ホロライブ/さくらみこ】",
+          "video_id": "Og6_oSSRbl4"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -342,6 +349,11 @@
           "video_id": "V9Evq2RBJ2A"
         },
         {
+          "scheduled_at": "2026-10-25T01:00:00Z",
+          "title": "【BIG COLLAB】just some board games!! #calliolive",
+          "video_id": "-7351WjdU3M"
+        },
+        {
           "scheduled_at": "2026-10-26T01:00:00Z",
           "title": "【Silent Hill: Townfall】repent for your sins gigi murin #calliolive",
           "video_id": "kM1ye6qHA5Y"
@@ -506,5 +518,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T08:20:33Z"
+  "generated_at": "2026-10-22T08:30:53Z"
 }
