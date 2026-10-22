@@ -58,6 +58,11 @@
       "name": "白上フブキ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-22T13:00:00Z",
+          "title": "【R.E.P.O.】REPOはいつも突発に・・・。#突発ホロREPO【ホロライブ/白上フブキ】",
+          "video_id": "OjtUbtvLRAU"
+        },
+        {
           "scheduled_at": "2026-10-23T11:00:00Z",
           "title": "【Emberville】 戦って！集めて！街をつくる！「Emberville」#PR【ホロライブ/白上フブキ】",
           "video_id": "djNUaNbNh38"
@@ -269,7 +274,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T10:30:00Z",
+          "title": "【#ホロ鯖かくれんぼ】見つけた・・・・👀【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "ln7rqltCLnM"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -519,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T10:20:25Z"
+  "generated_at": "2026-10-22T10:30:43Z"
 }
