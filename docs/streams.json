@@ -369,7 +369,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T23:00:00Z",
+          "title": "【ACE COMBAT 8: WINGS OF THEVE】BIBOO IMPRESSED",
+          "video_id": "6aCrhJAEPyk"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -509,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T17:18:35Z"
+  "generated_at": "2026-10-22T17:20:31Z"
 }
