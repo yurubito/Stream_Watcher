@@ -234,7 +234,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "【 #ホロ鯖かくれんぼ 】可愛い可愛い後輩ちゃん、みーーーつけたっ！！！！【ホロライブ  響咲リオナ】",
+          "video_id": "4U7eDs9AmBE"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -516,5 +523,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T09:00:49Z"
+  "generated_at": "2026-10-22T09:10:25Z"
 }
