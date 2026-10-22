@@ -306,7 +306,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T02:00:00Z",
+          "title": "【EN】I’m gonna become a FNAF master!!  | Five Nights at Freddy's 2【Hyakuto Kyoko/Hololive】",
+          "video_id": "Zrchcy1PtV0"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -513,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T15:01:14Z"
+  "generated_at": "2026-10-22T15:10:33Z"
 }
