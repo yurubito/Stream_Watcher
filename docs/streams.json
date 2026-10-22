@@ -322,7 +322,19 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T13:00:00Z",
+          "title": "【member's only】gaming WITH MEMBERS! help!! #calliolive #holodori",
+          "video_id": "ZRBJcZEoqHQ"
+        },
+        {
+          "scheduled_at": "2026-10-23T03:00:00Z",
+          "title": "【SIGNALIS】remember (part 3) #calliolive",
+          "video_id": "V9Evq2RBJ2A"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -487,5 +499,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T07:30:34Z"
+  "generated_at": "2026-10-22T07:40:25Z"
 }
