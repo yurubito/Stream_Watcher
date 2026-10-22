@@ -484,12 +484,26 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T14:15:00Z",
+          "title": "【hololive Dreams】Sneaking Into Kaela's Co-Op Room #holodori【Pavolia Reine/hololive】",
+          "video_id": "J9CN6395O2s"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T01:00:00Z",
+          "title": "if i didn't show up it's not because i overslept, i'm GONE FISHING",
+          "video_id": "9vDfgmig87M"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -507,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T13:20:29Z"
+  "generated_at": "2026-10-22T13:30:50Z"
 }
