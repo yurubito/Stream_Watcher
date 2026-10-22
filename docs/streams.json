@@ -490,7 +490,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T01:00:00Z",
+          "title": "【GONE Fishing】We're Not Gone... Yet【hololive holoro | Anya Melfissa】",
+          "video_id": "hfgBp-j5luU"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -520,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T19:20:30Z"
+  "generated_at": "2026-10-22T21:40:32Z"
 }
