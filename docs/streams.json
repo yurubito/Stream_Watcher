@@ -8,14 +8,12 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T07:15:00Z",
-          "title": "【 ＃ホロドリ 】ビンゴ完了！！魚釣って図鑑も埋めちゃおおおお！！ね、先生♥【ホロライブ/ ロボ子さん 】",
-          "video_id": "NJvTv2Vya5M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T07:28:02Z",
+        "title": "【 ＃ホロドリ 】ビンゴ完了！！魚釣って図鑑も埋めちゃおおおお！！ね、先生♥【ホロライブ/ ロボ子さん 】",
+        "video_id": "NJvTv2Vya5M"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -74,6 +72,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-22T07:27:23Z",
+        "title": "【#ホロドリ】ロボ子さんに釣られた癒月さん📣 【ホロライブ/癒月ちょこ/ロボ子さん】",
+        "video_id": "w4x2SNpFUl4"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -173,6 +176,11 @@
       "name": "尾丸ポルカ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "【ポルカの伝説】ゲストのらでんと業界用語わかるかな～！？",
+          "video_id": "anxRIt1Y9Uw"
+        },
+        {
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
           "video_id": "QoQRLGY7LFg"
@@ -192,7 +200,14 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T12:00:00Z",
+          "title": "【Nintendo Switch Sports Resort】本日発売！3DでholoXがガチバトル！？ #SSholoX 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは／ホロライブ】",
+          "video_id": "GKjoS9iBPg0"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -472,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T07:10:33Z"
+  "generated_at": "2026-10-22T07:30:34Z"
 }
