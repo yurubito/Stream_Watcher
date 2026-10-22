@@ -264,7 +264,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T09:00:00Z",
+          "title": "【#ホロドリ 】魚図鑑コンプリート目指して…！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+          "video_id": "aX5yYyyBkdI"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -499,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T08:10:24Z"
+  "generated_at": "2026-10-22T08:20:33Z"
 }
