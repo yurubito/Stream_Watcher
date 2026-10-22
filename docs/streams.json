@@ -201,11 +201,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-22T11:59:36Z",
-        "title": "【Nintendo Switch Sports Resort】本日発売！3DでholoXがガチバトル！？ #SSholoX 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは／ホロライブ】",
-        "video_id": "GKjoS9iBPg0"
-      },
       "name": "博衣こより"
     },
     {
@@ -293,7 +288,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T11:30:00Z",
+          "title": "【告知アリ!?】デビュー１ヵ月記念 飲酒配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "3zTkZTOA_sw"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -452,21 +454,11 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-22T12:05:47Z",
-        "title": "【hololive Dreams】holodori collab yeaaahhhh !!!!!【#holodori #ホロドリ】",
-        "video_id": "qdCCLKBPs5Y"
-      },
       "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-22T12:06:07Z",
-        "title": "【Hololive Dreams】What r we playin today?【hololive | moona】",
-        "video_id": "MPlSBcrtmMo"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -497,11 +489,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-22T12:03:30Z",
-        "title": "【Hololive Dreams】GOATED #holodori #ホロドリ",
-        "video_id": "dcAj-I6de44"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -520,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T13:10:41Z"
+  "generated_at": "2026-10-22T13:20:29Z"
 }
