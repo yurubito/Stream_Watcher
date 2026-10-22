@@ -444,14 +444,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T14:00:00Z",
-          "title": "【ART】DRAWING IS FUN!!! FOR REAL FOR REAL",
-          "video_id": "-OUq_BR3XV4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T14:07:00Z",
+        "title": "【ART】DRAWING IS FUN!!! FOR REAL FOR REAL",
+        "video_id": "-OUq_BR3XV4"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -518,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T14:01:16Z"
+  "generated_at": "2026-10-22T14:10:26Z"
 }
