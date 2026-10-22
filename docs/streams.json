@@ -204,14 +204,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T22:00:00Z",
-          "title": "【#ホロドリ】#あずいろ で朝活🎣健康な1日のはじまりである【風真いろは/ホロライブ】",
-          "video_id": "3gRKVX0rdzc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T22:00:41Z",
+        "title": "【#ホロドリ】#あずいろ で朝活🎣健康な1日のはじまりである【風真いろは/ホロライブ】",
+        "video_id": "3gRKVX0rdzc"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -448,11 +446,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-22T19:00:51Z",
-        "title": "【BORDERLANDS 2】WHO NEEDS TO LEVEL WHEN YOU CAN MASH HEAD AGAINST WALL",
-        "video_id": "LmHO_FLZvk0"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -527,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T21:40:32Z"
+  "generated_at": "2026-10-22T22:01:05Z"
 }
