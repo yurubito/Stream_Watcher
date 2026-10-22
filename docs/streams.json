@@ -280,7 +280,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T10:00:00Z",
+          "title": "コンビニバイトのホラーゲーム「夜勤事件」で遊ぶのじゃ！【ホロライブ/熱千めら】",
+          "video_id": "ZQJkVI2CWq0"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -512,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T12:30:58Z"
+  "generated_at": "2026-10-22T12:40:28Z"
 }
