@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T07:00:00Z",
+          "title": "【 ＃ホロドリ 】ビンゴ完了！！魚釣って図鑑も埋めちゃおおおお！！ね、先生♥【ホロライブ/ ロボ子さん 】",
+          "video_id": "NJvTv2Vya5M"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -437,11 +444,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-22T04:02:01Z",
-        "title": "【hololive Dreams】 DAILY HOLODORI  #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "oton7UN0uxE"
-      },
       "name": "クレイジー・オリー"
     },
     {
@@ -477,5 +479,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-22T04:10:24Z"
+  "generated_at": "2026-10-22T06:10:24Z"
 }
