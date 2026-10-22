@@ -247,7 +247,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T03:00:00Z",
+          "title": "【#ホロドリ 】やーらし！！オリー先輩とお昼のホロドリ！！ 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "tY-webWlO4Y"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -502,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T16:50:25Z"
+  "generated_at": "2026-10-22T17:18:35Z"
 }
