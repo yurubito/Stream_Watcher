@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T10:00:00Z",
+          "title": "【Minecraft】マイクラでかくれんぼ？あそびまわっちゃえ～！！【ときのそら/ホロライブ】",
+          "video_id": "7Aq266GeNx8"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -22,7 +29,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "【Minecraft】あそびまわりたいをみつけたい【ホロライブ/さくらみこ】",
+          "title": "【Minecraft】あそびまわりたいをみつけたい！？？？！！？？【ホロライブ/さくらみこ】",
           "video_id": "Og6_oSSRbl4"
         }
       ]
@@ -59,7 +66,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T11:00:00Z",
+          "title": "【Emberville】 戦って！集めて！街をつくる！「Emberville」#PR【ホロライブ/白上フブキ】",
+          "video_id": "djNUaNbNh38"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -523,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T09:10:25Z"
+  "generated_at": "2026-10-22T09:31:03Z"
 }
