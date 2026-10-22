@@ -81,6 +81,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-22T16:44:26Z",
+        "title": "【#ホロ鯖ARK】深夜にただただ素材集めとレベリングするだけの配信【ホロライブ/癒月ちょこ】",
+        "video_id": "7c2WFgUAxJg"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -467,11 +472,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-22T14:16:49Z",
-        "title": "【hololive Dreams】Sneaking Into Kaela's Co-Op Room #holodori【Pavolia Reine/hololive】",
-        "video_id": "J9CN6395O2s"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -502,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T16:40:33Z"
+  "generated_at": "2026-10-22T16:50:25Z"
 }
