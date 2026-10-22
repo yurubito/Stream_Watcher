@@ -23,11 +23,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-22T10:02:29Z",
-        "title": "【Minecraft】あそびまわりたいをみつけたい！？？？！！？？【ホロライブ/さくらみこ】",
-        "video_id": "Og6_oSSRbl4"
-      },
       "name": "さくらみこ"
     },
     {
@@ -212,14 +207,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T12:00:00Z",
-          "title": "【Nintendo Switch Sports Resort】本日発売！3DでholoXがガチバトル！？ #SSholoX 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは／ホロライブ】",
-          "video_id": "GKjoS9iBPg0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T11:59:36Z",
+        "title": "【Nintendo Switch Sports Resort】本日発売！3DでholoXがガチバトル！？ #SSholoX 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/風真いろは／ホロライブ】",
+        "video_id": "GKjoS9iBPg0"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -249,14 +242,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T12:00:00Z",
-          "title": "【 #ホロARK 】上陸！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
-          "video_id": "mzouMr5cY3A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T12:00:25Z",
+        "title": "【 #ホロARK 】上陸！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
+        "video_id": "mzouMr5cY3A"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -490,7 +481,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T12:00:00Z",
+          "title": "【Hololive Dreams】What r we playin today?【hololive | moona】",
+          "video_id": "MPlSBcrtmMo"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -542,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T11:50:23Z"
+  "generated_at": "2026-10-22T12:00:58Z"
 }
