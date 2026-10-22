@@ -181,13 +181,13 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-22T14:30:35Z",
+        "title": "【R.E.P.O.】ポルカもそろそろまぜろよ【尾丸ポルカ視点/ホロライブ】",
+        "video_id": "sF7SZcOidhM"
+      },
       "name": "尾丸ポルカ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T14:30:00Z",
-          "title": "【R.E.P.O.】ポルカもそろそろまぜろよ【尾丸ポルカ視点/ホロライブ】",
-          "video_id": "sF7SZcOidhM"
-        },
         {
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
@@ -509,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T14:30:39Z"
+  "generated_at": "2026-10-22T14:40:29Z"
 }
