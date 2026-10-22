@@ -333,6 +333,11 @@
           "scheduled_at": "2026-10-23T03:00:00Z",
           "title": "【SIGNALIS】remember (part 3) #calliolive",
           "video_id": "V9Evq2RBJ2A"
+        },
+        {
+          "scheduled_at": "2026-10-26T01:00:00Z",
+          "title": "【Silent Hill: Townfall】repent for your sins gigi murin #calliolive",
+          "video_id": "kM1ye6qHA5Y"
         }
       ]
     },
@@ -499,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T07:40:25Z"
+  "generated_at": "2026-10-22T07:50:40Z"
 }
