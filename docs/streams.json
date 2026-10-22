@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "【Minecraft】マイクラでかくれんぼ？あそびまわっちゃえ～！！【ときのそら/ホロライブ】",
-          "video_id": "7Aq266GeNx8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T10:08:28Z",
+        "title": "【Minecraft】マイクラでかくれんぼ？あそびまわっちゃえ～！！【ときのそら/ホロライブ】",
+        "video_id": "7Aq266GeNx8"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -25,14 +23,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "【Minecraft】あそびまわりたいをみつけたい！？？？！！？？【ホロライブ/さくらみこ】",
-          "video_id": "Og6_oSSRbl4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T10:02:29Z",
+        "title": "【Minecraft】あそびまわりたいをみつけたい！？？？！！？？【ホロライブ/さくらみこ】",
+        "video_id": "Og6_oSSRbl4"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -54,11 +50,6 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-22T10:00:09Z",
-        "title": "琵琶湖、どこ？【ホロライブ/赤井はあと】",
-        "video_id": "94vPLN6KQY4"
-      },
       "name": "赤井はあと"
     },
     {
@@ -76,14 +67,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:15:00Z",
-          "title": "【#ホロ鯖かくれんぼ】ねぇ、逃げないで。【ホロライブ/夏色まつり】",
-          "video_id": "TeM5-RfvY-Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T10:09:53Z",
+        "title": "【#ホロ鯖かくれんぼ】ねぇ、逃げないで。【ホロライブ/夏色まつり】",
+        "video_id": "TeM5-RfvY-Y"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -292,12 +281,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-22T09:00:25Z",
-        "title": "【#ホロドリ 】魚図鑑コンプリート目指して…！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
-        "video_id": "aX5yYyyBkdI"
-      },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T10:15:00Z",
+          "title": "【＃ホロ鯖かくれんぼ】伝説の農婦復活！？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "FXd5UkKblhA"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -312,14 +303,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-22T10:00:00Z",
-          "title": "【#ホロ鯖かくれんぼ】ホロメンの先輩とマイクラで かくれんぼっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "Uy-KPheZe7U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-22T10:00:56Z",
+        "title": "【#ホロ鯖かくれんぼ】ホロメンの先輩とマイクラで かくれんぼっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "Uy-KPheZe7U"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -541,5 +530,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T10:00:49Z"
+  "generated_at": "2026-10-22T10:10:24Z"
 }
