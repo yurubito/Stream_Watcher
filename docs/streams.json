@@ -11,7 +11,7 @@
       "name": "ロボ子さん",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-22T07:00:00Z",
+          "scheduled_at": "2026-10-22T07:15:00Z",
           "title": "【 ＃ホロドリ 】ビンゴ完了！！魚釣って図鑑も埋めちゃおおおお！！ね、先生♥【ホロライブ/ ロボ子さん 】",
           "video_id": "NJvTv2Vya5M"
         }
@@ -332,6 +332,11 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-10-22T05:00:31Z",
+        "title": "【Hololive Dreams】Determined To Complete Bingo #holodori",
+        "video_id": "LSJGijQxogg"
+      },
       "name": "オーロ・クロニー"
     },
     {
@@ -364,7 +369,14 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "name": "フワワ＆モココ・アビスガード"
+      "name": "フワワ＆モココ・アビスガード",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T10:15:00Z",
+          "title": "【HOLOLIVE MINECRAFT】finding the newbies + making them cry🐾🩵 【 #ホロ鯖かくれんぼ 】",
+          "video_id": "bs2wM6dE8Js"
+        }
+      ]
     },
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
@@ -410,7 +422,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-22T14:00:00Z",
+          "title": "【ART】DRAWING IS FUN!!! FOR REAL FOR REAL",
+          "video_id": "-OUq_BR3XV4"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -458,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T06:50:25Z"
+  "generated_at": "2026-10-22T07:00:51Z"
 }
