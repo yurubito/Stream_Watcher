@@ -359,14 +359,12 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T01:00:00Z",
-          "title": "Fish fear me but women want me 【GONE Fishing】",
-          "video_id": "IbY-7z30iTY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T00:59:51Z",
+        "title": "Fish fear me but women want me 【GONE Fishing】",
+        "video_id": "IbY-7z30iTY"
+      },
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -432,7 +430,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T13:00:00Z",
+          "title": "【RESIDENT EVIL REQUIEM】return to BRATTEA @HakosBaelz  [Spoilers Ahead]",
+          "video_id": "S8G_wiWs2s0"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -486,14 +491,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T01:00:00Z",
-          "title": "if i didn't show up it's not because i overslept, i'm GONE FISHING",
-          "video_id": "9vDfgmig87M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T01:03:35Z",
+        "title": "if i didn't show up it's not because i overslept, i'm GONE FISHING",
+        "video_id": "9vDfgmig87M"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -506,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-22T23:40:27Z"
+  "generated_at": "2026-10-23T01:10:30Z"
 }
