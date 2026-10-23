@@ -74,6 +74,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-23T03:11:54Z",
+        "title": "【#ホロ鯖ARK】ARK上陸13日目！海賊船色ガチャするのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "WwPdvMUurYc"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -156,6 +161,11 @@
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "【 白栄大学 0号館 | ホラゲ 】立ち入り禁止エリアへ取材に行くのらっ…！！！【姫森ルーナ/ホロライブ】",
           "video_id": "3biQYNYiAuw"
+        },
+        {
+          "scheduled_at": "2026-10-24T11:00:00Z",
+          "title": "【 鳴潮企画 】3人で協力してイベントに挑戦していくのらぞっ！！！Ver.3.7 ＃30【姫森ルーナ/ホロライブ】",
+          "video_id": "H0gBswYTun0"
         }
       ]
     },
@@ -167,7 +177,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T08:30:00Z",
+          "title": "【 #iphoneduo  】本日発売パカパカiPhoneレビュー！！！お知らせあり！！！！！【 桃鈴ねね / hololive 】",
+          "video_id": "X-9bgLMG5-A"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -183,6 +200,11 @@
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
           "video_id": "QoQRLGY7LFg"
+        },
+        {
+          "scheduled_at": "2026-10-24T10:00:00Z",
+          "title": "【鳴潮】3人でクイズ！？まつりとルーナといっしょに挑戦！【尾丸ポルカ/夏色まつり/姫森ルーナ/ホロライブ】",
+          "video_id": "wd4lBj7WGYc"
         }
       ]
     },
@@ -199,7 +221,14 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T02:00:00Z",
+          "title": "【 #ホロ鯖ARK 】2時間制限‼️やりたいこと決めた！できるかな！？？【博衣こより/ホロライブ】",
+          "video_id": "OSUjrZrgxik"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -256,12 +285,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-23T02:59:51Z",
-        "title": "【#ホロドリ 】やーらし！！オリー先輩とお昼のホロドリ！！ 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "tY-webWlO4Y"
-      },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T09:00:00Z",
+          "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃15 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "TD4OtxYD_e8"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -295,11 +326,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-23T01:59:14Z",
-        "title": "【EN】I’m gonna become a FNAF master!!  | Five Nights at Freddy's 2【Hyakuto Kyoko/Hololive】",
-        "video_id": "Zrchcy1PtV0"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -381,12 +407,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-23T00:59:51Z",
-        "title": "Fish fear me but women want me 【GONE Fishing】",
-        "video_id": "IbY-7z30iTY"
-      },
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T23:00:00Z",
+          "title": "Help I'm Stuck in a Roguelite Horror Game 【Withering Rooms】",
+          "video_id": "Ub1x7clOXr4"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -479,14 +507,7 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T03:00:00Z",
-          "title": "【hololive Dreams】 ヴィヴィのお尻は最高！！ GLORY TO VIVI'S ASS  #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "jaal44YdGPQ"
-        }
-      ]
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -501,11 +522,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-23T02:35:33Z",
-        "title": "【Hololive Dreams】NOWWWWW LIVE #holodori #ホロドリ",
-        "video_id": "79sgzwKrWLY"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -519,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T05:50:25Z"
+  "generated_at": "2026-10-23T07:00:58Z"
 }
