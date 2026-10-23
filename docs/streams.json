@@ -280,14 +280,7 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T13:00:00Z",
-          "title": "【メン限】やったー！！喋ろー！！【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "I3V89GlWIl0"
-        }
-      ]
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -444,11 +437,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-23T11:32:02Z",
-        "title": "≪hololive Dreams≫ cheeky holodori #holodori",
-        "video_id": "XV5MQbVg8d0"
-      },
       "name": "ハコス・ベールズ"
     },
     {
@@ -577,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T12:40:32Z"
+  "generated_at": "2026-10-23T12:50:25Z"
 }
