@@ -275,19 +275,24 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T13:00:00Z",
+          "title": "【メン限】やったー！！喋ろー！！【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "I3V89GlWIl0"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T10:30:00Z",
-          "title": "【 #ホロARK 】ティラノテイム！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
-          "video_id": "mPkigzSO5Tg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T10:31:47Z",
+        "title": "【 #ホロARK 】ティラノテイム！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
+        "video_id": "mPkigzSO5Tg"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -576,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T10:20:27Z"
+  "generated_at": "2026-10-23T10:40:42Z"
 }
