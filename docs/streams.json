@@ -106,7 +106,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T13:00:00Z",
+          "title": "【Memberships only】新環境でASMRテスト配信だでなっ【寝る前ざつだーん】",
+          "video_id": "TGy4eOKBL_I"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -528,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T08:10:24Z"
+  "generated_at": "2026-10-23T08:31:02Z"
 }
