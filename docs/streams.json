@@ -63,6 +63,11 @@
           "scheduled_at": "2026-10-23T12:00:00Z",
           "title": "【凸待ち】新人限定🌀凸待ち会場！【ホロライブ/夏色まつり】",
           "video_id": "wrurxY9WgGs"
+        },
+        {
+          "scheduled_at": "2026-10-24T11:00:00Z",
+          "title": "【 鳴潮 】今日は姫に守護ってもらうポルまちゅ！【ホロライブ/夏色まつり】",
+          "video_id": "JNOjAFc5oso"
         }
       ]
     },
@@ -113,14 +118,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T10:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY13🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "8X0Pa0P7zZM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T10:03:16Z",
+        "title": "【#ホロ鯖ARK】DAY13🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "8X0Pa0P7zZM"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -145,11 +148,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-23T10:00:08Z",
-        "title": "AZKiちゃん、これどーぞ！【ギリギリわるくないわため】 #ギリわる",
-        "video_id": "7D-DTq6bfqg"
-      },
       "name": "角巻わため",
       "upcoming": [
         {
@@ -204,13 +202,13 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-23T10:01:57Z",
+        "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
+        "video_id": "QoQRLGY7LFg"
+      },
       "name": "尾丸ポルカ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T10:00:00Z",
-          "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
-          "video_id": "QoQRLGY7LFg"
-        },
         {
           "scheduled_at": "2026-10-24T10:00:00Z",
           "title": "【鳴潮】3人でクイズ！？まつりとルーナといっしょに挑戦！【尾丸ポルカ/夏色まつり/姫森ルーナ/ホロライブ】",
@@ -571,5 +569,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T10:00:46Z"
+  "generated_at": "2026-10-23T10:10:22Z"
 }
