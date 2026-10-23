@@ -280,7 +280,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T10:30:00Z",
+          "title": "【 #ホロARK 】ティラノテイム！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
+          "video_id": "mPkigzSO5Tg"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -557,5 +564,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T08:50:39Z"
+  "generated_at": "2026-10-23T09:00:54Z"
 }
