@@ -13,7 +13,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T10:00:00Z",
+          "title": "【歌枠 / 告知あり】歌って告知！！！！！最後に嬉しいお知らせあり🎤✨ Singing Stream【ホロライブ / AZKi】",
+          "video_id": "fLicfFnhb1k"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -325,7 +332,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T02:00:00Z",
+          "title": "【EN】On to the next episode!!| Fears to Fathom - Woodbury Getaway【Hyakuto Kyoko/Hololive】",
+          "video_id": "NmM_hn3Mp0o"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -527,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T16:30:53Z"
+  "generated_at": "2026-10-23T16:40:32Z"
 }
