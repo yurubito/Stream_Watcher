@@ -145,13 +145,13 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-23T10:00:08Z",
+        "title": "AZKiちゃん、これどーぞ！【ギリギリわるくないわため】 #ギリわる",
+        "video_id": "7D-DTq6bfqg"
+      },
       "name": "角巻わため",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T10:00:00Z",
-          "title": "AZKiちゃん、これどーぞ！【ギリギリわるくないわため】 #ギリわる",
-          "video_id": "7D-DTq6bfqg"
-        },
         {
           "scheduled_at": "2026-10-23T13:00:00Z",
           "title": "【雑談＆お礼】深夜のチル雑談........🐏💛【角巻わため/ホロライブ４期生】",
@@ -172,13 +172,13 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-23T09:59:09Z",
+        "title": "【 白栄大学 0号館 | ホラゲ 】立ち入り禁止エリアへ取材に行くのらっ…！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "3biQYNYiAuw"
+      },
       "name": "姫森ルーナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T10:00:00Z",
-          "title": "【 白栄大学 0号館 | ホラゲ 】立ち入り禁止エリアへ取材に行くのらっ…！！！【姫森ルーナ/ホロライブ】",
-          "video_id": "3biQYNYiAuw"
-        },
         {
           "scheduled_at": "2026-10-24T11:00:00Z",
           "title": "【 鳴潮企画 】3人で協力してイベントに挑戦していくのらぞっ！！！Ver.3.7 ＃30【姫森ルーナ/ホロライブ】",
@@ -319,13 +319,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-23T09:59:16Z",
+        "title": "コンビニバイトのホラーゲーム「夜勤事件」で遊ぶのじゃ！【ホロライブ/熱千めら】",
+        "video_id": "ZQJkVI2CWq0"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T10:00:00Z",
-          "title": "コンビニバイトのホラーゲーム「夜勤事件」で遊ぶのじゃ！【ホロライブ/熱千めら】",
-          "video_id": "ZQJkVI2CWq0"
-        },
         {
           "scheduled_at": "2026-10-24T10:30:00Z",
           "title": "【一ヶ月記念】お部屋にご招待しちゃいますのじゃ…【ホロライブ/熱千めら】",
@@ -348,7 +348,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T12:30:00Z",
+          "title": "VALORANT イモータルを目指す!! #５　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "aAAvIiof87M"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -564,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T09:50:24Z"
+  "generated_at": "2026-10-23T10:00:46Z"
 }
