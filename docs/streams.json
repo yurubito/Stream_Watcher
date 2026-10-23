@@ -118,7 +118,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T10:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY13🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "8X0Pa0P7zZM"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -149,6 +156,11 @@
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "AZKiちゃん、これどーぞ！【ギリギリわるくないわため】 #ギリわる",
           "video_id": "7D-DTq6bfqg"
+        },
+        {
+          "scheduled_at": "2026-10-23T13:00:00Z",
+          "title": "【雑談＆お礼】深夜のチル雑談........🐏💛【角巻わため/ホロライブ４期生】",
+          "video_id": "1IisE4Eyuj8"
         }
       ]
     },
@@ -545,5 +557,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T08:40:35Z"
+  "generated_at": "2026-10-23T08:50:39Z"
 }
