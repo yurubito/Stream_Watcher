@@ -74,11 +74,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-23T03:11:54Z",
-        "title": "【#ホロ鯖ARK】ARK上陸13日目！海賊船色ガチャするのだ！【ホロライブ/癒月ちょこ】",
-        "video_id": "WwPdvMUurYc"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -265,7 +260,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T11:00:00Z",
+          "title": "【#ホロドリ】参加型するよー！！ポカジャンとか！！ ビンゴ埋めたい✨【一条莉々華/hololive ReGLOSS】",
+          "video_id": "1BN_8aYGNH0"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -314,14 +316,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T09:00:00Z",
-          "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃15 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "TD4OtxYD_e8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T09:05:00Z",
+        "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃15 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "TD4OtxYD_e8"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -564,5 +564,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T09:00:54Z"
+  "generated_at": "2026-10-23T09:10:32Z"
 }
