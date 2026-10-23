@@ -15,7 +15,7 @@
       "group": "JP 0期生",
       "live": {
         "started_at": "2026-10-23T13:59:54Z",
-        "title": "【 ＃ホロドリ 】対決🔥先生…ボクたち釣れてない魚はお互いに★２の魚１体だね！？【ホロライブ/ ロボ子さん 】",
+        "title": "【 ＃ホロドリ 】釣り対決終わったので参加型ぽかじゃん！！！【ホロライブ/ ロボ子さん 】",
         "video_id": "FQIZehpmvjk"
       },
       "name": "ロボ子さん"
@@ -521,14 +521,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T14:15:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Girls Night HOLODORI!【hololive holoro | Anya Melfissa】",
-          "video_id": "Y2ltasz7pCg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T14:17:56Z",
+        "title": "【hololive Dreams ホロライブドリームス】Girls Night HOLODORI!【hololive holoro | Anya Melfissa】",
+        "video_id": "Y2ltasz7pCg"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -561,5 +559,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T14:10:26Z"
+  "generated_at": "2026-10-23T14:20:38Z"
 }
