@@ -64,11 +64,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-23T12:00:45Z",
-        "title": "【凸待ち】新人限定🌀凸待ち会場！【ホロライブ/夏色まつり】",
-        "video_id": "wrurxY9WgGs"
-      },
       "name": "夏色まつり",
       "upcoming": [
         {
@@ -113,14 +108,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T13:00:00Z",
-          "title": "【Memberships only】新環境でASMRテスト配信だでなっ【寝る前ざつだーん】",
-          "video_id": "TGy4eOKBL_I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T12:59:49Z",
+        "title": "【Memberships only】新環境でASMRテスト配信だでなっ【寝る前ざつだーん】",
+        "video_id": "TGy4eOKBL_I"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -216,11 +209,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-23T10:01:57Z",
-        "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
-        "video_id": "QoQRLGY7LFg"
-      },
       "name": "尾丸ポルカ",
       "upcoming": [
         {
@@ -366,14 +354,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T13:00:00Z",
-          "title": "#6 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "u6ui44uX8ZQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T12:59:13Z",
+        "title": "#6 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "u6ui44uX8ZQ"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -508,7 +494,7 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-23T13:00:00Z",
+          "scheduled_at": "2026-10-23T13:05:00Z",
           "title": "【RESIDENT EVIL REQUIEM】return to BRATTEA @HakosBaelz  [Spoilers Ahead]",
           "video_id": "S8G_wiWs2s0"
         }
@@ -565,5 +551,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T12:50:25Z"
+  "generated_at": "2026-10-23T13:00:57Z"
 }
