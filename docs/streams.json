@@ -104,11 +104,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-23T10:03:16Z",
-        "title": "【#ホロ鯖ARK】DAY13🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "8X0Pa0P7zZM"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -270,11 +265,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-23T09:05:00Z",
-        "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃15 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "TD4OtxYD_e8"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -526,13 +516,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-23T14:32:02Z",
-        "title": "【hololive Dreams】Play daily, will change thumbnail later #holodori #ホロドリ",
-        "video_id": "D39lYu3jaBk"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T15:50:24Z"
+  "generated_at": "2026-10-23T16:00:51Z"
 }
