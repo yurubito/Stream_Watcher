@@ -121,14 +121,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T08:00:00Z",
-          "title": "【ホロ鯖ARK】99％の拠点はどうなった...？！拠点完成＆初めてのジャングルの洞窟チャレンジ！【白銀ノエル/ホロライブ】",
-          "video_id": "phTSyNW5ihc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T08:00:46Z",
+        "title": "【ホロ鯖ARK】99％の拠点はどうなった...？！拠点完成＆初めてのジャングルの洞窟チャレンジ！【白銀ノエル/ホロライブ】",
+        "video_id": "phTSyNW5ihc"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -530,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T08:00:54Z"
+  "generated_at": "2026-10-23T08:10:24Z"
 }
