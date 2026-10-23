@@ -116,7 +116,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T09:00:00Z",
+          "title": "【ホロ鯖ARK】99％の拠点はどうなった...？！拠点完成＆初めてのジャングルの洞窟チャレンジ！【白銀ノエル/ホロライブ】",
+          "video_id": "phTSyNW5ihc"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -387,11 +394,6 @@
       "name": "フワワ＆モココ・アビスガード",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-23T01:00:00Z",
-          "title": "【WATCHALONG: PULSE 回路】first horror movie with just you and me...🐾🩵 【MEMBERS ONLY】",
-          "video_id": "CopXVN__W9o"
-        },
-        {
           "scheduled_at": "2026-10-24T01:00:00Z",
           "title": "【RISE OF THE RŌNIN】i will be the samurai to win her heart🐾🩵 【FUWAWA SOLO】",
           "video_id": "6WJ-K0SFnEk"
@@ -474,14 +476,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T01:00:00Z",
-          "title": "【GONE Fishing】We're Not Gone... Yet【hololive holoro | Anya Melfissa】",
-          "video_id": "hfgBp-j5luU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T01:01:15Z",
+        "title": "【GONE Fishing】We're Not Gone... Yet【hololive holoro | Anya Melfissa】",
+        "video_id": "hfgBp-j5luU"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -509,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T01:10:30Z"
+  "generated_at": "2026-10-23T01:20:32Z"
 }
