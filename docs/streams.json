@@ -256,14 +256,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T11:00:00Z",
-          "title": "【#ホロドリ】参加型するよー！！ポカジャンとか！！ ビンゴ埋めたい✨【一条莉々華/hololive ReGLOSS】",
-          "video_id": "1BN_8aYGNH0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T11:01:34Z",
+        "title": "【#ホロドリ】参加型するよー！！ポカジャンとか！！ ビンゴ埋めたい✨【一条莉々華/hololive ReGLOSS】",
+        "video_id": "1BN_8aYGNH0"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -574,5 +572,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T11:00:52Z"
+  "generated_at": "2026-10-23T11:10:26Z"
 }
