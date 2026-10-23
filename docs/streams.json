@@ -162,14 +162,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T09:30:00Z",
-          "title": "【 #ホロ鯖ARK 】その１１｜ルミナほしいいいいいい～～！！洞窟行きたい！【常闇トワ/ホロライブ】",
-          "video_id": "uIgMkMYK-7o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T09:32:01Z",
+        "title": "【 #ホロ鯖ARK 】その１１｜ルミナほしいいいいいい～～！！洞窟行きたい！【常闇トワ/ホロライブ】",
+        "video_id": "uIgMkMYK-7o"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -431,7 +429,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T11:30:00Z",
+          "title": "≪hololive Dreams≫ cheeky holodori #holodori",
+          "video_id": "XV5MQbVg8d0"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -559,5 +564,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T09:30:45Z"
+  "generated_at": "2026-10-23T09:40:40Z"
 }
