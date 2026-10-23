@@ -503,11 +503,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-23T14:17:56Z",
-        "title": "【hololive Dreams ホロライブドリームス】Girls Night HOLODORI!【hololive holoro | Anya Melfissa】",
-        "video_id": "Y2ltasz7pCg"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -536,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T17:00:58Z"
+  "generated_at": "2026-10-23T17:10:34Z"
 }
