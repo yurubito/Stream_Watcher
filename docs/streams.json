@@ -155,7 +155,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T09:30:00Z",
+          "title": "【 #ホロ鯖ARK 】その１１｜ルミナほしいいいいいい～～！！洞窟行きたい！【常闇トワ/ホロライブ】",
+          "video_id": "uIgMkMYK-7o"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -182,14 +189,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T08:30:00Z",
-          "title": "【 #iphoneduo  】本日発売パカパカiPhoneレビュー！！！お知らせあり！！！！！【 桃鈴ねね / hololive 】",
-          "video_id": "X-9bgLMG5-A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T08:39:45Z",
+        "title": "【 #iphoneduo  】本日発売パカパカiPhoneレビュー！！！お知らせあり！！！！！【 桃鈴ねね / hololive 】",
+        "video_id": "X-9bgLMG5-A"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -308,6 +313,11 @@
           "scheduled_at": "2026-10-23T10:00:00Z",
           "title": "コンビニバイトのホラーゲーム「夜勤事件」で遊ぶのじゃ！【ホロライブ/熱千めら】",
           "video_id": "ZQJkVI2CWq0"
+        },
+        {
+          "scheduled_at": "2026-10-24T10:30:00Z",
+          "title": "【一ヶ月記念】お部屋にご招待しちゃいますのじゃ…【ホロライブ/熱千めら】",
+          "video_id": "N3z6TI4ED7o"
         }
       ]
     },
@@ -535,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T08:31:02Z"
+  "generated_at": "2026-10-23T08:40:35Z"
 }
