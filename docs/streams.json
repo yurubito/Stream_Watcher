@@ -322,14 +322,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T12:00:00Z",
-          "title": "【雑談/CHAT】おしゃべりしよう～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "2oeDWMMBvMU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T12:02:04Z",
+        "title": "【雑談/CHAT】おしゃべりしよう～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "2oeDWMMBvMU"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -589,5 +587,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T12:00:55Z"
+  "generated_at": "2026-10-23T12:03:28Z"
 }
