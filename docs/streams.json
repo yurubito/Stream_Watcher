@@ -210,7 +210,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T23:00:00Z",
+          "title": "【#ホロドリ】朝活☀実はこのゲーム音ゲーなんですよ【風真いろは/ホロライブ】",
+          "video_id": "i9B_4CRTidM"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -294,21 +301,11 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-23T12:29:53Z",
-        "title": "VALORANT イモータルを目指す!! #５　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "aAAvIiof87M"
-      },
       "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-23T12:59:13Z",
-        "title": "#6 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "u6ui44uX8ZQ"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -491,11 +488,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-23T14:00:50Z",
-        "title": "【hololive Dreams】Girls Night Where We Clear Shop #holodori【Pavolia Reine/hololive】",
-        "video_id": "uZNBAZu38Yw"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -519,5 +511,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T16:00:51Z"
+  "generated_at": "2026-10-23T16:10:33Z"
 }
