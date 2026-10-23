@@ -233,14 +233,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T23:00:00Z",
-          "title": "【#ホロドリ】朝活☀実はこのゲーム音ゲーなんですよ【風真いろは/ホロライブ】",
-          "video_id": "i9B_4CRTidM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T23:01:48Z",
+        "title": "【#ホロドリ】朝活☀実はこのゲーム音ゲーなんですよ【風真いろは/ホロライブ】",
+        "video_id": "i9B_4CRTidM"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -528,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T23:00:44Z"
+  "generated_at": "2026-10-23T23:09:26Z"
 }
