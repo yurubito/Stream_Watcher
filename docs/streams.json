@@ -6,7 +6,7 @@
       "name": "ときのそら",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-23T12:30:00Z",
+          "scheduled_at": "2026-10-23T13:00:00Z",
           "title": "【筆談配信】わたしの思いを聞いてほしい【ときのそら/ホロライブ】",
           "video_id": "XX8Nn9x7Ma0"
         }
@@ -217,7 +217,7 @@
       "name": "尾丸ポルカ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-24T10:00:00Z",
+          "scheduled_at": "2026-10-24T11:00:00Z",
           "title": "【鳴潮】3人でクイズ！？まつりとルーナといっしょに挑戦！【尾丸ポルカ/夏色まつり/姫森ルーナ/ホロライブ】",
           "video_id": "wd4lBj7WGYc"
         }
@@ -332,11 +332,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-23T09:59:16Z",
-        "title": "コンビニバイトのホラーゲーム「夜勤事件」で遊ぶのじゃ！【ホロライブ/熱千めら】",
-        "video_id": "ZQJkVI2CWq0"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -577,5 +572,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T12:10:33Z"
+  "generated_at": "2026-10-23T12:20:27Z"
 }
