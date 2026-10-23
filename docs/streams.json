@@ -297,13 +297,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-23T01:59:14Z",
+        "title": "【EN】I’m gonna become a FNAF master!!  | Five Nights at Freddy's 2【Hyakuto Kyoko/Hololive】",
+        "video_id": "Zrchcy1PtV0"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T02:00:00Z",
-          "title": "【EN】I’m gonna become a FNAF master!!  | Five Nights at Freddy's 2【Hyakuto Kyoko/Hololive】",
-          "video_id": "Zrchcy1PtV0"
-        },
         {
           "scheduled_at": "2026-10-23T13:00:00Z",
           "title": "#6 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -476,11 +476,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-23T01:01:15Z",
-        "title": "【GONE Fishing】We're Not Gone... Yet【hololive holoro | Anya Melfissa】",
-        "video_id": "hfgBp-j5luU"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -509,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T03:10:34Z"
+  "generated_at": "2026-10-23T03:20:22Z"
 }
