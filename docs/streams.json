@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T12:30:00Z",
+          "title": "【筆談配信】わたしの思いを聞いてほしい【ときのそら/ホロライブ】",
+          "video_id": "XX8Nn9x7Ma0"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -55,13 +62,13 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-23T12:00:45Z",
+        "title": "【凸待ち】新人限定🌀凸待ち会場！【ホロライブ/夏色まつり】",
+        "video_id": "wrurxY9WgGs"
+      },
       "name": "夏色まつり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T12:00:00Z",
-          "title": "【凸待ち】新人限定🌀凸待ち会場！【ホロライブ/夏色まつり】",
-          "video_id": "wrurxY9WgGs"
-        },
         {
           "scheduled_at": "2026-10-24T11:00:00Z",
           "title": "【 鳴潮 】今日は姫に守護ってもらうポルまちゅ！【ホロライブ/夏色まつり】",
@@ -237,6 +244,11 @@
       "name": "博衣こより",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-23T14:00:00Z",
+          "title": "【ホラー診断】Xでバズった、夜に一人でやるとヤバいらしい\"こころの余韻診断”やってみる！！！【博衣こより/ホロライブ】",
+          "video_id": "9JYOAUGj66I"
+        },
+        {
           "scheduled_at": "2026-10-24T02:00:00Z",
           "title": "【 #ホロ鯖ARK 】2時間制限‼️やりたいこと決めた！できるかな！？？【博衣こより/ホロライブ】",
           "video_id": "OSUjrZrgxik"
@@ -310,7 +322,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T12:00:00Z",
+          "title": "【雑談/CHAT】おしゃべりしよう～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "2oeDWMMBvMU"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -570,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T11:40:26Z"
+  "generated_at": "2026-10-23T12:00:55Z"
 }
