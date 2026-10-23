@@ -382,11 +382,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-23T09:41:52Z",
-        "title": "【同時視聴】出てきたメニューから今日の夕食を決めます【#holoAN / #CompassHorizon 】",
-        "video_id": "1xU9TEmqAXk"
-      },
       "name": "井月みちる",
       "upcoming": [
         {
@@ -581,5 +576,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T10:40:42Z"
+  "generated_at": "2026-10-23T10:50:29Z"
 }
