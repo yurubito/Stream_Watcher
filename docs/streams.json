@@ -256,14 +256,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T03:00:00Z",
-          "title": "【#ホロドリ 】やーらし！！オリー先輩とお昼のホロドリ！！ 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "tY-webWlO4Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T02:59:51Z",
+        "title": "【#ホロドリ 】やーらし！！オリー先輩とお昼のホロドリ！！ 【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "tY-webWlO4Y"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -314,6 +312,11 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
+      "live": {
+        "started_at": "2026-10-23T02:58:36Z",
+        "title": "【ホロじゃん】事前登録20万人突破！豪華プレゼント＆最新情報まとめ！【#昼ホロ / #花園さやか】",
+        "video_id": "jVjblisDelg"
+      },
       "name": "井月みちる"
     },
     {
@@ -504,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T03:20:22Z"
+  "generated_at": "2026-10-23T03:31:09Z"
 }
