@@ -13,11 +13,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-23T13:59:54Z",
-        "title": "【 ＃ホロドリ 】釣り対決終わったので参加型ぽかじゃん！！！【ホロライブ/ ロボ子さん 】",
-        "video_id": "FQIZehpmvjk"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -469,11 +464,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-23T14:08:55Z",
-        "title": "【Hololive Dreams】more holodori!【hololive | moona】",
-        "video_id": "oLrGj9-vD8w"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -537,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T15:20:36Z"
+  "generated_at": "2026-10-23T15:30:39Z"
 }
