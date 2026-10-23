@@ -152,11 +152,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-23T09:32:01Z",
-        "title": "【 #ホロ鯖ARK 】その１１｜ルミナほしいいいいいい～～！！洞窟行きたい！【常闇トワ/ホロライブ】",
-        "video_id": "uIgMkMYK-7o"
-      },
       "name": "常闇トワ"
     },
     {
@@ -494,14 +489,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T15:00:00Z",
-          "title": "【#holodori 】DOING DAILY【 iofi / hololive】",
-          "video_id": "Jg0dv13naw4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T15:00:55Z",
+        "title": "【#holodori 】DOING DAILY【 iofi / hololive】",
+        "video_id": "Jg0dv13naw4"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -554,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T15:00:50Z"
+  "generated_at": "2026-10-23T15:10:35Z"
 }
