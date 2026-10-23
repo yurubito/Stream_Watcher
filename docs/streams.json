@@ -288,11 +288,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-23T12:02:04Z",
-        "title": "【雑談/CHAT】おしゃべりしよう～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "2oeDWMMBvMU"
-      },
       "name": "輪堂千速"
     },
     {
@@ -541,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T16:57:40Z"
+  "generated_at": "2026-10-23T17:00:58Z"
 }
