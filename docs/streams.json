@@ -52,11 +52,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-23T10:58:35Z",
-        "title": "【Emberville】 戦って！集めて！街をつくる！「Emberville」#PR【ホロライブ/白上フブキ】",
-        "video_id": "djNUaNbNh38"
-      },
       "name": "白上フブキ"
     },
     {
@@ -268,11 +263,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-23T11:01:34Z",
-        "title": "【#ホロドリ】参加型するよー！！ポカジャンとか！！ ビンゴ埋めたい✨【一条莉々華/hololive ReGLOSS】",
-        "video_id": "1BN_8aYGNH0"
-      },
       "name": "一条莉々華"
     },
     {
@@ -587,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T12:03:28Z"
+  "generated_at": "2026-10-23T12:10:33Z"
 }
