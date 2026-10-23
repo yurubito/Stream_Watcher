@@ -13,14 +13,12 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T14:00:00Z",
-          "title": "【 ＃ホロドリ 】対決🔥先生…ボクたち釣れてない魚はお互いに★２の魚１体だね！？【ホロライブ/ ロボ子さん 】",
-          "video_id": "FQIZehpmvjk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T13:59:54Z",
+        "title": "【 ＃ホロドリ 】対決🔥先生…ボクたち釣れてない魚はお互いに★２の魚１体だね！？【ホロライブ/ ロボ子さん 】",
+        "video_id": "FQIZehpmvjk"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -79,6 +77,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-23T13:59:36Z",
+        "title": "【#ホロドリ】ロボ子さんに釣られた癒月さん📣 【ホロライブ/癒月ちょこ/ロボ子さん】",
+        "video_id": "ofAIg0466NM"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -499,7 +502,7 @@
       "name": "ムーナ・ホシノヴァ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-23T14:00:00Z",
+          "scheduled_at": "2026-10-23T14:15:00Z",
           "title": "【Hololive Dreams】more holodori!【hololive | moona】",
           "video_id": "oLrGj9-vD8w"
         }
@@ -530,14 +533,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T14:00:00Z",
-          "title": "【hololive Dreams】Girls Night Where We Clear Shop #holodori【Pavolia Reine/hololive】",
-          "video_id": "uZNBAZu38Yw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T14:00:50Z",
+        "title": "【hololive Dreams】Girls Night Where We Clear Shop #holodori【Pavolia Reine/hololive】",
+        "video_id": "uZNBAZu38Yw"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -562,5 +563,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T13:50:30Z"
+  "generated_at": "2026-10-23T14:00:57Z"
 }
