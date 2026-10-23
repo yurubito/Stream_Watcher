@@ -356,14 +356,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T12:30:00Z",
-          "title": "VALORANT イモータルを目指す!! #５　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "aAAvIiof87M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T12:29:53Z",
+        "title": "VALORANT イモータルを目指す!! #５　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "aAAvIiof87M"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -572,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T12:20:27Z"
+  "generated_at": "2026-10-23T12:30:41Z"
 }
