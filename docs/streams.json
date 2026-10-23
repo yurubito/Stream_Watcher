@@ -437,14 +437,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-23T11:30:00Z",
-          "title": "≪hololive Dreams≫ cheeky holodori #holodori",
-          "video_id": "XV5MQbVg8d0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-23T11:32:02Z",
+        "title": "≪hololive Dreams≫ cheeky holodori #holodori",
+        "video_id": "XV5MQbVg8d0"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -572,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T11:10:26Z"
+  "generated_at": "2026-10-23T11:40:26Z"
 }
