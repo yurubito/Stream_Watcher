@@ -258,11 +258,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-23T10:31:47Z",
-        "title": "【 #ホロARK 】ティラノテイム！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
-        "video_id": "mPkigzSO5Tg"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -556,8 +551,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-10-23T14:32:02Z",
+        "title": "【hololive Dreams】Play daily, will change thumbnail later #holodori #ホロドリ",
+        "video_id": "D39lYu3jaBk"
+      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T14:20:38Z"
+  "generated_at": "2026-10-23T14:40:40Z"
 }
