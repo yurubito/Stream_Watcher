@@ -119,7 +119,7 @@
       "name": "白銀ノエル",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-23T09:00:00Z",
+          "scheduled_at": "2026-10-23T08:00:00Z",
           "title": "【ホロ鯖ARK】99％の拠点はどうなった...？！拠点完成＆初めてのジャングルの洞窟チャレンジ！【白銀ノエル/ホロライブ】",
           "video_id": "phTSyNW5ihc"
         }
@@ -312,12 +312,24 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-23T02:58:36Z",
-        "title": "【ホロじゃん】事前登録20万人突破！豪華プレゼント＆最新情報まとめ！【#昼ホロ / #花園さやか】",
-        "video_id": "jVjblisDelg"
-      },
-      "name": "井月みちる"
+      "name": "井月みちる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-23T09:45:00Z",
+          "title": "【同時視聴】出てきたメニューから今日の夕食を決めます【#holoAN / #CompassHorizon 】",
+          "video_id": "1xU9TEmqAXk"
+        },
+        {
+          "scheduled_at": "2026-10-24T09:45:00Z",
+          "title": "【同時視聴】みなさまは世界遺産何個言えますか？井月は…【#holoAN / #CompassHorizon 】",
+          "video_id": "OXJ1WCCJnb0"
+        },
+        {
+          "scheduled_at": "2026-10-25T09:45:00Z",
+          "title": "【同時視聴】母性を抑えられる自信ナシ【#holoAN / #CompassHorizon】",
+          "video_id": "1qlPt_QFkFA"
+        }
+      ]
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -507,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-23T04:30:33Z"
+  "generated_at": "2026-10-23T05:50:25Z"
 }
