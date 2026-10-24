@@ -45,11 +45,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-24T14:01:08Z",
-        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその３【ホロライブ/白上フブキ】",
-        "video_id": "zS6rVs3bpoA"
-      },
       "name": "白上フブキ"
     },
     {
@@ -488,5 +483,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T19:01:07Z"
+  "generated_at": "2026-10-24T19:50:29Z"
 }
