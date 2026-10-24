@@ -29,17 +29,12 @@
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
       "live": {
-        "started_at": "2026-10-24T09:50:23Z",
-        "title": "【歌舞伎町路上ライブ】\"ZOMBIE! ZOMBIE!! ZOMBIE!!! \"【星街すいせい / ＃ほしまちすたじお】",
-        "video_id": "nlU8K-cuW7o"
+        "started_at": "2026-10-24T10:30:07Z",
+        "title": "ゾンビゾンビゾンビ / 星街すいせい (official)",
+        "video_id": "jSNmQt7QNBc"
       },
       "name": "星街すいせい",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:30:00Z",
-          "title": "ゾンビゾンビゾンビ / 星街すいせい (official)",
-          "video_id": "jSNmQt7QNBc"
-        },
         {
           "scheduled_at": "2026-10-24T12:00:00Z",
           "title": "【 新事業計画⁉ / VRchat 】ライブお疲れ＆スタッフからプレゼン資料届いたからご紹介✨【星街すいせい / ＃ほしまちすたじお】",
@@ -353,13 +348,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-24T10:28:45Z",
+        "title": "【一ヶ月記念】お部屋にご招待しちゃいますのじゃ…【ホロライブ/熱千めら】",
+        "video_id": "N3z6TI4ED7o"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:30:00Z",
-          "title": "【一ヶ月記念】お部屋にご招待しちゃいますのじゃ…【ホロライブ/熱千めら】",
-          "video_id": "N3z6TI4ED7o"
-        },
         {
           "scheduled_at": "2026-10-24T11:45:00Z",
           "title": "【🔒メン限】安全地帯へようこそ！お披露目あり◎【ホロライブ/熱千めら】",
@@ -526,7 +521,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T13:00:00Z",
+          "title": "【STREAM】mysteries keep things exciting, right?",
+          "video_id": "7Obi_GqkwGA"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -607,5 +609,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T10:20:34Z"
+  "generated_at": "2026-10-24T10:30:40Z"
 }
