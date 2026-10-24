@@ -62,14 +62,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T11:00:00Z",
-          "title": "【 鳴潮 】今日は姫に守護ってもらうポルまちゅ！【ホロライブ/夏色まつり】",
-          "video_id": "JNOjAFc5oso"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T11:00:41Z",
+        "title": "【 鳴潮 】今日は姫に守護ってもらうポルまちゅ！【ホロライブ/夏色まつり】",
+        "video_id": "JNOjAFc5oso"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -118,11 +116,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-24T10:01:16Z",
-        "title": "iPhone Duoをパカパカする配信【ホロライブ/兎田ぺこら】",
-        "video_id": "HUlsz7Ym3Y8"
-      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
@@ -208,24 +201,17 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-24T10:00:51Z",
-        "title": "自家製麺の魅力！ご当地の麺を堪能するぞ～っ編🍜【#ししろんの47ラーメンツアー2 / 獅白ぼたん ホロライブ】",
-        "video_id": "uQ7m5CII3RA"
-      },
       "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T11:00:00Z",
-          "title": "【鳴潮】3人でクイズ！？まつりとルーナといっしょに挑戦！【尾丸ポルカ/夏色まつり/姫森ルーナ/ホロライブ】",
-          "video_id": "wd4lBj7WGYc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T11:00:26Z",
+        "title": "【鳴潮】3人でクイズ！？まつりとルーナといっしょに挑戦！【尾丸ポルカ/夏色まつり/姫森ルーナ/ホロライブ】",
+        "video_id": "wd4lBj7WGYc"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -370,7 +356,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T12:00:00Z",
+          "title": "初ホロドリ！！BINGOもあるとか！？わくわくが止まらないんだ！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中 #ホロドリ",
+          "video_id": "wd72eNM_Ut8"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -387,11 +380,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-24T09:40:59Z",
-        "title": "【同時視聴】みなさまは世界遺産何個言えますか？井月は…【#holoAN / #CompassHorizon 】",
-        "video_id": "OXJ1WCCJnb0"
-      },
       "name": "井月みちる",
       "upcoming": [
         {
@@ -526,7 +514,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T04:00:00Z",
+          "title": "【COOKING STREAM】TEACHING RIRIKA HOW TO PREPARE SPAGHETTI! :)",
+          "video_id": "xZLz587JZt4"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -602,5 +597,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T10:40:30Z"
+  "generated_at": "2026-10-24T11:00:57Z"
 }
