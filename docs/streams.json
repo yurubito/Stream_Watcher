@@ -459,11 +459,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-24T13:01:05Z",
-        "title": "【Hololive Dreams】am i back to holoh3ro?【hololive | moona】",
-        "video_id": "IFhVmIDHeSc"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -522,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T14:20:40Z"
+  "generated_at": "2026-10-24T14:30:57Z"
 }
