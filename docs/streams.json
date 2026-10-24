@@ -288,7 +288,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T09:30:00Z",
+          "title": "地図から存在を消された旧校舎「0号館」【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "dVcrPyhXzGA"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -528,7 +535,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T12:00:00Z",
+          "title": "【#holodori 】With Vivi!【 iofi / hololive】",
+          "video_id": "ghEg55I_Ahc"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -568,5 +582,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T08:10:41Z"
+  "generated_at": "2026-10-24T08:30:39Z"
 }
