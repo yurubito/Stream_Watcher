@@ -59,7 +59,14 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと"
+      "name": "赤井はあと",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T10:00:00Z",
+          "title": "ケッ！！！！！！！！【ホロライブ/赤井はあと】",
+          "video_id": "ZAVMgXi7-aQ"
+        }
+      ]
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -526,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T00:10:31Z"
+  "generated_at": "2026-10-24T00:30:46Z"
 }
