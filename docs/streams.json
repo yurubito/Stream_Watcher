@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T12:00:00Z",
+          "title": "【#ホロドリ】ポカジャンでコラボ配信だ～！！【ときのそら/ホロライブ】",
+          "video_id": "0S2WSM0OrXg"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -20,11 +27,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-24T10:01:03Z",
-        "title": "【歌枠 / 告知あり】歌って告知！！！！！最後に嬉しいお知らせあり🎤✨ Singing Stream【ホロライブ / AZKi】",
-        "video_id": "fLicfFnhb1k"
-      },
       "name": "AZKi"
     },
     {
@@ -325,16 +327,18 @@
         "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃16【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
         "video_id": "LSS11WEsPtI"
       },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T12:00:00Z",
+          "title": "【#ホロドリ 】イオフィ先輩と初サシコラボ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+          "video_id": "scBzgQKnnf0"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-24T10:28:45Z",
-        "title": "【一ヶ月記念】お部屋にご招待しちゃいますのじゃ…【ホロライブ/熱千めら】",
-        "video_id": "N3z6TI4ED7o"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -347,14 +351,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T11:30:00Z",
-          "title": "【告知アリ!?】デビュー１ヵ月記念 飲酒配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "3zTkZTOA_sw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T11:31:47Z",
+        "title": "【告知アリ!?】デビュー１ヵ月記念 飲酒配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "3zTkZTOA_sw"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -600,5 +602,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T11:20:38Z"
+  "generated_at": "2026-10-24T11:40:29Z"
 }
