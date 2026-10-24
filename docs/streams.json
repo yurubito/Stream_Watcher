@@ -45,7 +45,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T14:00:00Z",
+          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその３【ホロライブ/白上フブキ】",
+          "video_id": "zS6rVs3bpoA"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -481,7 +488,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T14:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】Exciting Reinya Dreams!【hololive holoro | Anya Melfissa】",
+          "video_id": "7f2dBcUN3Oo"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -526,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T13:40:26Z"
+  "generated_at": "2026-10-24T13:50:22Z"
 }
