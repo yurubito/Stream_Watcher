@@ -152,14 +152,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T09:00:00Z",
-          "title": "【ホロ鯖ARK】三度目の正直！拠点たつ？！今日は冒険にも行きたい予感！！【白銀ノエル/ホロライブ】",
-          "video_id": "SK5denKc2rU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T09:00:25Z",
+        "title": "【ホロ鯖ARK】三度目の正直！拠点たつ？！今日は冒険にも行きたい予感！！【白銀ノエル/ホロライブ】",
+        "video_id": "SK5denKc2rU"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -525,7 +523,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T13:00:00Z",
+          "title": "Memancing. Fishing. with Tim S.A.R. @sammybollivienn @sayaayaaulya",
+          "video_id": "D0GdYYHcoCc"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -582,5 +587,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T08:40:40Z"
+  "generated_at": "2026-10-24T09:00:46Z"
 }
