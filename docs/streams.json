@@ -97,14 +97,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T13:00:00Z",
-          "title": "お金稼ぐぞ",
-          "video_id": "QT1NI-BX4lE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T13:01:37Z",
+        "title": "お金稼ぐぞ",
+        "video_id": "QT1NI-BX4lE"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -410,14 +408,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T13:00:00Z",
-          "title": "【HOLOLIVE DREAMS】NEW BIBOO SONG RAHHHH WE GONNA PREP #holodori",
-          "video_id": "_-OrfkSVMJQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T13:01:53Z",
+        "title": "【HOLOLIVE DREAMS】NEW BIBOO SONG RAHHHH WE GONNA PREP #holodori",
+        "video_id": "_-OrfkSVMJQ"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -468,14 +464,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T13:05:00Z",
-          "title": "【STREAM】mysteries keep things exciting, right?",
-          "video_id": "7Obi_GqkwGA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T13:08:47Z",
+        "title": "【STREAM】mysteries keep things exciting, right?",
+        "video_id": "7Obi_GqkwGA"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -504,14 +498,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T13:00:00Z",
-          "title": "【Hololive Dreams】am i back to holoh3ro?【hololive | moona】",
-          "video_id": "IFhVmIDHeSc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T13:01:05Z",
+        "title": "【Hololive Dreams】am i back to holoh3ro?【hololive | moona】",
+        "video_id": "IFhVmIDHeSc"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -548,14 +540,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T13:00:00Z",
-          "title": "【Hololive Dreams】holoh3ro looks kinda different today... #holodori #ホロドリ",
-          "video_id": "NA8Lwjxj1pY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T13:01:45Z",
+        "title": "【Hololive Dreams】holoh3ro looks kinda different today... #holodori #ホロドリ",
+        "video_id": "NA8Lwjxj1pY"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -572,15 +562,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T13:00:00Z",
-          "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
-          "video_id": "h03mMhkVP_s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T13:08:40Z",
+        "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
+        "video_id": "h03mMhkVP_s"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T13:00:56Z"
+  "generated_at": "2026-10-24T13:10:25Z"
 }
