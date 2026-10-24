@@ -322,11 +322,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-24T07:19:30Z",
-        "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃16【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "LSS11WEsPtI"
-      },
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
@@ -339,14 +334,7 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T11:45:00Z",
-          "title": "【🔒メン限】安全地帯へようこそ！お披露目あり◎【ホロライブ/熱千めら】",
-          "video_id": "ovTetlnk1Bs"
-        }
-      ]
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -397,11 +385,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-24T10:00:27Z",
-        "title": "【JUMP KING】hardest map and big announcement!! #calliolive",
-        "video_id": "Z0v1VmKlHuQ"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -582,7 +565,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T13:00:00Z",
+          "title": "【Hololive Dreams】holoh3ro looks kinda different today... #holodori #ホロドリ",
+          "video_id": "NA8Lwjxj1pY"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -602,5 +592,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T11:40:29Z"
+  "generated_at": "2026-10-24T11:50:22Z"
 }
