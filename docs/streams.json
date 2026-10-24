@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T12:00:00Z",
+          "title": "【 ＃ホロドリ】ふれあとそらちゃんとポカジャンするじゃん【ホロライブ/ ロボ子さん 】",
+          "video_id": "Z5mEiQb_Fz8"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -593,5 +600,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T11:10:24Z"
+  "generated_at": "2026-10-24T11:20:38Z"
 }
