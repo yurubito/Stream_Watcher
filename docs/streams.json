@@ -64,14 +64,12 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:00:00Z",
-          "title": "ケッ！！！！！！！！【ホロライブ/赤井はあと】",
-          "video_id": "ZAVMgXi7-aQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T10:00:10Z",
+        "title": "ケッ！！！！！！！！【ホロライブ/赤井はあと】",
+        "video_id": "ZAVMgXi7-aQ"
+      },
+      "name": "赤井はあと"
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -417,13 +415,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-24T10:00:27Z",
+        "title": "【JUMP KING】hardest map and big announcement!! #calliolive",
+        "video_id": "Z0v1VmKlHuQ"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:00:00Z",
-          "title": "【JUMP KING】hardest map and big announcement!! #calliolive",
-          "video_id": "Z0v1VmKlHuQ"
-        },
         {
           "scheduled_at": "2026-10-25T01:00:00Z",
           "title": "【BIG COLLAB】just some board games!! #calliolive",
@@ -601,5 +599,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T09:50:40Z"
+  "generated_at": "2026-10-24T10:00:46Z"
 }
