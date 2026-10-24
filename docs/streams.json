@@ -235,11 +235,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-24T12:00:58Z",
-        "title": "【参加型リベンジ】今日も一緒にあ～そぼ！  #ホロドリ 【一条莉々華/hololive ReGLOSS】",
-        "video_id": "qvvaf6-jbiE"
-      },
       "name": "一条莉々華"
     },
     {
@@ -307,11 +302,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-24T11:31:47Z",
-        "title": "【告知アリ!?】デビュー１ヵ月記念 飲酒配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "3zTkZTOA_sw"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -486,14 +476,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T13:00:00Z",
-          "title": "Memancing. Fishing. with Tim S.A.R. @sammybollivienn @sayaayaaulya",
-          "video_id": "D0GdYYHcoCc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T13:18:33Z",
+        "title": "Memancing. Fishing. with Tim S.A.R. @sammybollivienn @sayaayaaulya",
+        "video_id": "D0GdYYHcoCc"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -570,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T13:10:25Z"
+  "generated_at": "2026-10-24T13:20:39Z"
 }
