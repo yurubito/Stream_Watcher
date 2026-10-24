@@ -3,11 +3,6 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-24T12:20:39Z",
-        "title": "【#ホロドリ】ポカジャンでコラボ配信だ～！！【ときのそら/ホロライブ】",
-        "video_id": "0S2WSM0OrXg"
-      },
       "name": "ときのそら"
     },
     {
@@ -277,21 +272,11 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-24T10:33:39Z",
-        "title": "【#ホロドリ】トワさまああああああああああああ！！！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "NgGKRlDKsUE"
-      },
       "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-24T12:02:19Z",
-        "title": "【#ホロドリ 】イオフィ先輩と初サシコラボ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
-        "video_id": "scBzgQKnnf0"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -496,11 +481,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-24T12:01:21Z",
-        "title": "【#holodori 】With Vivi!【 iofi / hololive】",
-        "video_id": "ghEg55I_Ahc"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -538,14 +518,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T13:30:00Z",
-          "title": "【hololive Dreams】no more grind for me so i chill【#holodori】",
-          "video_id": "g-HRtUB49UQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T13:29:34Z",
+        "title": "【hololive Dreams】no more grind for me so i chill【#holodori】",
+        "video_id": "g-HRtUB49UQ"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -558,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T13:20:39Z"
+  "generated_at": "2026-10-24T13:30:37Z"
 }
