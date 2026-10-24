@@ -28,11 +28,6 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-24T10:30:07Z",
-        "title": "ゾンビゾンビゾンビ / 星街すいせい (official)",
-        "video_id": "jSNmQt7QNBc"
-      },
       "name": "星街すいせい",
       "upcoming": [
         {
@@ -326,14 +321,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:30:00Z",
-          "title": "【#ホロドリ】トワさまああああああああああああ！！！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "NgGKRlDKsUE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T10:33:39Z",
+        "title": "【#ホロドリ】トワさまああああああああああああ！！！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "NgGKRlDKsUE"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -609,5 +602,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T10:30:40Z"
+  "generated_at": "2026-10-24T10:40:30Z"
 }
