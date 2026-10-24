@@ -422,14 +422,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T01:00:00Z",
-          "title": "【Dragon's Dogma 2: Dark Arisen】The adventures of bijou and biboo #DD2DA #sponsored",
-          "video_id": "M_6eIQaexuQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T00:58:38Z",
+        "title": "【Dragon's Dogma 2: Dark Arisen】The adventures of bijou and biboo #DD2DA #sponsored",
+        "video_id": "M_6eIQaexuQ"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -533,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T01:40:28Z"
+  "generated_at": "2026-10-24T01:50:33Z"
 }
