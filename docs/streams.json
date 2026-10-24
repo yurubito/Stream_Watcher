@@ -30,13 +30,13 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-10-24T09:50:23Z",
+        "title": "【歌舞伎町路上ライブ】\"ZOMBIE! ZOMBIE!! ZOMBIE!!! \"【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "nlU8K-cuW7o"
+      },
       "name": "星街すいせい",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T09:50:00Z",
-          "title": "【歌舞伎町路上ライブ】\"ZOMBIE! ZOMBIE!! ZOMBIE!!! \"【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "nlU8K-cuW7o"
-        },
         {
           "scheduled_at": "2026-10-24T10:30:00Z",
           "title": "ゾンビゾンビゾンビ / 星街すいせい (official)",
@@ -400,13 +400,13 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
+      "live": {
+        "started_at": "2026-10-24T09:40:59Z",
+        "title": "【同時視聴】みなさまは世界遺産何個言えますか？井月は…【#holoAN / #CompassHorizon 】",
+        "video_id": "OXJ1WCCJnb0"
+      },
       "name": "井月みちる",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T09:45:00Z",
-          "title": "【同時視聴】みなさまは世界遺産何個言えますか？井月は…【#holoAN / #CompassHorizon 】",
-          "video_id": "OXJ1WCCJnb0"
-        },
         {
           "scheduled_at": "2026-10-25T09:45:00Z",
           "title": "【同時視聴】母性を抑えられる自信ナシ【#holoAN / #CompassHorizon】",
@@ -601,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T09:30:46Z"
+  "generated_at": "2026-10-24T09:50:40Z"
 }
