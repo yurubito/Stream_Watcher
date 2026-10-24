@@ -446,11 +446,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-24T13:08:47Z",
-        "title": "【STREAM】mysteries keep things exciting, right?",
-        "video_id": "7Obi_GqkwGA"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -493,21 +488,11 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-24T14:00:58Z",
-        "title": "【hololive Dreams ホロライブドリームス】Exciting Reinya Dreams!【hololive holoro | Anya Melfissa】",
-        "video_id": "7f2dBcUN3Oo"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-24T14:00:40Z",
-        "title": "【hololive Dreams】Chilling with Anya Melfissa from hololive Dreams #holodori【Pavolia Reine/hololive】",
-        "video_id": "-sgyAWeUFqA"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -531,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T15:10:23Z"
+  "generated_at": "2026-10-24T15:20:25Z"
 }
