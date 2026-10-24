@@ -272,7 +272,19 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T20:30:00Z",
+          "title": "【F1同時視聴】アメリカgp！早起きして予選！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "XMucA0iNX10"
+        },
+        {
+          "scheduled_at": "2026-10-25T19:30:00Z",
+          "title": "【F1同時視聴】アメリカGP！朝から！決勝！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "GNuZksYJp20"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -297,11 +309,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-24T12:59:33Z",
-        "title": "#4 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "HvxZVWRaiKk"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -524,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T14:40:38Z"
+  "generated_at": "2026-10-24T14:50:29Z"
 }
