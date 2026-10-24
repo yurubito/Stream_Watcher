@@ -65,6 +65,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-24T16:24:48Z",
+        "title": "【#ホロ鯖ARK】ARK上陸1４日目！線路作成するのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "iHzmEUgxcm0"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -496,5 +501,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T16:20:31Z"
+  "generated_at": "2026-10-24T16:30:41Z"
 }
