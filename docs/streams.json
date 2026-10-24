@@ -375,11 +375,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-24T13:01:53Z",
-        "title": "【HOLOLIVE DREAMS】NEW BIBOO SONG RAHHHH WE GONNA PREP #holodori",
-        "video_id": "_-OrfkSVMJQ"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -493,11 +488,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-24T13:29:34Z",
-        "title": "【hololive Dreams】no more grind for me so i chill【#holodori】",
-        "video_id": "g-HRtUB49UQ"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -506,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T16:10:29Z"
+  "generated_at": "2026-10-24T16:20:31Z"
 }
