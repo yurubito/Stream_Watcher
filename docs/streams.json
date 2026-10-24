@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T12:00:00Z",
-          "title": "【#ホロドリ】ポカジャンでコラボ配信だ～！！【ときのそら/ホロライブ】",
-          "video_id": "0S2WSM0OrXg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T12:20:39Z",
+        "title": "【#ホロドリ】ポカジャンでコラボ配信だ～！！【ときのそら/ホロライブ】",
+        "video_id": "0S2WSM0OrXg"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -175,7 +173,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T09:00:00Z",
+          "title": "【 Castlevania: Belmont’s Curse 】体験版の新作キャッスルバニア ベルモンドカース遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
+          "video_id": "RXStusVgNi4"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -575,5 +580,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T12:20:28Z"
+  "generated_at": "2026-10-24T12:30:37Z"
 }
