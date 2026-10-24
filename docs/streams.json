@@ -65,14 +65,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T14:45:00Z",
-          "title": "【#ホロドリ】ミニゲーム強化配信📣 【ホロライブ/癒月ちょこ】",
-          "video_id": "qX7Q-tmrG7E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T14:52:02Z",
+        "title": "【#ホロドリ】ミニゲーム強化配信📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "qX7Q-tmrG7E"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -215,11 +213,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-24T10:02:12Z",
-        "title": "【#ホロARK】今日はティラコレオさんを探しに行くDAY🏝【風真いろは/ホロライブ】",
-        "video_id": "GX3pr0fWi1Y"
-      },
       "name": "風真いろは"
     },
     {
@@ -309,7 +302,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T13:00:00Z",
+          "title": "#4 審判の日が近づく！？今回も謎をガンガン解いてこーー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "BtIXGeBO2dU"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -406,6 +406,11 @@
           "scheduled_at": "2026-10-24T23:00:00Z",
           "title": "【RISE OF THE RŌNIN】i will be the samurai to win her heart🐾🩵 【FUWAWA SOLO】",
           "video_id": "6WJ-K0SFnEk"
+        },
+        {
+          "scheduled_at": "2026-10-26T11:00:00Z",
+          "title": "【タンポポは耐える】いちばんふわふわなタンポポ the fluffiest dandelion endures🐾🩵 【 FUWAWA SOLO】",
+          "video_id": "mbFmBqlbyXs"
         }
       ]
     },
@@ -531,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T14:50:29Z"
+  "generated_at": "2026-10-24T15:00:56Z"
 }
