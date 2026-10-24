@@ -69,11 +69,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-24T11:00:41Z",
-        "title": "【 鳴潮 】今日は姫に守護ってもらうポルまちゅ！【ホロライブ/夏色まつり】",
-        "video_id": "JNOjAFc5oso"
-      },
       "name": "夏色まつり"
     },
     {
@@ -184,11 +179,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-24T11:01:00Z",
-        "title": "【 鳴潮企画 】3人で協力してイベントに挑戦していくのらぞっ！！！Ver.3.7 ＃30【姫森ルーナ/ホロライブ】",
-        "video_id": "H0gBswYTun0"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -209,11 +199,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-24T11:00:26Z",
-        "title": "【鳴潮】3人でクイズ！？まつりとルーナといっしょに挑戦！【尾丸ポルカ/夏色まつり/姫森ルーナ/ホロライブ】",
-        "video_id": "wd4lBj7WGYc"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -256,14 +241,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T12:00:00Z",
-          "title": "【参加型リベンジ】今日も一緒にあ～そぼ！  #ホロドリ 【一条莉々華/hololive ReGLOSS】",
-          "video_id": "qvvaf6-jbiE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T12:00:58Z",
+        "title": "【参加型リベンジ】今日も一緒にあ～そぼ！  #ホロドリ 【一条莉々華/hololive ReGLOSS】",
+        "video_id": "qvvaf6-jbiE"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -320,14 +303,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T12:00:00Z",
-          "title": "【#ホロドリ 】イオフィ先輩と初サシコラボ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
-          "video_id": "scBzgQKnnf0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T12:02:19Z",
+        "title": "【#ホロドリ 】イオフィ先輩と初サシコラボ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+        "video_id": "scBzgQKnnf0"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -539,14 +520,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T12:00:00Z",
-          "title": "【#holodori 】With Vivi!【 iofi / hololive】",
-          "video_id": "ghEg55I_Ahc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T12:01:21Z",
+        "title": "【#holodori 】With Vivi!【 iofi / hololive】",
+        "video_id": "ghEg55I_Ahc"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -600,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T12:01:00Z"
+  "generated_at": "2026-10-24T12:10:40Z"
 }
