@@ -33,11 +33,6 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-24T11:57:15Z",
-        "title": "【 新事業計画⁉ / VRchat 】ライブお疲れ＆スタッフからプレゼン資料届いたからご紹介✨【星街すいせい / ＃ほしまちすたじお】",
-        "video_id": "XFrc3it4UJM"
-      },
       "name": "星街すいせい"
     },
     {
@@ -516,7 +511,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T13:00:00Z",
+          "title": "【Hololive Dreams】am i back to holoh3ro?【hololive | moona】",
+          "video_id": "IFhVmIDHeSc"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -577,8 +579,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T13:00:00Z",
+          "title": "【hololive Dreams】daily holodori #holodori #ホロドリ",
+          "video_id": "h03mMhkVP_s"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-24T12:30:37Z"
+  "generated_at": "2026-10-24T12:50:31Z"
 }
