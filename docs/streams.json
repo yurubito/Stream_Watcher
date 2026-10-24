@@ -172,7 +172,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-25T09:00:00Z",
-          "title": "【 Castlevania: Belmont’s Curse 】体験版の新作キャッスルバニア ベルモンドカース遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
+          "title": "【 Castlevania: Belmont’s Curse 】体験版の新作キャッスルバニア ベルモンドカースで遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
           "video_id": "RXStusVgNi4"
         }
       ]
@@ -252,11 +252,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-24T10:01:06Z",
-        "title": "地図から存在を消された旧校舎「0号館」【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "dVcrPyhXzGA"
-      },
       "name": "轟はじめ"
     },
     {
@@ -334,14 +329,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T13:00:00Z",
-          "title": "#4 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "HvxZVWRaiKk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T12:59:33Z",
+        "title": "#4 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "HvxZVWRaiKk"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -478,7 +471,7 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-24T13:00:00Z",
+          "scheduled_at": "2026-10-24T13:05:00Z",
           "title": "【STREAM】mysteries keep things exciting, right?",
           "video_id": "7Obi_GqkwGA"
         }
@@ -589,5 +582,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-24T12:50:31Z"
+  "generated_at": "2026-10-24T13:00:56Z"
 }
