@@ -65,11 +65,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-24T14:52:02Z",
-        "title": "【#ホロドリ】ミニゲーム強化配信📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "qX7Q-tmrG7E"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -511,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T15:30:37Z"
+  "generated_at": "2026-10-24T16:10:29Z"
 }
