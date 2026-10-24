@@ -240,11 +240,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-23T23:01:48Z",
-        "title": "【#ホロドリ】朝活☀実はこのゲーム音ゲーなんですよ【風真いろは/ホロライブ】",
-        "video_id": "i9B_4CRTidM"
-      },
       "name": "風真いろは"
     },
     {
@@ -533,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T00:30:46Z"
+  "generated_at": "2026-10-24T00:50:22Z"
 }
