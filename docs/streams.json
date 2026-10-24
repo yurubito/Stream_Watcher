@@ -157,7 +157,14 @@
         "title": "【ホロ鯖ARK】三度目の正直！拠点たつ？！今日は冒険にも行きたい予感！！【白銀ノエル/ホロライブ】",
         "video_id": "SK5denKc2rU"
       },
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T01:00:00Z",
+          "title": "【朝活雑談】久々にゆったりお喋りだあああ✨【白銀ノエル/ホロライブ】",
+          "video_id": "Xbk3-Pw-UXo"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -407,7 +414,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-24T10:00:00Z",
-          "title": "【JUMP KING】hardest map and big announcement!! #holodori",
+          "title": "【JUMP KING】hardest map and big announcement!! #calliolive",
           "video_id": "Z0v1VmKlHuQ"
         },
         {
@@ -587,5 +594,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T09:00:46Z"
+  "generated_at": "2026-10-24T09:10:23Z"
 }
