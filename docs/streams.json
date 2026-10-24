@@ -37,14 +37,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T12:00:00Z",
-          "title": "【 新事業計画⁉ / VRchat 】ライブお疲れ＆スタッフからプレゼン資料届いたからご紹介✨【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "XFrc3it4UJM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T11:57:15Z",
+        "title": "【 新事業計画⁉ / VRchat 】ライブお疲れ＆スタッフからプレゼン資料届いたからご紹介✨【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "XFrc3it4UJM"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -349,14 +347,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T12:00:00Z",
-          "title": "初ホロドリ！！BINGOもあるとか！？わくわくが止まらないんだ！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中 #ホロドリ",
-          "video_id": "wd72eNM_Ut8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T11:59:19Z",
+        "title": "初ホロドリ！！BINGOもあるとか！？わくわくが止まらないんだ！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中 #ホロドリ",
+        "video_id": "wd72eNM_Ut8"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -396,6 +392,11 @@
           "scheduled_at": "2026-10-26T01:00:00Z",
           "title": "【Silent Hill: Townfall】repent for your sins gigi murin #calliolive",
           "video_id": "kM1ye6qHA5Y"
+        },
+        {
+          "scheduled_at": "2026-10-30T10:00:00Z",
+          "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
+          "video_id": "b6mcVgI0JjY"
         }
       ]
     },
@@ -439,7 +440,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T13:00:00Z",
+          "title": "【HOLOLIVE DREAMS】NEW BIBOO SONG RAHHHH #holodori",
+          "video_id": "_-OrfkSVMJQ"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -592,5 +600,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T11:50:22Z"
+  "generated_at": "2026-10-24T12:01:00Z"
 }
