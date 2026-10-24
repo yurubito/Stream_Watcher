@@ -125,7 +125,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T13:00:00Z",
+          "title": "お金稼ぐぞ",
+          "video_id": "QT1NI-BX4lE"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -594,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T09:10:23Z"
+  "generated_at": "2026-10-24T09:30:46Z"
 }
