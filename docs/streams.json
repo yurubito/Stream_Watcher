@@ -34,7 +34,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-24T10:00:00Z",
-          "title": "？？？【星街すいせい / ＃ほしまちすたじお】",
+          "title": "【歌舞伎町路上ライブ】\"ZOMBIE! ZOMBIE!! ZOMBIE!!! \"【星街すいせい / ＃ほしまちすたじお】",
           "video_id": "nlU8K-cuW7o"
         },
         {
@@ -103,11 +103,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-24T01:01:46Z",
-        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-        "video_id": "nvRAkeG0-0o"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -145,7 +140,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T09:00:00Z",
+          "title": "【ホロ鯖ARK】三度目の正直！拠点たつ？！今日は冒険にも行きたい予感！！【白銀ノエル/ホロライブ】",
+          "video_id": "SK5denKc2rU"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -231,11 +233,6 @@
       "name": "博衣こより",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-24T02:00:00Z",
-          "title": "【 #ホロ鯖ARK 】2時間制限‼️やりたいこと決めた！できるかな！？？【博衣こより/ホロライブ】",
-          "video_id": "OSUjrZrgxik"
-        },
-        {
           "scheduled_at": "2026-10-25T02:00:00Z",
           "title": "【空の軌跡 the 2nd】完全初見！第3章スタートから！ティータかわいいよティータ #4 【博衣こより/ホロライブ】※ネタバレあり",
           "video_id": "qcQWtL3qrPE"
@@ -245,7 +242,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T10:00:00Z",
+          "title": "【#ホロARK】今日はティラコレオさんを探しに行くDAY🏝【風真いろは/ホロライブ】",
+          "video_id": "GX3pr0fWi1Y"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -302,7 +306,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T07:00:00Z",
+          "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃16【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "LSS11WEsPtI"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -336,11 +347,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-24T02:00:43Z",
-        "title": "【EN】On to the next episode!!| Fears to Fathom - Woodbury Getaway【Hyakuto Kyoko/Hololive】",
-        "video_id": "NmM_hn3Mp0o"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -422,21 +428,18 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-23T22:57:48Z",
-        "title": "Help I'm Stuck in a Roguelite Horror Game 【Withering Rooms】",
-        "video_id": "Ub1x7clOXr4"
-      },
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T20:00:00Z",
+          "title": "The Vanishing of Ethan Carter 【Powered by Polish Video Game Days】#PVGD #ad",
+          "video_id": "eiuX72ejH6g"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-24T00:58:38Z",
-        "title": "【Dragon's Dogma 2: Dark Arisen】The adventures of bijou and biboo #DD2DA #sponsored",
-        "video_id": "M_6eIQaexuQ"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -541,5 +544,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T05:10:26Z"
+  "generated_at": "2026-10-24T07:00:56Z"
 }
