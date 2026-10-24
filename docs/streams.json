@@ -240,13 +240,13 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-24T20:29:51Z",
+        "title": "【F1同時視聴】アメリカgp！早起きして予選！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "XMucA0iNX10"
+      },
       "name": "輪堂千速",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T20:30:00Z",
-          "title": "【F1同時視聴】アメリカgp！早起きして予選！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "XMucA0iNX10"
-        },
         {
           "scheduled_at": "2026-10-25T19:30:00Z",
           "title": "【F1同時視聴】アメリカGP！朝から！決勝！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -481,5 +481,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T20:00:46Z"
+  "generated_at": "2026-10-24T20:30:34Z"
 }
