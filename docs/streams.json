@@ -372,13 +372,13 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-10-24T22:55:10Z",
+        "title": "【RISE OF THE RŌNIN】i will be the samurai to win her heart🐾🩵 【FUWAWA SOLO】",
+        "video_id": "6WJ-K0SFnEk"
+      },
       "name": "フワワ＆モココ・アビスガード",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T23:00:00Z",
-          "title": "【RISE OF THE RŌNIN】i will be the samurai to win her heart🐾🩵 【FUWAWA SOLO】",
-          "video_id": "6WJ-K0SFnEk"
-        },
         {
           "scheduled_at": "2026-10-26T11:00:00Z",
           "title": "【タンポポは耐える】いちばんふわふわなタンポポ the fluffiest dandelion endures🐾🩵 【 FUWAWA SOLO】",
@@ -478,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T22:20:30Z"
+  "generated_at": "2026-10-24T23:01:08Z"
 }
