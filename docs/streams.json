@@ -331,13 +331,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-24T02:00:43Z",
+        "title": "【EN】On to the next episode!!| Fears to Fathom - Woodbury Getaway【Hyakuto Kyoko/Hololive】",
+        "video_id": "NmM_hn3Mp0o"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T02:00:00Z",
-          "title": "【EN】On to the next episode!!| Fears to Fathom - Woodbury Getaway【Hyakuto Kyoko/Hololive】",
-          "video_id": "NmM_hn3Mp0o"
-        },
         {
           "scheduled_at": "2026-10-24T13:00:00Z",
           "title": "#4 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -531,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T01:50:33Z"
+  "generated_at": "2026-10-24T02:30:34Z"
 }
