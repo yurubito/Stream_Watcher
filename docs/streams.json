@@ -45,14 +45,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T14:00:00Z",
-          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその３【ホロライブ/白上フブキ】",
-          "video_id": "zS6rVs3bpoA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T14:01:08Z",
+        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその３【ホロライブ/白上フブキ】",
+        "video_id": "zS6rVs3bpoA"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -141,14 +139,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T14:00:00Z",
-          "title": "【 #ホロ鯖ARK 】今日は何する？！雪ダルマントマーーン⛄！！！【角巻わため/ホロライブ４期生】",
-          "video_id": "JPSqr-x7ZWo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T14:04:00Z",
+        "title": "【 #ホロ鯖ARK 】今日は何する？！雪ダルマントマーーン⛄！！！【角巻わため/ホロライブ４期生】",
+        "video_id": "JPSqr-x7ZWo"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -289,11 +285,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-24T11:59:19Z",
-        "title": "初ホロドリ！！BINGOもあるとか！？わくわくが止まらないんだ！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中 #ホロドリ",
-        "video_id": "wd72eNM_Ut8"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -488,26 +479,22 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T14:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】Exciting Reinya Dreams!【hololive holoro | Anya Melfissa】",
-          "video_id": "7f2dBcUN3Oo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T14:00:58Z",
+        "title": "【hololive Dreams ホロライブドリームス】Exciting Reinya Dreams!【hololive holoro | Anya Melfissa】",
+        "video_id": "7f2dBcUN3Oo"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T14:00:00Z",
-          "title": "【hololive Dreams】Chilling with Anya Melfissa from hololive Dreams #holodori【Pavolia Reine/hololive】",
-          "video_id": "-sgyAWeUFqA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T14:00:40Z",
+        "title": "【hololive Dreams】Chilling with Anya Melfissa from hololive Dreams #holodori【Pavolia Reine/hololive】",
+        "video_id": "-sgyAWeUFqA"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -540,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T13:50:22Z"
+  "generated_at": "2026-10-24T14:10:30Z"
 }
