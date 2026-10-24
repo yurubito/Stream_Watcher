@@ -116,14 +116,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T11:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY14🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "T-puonDnjXE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T11:00:56Z",
+        "title": "【#ホロ鯖ARK】DAY14🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "T-puonDnjXE"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -179,14 +177,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T11:00:00Z",
-          "title": "【 鳴潮企画 】3人で協力してイベントに挑戦していくのらぞっ！！！Ver.3.7 ＃30【姫森ルーナ/ホロライブ】",
-          "video_id": "H0gBswYTun0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T11:01:00Z",
+        "title": "【 鳴潮企画 】3人で協力してイベントに挑戦していくのらぞっ！！！Ver.3.7 ＃30【姫森ルーナ/ホロライブ】",
+        "video_id": "H0gBswYTun0"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -518,7 +514,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-25T04:00:00Z",
-          "title": "【COOKING STREAM】TEACHING RIRIKA HOW TO PREPARE SPAGHETTI! :)",
+          "title": "【COOKING STREAM】TEACHING RIRIKA HOW TO COOK SPAGHETTI! :)",
           "video_id": "xZLz587JZt4"
         }
       ]
@@ -597,5 +593,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T11:00:57Z"
+  "generated_at": "2026-10-24T11:10:24Z"
 }
