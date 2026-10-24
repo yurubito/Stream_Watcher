@@ -13,14 +13,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:00:00Z",
-          "title": "【歌枠 / 告知あり】歌って告知！！！！！最後に嬉しいお知らせあり🎤✨ Singing Stream【ホロライブ / AZKi】",
-          "video_id": "fLicfFnhb1k"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T10:01:03Z",
+        "title": "【歌枠 / 告知あり】歌って告知！！！！！最後に嬉しいお知らせあり🎤✨ Singing Stream【ホロライブ / AZKi】",
+        "video_id": "fLicfFnhb1k"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -64,11 +62,6 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-24T10:00:10Z",
-        "title": "ケッ！！！！！！！！【ホロライブ/赤井はあと】",
-        "video_id": "ZAVMgXi7-aQ"
-      },
       "name": "赤井はあと"
     },
     {
@@ -135,13 +128,13 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-10-24T10:01:16Z",
+        "title": "iPhone Duoをパカパカする配信【ホロライブ/兎田ぺこら】",
+        "video_id": "HUlsz7Ym3Y8"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:00:00Z",
-          "title": "iPhone Duoをパカパカする配信【ホロライブ/兎田ぺこら】",
-          "video_id": "HUlsz7Ym3Y8"
-        },
         {
           "scheduled_at": "2026-10-24T11:00:00Z",
           "title": "【#ホロ鯖ARK】DAY14🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
@@ -152,7 +145,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T12:00:00Z",
+          "title": "【ホロライブ ドリームス】#ホロドリ 突然だが３人でポカジャンすっぞ！！【不知火フレア/ホロライブ】",
+          "video_id": "vAKfC6iES-U"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -218,14 +218,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:00:00Z",
-          "title": "自家製麺の魅力！ご当地の麺を堪能するぞ～っ編🍜【#ししろんの47ラーメンツアー2 / 獅白ぼたん ホロライブ】",
-          "video_id": "uQ7m5CII3RA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T10:00:51Z",
+        "title": "自家製麺の魅力！ご当地の麺を堪能するぞ～っ編🍜【#ししろんの47ラーメンツアー2 / 獅白ぼたん ホロライブ】",
+        "video_id": "uQ7m5CII3RA"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -264,14 +262,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:00:00Z",
-          "title": "【#ホロARK】今日はティラコレオさんを探しに行くDAY🏝【風真いろは/ホロライブ】",
-          "video_id": "GX3pr0fWi1Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T10:02:12Z",
+        "title": "【#ホロARK】今日はティラコレオさんを探しに行くDAY🏝【風真いろは/ホロライブ】",
+        "video_id": "GX3pr0fWi1Y"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -298,14 +294,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-24T10:00:00Z",
-          "title": "地図から存在を消された旧校舎「0号館」【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "dVcrPyhXzGA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-24T10:01:06Z",
+        "title": "地図から存在を消された旧校舎「0号館」【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "dVcrPyhXzGA"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -337,7 +331,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T10:30:00Z",
+          "title": "YOTEI【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "NgGKRlDKsUE"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -574,7 +575,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-24T14:00:00Z",
+          "title": "【hololive Dreams】Chilling with Anya Melfissa from hololive Dreams #holodori【Pavolia Reine/hololive】",
+          "video_id": "-sgyAWeUFqA"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -599,5 +607,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-24T10:00:46Z"
+  "generated_at": "2026-10-24T10:10:36Z"
 }
