@@ -266,11 +266,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-25T11:01:03Z",
-        "title": "【hololive Dreams】#ホロドリ 初プレイわくわくっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "0DqqjDma1wY"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -286,14 +281,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T13:00:00Z",
-          "title": "#4 審判の日が近づく！？今回も謎をガンガン解いてこーー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "BtIXGeBO2dU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T12:59:38Z",
+        "title": "#4 審判の日が近づく！？今回も謎をガンガン解いてこーー！！！ | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "BtIXGeBO2dU"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -436,7 +429,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T13:15:00Z",
+          "title": "【Hololive Dreams】Play play~【hololive | moona】",
+          "video_id": "skgRofiUBu0"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -512,5 +512,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T12:40:24Z"
+  "generated_at": "2026-10-25T13:00:48Z"
 }
