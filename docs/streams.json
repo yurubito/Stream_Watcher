@@ -485,14 +485,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T14:00:00Z",
-          "title": "【hololive Dreams】MOAI MOAI MOAI but pokajan pokajan pokajan【#holodori】",
-          "video_id": "fhl9XGBkFh4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T14:03:24Z",
+        "title": "【hololive Dreams】MOAI MOAI MOAI but pokajan pokajan pokajan【#holodori】",
+        "video_id": "fhl9XGBkFh4"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -505,5 +503,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T14:00:50Z"
+  "generated_at": "2026-10-25T14:10:24Z"
 }
