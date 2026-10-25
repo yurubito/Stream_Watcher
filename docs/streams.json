@@ -467,7 +467,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T15:30:00Z",
+          "title": "【hololive Dreams】Huge Haul!!! I Submitted My Bingo #holodori【Pavolia Reine/hololive】",
+          "video_id": "LYSEnKh80fE"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -495,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T14:40:23Z"
+  "generated_at": "2026-10-25T15:00:49Z"
 }
