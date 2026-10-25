@@ -387,6 +387,11 @@
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-30T02:00:00Z",
+          "title": "🔴LIVE |【PHASMOPHOBIA】Justice Jams Halloween!  | 💄👧🍵🐱",
+          "video_id": "3FwAg_0_xDc"
+        },
+        {
           "scheduled_at": "2027-04-25T18:00:00Z",
           "title": "🛡🌹 Rosarian Common Room ❤️ Community Hangout 🌹 🛡",
           "video_id": "BG1PnrEgNMY"
@@ -483,5 +488,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T15:40:22Z"
+  "generated_at": "2026-10-25T15:50:36Z"
 }
