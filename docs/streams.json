@@ -23,7 +23,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T10:00:00Z",
+          "title": "【星街すいせい / ＃ほしまちすたじお】",
+          "video_id": "tOzGNGGu06w"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -482,7 +489,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T13:00:00Z",
+          "title": "【Hololive Dreams】my last holodori...of this week! #holodori #ホロドリ",
+          "video_id": "-hUlYi0mzjQ"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -495,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T07:20:29Z"
+  "generated_at": "2026-10-25T08:00:52Z"
 }
