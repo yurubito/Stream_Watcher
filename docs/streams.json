@@ -457,13 +457,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-25T08:02:22Z",
+        "title": "【 #holoctober 】DAY 25 : ONSEN【 iofi / hololive】",
+        "video_id": "QWHIbU1cY5o"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T08:00:00Z",
-          "title": "【 #holoctober 】DAY 25 : ONSEN【 iofi / hololive】",
-          "video_id": "QWHIbU1cY5o"
-        },
         {
           "scheduled_at": "2026-10-25T12:00:00Z",
           "title": "【#holodori 】DAILY AAAAAAAAAA【 iofi / hololive】",
@@ -509,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T08:00:52Z"
+  "generated_at": "2026-10-25T08:10:28Z"
 }
