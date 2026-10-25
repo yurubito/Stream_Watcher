@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-25T11:01:30Z",
-        "title": "【 ＃ホロドリ】強くなったので今日はろぼさーとミニゲームあそびまくるじゃん！【ホロライブ/ ロボ子さん 】",
-        "video_id": "eM2gAjRhqtE"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -240,7 +235,7 @@
       "name": "輪堂千速",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-25T19:30:00Z",
+          "scheduled_at": "2026-10-25T19:45:00Z",
           "title": "【F1同時視聴】アメリカGP！朝から！決勝！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
           "video_id": "GNuZksYJp20"
         }
@@ -249,11 +244,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-25T11:03:10Z",
-        "title": "【#ホロドリ 】おしゃべりフェス終わりのおしゃべりしたいヴィヴィ【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
-        "video_id": "EfplefkAuuE"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -503,5 +493,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T12:10:13Z"
+  "generated_at": "2026-10-25T12:20:32Z"
 }
