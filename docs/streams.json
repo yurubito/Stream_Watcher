@@ -476,7 +476,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T11:00:00Z",
+          "title": "【hololive Dreams】 THIS IS A FREETALK DISGUISED AS A HOLODORI STREAM  #holodori #ホロドリ 【Kureiji Ollie】",
+          "video_id": "BQzobP1HOmI"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -511,5 +518,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T08:30:48Z"
+  "generated_at": "2026-10-25T08:50:39Z"
 }
