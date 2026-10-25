@@ -127,7 +127,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T10:00:00Z",
+          "title": "【 幻想水滸伝 】新作『幻想水滸伝 STAR LEAP』で遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
+          "video_id": "oT0XTcril8A"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -318,11 +325,6 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-25T12:01:19Z",
-        "title": "【hololive Dreams】OUR PLAN IS NO PLAN I THINK",
-        "video_id": "18YXe3Bq2Io"
-      },
       "name": "一伊那尓栖"
     },
     {
@@ -338,11 +340,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-25T12:02:33Z",
-        "title": "≪hololive Dreams≫ ONE LAST HURRAH!! w/ Ninyomae Inyanis #holodori",
-        "video_id": "bOlDh1Ji880"
-      },
       "name": "ハコス・ベールズ"
     },
     {
@@ -363,7 +360,19 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T01:00:00Z",
+          "title": "We gotta unlock minigames!!! | hololive Dreams【#holodori】",
+          "video_id": "S62JRna41GI"
+        },
+        {
+          "scheduled_at": "2026-10-28T01:00:00Z",
+          "title": "Stream Pending |",
+          "video_id": "X1Dgw5kLaSE"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -429,16 +438,16 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-25T13:18:18Z",
+        "title": "【Hololive Dreams】Play play~【hololive | moona】",
+        "video_id": "skgRofiUBu0"
+      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-25T11:59:59Z",
-        "title": "【#holodori 】DAILY AAAAAAAAAA【 iofi / hololive】",
-        "video_id": "8O7uRt1WR9I"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -499,5 +508,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T13:10:24Z"
+  "generated_at": "2026-10-25T13:20:39Z"
 }
