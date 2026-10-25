@@ -428,11 +428,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-25T12:00:04Z",
-        "title": "【hololive Dreams】TEAM CULTURE HOLODORI NIGHT~!!!【#holodori #ホロドリ】",
-        "video_id": "HFWBaS2mIYI"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -453,11 +448,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-25T12:00:41Z",
-        "title": "【hololive Dreams】 TEAM CULTURE IN THE HOUSE!?!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "BQzobP1HOmI"
-      },
       "name": "クレイジー・オリー"
     },
     {
@@ -508,5 +498,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T13:20:39Z"
+  "generated_at": "2026-10-25T13:30:44Z"
 }
