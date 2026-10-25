@@ -230,11 +230,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-25T19:43:59Z",
-        "title": "【F1同時視聴】アメリカGP！朝から！決勝！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "GNuZksYJp20"
-      },
       "name": "輪堂千速"
     },
     {
@@ -471,5 +466,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T20:10:31Z"
+  "generated_at": "2026-10-25T22:10:29Z"
 }
