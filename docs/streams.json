@@ -28,11 +28,6 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-25T10:03:42Z",
-        "title": "【雑談】神戸ライブ・路上ライブ・新曲・盛り沢山情報【星街すいせい / ＃ほしまちすたじお】",
-        "video_id": "tOzGNGGu06w"
-      },
       "name": "星街すいせい"
     },
     {
@@ -268,11 +263,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-25T09:57:56Z",
-        "title": "【タンポポは耐える。】スルースキル◎ 耐えまくるのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "g2fCOjojJhQ"
-      },
       "name": "熱千めら"
     },
     {
@@ -529,5 +519,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T11:40:26Z"
+  "generated_at": "2026-10-25T11:50:29Z"
 }
