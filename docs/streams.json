@@ -92,7 +92,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T05:00:00Z",
+          "title": "【菊花賞】2026年菊花賞で大勝する！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "04r1RxO_CpY"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -468,5 +475,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T00:10:32Z"
+  "generated_at": "2026-10-25T00:20:24Z"
 }
