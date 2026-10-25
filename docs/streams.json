@@ -132,14 +132,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T09:00:00Z",
-          "title": "【 Castlevania: Belmont’s Curse 】体験版の新作キャッスルバニア ベルモンドカースで遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
-          "video_id": "RXStusVgNi4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T08:58:46Z",
+        "title": "【 Castlevania: Belmont’s Curse 】体験版の新作キャッスルバニア ベルモンドカースで遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "RXStusVgNi4"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -176,14 +174,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T09:00:00Z",
-          "title": "【爆食い！】ししルイで懐かしの学校給食を食べてきた！【ルイ姉、今日なにする？】#7",
-          "video_id": "6hSiqQtCd98"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T09:00:06Z",
+        "title": "【爆食い！】ししルイで懐かしの学校給食を食べてきた！【ルイ姉、今日なにする？】#7",
+        "video_id": "6hSiqQtCd98"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -518,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T08:50:39Z"
+  "generated_at": "2026-10-25T09:00:42Z"
 }
