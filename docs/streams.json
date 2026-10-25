@@ -23,14 +23,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T10:00:00Z",
-          "title": "【雑談】神戸ライブ・路上ライブ・新曲・盛り沢山情報【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "tOzGNGGu06w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T10:03:42Z",
+        "title": "【雑談】神戸ライブ・路上ライブ・新曲・盛り沢山情報【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "tOzGNGGu06w"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -460,11 +458,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-25T08:02:22Z",
-        "title": "【 #holoctober 】DAY 25 : ONSEN【 iofi / hololive】",
-        "video_id": "QWHIbU1cY5o"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -516,8 +509,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T13:00:00Z",
+          "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
+          "video_id": "dAkUy8ScRNY"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-25T10:00:46Z"
+  "generated_at": "2026-10-25T10:10:25Z"
 }
