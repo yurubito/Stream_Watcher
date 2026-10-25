@@ -233,7 +233,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T10:30:00Z",
+          "title": "【 #ホロARK 】パイロテイム！！成し遂げたい事があるっ・・！🔥✨【ホロライブ  響咲リオナ】",
+          "video_id": "WcmzbnVo178"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -320,14 +327,12 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "name": "井月みちる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T09:45:00Z",
-          "title": "【同時視聴】母性を抑えられる自信ナシ【#holoAN / #CompassHorizon】",
-          "video_id": "1qlPt_QFkFA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T09:43:28Z",
+        "title": "【同時視聴】母性を抑えられる自信ナシ【#holoAN / #CompassHorizon】",
+        "video_id": "1qlPt_QFkFA"
+      },
+      "name": "井月みちる"
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -516,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T09:30:35Z"
+  "generated_at": "2026-10-25T09:50:40Z"
 }
