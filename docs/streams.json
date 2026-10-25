@@ -457,11 +457,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-25T13:02:19Z",
-        "title": "【hololive Dreams ホロライブドリームス】More More Mooooreeee holodori!【hololive holoro | Anya Melfissa】",
-        "video_id": "StvkQUp-r9s"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -497,5 +492,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T15:10:40Z"
+  "generated_at": "2026-10-25T15:20:27Z"
 }
