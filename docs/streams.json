@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T11:00:00Z",
+          "title": "【 ＃ホロドリ】強くなったので今日はろぼさーとミニゲームあそびまくるじゃん！【ホロライブ/ ロボ子さん 】",
+          "video_id": "eM2gAjRhqtE"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -130,11 +137,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-25T08:58:46Z",
-        "title": "【 Castlevania: Belmont’s Curse 】体験版の新作キャッスルバニア ベルモンドカースで遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
-        "video_id": "RXStusVgNi4"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -246,14 +248,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T11:00:00Z",
-          "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢／ホロライブ】",
-          "video_id": "_gUFvyYj3iE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T11:00:14Z",
+        "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢／ホロライブ】",
+        "video_id": "_gUFvyYj3iE"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -392,14 +392,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T11:00:00Z",
-          "title": "【HOLOLIVE DREAMS】MOAI MOAI MOAI #holodori",
-          "video_id": "Ci3iXxZBy2Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T10:57:32Z",
+        "title": "【HOLOLIVE DREAMS】MOAI MOAI MOAI #holodori",
+        "video_id": "Ci3iXxZBy2Y"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -538,5 +536,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T10:50:30Z"
+  "generated_at": "2026-10-25T11:01:04Z"
 }
