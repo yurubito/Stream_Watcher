@@ -268,7 +268,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T10:00:00Z",
+          "title": "電柱ソムリエの一歩も動かないGeoGuessr【ホロライブ/熱千めら】",
+          "video_id": "0PgUff6IQ-Y"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -498,5 +505,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T13:50:23Z"
+  "generated_at": "2026-10-25T14:00:50Z"
 }
