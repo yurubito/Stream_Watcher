@@ -435,11 +435,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-25T13:18:18Z",
-        "title": "【Hololive Dreams】Play play~【hololive | moona】",
-        "video_id": "skgRofiUBu0"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -493,5 +488,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T14:20:39Z"
+  "generated_at": "2026-10-25T14:30:45Z"
 }
