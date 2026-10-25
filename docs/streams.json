@@ -258,6 +258,11 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-25T10:44:45Z",
+        "title": "【雑談/CHAT】ちょびｔっとおしゃべり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "pvSj7QCht-Y"
+      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -270,7 +275,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T11:00:00Z",
+          "title": "【#ホロドリ 】おしゃべりフェス終わりのおしゃべりしたいヴィヴィ【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+          "video_id": "EfplefkAuuE"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -321,11 +333,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-25T09:43:28Z",
-        "title": "【同時視聴】母性を抑えられる自信ナシ【#holoAN / #CompassHorizon】",
-        "video_id": "1qlPt_QFkFA"
-      },
       "name": "井月みちる"
     },
     {
@@ -509,7 +516,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T14:00:00Z",
+          "title": "【hololive Dreams】MOAI MOAI MOAI but pokajan pokajan pokajan【#holodori】",
+          "video_id": "fhl9XGBkFh4"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -524,5 +538,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T10:40:29Z"
+  "generated_at": "2026-10-25T10:50:30Z"
 }
