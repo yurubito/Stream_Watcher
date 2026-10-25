@@ -164,7 +164,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T12:00:00Z",
+          "title": "【Ratatan】楽しいリズムに乗ってマルチプレイだあああああああああネタバレ注意【尾丸ポルカ/不知火フレア/ホロライブ】",
+          "video_id": "YtlEtnJ4leY"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -509,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T09:20:27Z"
+  "generated_at": "2026-10-25T09:30:35Z"
 }
