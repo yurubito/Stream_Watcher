@@ -429,14 +429,7 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T13:15:00Z",
-          "title": "【Hololive Dreams】Play play~【hololive | moona】",
-          "video_id": "skgRofiUBu0"
-        }
-      ]
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -461,14 +454,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T13:00:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】More More Mooooreeee holodori!【hololive holoro | Anya Melfissa】",
-          "video_id": "StvkQUp-r9s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T13:02:19Z",
+        "title": "【hololive Dreams ホロライブドリームス】More More Mooooreeee holodori!【hololive holoro | Anya Melfissa】",
+        "video_id": "StvkQUp-r9s"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -478,14 +469,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T13:00:00Z",
-          "title": "【Hololive Dreams】my last holodori...of this week! #holodori #ホロドリ",
-          "video_id": "-hUlYi0mzjQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T13:01:40Z",
+        "title": "【Hololive Dreams】my last holodori...of this week! #holodori #ホロドリ",
+        "video_id": "-hUlYi0mzjQ"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -502,15 +491,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T13:00:00Z",
-          "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
-          "video_id": "dAkUy8ScRNY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T13:01:06Z",
+        "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
+        "video_id": "dAkUy8ScRNY"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T13:00:48Z"
+  "generated_at": "2026-10-25T13:10:24Z"
 }
