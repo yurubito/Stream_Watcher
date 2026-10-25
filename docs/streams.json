@@ -251,14 +251,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T12:30:00Z",
-          "title": "【#ホロARK】ルミナテイムしたい！！初めてのホロ鯖ARK！！＃17【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "Yd_NLK5IGn4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T12:33:32Z",
+        "title": "【#ホロARK】ルミナテイムしたい！！初めてのホロ鯖ARK！！＃17【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "Yd_NLK5IGn4"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -463,7 +461,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T13:00:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】More More Mooooreeee holodori!【hololive holoro | Anya Melfissa】",
+          "video_id": "StvkQUp-r9s"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -507,5 +512,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T12:30:35Z"
+  "generated_at": "2026-10-25T12:40:24Z"
 }
