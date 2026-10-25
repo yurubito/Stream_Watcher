@@ -140,6 +140,11 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-25T11:16:37Z",
+        "title": "【 #ホロ鯖ARK 】ルミナかワイバーン卵チャレンジ【 桃鈴ねね / hololive 】",
+        "video_id": "uEUzqGS_nJ8"
+      },
       "name": "桃鈴ねね"
     },
     {
@@ -444,7 +449,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T12:00:00Z",
+          "title": "【hololive Dreams】TEAM CULTURE HOLODORI NIGHT~!!!【#holodori #ホロドリ】",
+          "video_id": "HFWBaS2mIYI"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -522,5 +534,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T11:20:23Z"
+  "generated_at": "2026-10-25T11:30:33Z"
 }
