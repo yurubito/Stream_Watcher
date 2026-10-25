@@ -370,7 +370,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T12:00:00Z",
+          "title": "≪hololive Dreams≫ ONE LAST HURRAH!! w/ Ninyomae Inyanis #holodori",
+          "video_id": "bOlDh1Ji880"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -519,5 +526,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T10:10:25Z"
+  "generated_at": "2026-10-25T10:20:23Z"
 }
