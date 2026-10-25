@@ -145,26 +145,22 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T12:00:00Z",
-          "title": "【悪意 / Dread Neighbor】ししらみはアパートで一人暮らしをするそうです【雪花ラミィ・獅白ぼたん/ホロライブ】",
-          "video_id": "tFcJg5DfOpM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T12:01:28Z",
+        "title": "【悪意 / Dread Neighbor】ししらみはアパートで一人暮らしをするそうです【雪花ラミィ・獅白ぼたん/ホロライブ】",
+        "video_id": "tFcJg5DfOpM"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T12:00:00Z",
-          "title": "【Ratatan】楽しいリズムに乗ってマルチプレイだあああああああああネタバレ注意【尾丸ポルカ/不知火フレア/ホロライブ】",
-          "video_id": "YtlEtnJ4leY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T12:01:38Z",
+        "title": "【Ratatan】楽しいリズムに乗ってマルチプレイだあああああああああネタバレ注意【尾丸ポルカ/不知火フレア/ホロライブ】",
+        "video_id": "YtlEtnJ4leY"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -327,14 +323,12 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T12:00:00Z",
-          "title": "【hololive Dreams】OUR PLAN IS NO PLAN I THINK",
-          "video_id": "18YXe3Bq2Io"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T12:01:19Z",
+        "title": "【hololive Dreams】OUR PLAN IS NO PLAN I THINK",
+        "video_id": "18YXe3Bq2Io"
+      },
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -349,14 +343,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T12:00:00Z",
-          "title": "≪hololive Dreams≫ ONE LAST HURRAH!! w/ Ninyomae Inyanis #holodori",
-          "video_id": "bOlDh1Ji880"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T12:02:33Z",
+        "title": "≪hololive Dreams≫ ONE LAST HURRAH!! w/ Ninyomae Inyanis #holodori",
+        "video_id": "bOlDh1Ji880"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -511,5 +503,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T12:00:48Z"
+  "generated_at": "2026-10-25T12:10:13Z"
 }
