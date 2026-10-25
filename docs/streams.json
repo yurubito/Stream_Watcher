@@ -184,7 +184,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T23:00:00Z",
+          "title": "【メン限】メン限月曜日討伐朝活☀【風真いろは/ホロライブ】",
+          "video_id": "IP-wm9zx7nk"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -236,11 +243,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-25T12:33:32Z",
-        "title": "【#ホロARK】ルミナテイムしたい！！初めてのホロ鯖ARK！！＃17【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "Yd_NLK5IGn4"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -475,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T16:10:30Z"
+  "generated_at": "2026-10-25T16:30:34Z"
 }
