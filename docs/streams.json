@@ -278,14 +278,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T12:00:00Z",
-          "title": "【１か月記念雑談】思いをつづってはや３１日　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "fTourElHTFo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T11:59:30Z",
+        "title": "【１か月記念雑談】思いをつづってはや３１日　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "fTourElHTFo"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -434,14 +432,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T12:00:00Z",
-          "title": "【hololive Dreams】TEAM CULTURE HOLODORI NIGHT~!!!【#holodori #ホロドリ】",
-          "video_id": "HFWBaS2mIYI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T12:00:04Z",
+        "title": "【hololive Dreams】TEAM CULTURE HOLODORI NIGHT~!!!【#holodori #ホロドリ】",
+        "video_id": "HFWBaS2mIYI"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -451,26 +447,22 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T12:00:00Z",
-          "title": "【#holodori 】DAILY AAAAAAAAAA【 iofi / hololive】",
-          "video_id": "8O7uRt1WR9I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T11:59:59Z",
+        "title": "【#holodori 】DAILY AAAAAAAAAA【 iofi / hololive】",
+        "video_id": "8O7uRt1WR9I"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T12:00:00Z",
-          "title": "【hololive Dreams】 TEAM CULTURE IN THE HOUSE!?!! #holodori #ホロドリ 【Kureiji Ollie】",
-          "video_id": "BQzobP1HOmI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T12:00:41Z",
+        "title": "【hololive Dreams】 TEAM CULTURE IN THE HOUSE!?!! #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "BQzobP1HOmI"
+      },
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -519,5 +511,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T11:50:29Z"
+  "generated_at": "2026-10-25T12:00:48Z"
 }
