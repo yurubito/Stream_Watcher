@@ -65,14 +65,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T04:00:00Z",
-          "title": "【#3】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
-          "video_id": "hBW6EfapVKY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T04:03:26Z",
+        "title": "【#3】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
+        "video_id": "hBW6EfapVKY"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -92,19 +90,7 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T02:00:00Z",
-          "title": "【#ホロ鯖ARK】緊急ゲリラ‼ 最強ギガノトサウルス発見したからテイムする‼ ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "QuhsRznIp9w"
-        },
-        {
-          "scheduled_at": "2026-10-25T05:00:00Z",
-          "title": "【菊花賞】2026年菊花賞で大勝する！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "04r1RxO_CpY"
-        }
-      ]
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -115,9 +101,9 @@
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
       "live": {
-        "started_at": "2026-10-25T01:00:54Z",
-        "title": "【朝活雑談】久々にゆったりお喋りだあああ✨【白銀ノエル/ホロライブ】",
-        "video_id": "Xbk3-Pw-UXo"
+        "started_at": "2026-10-25T07:00:34Z",
+        "title": "【ホロ鯖ARK】拠点完成したのでジャングルの洞窟やギガラプテイムしたい！！【白銀ノエル/ホロライブ】",
+        "video_id": "Q_y9Y-zHnMg"
       },
       "name": "白銀ノエル"
     },
@@ -134,6 +120,11 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-25T05:32:33Z",
+        "title": "【 #ホロ鯖ARK 】その１２｜今日こそルミナ‼️【常闇トワ/ホロライブ】",
+        "video_id": "PcWCQqum9IQ"
+      },
       "name": "常闇トワ"
     },
     {
@@ -205,7 +196,19 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "live": {
+        "started_at": "2026-10-25T05:01:42Z",
+        "title": "【#ホロARK】ワイバーンチャレンジ🍳他にも使える子テイム＆子育てDAY🏝【風真いろは/ホロライブ】",
+        "video_id": "yuhvgTP1hUo"
+      },
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T15:30:00Z",
+          "title": "風真いろはの #ねるまえらじお 📻❣ #26",
+          "video_id": "ZFrXHmUuEiI"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -281,7 +284,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T11:00:00Z",
+          "title": "【hololive Dreams】ホロドリ初プレイわくわくっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "0DqqjDma1wY"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -315,11 +325,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-25T01:00:25Z",
-        "title": "【BIG COLLAB】just some board games!! #calliolive",
-        "video_id": "-7351WjdU3M"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -367,7 +372,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T11:00:00Z",
+          "title": "【HOLOLIVE DREAMS】MOAI MOAI MOAI #holodori",
+          "video_id": "Ci3iXxZBy2Y"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -423,11 +435,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-25T04:04:03Z",
-        "title": "【COOKING STREAM】TEACHING RIRIKA HOW TO COOK SPAGHETTI! :)",
-        "video_id": "xZLz587JZt4"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -443,7 +450,19 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-25T08:00:00Z",
+          "title": "【 #holoctober 】DAY 25 : ONSEN【 iofi / hololive】",
+          "video_id": "QWHIbU1cY5o"
+        },
+        {
+          "scheduled_at": "2026-10-25T12:00:00Z",
+          "title": "【#holodori 】DAILY AAAAAAAAAA【 iofi / hololive】",
+          "video_id": "8O7uRt1WR9I"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -476,5 +495,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T05:50:25Z"
+  "generated_at": "2026-10-25T07:00:54Z"
 }
