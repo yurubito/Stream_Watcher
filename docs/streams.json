@@ -279,14 +279,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T10:00:00Z",
-          "title": "【タンポポは耐える。】スルースキル◎ 耐えまくるのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "g2fCOjojJhQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T09:57:56Z",
+        "title": "【タンポポは耐える。】スルースキル◎ 耐えまくるのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "g2fCOjojJhQ"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -521,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T09:50:40Z"
+  "generated_at": "2026-10-25T10:00:46Z"
 }
