@@ -189,14 +189,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T15:30:00Z",
-          "title": "風真いろはの #ねるまえらじお 📻❣ #26",
-          "video_id": "ZFrXHmUuEiI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T15:31:39Z",
+        "title": "風真いろはの #ねるまえらじお 📻❣ #26",
+        "video_id": "ZFrXHmUuEiI"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -280,11 +278,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-25T11:59:30Z",
-        "title": "【１か月記念雑談】思いをつづってはや３１日　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "fTourElHTFo"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -462,14 +455,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T15:30:00Z",
-          "title": "【hololive Dreams】Huge Haul!!! I Submitted My Bingo #holodori【Pavolia Reine/hololive】",
-          "video_id": "LYSEnKh80fE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T15:31:38Z",
+        "title": "【hololive Dreams】Huge Haul!!! I Submitted My Bingo #holodori【Pavolia Reine/hololive】",
+        "video_id": "LYSEnKh80fE"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -492,5 +483,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T15:20:27Z"
+  "generated_at": "2026-10-25T15:40:22Z"
 }
