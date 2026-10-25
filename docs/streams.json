@@ -8,14 +8,12 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T11:00:00Z",
-          "title": "【 ＃ホロドリ】強くなったので今日はろぼさーとミニゲームあそびまくるじゃん！【ホロライブ/ ロボ子さん 】",
-          "video_id": "eM2gAjRhqtE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T11:01:30Z",
+        "title": "【 ＃ホロドリ】強くなったので今日はろぼさーとミニゲームあそびまくるじゃん！【ホロライブ/ ロボ子さん 】",
+        "video_id": "eM2gAjRhqtE"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -275,14 +273,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T11:00:00Z",
-          "title": "【#ホロドリ 】おしゃべりフェス終わりのおしゃべりしたいヴィヴィ【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
-          "video_id": "EfplefkAuuE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T11:03:10Z",
+        "title": "【#ホロドリ 】おしゃべりフェス終わりのおしゃべりしたいヴィヴィ【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+        "video_id": "EfplefkAuuE"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -297,14 +293,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T11:00:00Z",
-          "title": "【hololive Dreams】#ホロドリ 初プレイわくわくっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "0DqqjDma1wY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T11:01:03Z",
+        "title": "【hololive Dreams】#ホロドリ 初プレイわくわくっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "0DqqjDma1wY"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -536,5 +530,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-25T11:01:04Z"
+  "generated_at": "2026-10-25T11:10:26Z"
 }
