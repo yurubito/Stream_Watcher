@@ -114,11 +114,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-25T07:00:34Z",
-        "title": "【ホロ鯖ARK】拠点完成したのでジャングルの洞窟やギガラプテイムしたい！！【白銀ノエル/ホロライブ】",
-        "video_id": "Q_y9Y-zHnMg"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -350,11 +345,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-25T10:57:32Z",
-        "title": "【HOLOLIVE DREAMS】MOAI MOAI MOAI #holodori",
-        "video_id": "Ci3iXxZBy2Y"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -482,11 +472,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-25T14:03:24Z",
-        "title": "【hololive Dreams】MOAI MOAI MOAI but pokajan pokajan pokajan【#holodori】",
-        "video_id": "fhl9XGBkFh4"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -495,5 +480,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T17:40:25Z"
+  "generated_at": "2026-10-25T17:50:30Z"
 }
