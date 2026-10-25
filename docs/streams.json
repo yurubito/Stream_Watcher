@@ -109,14 +109,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T01:00:00Z",
-          "title": "【朝活雑談】久々にゆったりお喋りだあああ✨【白銀ノエル/ホロライブ】",
-          "video_id": "Xbk3-Pw-UXo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T01:00:54Z",
+        "title": "【朝活雑談】久々にゆったりお喋りだあああ✨【白銀ノエル/ホロライブ】",
+        "video_id": "Xbk3-Pw-UXo"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -307,13 +305,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-25T01:00:25Z",
+        "title": "【BIG COLLAB】just some board games!! #calliolive",
+        "video_id": "-7351WjdU3M"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T01:00:00Z",
-          "title": "【BIG COLLAB】just some board games!! #calliolive",
-          "video_id": "-7351WjdU3M"
-        },
         {
           "scheduled_at": "2026-10-26T01:00:00Z",
           "title": "【Silent Hill: Townfall】repent for your sins gigi murin #calliolive",
@@ -475,5 +473,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T00:20:24Z"
+  "generated_at": "2026-10-25T01:20:26Z"
 }
