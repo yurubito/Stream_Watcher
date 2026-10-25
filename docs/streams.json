@@ -416,14 +416,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-25T04:00:00Z",
-          "title": "【COOKING STREAM】TEACHING RIRIKA HOW TO COOK SPAGHETTI! :)",
-          "video_id": "xZLz587JZt4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-25T04:04:03Z",
+        "title": "【COOKING STREAM】TEACHING RIRIKA HOW TO COOK SPAGHETTI! :)",
+        "video_id": "xZLz587JZt4"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -471,5 +469,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-25T02:40:25Z"
+  "generated_at": "2026-10-25T05:30:30Z"
 }
