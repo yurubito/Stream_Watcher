@@ -216,14 +216,12 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T14:00:00Z",
-          "title": "【雑談】最近のあれこれ！【儒烏風亭らでん #ReGLOSS 】",
-          "video_id": "iJSup4RT1rI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T14:00:34Z",
+        "title": "【雑談】最近のあれこれ！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "iJSup4RT1rI"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -451,5 +449,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T13:50:32Z"
+  "generated_at": "2026-10-26T14:01:04Z"
 }
