@@ -64,14 +64,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T09:00:00Z",
-          "title": "【 重大告知 】90点以上とらないと告知できない歌枠！【ホロライブ/夏色まつり】",
-          "video_id": "arKJjOrXReg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T09:00:59Z",
+        "title": "【 重大告知 】90点以上とらないと告知できない歌枠！【ホロライブ/夏色まつり】",
+        "video_id": "arKJjOrXReg"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -157,11 +155,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-26T03:59:38Z",
-        "title": "【 #ホロ鯖ARK 】ホロ鯖ARKに上陸するのら！！！【姫森ルーナ/ホロライブ】",
-        "video_id": "FnslU_8Mxcs"
-      },
       "name": "姫森ルーナ",
       "upcoming": [
         {
@@ -196,12 +189,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-26T02:05:02Z",
-        "title": "【#ホロ鯖ARK】ついに恐竜の地におりたつッッッッッッッッッ【尾丸ポルカ/ホロライブ】",
-        "video_id": "8GxJIcipfR4"
-      },
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T13:00:00Z",
+          "title": "【告知あり】サーカスの日記念！いろんな質問答えてみたい！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+          "video_id": "V7HPSh3uXg4"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -216,13 +211,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-26T09:00:26Z",
+        "title": "【タンポポは耐える。】たんぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽ【博衣こより/ホロライブ】",
+        "video_id": "nS_lwXMaN1M"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T09:00:00Z",
-          "title": "【タンポポは耐える。】たんぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽ【博衣こより/ホロライブ】",
-          "video_id": "nS_lwXMaN1M"
-        },
         {
           "scheduled_at": "2026-10-26T22:00:00Z",
           "title": "【 #朝こよ 】3週連続告知アリ②週目‼️火曜日の朝は朝こよ～！☀ #304 【博衣こより/hololive】",
@@ -515,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T07:10:36Z"
+  "generated_at": "2026-10-26T09:01:24Z"
 }
