@@ -279,7 +279,14 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "name": "井月みちる"
+      "name": "井月みちる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T03:00:00Z",
+          "title": "【今日は月曜日】ホロカに堂々参戦！最新弾グローリー・エコー情報【#昼ホロ / #風白ゆき】",
+          "video_id": "Dcu1s3Ca0u0"
+        }
+      ]
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -459,5 +466,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T02:10:28Z"
+  "generated_at": "2026-10-26T02:50:22Z"
 }
