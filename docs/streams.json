@@ -40,14 +40,12 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T14:40:00Z",
-          "title": "【#アキちょこナイパレ｜第57回】📞恋人と毎日連絡したい派🆚💬会う時に濃く話したい派  あなたはどっち？｜ちょこの相談室💋～深夜のひとくちラジオ～",
-          "video_id": "dTbDAIbG84I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T14:40:38Z",
+        "title": "【#アキちょこナイパレ｜第57回】📞恋人と毎日連絡したい派🆚💬会う時に濃く話したい派  あなたはどっち？｜ちょこの相談室💋～深夜のひとくちラジオ～",
+        "video_id": "dTbDAIbG84I"
+      },
+      "name": "アキ・ローゼンタール"
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -408,11 +406,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-26T12:30:57Z",
-        "title": "#MMMalas : MONDAY MALAM MALASSSSSS is here !!",
-        "video_id": "RvJmjgyzTm0"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -456,5 +449,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T14:40:46Z"
+  "generated_at": "2026-10-26T14:50:26Z"
 }
