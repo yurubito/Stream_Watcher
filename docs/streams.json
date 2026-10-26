@@ -319,14 +319,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T11:00:00Z",
-          "title": "【The Past Within】天才×最強による謎解きゲーム!!!!【宙科そぴあ/百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "QfgdNsAwuUc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T11:00:15Z",
+        "title": "【The Past Within】天才×最強による謎解きゲーム!!!!【宙科そぴあ/百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "QfgdNsAwuUc"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -336,14 +334,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T11:00:00Z",
-          "title": "【コラボ】天才＆最強の”””知”””を見せちゃうぞー！！｜ The Past Within【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "3-s2q1Wqk4g"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T10:59:21Z",
+        "title": "【コラボ】天才＆最強の”””知”””を見せちゃうぞー！！｜ The Past Within【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "3-s2q1Wqk4g"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -419,14 +415,12 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "name": "フワワ＆モココ・アビスガード",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T11:00:00Z",
-          "title": "【タンポポは耐える】いちばんふわふわなタンポポ the fluffiest dandelion endures🐾🩵 【 FUWAWA SOLO】",
-          "video_id": "mbFmBqlbyXs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T10:55:13Z",
+        "title": "【タンポポは耐える】いちばんふわふわなタンポポ the fluffiest dandelion endures🐾🩵 【 FUWAWA SOLO】",
+        "video_id": "mbFmBqlbyXs"
+      },
+      "name": "フワワ＆モココ・アビスガード"
     },
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
@@ -518,5 +512,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T10:30:43Z"
+  "generated_at": "2026-10-26T11:00:52Z"
 }
