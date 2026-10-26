@@ -243,11 +243,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-26T13:01:11Z",
-        "title": "【#ホロARK】デイノスクスをテイムしたい！！初めてのホロ鯖ARK！！＃18【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "5wRDxly42Pg"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -265,7 +260,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T11:00:00Z",
+          "title": "収益化記念＆1ヵ月記念枠のお礼配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "OaM_7vrjkKk"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -469,5 +471,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T17:10:37Z"
+  "generated_at": "2026-10-26T17:20:26Z"
 }
