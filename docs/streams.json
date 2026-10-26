@@ -59,13 +59,13 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-26T11:00:59Z",
+        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその４【ホロライブ/白上フブキ】",
+        "video_id": "sJCgSZd4QWA"
+      },
       "name": "白上フブキ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T11:00:00Z",
-          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその４【ホロライブ/白上フブキ】",
-          "video_id": "sJCgSZd4QWA"
-        },
         {
           "scheduled_at": "2026-10-28T11:00:00Z",
           "title": "決めるのはあなた！ #ホロ麺QTTA頂上決戦 ！【ホロライブ/白上フブキ/ときのそら/夏色まつり/癒月ちょこ/尾丸ポルカ/風真いろは/音乃瀬奏】",
@@ -170,7 +170,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T12:00:00Z",
+          "title": "【夜雑談】会いたくて来ちゃった♡【​雪花ラミィ /ホロライブ】",
+          "video_id": "V1nzmHulLjM"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -180,14 +187,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T11:00:00Z",
-          "title": "【スト6】アルジュンを勉強するのだ！  #あきひろ中学校【獅白ぼたん/ホロライブ】",
-          "video_id": "o4isMLoVRUY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T11:00:57Z",
+        "title": "【スト6】アルジュンを勉強するのだ！  #あきひろ中学校【獅白ぼたん/ホロライブ】",
+        "video_id": "o4isMLoVRUY"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -512,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T11:00:52Z"
+  "generated_at": "2026-10-26T11:10:37Z"
 }
