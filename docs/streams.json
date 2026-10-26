@@ -211,7 +211,7 @@
       "name": "響咲リオナ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-27T12:30:00Z",
+          "scheduled_at": "2026-10-26T13:00:00Z",
           "title": "【 メンバーシップ限定 】KU100でスクイーズASMR♡【ホロライブ DEV_IS 響咲リオナ】",
           "video_id": "9XKRUCDekUo"
         }
@@ -279,14 +279,12 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "name": "井月みちる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T03:00:00Z",
-          "title": "【今日は月曜日】ホロカに堂々参戦！最新弾グローリー・エコー情報【#昼ホロ / #風白ゆき】",
-          "video_id": "Dcu1s3Ca0u0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T02:56:14Z",
+        "title": "【今日は月曜日】ホロカに堂々参戦！最新弾グローリー・エコー情報【#昼ホロ / #風白ゆき】",
+        "video_id": "Dcu1s3Ca0u0"
+      },
+      "name": "井月みちる"
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -466,5 +464,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T02:50:22Z"
+  "generated_at": "2026-10-26T03:30:37Z"
 }
