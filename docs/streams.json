@@ -35,7 +35,14 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール"
+      "name": "アキ・ローゼンタール",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T14:40:00Z",
+          "title": "【#アキちょこナイパレ｜第58回】📞ケンカしたらすぐ仲直りしたい派🆚💬少し時間を置きたい派  あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
+          "video_id": "4Ebb33QFZBQ"
+        }
+      ]
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -448,5 +455,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T15:20:28Z"
+  "generated_at": "2026-10-26T15:30:53Z"
 }
