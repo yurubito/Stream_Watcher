@@ -64,11 +64,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-26T09:00:59Z",
-        "title": "【 重大告知 】90点以上とらないと告知できない歌枠！【ホロライブ/夏色まつり】",
-        "video_id": "arKJjOrXReg"
-      },
       "name": "夏色まつり"
     },
     {
@@ -155,14 +150,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T10:00:00Z",
-          "title": "【 幻想水滸伝 】新作『幻想水滸伝 STAR LEAP』で遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
-          "video_id": "oT0XTcril8A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T09:59:41Z",
+        "title": "【 幻想水滸伝 】新作『幻想水滸伝 STAR LEAP』で遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "oT0XTcril8A"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -299,14 +292,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T10:00:00Z",
-          "title": "電柱ソムリエの一歩も動かないGeoGuessr【ホロライブ/熱千めら】",
-          "video_id": "0PgUff6IQ-Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T09:57:23Z",
+        "title": "電柱ソムリエの一歩も動かないGeoGuessr【ホロライブ/熱千めら】",
+        "video_id": "0PgUff6IQ-Y"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -510,5 +501,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T09:01:24Z"
+  "generated_at": "2026-10-26T10:00:51Z"
 }
