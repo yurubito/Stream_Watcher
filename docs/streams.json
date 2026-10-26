@@ -284,6 +284,11 @@
           "scheduled_at": "2026-10-27T02:00:00Z",
           "title": "【EN】#4  COLLAB WITH MY SENPAI!!i!!! | PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
           "video_id": "mPLR_SFcifc"
+        },
+        {
+          "scheduled_at": "2026-10-27T10:00:00Z",
+          "title": "#7 大サブクエ回！ ※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "l1txYSqm4r4"
         }
       ]
     },
@@ -344,7 +349,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T23:00:00Z",
+          "title": "【Five Nights at Freddy's: Security Breach】I'M SUPERSTAR",
+          "video_id": "YlzdFQIPBTM"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -460,5 +472,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T15:40:33Z"
+  "generated_at": "2026-10-26T16:00:59Z"
 }
