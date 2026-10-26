@@ -259,14 +259,7 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T13:00:00Z",
-          "title": "【 メンバーシップ限定 】KU100でスクイーズASMR♡【ホロライブ DEV_IS 響咲リオナ】",
-          "video_id": "9XKRUCDekUo"
-        }
-      ]
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -506,5 +499,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T12:31:38Z"
+  "generated_at": "2026-10-26T12:50:39Z"
 }
