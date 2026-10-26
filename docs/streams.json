@@ -52,12 +52,26 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T11:00:00Z",
+          "title": "決めるのはあなた！ #ホロ麺QTTA頂上決戦 ！【ホロライブ/白上フブキ/ときのそら/夏色まつり/癒月ちょこ/尾丸ポルカ/風真いろは/音乃瀬奏】",
+          "video_id": "xggoSG1ANhA"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T09:00:00Z",
+          "title": "【 重大告知 】90点以上とらないと告知できない歌枠！【ホロライブ/夏色まつり】",
+          "video_id": "arKJjOrXReg"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -92,7 +106,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T10:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY16🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "Qp37V8rz7QQ"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -109,7 +130,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T13:00:00Z",
+          "title": "【ホロ鯖ARK】カワウソ先生今日も行く！初めての強者の洞窟！あとテイム！！【白銀ノエル/ホロライブ】",
+          "video_id": "7aa7uTITfwg"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -129,6 +157,11 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-26T03:59:38Z",
+        "title": "【 #ホロ鯖ARK 】ホロ鯖ARKに上陸するのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "FnslU_8Mxcs"
+      },
       "name": "姫森ルーナ",
       "upcoming": [
         {
@@ -176,7 +209,19 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T09:00:00Z",
+          "title": "【タンポポは耐える。】たんぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽ【博衣こより/ホロライブ】",
+          "video_id": "nS_lwXMaN1M"
+        },
+        {
+          "scheduled_at": "2026-10-26T22:00:00Z",
+          "title": "【 #朝こよ 】3週連続告知アリ②週目‼️火曜日の朝は朝こよ～！☀ #304 【博衣こより/hololive】",
+          "video_id": "TLT-4CNbRc8"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -191,7 +236,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T12:00:00Z",
+          "title": "【3Dガチバトル】リグロスのスポーツ王は誰だ！？ Nintendo Switch Sports Resort【一条莉々華/hololive ReGLOSS】",
+          "video_id": "8236Kd4-I4s"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -233,7 +285,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T13:00:00Z",
+          "title": "【#ホロARK】デイノスクスをテイムしたい！！初めてのホロ鯖ARK！！＃18【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "5wRDxly42Pg"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -267,31 +326,23 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-26T01:59:44Z",
-        "title": "【EN】#6 YAY!! I made it to the 3rd Isle!! | Cuphead【Hyakuto Kyoko/Hololive】",
-        "video_id": "FLSPXynYTJ0"
-      },
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T11:00:00Z",
+          "title": "【コラボ】天才＆最強の”””知”””を見せちゃうぞー！！｜ The Past Within【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "3-s2q1Wqk4g"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-26T02:56:14Z",
-        "title": "【今日は月曜日】ホロカに堂々参戦！最新弾グローリー・エコー情報【#昼ホロ / #風白ゆき】",
-        "video_id": "Dcu1s3Ca0u0"
-      },
       "name": "井月みちる"
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-26T01:02:02Z",
-        "title": "【Silent Hill: Townfall】repent for your sins gigi murin (SPOILERS!!) #calliolive",
-        "video_id": "kM1ye6qHA5Y"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -319,7 +370,14 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー"
+      "name": "オーロ・クロニー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T01:00:00Z",
+          "title": "【Carrion】Hold Up Let Her Eat | #1 – Powered by Polish Video Game Days #PVGD #ad",
+          "video_id": "eF3Mqmtb3AQ"
+        }
+      ]
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -339,11 +397,6 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-26T00:54:52Z",
-        "title": "We gotta unlock minigames!!! | hololive Dreams【#holodori】",
-        "video_id": "S62JRna41GI"
-      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
         {
@@ -407,11 +460,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-26T02:17:18Z",
-        "title": "【日本事故物件監視協会3 -Japan Stigmatized Property-】SCARY GAME WITH BIBOO",
-        "video_id": "7Ttu78AKUOI"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -460,5 +508,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T03:40:22Z"
+  "generated_at": "2026-10-26T07:00:54Z"
 }
