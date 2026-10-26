@@ -184,7 +184,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T11:00:00Z",
+          "title": "【スト6】アルジュンを勉強するのだ！  #あきひろ中学校【獅白ぼたん/ホロライブ】",
+          "video_id": "o4isMLoVRUY"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -508,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T07:00:54Z"
+  "generated_at": "2026-10-26T07:10:36Z"
 }
