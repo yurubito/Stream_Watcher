@@ -269,14 +269,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T02:00:00Z",
-          "title": "【EN】#6 YAY!! I made it to the 3rd Isle!! | Cuphead【Hyakuto Kyoko/Hololive】",
-          "video_id": "FLSPXynYTJ0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T01:59:44Z",
+        "title": "【EN】#6 YAY!! I made it to the 3rd Isle!! | Cuphead【Hyakuto Kyoko/Hololive】",
+        "video_id": "FLSPXynYTJ0"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -461,5 +459,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T01:10:24Z"
+  "generated_at": "2026-10-26T02:10:28Z"
 }
