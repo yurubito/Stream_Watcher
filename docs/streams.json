@@ -55,6 +55,11 @@
       "name": "白上フブキ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-27T12:00:00Z",
+          "title": "【その１１】チルラジオ配信 #狐族密会　「オススメアニメ語り!!」【ホロライブ/白上フブキ/尾丸ポルカ】",
+          "video_id": "koFtuzOOVwQ"
+        },
+        {
           "scheduled_at": "2026-10-28T11:00:00Z",
           "title": "決めるのはあなた！ #ホロ麺QTTA頂上決戦 ！【ホロライブ/白上フブキ/ときのそら/夏色まつり/癒月ちょこ/尾丸ポルカ/風真いろは/音乃瀬奏】",
           "video_id": "xggoSG1ANhA"
@@ -114,11 +119,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-26T13:00:43Z",
-        "title": "【ホロ鯖ARK】カワウソ先生今日も行く！初めての強者の洞窟！あとテイム！！【白銀ノエル/ホロライブ】",
-        "video_id": "7aa7uTITfwg"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -473,5 +473,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T18:10:32Z"
+  "generated_at": "2026-10-26T18:30:47Z"
 }
