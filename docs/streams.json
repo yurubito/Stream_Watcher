@@ -455,7 +455,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T12:30:00Z",
+          "title": "#MMMalas : MONDAY MALAM MALASSSSSS is here !!",
+          "video_id": "RvJmjgyzTm0"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -475,14 +482,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T12:15:00Z",
-          "title": "【Tsugunohi -The Thread That Beckons to Heaven-】It Is Still Summer【hololive holoro | Anya Melfissa】",
-          "video_id": "bDF0w4nTDpk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T12:16:28Z",
+        "title": "【Free Talk】Steam Is Very Silly【hololive holoro | Anya Melfissa】",
+        "video_id": "bDF0w4nTDpk"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -505,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T12:14:44Z"
+  "generated_at": "2026-10-26T12:20:31Z"
 }
