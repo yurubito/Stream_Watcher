@@ -165,14 +165,12 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T12:00:00Z",
-          "title": "【夜雑談】会いたくて来ちゃった♡【​雪花ラミィ /ホロライブ】",
-          "video_id": "V1nzmHulLjM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T12:00:09Z",
+        "title": "【夜雑談】会いたくて来ちゃった♡【​雪花ラミィ /ホロライブ】",
+        "video_id": "V1nzmHulLjM"
+      },
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -484,7 +482,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T12:00:00Z",
+          "title": "【Tsugunohi -The Thread That Beckons to Heaven-】It Is Still Summer【hololive holoro | Anya Melfissa】",
+          "video_id": "bDF0w4nTDpk"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -507,5 +512,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T11:30:44Z"
+  "generated_at": "2026-10-26T12:00:57Z"
 }
