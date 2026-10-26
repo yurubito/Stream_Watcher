@@ -156,7 +156,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-26T02:00:00Z",
+          "title": "【#ホロ鯖ARK】ついに恐竜の地におりたつッッッッッッッッッ【尾丸ポルカ/ホロライブ】",
+          "video_id": "8GxJIcipfR4"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -279,13 +286,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-26T01:02:02Z",
+        "title": "【Silent Hill: Townfall】repent for your sins gigi murin (SPOILERS!!) #calliolive",
+        "video_id": "kM1ye6qHA5Y"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T01:00:00Z",
-          "title": "【Silent Hill: Townfall】repent for your sins gigi murin #calliolive",
-          "video_id": "kM1ye6qHA5Y"
-        },
         {
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
@@ -331,13 +338,13 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-10-26T00:54:52Z",
+        "title": "We gotta unlock minigames!!! | hololive Dreams【#holodori】",
+        "video_id": "S62JRna41GI"
+      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T01:00:00Z",
-          "title": "We gotta unlock minigames!!! | hololive Dreams【#holodori】",
-          "video_id": "S62JRna41GI"
-        },
         {
           "scheduled_at": "2026-10-28T01:00:00Z",
           "title": "Stream Pending |",
@@ -454,5 +461,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T01:00:56Z"
+  "generated_at": "2026-10-26T01:10:24Z"
 }
