@@ -234,14 +234,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-26T12:00:00Z",
-          "title": "【3Dガチバトル】リグロスのスポーツ王は誰だ！？ Nintendo Switch Sports Resort【一条莉々華/hololive ReGLOSS】",
-          "video_id": "8236Kd4-I4s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-26T12:02:10Z",
+        "title": "【3Dガチバトル】リグロスのスポーツ王は誰だ！？ Nintendo Switch Sports Resort【一条莉々華/hololive ReGLOSS】",
+        "video_id": "8236Kd4-I4s"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -302,11 +300,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-26T09:57:23Z",
-        "title": "電柱ソムリエの一歩も動かないGeoGuessr【ホロライブ/熱千めら】",
-        "video_id": "0PgUff6IQ-Y"
-      },
       "name": "熱千めら"
     },
     {
@@ -485,7 +478,7 @@
       "name": "アーニャ・メルフィッサ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-26T12:00:00Z",
+          "scheduled_at": "2026-10-26T12:15:00Z",
           "title": "【Tsugunohi -The Thread That Beckons to Heaven-】It Is Still Summer【hololive holoro | Anya Melfissa】",
           "video_id": "bDF0w4nTDpk"
         }
@@ -512,5 +505,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-26T12:00:57Z"
+  "generated_at": "2026-10-26T12:14:44Z"
 }
