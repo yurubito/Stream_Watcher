@@ -55,11 +55,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-27T12:02:33Z",
-        "title": "【その１１】チルラジオ配信 #狐族密会　「オススメアニメ語り!!」【ホロライブ/白上フブキ/尾丸ポルカ】",
-        "video_id": "koFtuzOOVwQ"
-      },
       "name": "白上フブキ",
       "upcoming": [
         {
@@ -154,7 +149,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T13:00:00Z",
+          "title": "10月が去っていくのら(・o・🍬)【姫森ルーナ/ホロライブ】",
+          "video_id": "dF91aG-QjpI"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -164,11 +166,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-27T09:04:37Z",
-        "title": "【 #ホロ鯖ARK 】ルミナお前のためにショットガンの弾作るべよ！【 桃鈴ねね / hololive 】",
-        "video_id": "3tEFLB14elE"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -301,11 +298,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-27T11:59:33Z",
-        "title": "VALORANT 先行体験！！新キャラ(HUSH)をお試しで使います...!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "zpOdryzEx00"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -520,5 +512,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T13:40:34Z"
+  "generated_at": "2026-10-27T13:50:34Z"
 }
