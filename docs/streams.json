@@ -97,11 +97,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-27T12:00:35Z",
-        "title": "【Japanese Ramen Simulator】怖がらせ隊でラメーン！！！！！【ころね支店】",
-        "video_id": "p5dtCuM3vc4"
-      },
       "name": "戌神ころね"
     },
     {
@@ -169,11 +164,6 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-27T12:00:56Z",
-        "title": "ギャンブルも3倍になるJapanese Ramen Simulator【戌神ころね・獅白ぼたん・鷹嶺ルイ/ホロライブ】",
-        "video_id": "Uq0v8C09KSs"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -512,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T14:10:39Z"
+  "generated_at": "2026-10-27T14:20:36Z"
 }
