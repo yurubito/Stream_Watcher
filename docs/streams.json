@@ -259,6 +259,11 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-27T13:32:39Z",
+        "title": "【#ホロドリ】感謝のホロドリ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "1uu6uDsM9ok"
+      },
       "name": "輪堂千速"
     },
     {
@@ -515,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T13:30:51Z"
+  "generated_at": "2026-10-27T13:40:34Z"
 }
