@@ -174,14 +174,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T10:00:00Z",
-          "title": "【 #ケロハチャ 】ケロロ軍曹☆のゲームで遊ぶのら！！！✨【姫森ルーナ/ホロライブ】",
-          "video_id": "U-jSu5JEXdg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T09:59:55Z",
+        "title": "【 #ケロハチャ 】ケロロ軍曹☆のゲームで遊ぶのら！！！✨【姫森ルーナ/ホロライブ】",
+        "video_id": "U-jSu5JEXdg"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -248,7 +246,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T11:00:00Z",
+          "title": "【 はいしにょてい 】【音乃瀬奏】#ReGLOSS",
+          "video_id": "M1ng1FFbc4s"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -341,14 +346,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T10:00:00Z",
-          "title": "#7 大サブクエ回！ ※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "l1txYSqm4r4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T09:59:59Z",
+        "title": "#7 大サブクエ回！ ※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "l1txYSqm4r4"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -545,5 +548,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T09:50:22Z"
+  "generated_at": "2026-10-27T10:00:53Z"
 }
