@@ -91,26 +91,22 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T11:00:00Z",
-          "title": "【幻想水滸伝】新作『幻想水滸伝STAR LEAP』もプレイするしゅばあああああああああああああああああああああああああああ！【ホロライブ/大空スバル】",
-          "video_id": "sccTnzxnI6I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T11:01:03Z",
+        "title": "【幻想水滸伝】新作『幻想水滸伝STAR LEAP』もプレイするしゅばあああああああああああああああああああああああああああ！【ホロライブ/大空スバル】",
+        "video_id": "sccTnzxnI6I"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T11:00:00Z",
-          "title": "【復帰】リフレッシュしました！！！！！！！！！！！！！【ホロライブ/大神ミオ】",
-          "video_id": "q_DUrnf0Pzk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T11:02:35Z",
+        "title": "【復帰】リフレッシュしました！！！！！！！！！！！！！【ホロライブ/大神ミオ】",
+        "video_id": "q_DUrnf0Pzk"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -239,14 +235,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T11:00:00Z",
-          "title": "【 タンポポは耐える。 】耐えてみます【音乃瀬奏】#ReGLOSS",
-          "video_id": "M1ng1FFbc4s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T11:01:04Z",
+        "title": "【 タンポポは耐える。 】耐えてみます【音乃瀬奏】#ReGLOSS",
+        "video_id": "M1ng1FFbc4s"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -322,26 +316,17 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T11:00:00Z",
-          "title": "収益化記念＆1ヵ月記念枠のお礼配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "OaM_7vrjkKk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T11:00:55Z",
+        "title": "収益化記念＆1ヵ月記念枠のお礼配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "OaM_7vrjkKk"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T12:00:00Z",
-          "title": "VALORANT 先行体験！！新キャラ(HUSH)をお試しで使います...!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "zpOdryzEx00"
-        }
-      ]
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -543,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T11:01:00Z"
+  "generated_at": "2026-10-27T11:10:27Z"
 }
