@@ -132,14 +132,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T10:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY17🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "KjEw1qSGTv0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T10:00:51Z",
+        "title": "【#ホロ鯖ARK】DAY17🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "KjEw1qSGTv0"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -221,11 +219,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-27T08:32:32Z",
-        "title": "【 ホロドリ 】久しぶり！最近あったことを話しながら釣りするわ。【鷹嶺ルイ/ホロライブ】",
-        "video_id": "ZKIytinFU54"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -548,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T10:00:53Z"
+  "generated_at": "2026-10-27T10:10:39Z"
 }
