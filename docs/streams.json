@@ -219,11 +219,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-27T11:01:04Z",
-        "title": "【 タンポポは耐える。 】耐えてみます【音乃瀬奏】#ReGLOSS",
-        "video_id": "M1ng1FFbc4s"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -524,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T12:10:41Z"
+  "generated_at": "2026-10-27T12:20:31Z"
 }
