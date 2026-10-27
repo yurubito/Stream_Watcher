@@ -485,7 +485,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T08:00:00Z",
+          "title": "Come To Our Humble Two Point Museum【Pavolia Reine/hololive】",
+          "video_id": "IUdhkSuG-Lk"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -503,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T07:41:18Z"
+  "generated_at": "2026-10-27T07:50:32Z"
 }
