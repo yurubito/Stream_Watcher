@@ -451,14 +451,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T02:00:00Z",
-          "title": "【PEAK】FIRST TIME COLLAB AND IT'S GONNA BE PEAK",
-          "video_id": "hzxMTBKCHGo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T01:59:19Z",
+        "title": "【PEAK】FIRST TIME COLLAB AND IT'S GONNA BE PEAK",
+        "video_id": "hzxMTBKCHGo"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -466,5 +464,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T01:10:32Z"
+  "generated_at": "2026-10-27T02:05:13Z"
 }
