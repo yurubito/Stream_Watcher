@@ -194,7 +194,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T12:00:00Z",
+          "title": "ギャンルブも3倍になるJapanese Ramen Simulator【戌神ころね・獅白ぼたん・鷹嶺ルイ/ホロライブ】",
+          "video_id": "Uq0v8C09KSs"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -526,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T09:10:24Z"
+  "generated_at": "2026-10-27T09:20:42Z"
 }
