@@ -25,14 +25,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T12:00:00Z",
-          "title": "【ライブ直前】決起会！！！凸待ち！！！参戦装備やコーレス練習もやるどおおおおお！！！【ホロライブ/さくらみこ #咲き乱れみこち】",
-          "video_id": "mQTx-WStvH4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T12:03:35Z",
+        "title": "【ライブ直前】決起会！！！凸待ち！！！参戦装備やコーレス練習もやるどおおおおお！！！【ホロライブ/さくらみこ #咲き乱れみこち】",
+        "video_id": "mQTx-WStvH4"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -59,13 +57,13 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-27T12:02:33Z",
+        "title": "【その１１】チルラジオ配信 #狐族密会　「オススメアニメ語り!!」【ホロライブ/白上フブキ/尾丸ポルカ】",
+        "video_id": "koFtuzOOVwQ"
+      },
       "name": "白上フブキ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T12:00:00Z",
-          "title": "【その１１】チルラジオ配信 #狐族密会　「オススメアニメ語り!!」【ホロライブ/白上フブキ/尾丸ポルカ】",
-          "video_id": "koFtuzOOVwQ"
-        },
         {
           "scheduled_at": "2026-10-28T11:00:00Z",
           "title": "決めるのはあなた！ #ホロ麺QTTA頂上決戦 ！【ホロライブ/白上フブキ/ときのそら/夏色まつり/癒月ちょこ/尾丸ポルカ/風真いろは/音乃瀬奏】",
@@ -101,11 +99,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-27T11:02:35Z",
-        "title": "【復帰】リフレッシュしました！！！！！！！！！！！！！【ホロライブ/大神ミオ】",
-        "video_id": "q_DUrnf0Pzk"
-      },
       "name": "大神ミオ"
     },
     {
@@ -531,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T12:01:17Z"
+  "generated_at": "2026-10-27T12:10:41Z"
 }
