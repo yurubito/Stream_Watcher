@@ -228,21 +228,11 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-27T13:29:52Z",
-        "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢／ホロライブ】",
-        "video_id": "bfDKD4wk7Vk"
-      },
       "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-27T13:32:39Z",
-        "title": "【#ホロドリ】感謝のホロドリ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "1uu6uDsM9ok"
-      },
       "name": "輪堂千速"
     },
     {
@@ -498,5 +488,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T15:40:35Z"
+  "generated_at": "2026-10-27T15:50:33Z"
 }
