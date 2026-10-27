@@ -116,14 +116,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T12:00:00Z",
-          "title": "【Japanese Ramen Simulator】怖がらせ隊でラメーン！！！！！【ころね支店】",
-          "video_id": "p5dtCuM3vc4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T12:00:35Z",
+        "title": "【Japanese Ramen Simulator】怖がらせ隊でラメーン！！！！！【ころね支店】",
+        "video_id": "p5dtCuM3vc4"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -188,14 +186,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T12:00:00Z",
-          "title": "ギャンルブも3倍になるJapanese Ramen Simulator【戌神ころね・獅白ぼたん・鷹嶺ルイ/ホロライブ】",
-          "video_id": "Uq0v8C09KSs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T12:00:56Z",
+        "title": "ギャンブルも3倍になるJapanese Ramen Simulator【戌神ころね・獅白ぼたん・鷹嶺ルイ/ホロライブ】",
+        "video_id": "Uq0v8C09KSs"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -321,14 +317,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T12:00:00Z",
-          "title": "VALORANT 先行体験！！新キャラ(HUSH)をお試しで使います...!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "zpOdryzEx00"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T11:59:33Z",
+        "title": "VALORANT 先行体験！！新キャラ(HUSH)をお試しで使います...!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "zpOdryzEx00"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -492,7 +486,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T15:00:00Z",
+          "title": "【 APEX LEGENDS 】Long Time No See【 iofi / hololive】",
+          "video_id": "YYK6BkOUQ0Q"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -530,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T11:40:41Z"
+  "generated_at": "2026-10-27T12:01:17Z"
 }
