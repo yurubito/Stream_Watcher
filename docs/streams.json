@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-27T13:01:15Z",
-        "title": "【新・都道府県ゲーム】日本列島、完成させる―――！【ホロライブ / AZKi】",
-        "video_id": "M4utnSkzW-U"
-      },
       "name": "AZKi"
     },
     {
@@ -184,7 +179,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T23:00:00Z",
+          "title": "【朝活】世にも珍しい朝茶をすすりながら話す人🍵【風真いろは/ホロライブ】",
+          "video_id": "t5sAKBGhAIw"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -442,14 +444,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T15:00:00Z",
-          "title": "【 APEX LEGENDS 】Long Time No See【 iofi / hololive】",
-          "video_id": "YYK6BkOUQ0Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T15:00:14Z",
+        "title": "【 APEX LEGENDS 】Long Time No See【 iofi / hololive】",
+        "video_id": "YYK6BkOUQ0Q"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -487,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T14:50:34Z"
+  "generated_at": "2026-10-27T15:01:13Z"
 }
