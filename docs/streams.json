@@ -304,6 +304,11 @@
       "name": "森カリオペ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-28T00:00:00Z",
+          "title": "【MEMBER'S ONLY】October Concert!! Testing NEW SETUPS.... #calliolive",
+          "video_id": "e8Nfg7p8Q1c"
+        },
+        {
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
           "video_id": "b6mcVgI0JjY"
@@ -505,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T16:20:32Z"
+  "generated_at": "2026-10-27T16:30:48Z"
 }
