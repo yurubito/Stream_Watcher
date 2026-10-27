@@ -406,7 +406,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T13:00:00Z",
+          "title": "【RESIDENT EVIL REQUIEM】WILL WE RIDE A MOTORCYCLE @HakosBaelz?  [Spoilers Ahead]",
+          "video_id": "pXGkLztSycE"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -464,5 +471,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T02:30:39Z"
+  "generated_at": "2026-10-27T02:40:28Z"
 }
