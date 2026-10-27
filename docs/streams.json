@@ -89,7 +89,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T11:00:00Z",
+          "title": "【復帰】リフレッシュしました！！！！！！！！！！！！！【ホロライブ/大神ミオ】",
+          "video_id": "q_DUrnf0Pzk"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -471,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T02:40:28Z"
+  "generated_at": "2026-10-27T04:00:52Z"
 }
