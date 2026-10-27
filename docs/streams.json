@@ -17,7 +17,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-27T13:00:00Z",
-          "title": "【新・都道府県ゲーム】日本列島、完成させる――！【ホロライブ / AZKi】",
+          "title": "【新・都道府県ゲーム】日本列島、完成させる―――！【ホロライブ / AZKi】",
           "video_id": "M4utnSkzW-U"
         }
       ]
@@ -211,14 +211,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T08:30:00Z",
-          "title": "【 ホロドリ 】久しぶり！最近あったことを話しながら釣りするわ。【鷹嶺ルイ/ホロライブ】",
-          "video_id": "ZKIytinFU54"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T08:32:32Z",
+        "title": "【 ホロドリ 】久しぶり！最近あったことを話しながら釣りするわ。【鷹嶺ルイ/ホロライブ】",
+        "video_id": "ZKIytinFU54"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -497,7 +495,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T09:00:00Z",
+          "title": "【Tsugunohi -The Thread That Beckons to Heaven-】It Is Still Summer【hololive holoro | Anya Melfissa】",
+          "video_id": "HQrmk1DZW1Y"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -525,5 +530,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T08:30:44Z"
+  "generated_at": "2026-10-27T08:40:31Z"
 }
