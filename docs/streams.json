@@ -22,7 +22,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-27T12:00:00Z",
-          "title": "【ライブ直前配信】【ホロライブ/さくらみこ】",
+          "title": "【ライブ直前】決起会！！！凸待ち！！！参戦装備やコーレス練習もやるどおおおおお！！！【ホロライブ/さくらみこ #咲き乱れみこち】",
           "video_id": "mQTx-WStvH4"
         }
       ]
@@ -84,7 +84,14 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T11:00:00Z",
+          "title": "【幻想水滸伝】新作『幻想水滸伝STAR LEAP』もプレイするしゅばあああああああああああああああああああああああああああ！【ホロライブ/大空スバル】",
+          "video_id": "sccTnzxnI6I"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -121,7 +128,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T08:00:00Z",
+          "title": "【ホロ鯖ARK】カメラを作って思い出いっぱい撮影したい！【白銀ノエル/ホロライブ】",
+          "video_id": "sdsjv9cIvy0"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -188,7 +202,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T08:00:00Z",
+          "title": "【#ホロARK】ダエオドンさんに会いに行くDAY🏝【風真いろは/ホロライブ】",
+          "video_id": "_kkG_kTILGM"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -203,7 +224,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T13:00:00Z",
+          "title": "【 #ホロドリ 】ホロドリ衣装で最初から！一緒に始めませんか？【儒烏風亭らでん #ReGLOSS 】",
+          "video_id": "eCUMGKfZBHg"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -323,11 +351,6 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-10-27T01:01:17Z",
-        "title": "【Carrion】Hold Up Let Her Eat | #1 – Powered by Polish Video Game Days #PVGD #ad",
-        "video_id": "eF3Mqmtb3AQ"
-      },
       "name": "オーロ・クロニー"
     },
     {
@@ -465,11 +488,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-27T01:59:19Z",
-        "title": "【PEAK】FIRST TIME COLLAB AND IT'S GONNA BE PEAK",
-        "video_id": "hzxMTBKCHGo"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -478,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T04:00:52Z"
+  "generated_at": "2026-10-27T07:01:20Z"
 }
