@@ -384,14 +384,12 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T21:00:00Z",
-          "title": "Running For My Life Again 【Poppy Playtime Ch 4】",
-          "video_id": "ATured4k3Jc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T20:56:44Z",
+        "title": "Running For My Life Again 【Poppy Playtime Ch 4】",
+        "video_id": "ATured4k3Jc"
+      },
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -517,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T18:20:33Z"
+  "generated_at": "2026-10-27T21:00:50Z"
 }
