@@ -316,14 +316,12 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T01:00:00Z",
-          "title": "【Carrion】Hold Up Let Her Eat | #1 – Powered by Polish Video Game Days #PVGD #ad",
-          "video_id": "eF3Mqmtb3AQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T01:01:17Z",
+        "title": "【Carrion】Hold Up Let Her Eat | #1 – Powered by Polish Video Game Days #PVGD #ad",
+        "video_id": "eF3Mqmtb3AQ"
+      },
+      "name": "オーロ・クロニー"
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -468,5 +466,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T00:20:24Z"
+  "generated_at": "2026-10-27T01:10:32Z"
 }
