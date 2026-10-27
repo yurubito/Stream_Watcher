@@ -72,7 +72,19 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T12:00:00Z",
+          "title": "【】【ホロライブ/大空スバル】",
+          "video_id": "P_uGDdotlF4"
+        },
+        {
+          "scheduled_at": "2026-10-29T11:00:00Z",
+          "title": "【】メンバーシップ限定配信：ハロウィンVRC【ホロライブ/大空スバル】",
+          "video_id": "QINsrK0XGYE"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -201,11 +213,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-27T13:00:34Z",
-        "title": "【 #ホロドリ 】ホロドリ衣装で最初から！一緒に始めませんか？【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "eCUMGKfZBHg"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -487,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T15:01:13Z"
+  "generated_at": "2026-10-27T15:10:35Z"
 }
