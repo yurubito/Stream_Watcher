@@ -184,11 +184,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-27T08:00:34Z",
-        "title": "【#ホロARK】ダエオドンさんに会いに行くDAY🏝【風真いろは/ホロライブ】",
-        "video_id": "_kkG_kTILGM"
-      },
       "name": "風真いろは"
     },
     {
@@ -427,11 +422,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-27T13:01:33Z",
-        "title": "【RESIDENT EVIL REQUIEM】WILL WE RIDE A MOTORCYCLE @HakosBaelz?  [Spoilers Ahead]",
-        "video_id": "pXGkLztSycE"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -497,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T14:40:32Z"
+  "generated_at": "2026-10-27T14:50:34Z"
 }
