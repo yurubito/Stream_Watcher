@@ -270,7 +270,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T11:00:00Z",
+          "title": "物理学博士によるJump King【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "fMC8x2qT5-A"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -287,11 +294,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-27T09:59:59Z",
-        "title": "#7 大サブクエ回！ ※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "l1txYSqm4r4"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -489,5 +491,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T15:20:31Z"
+  "generated_at": "2026-10-27T15:30:48Z"
 }
