@@ -424,6 +424,11 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-27T21:00:00Z",
+          "title": "【SC KETCHUP】chatting time #ad",
+          "video_id": "zLtDKYFdlhE"
+        },
+        {
           "scheduled_at": "2026-10-28T21:00:00Z",
           "title": "【#GBVSR】sandalphon wait for me...we will win.. #ad",
           "video_id": "eAQXQI2Sl_I"
@@ -480,7 +485,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-27T09:00:00Z",
+          "title": "Come To Our Humble Two Point Museum【Pavolia Reine/hololive】",
+          "video_id": "IUdhkSuG-Lk"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -498,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T07:20:25Z"
+  "generated_at": "2026-10-27T07:40:27Z"
 }
