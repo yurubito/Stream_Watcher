@@ -184,14 +184,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-27T09:00:00Z",
-          "title": "【 #ホロ鯖ARK 】ルミナお前のためにショットガンの弾作るべよ！【 桃鈴ねね / hololive 】",
-          "video_id": "3tEFLB14elE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-27T09:04:37Z",
+        "title": "【 #ホロ鯖ARK 】ルミナお前のためにショットガンの弾作るべよ！【 桃鈴ねね / hololive 】",
+        "video_id": "3tEFLB14elE"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -528,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T09:00:48Z"
+  "generated_at": "2026-10-27T09:10:24Z"
 }
