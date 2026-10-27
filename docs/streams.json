@@ -223,7 +223,24 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T13:00:00Z",
+          "title": "【Machine Party】友情破壊ゲー⁉️デスゲーム【hololive／水宮枢】",
+          "video_id": "k5X1DRWL6mg"
+        },
+        {
+          "scheduled_at": "2026-10-29T10:00:00Z",
+          "title": "【 #ホロドリ 】ガチャ🌟はじたんなら天井行かない✋【水宮枢／ホロライブ】",
+          "video_id": "_u-noAqX_Xk"
+        },
+        {
+          "scheduled_at": "2026-10-29T13:30:00Z",
+          "title": "【 #ホロARK 】初心者がいく🔰アルゲンテイム🦖【水宮枢／ホロライブ】",
+          "video_id": "QZ-GN3Yo7dU"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -490,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T18:01:01Z"
+  "generated_at": "2026-10-27T18:10:29Z"
 }
