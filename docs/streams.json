@@ -134,11 +134,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-27T08:00:17Z",
-        "title": "【ホロ鯖ARK】カメラを作って思い出いっぱい撮影したい！【白銀ノエル/ホロライブ】",
-        "video_id": "sdsjv9cIvy0"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -342,7 +337,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T17:00:00Z",
+          "title": "【Tales of Eternia Remastered】coming out of my cave for a special occasion! #kfp #キアライブ",
+          "video_id": "A5OeCaB1m-k"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -514,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T12:40:24Z"
+  "generated_at": "2026-10-27T12:50:42Z"
 }
