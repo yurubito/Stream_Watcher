@@ -104,11 +104,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-28T13:00:42Z",
-        "title": "伝説のクレイアニメシューティング『Platypus』の完全リメイク版！！遊ぶ～♩",
-        "video_id": "c0nnPac-zvg"
-      },
       "name": "戌神ころね"
     },
     {
@@ -224,7 +219,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T03:00:00Z",
+          "title": "【定期配信＃48】木曜のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
+          "video_id": "ao7gnnc5IOI"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -519,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T15:20:34Z"
+  "generated_at": "2026-10-28T15:40:45Z"
 }
