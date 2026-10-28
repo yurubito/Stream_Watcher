@@ -109,7 +109,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T06:00:00Z",
+          "title": "【ホロ鯖ARK】初めての試練の洞窟＆前半は拠点整理とテイム！！【白銀ノエル/ホロライブ】",
+          "video_id": "4SVZn_9sOXY"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -510,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T21:30:54Z"
+  "generated_at": "2026-10-28T23:30:45Z"
 }
