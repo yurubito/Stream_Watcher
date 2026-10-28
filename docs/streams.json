@@ -81,11 +81,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-28T02:58:51Z",
-        "title": "【#ホロ鯖ARK】ARK上陸17日目！線路作成するのだ！【ホロライブ/癒月ちょこ】",
-        "video_id": "abASHiCWEjY"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -228,14 +223,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T08:45:00Z",
-          "title": "【 日本シリーズ 第4戦 同時視聴】福岡ソフトバンクホークス 対 横浜DeNAベイスターズ⚾️推し球団問わず一緒に観戦しよう‼️【博衣こより/ホロライブ】",
-          "video_id": "NaVUSM2ncYk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T08:48:10Z",
+        "title": "【 日本シリーズ 第4戦 同時視聴】福岡ソフトバンクホークス 対 横浜DeNAベイスターズ⚾️推し球団問わず一緒に観戦しよう‼️【博衣こより/ホロライブ】",
+        "video_id": "NaVUSM2ncYk"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -567,5 +560,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T08:40:32Z"
+  "generated_at": "2026-10-28T08:50:40Z"
 }
