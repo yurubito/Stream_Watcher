@@ -59,14 +59,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T11:00:00Z",
-          "title": "決めるのはあなた！ #ホロ麺QTTA頂上決戦 ！【ホロライブ/白上フブキ/ときのそら/夏色まつり/癒月ちょこ/尾丸ポルカ/風真いろは/音乃瀬奏】",
-          "video_id": "xggoSG1ANhA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T10:58:37Z",
+        "title": "決めるのはあなた！ #ホロ麺QTTA頂上決戦 ！【ホロライブ/白上フブキ/ときのそら/夏色まつり/癒月ちょこ/尾丸ポルカ/風真いろは/音乃瀬奏】",
+        "video_id": "xggoSG1ANhA"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -339,14 +337,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T11:00:00Z",
-          "title": "物理学博士によるJump King【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "fMC8x2qT5-A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T11:00:29Z",
+        "title": "物理学博士によるJump King【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "fMC8x2qT5-A"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -565,5 +561,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T10:40:28Z"
+  "generated_at": "2026-10-28T11:00:49Z"
 }
