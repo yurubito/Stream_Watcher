@@ -118,7 +118,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T13:00:00Z",
+          "title": "伝説のクレイアニメシューティング『Platypus』の完全リメイク版！！遊ぶ～♩",
+          "video_id": "c0nnPac-zvg"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -558,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T10:20:26Z"
+  "generated_at": "2026-10-28T10:30:47Z"
 }
