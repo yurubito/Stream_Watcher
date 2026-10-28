@@ -109,11 +109,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-28T11:01:10Z",
-        "title": "【#ホロ鯖ARK】DAY18🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "AZPIzPt4cJo"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -297,7 +292,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T12:00:00Z",
+          "title": "【手元配信】科学博物館グッズ紹介【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "CdNRebqDxlk"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -508,7 +510,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T04:30:00Z",
+          "title": "【Dogpile】dogs but pile",
+          "video_id": "bYuFljfPI4Y"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -516,5 +525,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T15:50:30Z"
+  "generated_at": "2026-10-28T16:00:57Z"
 }
