@@ -452,14 +452,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T20:00:00Z",
-          "title": "【SLAY THE PRINCESS】I am not the contrarian",
-          "video_id": "4fkztER_lDY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T20:02:34Z",
+        "title": "【SLAY THE PRINCESS】I am not the contrarian",
+        "video_id": "4fkztER_lDY"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -519,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T18:40:34Z"
+  "generated_at": "2026-10-28T20:10:34Z"
 }
