@@ -30,14 +30,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T12:00:00Z",
-          "title": "【APEX/初コラボ✨】つづり＆トワと久しぶりにAPEXしていく‼【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "Jqe0ZLROaj0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T12:05:06Z",
+        "title": "【APEX/初コラボ✨】つづり＆トワと久しぶりにAPEXしていく‼【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "Jqe0ZLROaj0"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -59,11 +57,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-28T10:58:37Z",
-        "title": "決めるのはあなた！ #ホロ麺QTTA頂上決戦 ！【ホロライブ/白上フブキ/ときのそら/夏色まつり/癒月ちょこ/尾丸ポルカ/風真いろは/音乃瀬奏】",
-        "video_id": "xggoSG1ANhA"
-      },
       "name": "白上フブキ"
     },
     {
@@ -84,13 +77,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-28T12:04:39Z",
+        "title": "【#あやスバ】凸待ち！だれかあやスバと大富豪しませんか？：アソビ大全【ホロライブ/大空スバル】",
+        "video_id": "P_uGDdotlF4"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T12:00:00Z",
-          "title": "【#あやスバ】凸待ち！だれかあやスバと大富豪しませんか？：アソビ大全【ホロライブ/大空スバル】",
-          "video_id": "P_uGDdotlF4"
-        },
         {
           "scheduled_at": "2026-10-29T11:00:00Z",
           "title": "【】メンバーシップ限定配信：ハロウィンVRC【ホロライブ/大空スバル】",
@@ -160,14 +153,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T12:00:00Z",
-          "title": "【 APEX 】新人つづりとデェベテランすいせい、そして常闇ーーー【常闇トワ / ホロライブ】",
-          "video_id": "uiCtRu3q9ZQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T12:05:01Z",
+        "title": "【 APEX 】新人つづりとデェベテランすいせい、そして常闇ーーー【常闇トワ / ホロライブ】",
+        "video_id": "uiCtRu3q9ZQ"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -239,14 +230,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T12:00:00Z",
-          "title": "【りりーなオフコラボ】普通のたこパだと思った？ロシアンルーレットでした～ｗｗ【hololive ReGLOSS】",
-          "video_id": "R9kCk8nojzs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T12:03:25Z",
+        "title": "【りりーなオフコラボ】普通のたこパだと思った？ロシアンルーレットでした～ｗｗ【hololive ReGLOSS】",
+        "video_id": "R9kCk8nojzs"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -333,14 +322,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T12:00:00Z",
-          "title": "【APEX】　トワ先輩・すいせい先輩と初コラボ！？APEX参ります!!!!!【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "xb1KaLmkaoo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T12:05:08Z",
+        "title": "【APEX】　トワ先輩・すいせい先輩と初コラボ！？APEX参ります!!!!!【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "xb1KaLmkaoo"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -489,7 +476,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T20:00:00Z",
+          "title": "【SLAY THE PRINCESS】I am not the contrarian",
+          "video_id": "4fkztER_lDY"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -547,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T12:01:01Z"
+  "generated_at": "2026-10-28T12:10:32Z"
 }
