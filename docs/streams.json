@@ -146,14 +146,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T13:00:00Z",
-          "title": "【 #ホロ鯖ARK 】今日は願おう！雨よ降ってくれと！！！【角巻わため/ホロライブ４期生】",
-          "video_id": "zvTbt8xiaRk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T13:04:06Z",
+        "title": "【 #ホロ鯖ARK 】今日は願おう！雨よ降ってくれと！！！【角巻わため/ホロライブ４期生】",
+        "video_id": "zvTbt8xiaRk"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -168,14 +166,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T13:00:00Z",
-          "title": "10月が去っていくのら(・o・🍬)【姫森ルーナ/ホロライブ】",
-          "video_id": "dF91aG-QjpI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T13:07:09Z",
+        "title": "10月が去っていくのら(・o・🍬)【姫森ルーナ/ホロライブ】",
+        "video_id": "dF91aG-QjpI"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -287,7 +283,19 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "live": {
+        "started_at": "2026-10-28T13:04:02Z",
+        "title": "【雑談/CHAT】明日の作戦会議！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "icOS1TFnUJk"
+      },
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T12:00:00Z",
+          "title": "【告知アリ凸待ち】自認！！！新人凸待ち～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "video_id": "uNfrn28Q9Fk"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -538,5 +546,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T13:01:09Z"
+  "generated_at": "2026-10-28T13:10:28Z"
 }
