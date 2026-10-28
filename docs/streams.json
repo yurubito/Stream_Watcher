@@ -18,7 +18,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T09:00:00Z",
+          "title": "【チラ見せ枠】さくらみこ 2nd Live “Blooming Parade!!”【#咲き乱れみこち】",
+          "video_id": "t3qgd__IKEY"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -539,5 +546,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T07:00:56Z"
+  "generated_at": "2026-10-28T07:10:26Z"
 }
