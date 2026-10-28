@@ -396,14 +396,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T23:00:00Z",
-          "title": "【The Kidnap】yoink",
-          "video_id": "JWtRHVWt8dY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T22:58:56Z",
+        "title": "【The Kidnap】yoink",
+        "video_id": "JWtRHVWt8dY"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -452,11 +450,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-28T20:02:34Z",
-        "title": "【SLAY THE PRINCESS】I am not the contrarian",
-        "video_id": "4fkztER_lDY"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -517,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T23:30:45Z"
+  "generated_at": "2026-10-28T23:40:34Z"
 }
