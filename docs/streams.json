@@ -309,7 +309,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T02:00:00Z",
+          "title": "【EN】Who will I see at the top??【Hyakuto Kyoko/Hololive】",
+          "video_id": "S0kwyIv6ntM"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -520,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T16:40:27Z"
+  "generated_at": "2026-10-28T16:50:44Z"
 }
