@@ -146,13 +146,13 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-28T05:37:16Z",
+        "title": "【 #ホロ鯖ARK 】その１３｜作戦会議と‼️です‼️【常闇トワ/ホロライブ】",
+        "video_id": "xrN9Ez2ObZA"
+      },
       "name": "常闇トワ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T05:30:00Z",
-          "title": "【 #ホロ鯖ARK 】その１３｜作戦会議と‼️です‼️【常闇トワ/ホロライブ】",
-          "video_id": "xrN9Ez2ObZA"
-        },
         {
           "scheduled_at": "2026-10-28T12:00:00Z",
           "title": "【 APEX 】新人つづりとデェベテランすいせい、そして常闇ーーー【常闇トワ / ホロライブ】",
@@ -212,7 +212,14 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T08:45:00Z",
+          "title": "【 日本シリーズ 第4戦 同時視聴】福岡ソフトバンクホークス 対 横浜DeNAベイスターズ⚾️推し球団問わず一緒に観戦しよう‼️【博衣こより/ホロライブ】",
+          "video_id": "NaVUSM2ncYk"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -255,7 +262,7 @@
       "name": "水宮枢",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-28T13:00:00Z",
+          "scheduled_at": "2026-10-28T13:15:00Z",
           "title": "【Machine Party】友情破壊ゲー⁉️デスゲーム【hololive／水宮枢】",
           "video_id": "k5X1DRWL6mg"
         },
@@ -294,11 +301,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-27T21:59:31Z",
-        "title": "【のじゃEnglish】中学英語を復習するのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "F3z7xeNZJRI"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -338,9 +340,9 @@
       "name": "百灯キョーコ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-28T02:00:00Z",
-          "title": "【EN】FIRST TIME PLAYING JUMP KING!!! 【Hyakuto Kyoko/Hololive】",
-          "video_id": "Z4mtsZKfnTw"
+          "scheduled_at": "2026-10-28T13:00:00Z",
+          "title": "【壺おじ】シーズン２、遂に解禁【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "yLNe1445sNs"
         }
       ]
     },
@@ -430,11 +432,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-27T23:00:36Z",
-        "title": "【Five Nights at Freddy's: Security Breach】I'M SUPERSTAR",
-        "video_id": "YlzdFQIPBTM"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -519,6 +516,11 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-28T06:59:29Z",
+        "title": "Welcome to Kusaland Regional Hospital - Two Point Hospital【Pavolia Reine/hololive】",
+        "video_id": "tRBf8aigFeg"
+      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -537,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T05:10:27Z"
+  "generated_at": "2026-10-28T07:00:56Z"
 }
