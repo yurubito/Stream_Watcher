@@ -59,11 +59,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-28T05:07:59Z",
-        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその５【ホロライブ/白上フブキ】",
-        "video_id": "ILVU4f6-1EU"
-      },
       "name": "白上フブキ",
       "upcoming": [
         {
@@ -324,14 +319,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T08:30:00Z",
-          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃20【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "rFld2f99Jj0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T08:33:45Z",
+        "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃20【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "rFld2f99Jj0"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -574,5 +567,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T08:20:43Z"
+  "generated_at": "2026-10-28T08:40:32Z"
 }
