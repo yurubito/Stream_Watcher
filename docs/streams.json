@@ -23,7 +23,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T12:00:00Z",
+          "title": "【APEX/初コラボ✨】つづり＆トワと久しぶりにAPEXしていく‼【星街すいせい / ＃ほしまちすたじお】",
+          "video_id": "Jqe0ZLROaj0"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -45,6 +52,11 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-28T05:07:59Z",
+        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその５【ホロライブ/白上フブキ】",
+        "video_id": "ILVU4f6-1EU"
+      },
       "name": "白上フブキ",
       "upcoming": [
         {
@@ -67,6 +79,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-28T02:58:51Z",
+        "title": "【#ホロ鯖ARK】ARK上陸17日目！線路作成するのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "abASHiCWEjY"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -129,7 +146,19 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T05:30:00Z",
+          "title": "【 #ホロ鯖ARK 】その１３｜作戦会議と‼️です‼️【常闇トワ/ホロライブ】",
+          "video_id": "xrN9Ez2ObZA"
+        },
+        {
+          "scheduled_at": "2026-10-28T12:00:00Z",
+          "title": "【 APEX 】新人つづりとデェベテランすいせい、そして常闇ーーー【常闇トワ / ホロライブ】",
+          "video_id": "uiCtRu3q9ZQ"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -156,7 +185,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T12:00:00Z",
+          "title": "【幻想水滸伝】新作『幻想水滸伝STAR LEAP』をプレイ！【獅白ぼたん/ホロライブ】",
+          "video_id": "iQ3uLm6YR_0"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -319,9 +355,9 @@
       "name": "森カリオペ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-28T00:00:00Z",
-          "title": "【MEMBER'S ONLY】October Concert!! Testing NEW SETUPS.... #calliolive",
-          "video_id": "e8Nfg7p8Q1c"
+          "scheduled_at": "2026-10-29T00:00:00Z",
+          "title": "【Granblue Fantasy Versus: Rising】where is sand dolphin #PR #calliolive",
+          "video_id": "pRIJRmI4YZM"
         },
         {
           "scheduled_at": "2026-10-30T10:00:00Z",
@@ -382,12 +418,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-27T20:56:44Z",
-        "title": "Running For My Life Again 【Poppy Playtime Ch 4】",
-        "video_id": "ATured4k3Jc"
-      },
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T21:00:00Z",
+          "title": "I KNEAD You Screaming ASMR 【Poppy Playtime Ch 4】",
+          "video_id": "fCJD0waTDwQ"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -429,11 +467,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-27T21:01:48Z",
-        "title": "【SC KETCHUP】chatting time #ad",
-        "video_id": "zLtDKYFdlhE"
-      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -504,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T03:00:51Z"
+  "generated_at": "2026-10-28T05:10:27Z"
 }
