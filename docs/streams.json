@@ -57,7 +57,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T14:00:00Z",
+          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその６【ホロライブ/白上フブキ】",
+          "video_id": "wxetfuneBLA"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -536,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T12:40:29Z"
+  "generated_at": "2026-10-28T12:50:36Z"
 }
