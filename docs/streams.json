@@ -384,14 +384,12 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T21:00:00Z",
-          "title": "I KNEAD You Screaming ASMR 【Poppy Playtime Ch 4】",
-          "video_id": "fCJD0waTDwQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T20:56:43Z",
+        "title": "I KNEAD You Screaming ASMR 【Poppy Playtime Ch 4】",
+        "video_id": "fCJD0waTDwQ"
+      },
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -517,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T20:10:34Z"
+  "generated_at": "2026-10-28T21:00:51Z"
 }
