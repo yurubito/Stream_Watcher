@@ -407,14 +407,12 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T01:00:00Z",
-          "title": "Cute kitty!!! | The Dandelion Endures.",
-          "video_id": "X1Dgw5kLaSE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T00:55:21Z",
+        "title": "Cute kitty!!! | The Dandelion Endures.",
+        "video_id": "X1Dgw5kLaSE"
+      },
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -516,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-27T23:01:17Z"
+  "generated_at": "2026-10-28T01:10:26Z"
 }
