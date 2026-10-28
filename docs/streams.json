@@ -57,14 +57,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T14:00:00Z",
-          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその６【ホロライブ/白上フブキ】",
-          "video_id": "wxetfuneBLA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T14:04:28Z",
+        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその６【ホロライブ/白上フブキ】",
+        "video_id": "wxetfuneBLA"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -79,16 +77,16 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-28T14:03:42Z",
+        "title": "【#ホロ鯖ARK】ARK上陸1８日目！鉄道完成するのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "pUyTDOyLrVE"
+      },
       "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-28T12:04:39Z",
-        "title": "【#あやスバ】凸待ち！だれかあやスバと大富豪しませんか？：アソビ大全【ホロライブ/大空スバル】",
-        "video_id": "P_uGDdotlF4"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -280,15 +278,20 @@
       "group": "DEV_IS FLOW GLOW",
       "live": {
         "started_at": "2026-10-28T13:04:02Z",
-        "title": "【雑談/CHAT】明日の作戦会議！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "title": "【雑談/CHAT】明日の作戦会議！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
         "video_id": "icOS1TFnUJk"
       },
       "name": "輪堂千速",
       "upcoming": [
         {
           "scheduled_at": "2026-10-29T12:00:00Z",
-          "title": "【告知アリ凸待ち】自認！！！新人凸待ち～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+          "title": "【告知アリ凸待ち】自認！！！新人凸待ち～～！！【#輪堂千速 / #hololive #FLOWGLOW 】",
           "video_id": "uNfrn28Q9Fk"
+        },
+        {
+          "scheduled_at": "2026-10-29T13:00:00Z",
+          "title": "？？？",
+          "video_id": "CAuo9Nrfor4"
         }
       ]
     },
@@ -541,5 +544,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T13:30:41Z"
+  "generated_at": "2026-10-28T14:10:35Z"
 }
