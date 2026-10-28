@@ -270,11 +270,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-28T08:33:45Z",
-        "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃20【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "rFld2f99Jj0"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -409,7 +404,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T23:00:00Z",
+          "title": "【The Kidnap】yoink",
+          "video_id": "JWtRHVWt8dY"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -525,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T17:01:26Z"
+  "generated_at": "2026-10-28T17:10:35Z"
 }
