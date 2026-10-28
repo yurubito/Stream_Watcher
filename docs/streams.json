@@ -181,11 +181,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-27T23:00:50Z",
-        "title": "【朝活】世にも珍しい朝茶をすすりながら話す人🍵【風真いろは/ホロライブ】",
-        "video_id": "t5sAKBGhAIw"
-      },
       "name": "風真いろは"
     },
     {
@@ -514,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T01:10:26Z"
+  "generated_at": "2026-10-28T01:30:37Z"
 }
