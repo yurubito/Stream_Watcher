@@ -30,11 +30,6 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-28T12:05:06Z",
-        "title": "【APEX/初コラボ✨】つづり＆トワと久しぶりにAPEXしていく‼【星街すいせい / ＃ほしまちすたじお】",
-        "video_id": "Jqe0ZLROaj0"
-      },
       "name": "星街すいせい"
     },
     {
@@ -154,11 +149,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-28T12:05:01Z",
-        "title": "【 APEX 】新人つづりとデェベテランすいせい、そして常闇ーーー【常闇トワ / ホロライブ】",
-        "video_id": "uiCtRu3q9ZQ"
-      },
       "name": "常闇トワ"
     },
     {
@@ -529,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T15:00:52Z"
+  "generated_at": "2026-10-28T15:10:32Z"
 }
