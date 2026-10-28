@@ -244,11 +244,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-28T13:15:13Z",
-        "title": "【Machine Party】友情破壊ゲー⁉️デスゲーム【hololive／水宮枢】",
-        "video_id": "k5X1DRWL6mg"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -544,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T14:10:35Z"
+  "generated_at": "2026-10-28T14:31:00Z"
 }
