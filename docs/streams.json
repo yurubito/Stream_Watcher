@@ -343,14 +343,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T17:00:00Z",
-          "title": "【Tales of Eternia Remastered】coming out of my cave for a special occasion! #kfp #キアライブ",
-          "video_id": "A5OeCaB1m-k"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T16:59:44Z",
+        "title": "【Tales of Eternia Remastered】coming out of my cave for a special occasion! #kfp #キアライブ",
+        "video_id": "A5OeCaB1m-k"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -527,5 +525,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T16:50:44Z"
+  "generated_at": "2026-10-28T17:01:26Z"
 }
