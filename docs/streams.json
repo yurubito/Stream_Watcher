@@ -255,7 +255,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T12:00:00Z",
+          "title": "【りりーなオフコラボ】普通のたこパだと思った？ロシアンルーレットでした～ｗｗ【hololive ReGLOSS】",
+          "video_id": "R9kCk8nojzs"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -567,5 +574,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T08:01:04Z"
+  "generated_at": "2026-10-28T08:20:43Z"
 }
