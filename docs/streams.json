@@ -194,14 +194,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T12:00:00Z",
-          "title": "【幻想水滸伝】新作『幻想水滸伝STAR LEAP』をプレイ！【獅白ぼたん/ホロライブ】",
-          "video_id": "iQ3uLm6YR_0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T12:00:36Z",
+        "title": "【幻想水滸伝】新作『幻想水滸伝STAR LEAP』をプレイ！【獅白ぼたん/ホロライブ】",
+        "video_id": "iQ3uLm6YR_0"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -549,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T11:50:31Z"
+  "generated_at": "2026-10-28T12:01:01Z"
 }
