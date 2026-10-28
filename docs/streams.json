@@ -271,11 +271,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-28T13:04:02Z",
-        "title": "【雑談/CHAT】明日の作戦会議！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "icOS1TFnUJk"
-      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -320,11 +315,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-28T12:05:08Z",
-        "title": "【APEX】　トワ先輩・すいせい先輩と初コラボ！？APEX参ります!!!!!【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "xb1KaLmkaoo"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -539,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T14:31:00Z"
+  "generated_at": "2026-10-28T15:00:52Z"
 }
