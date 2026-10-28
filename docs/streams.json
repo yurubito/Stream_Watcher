@@ -325,11 +325,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-28T09:58:59Z",
-        "title": "【歌枠】ボカロオタクはじめての…【ホロライブ/熱千めら】",
-        "video_id": "GtTgOHWTJ-c"
-      },
       "name": "熱千めら"
     },
     {
@@ -559,5 +554,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T11:10:27Z"
+  "generated_at": "2026-10-28T11:20:24Z"
 }
