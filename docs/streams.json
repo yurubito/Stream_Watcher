@@ -317,7 +317,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-28T08:30:00Z",
+          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃20【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "rFld2f99Jj0"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -560,5 +567,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T07:40:33Z"
+  "generated_at": "2026-10-28T08:01:04Z"
 }
