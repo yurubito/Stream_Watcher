@@ -111,14 +111,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T13:00:00Z",
-          "title": "伝説のクレイアニメシューティング『Platypus』の完全リメイク版！！遊ぶ～♩",
-          "video_id": "c0nnPac-zvg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T13:00:42Z",
+        "title": "伝説のクレイアニメシューティング『Platypus』の完全リメイク版！！遊ぶ～♩",
+        "video_id": "c0nnPac-zvg"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -232,11 +230,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-28T12:03:25Z",
-        "title": "【りりーなオフコラボ】普通のたこパだと思った？ロシアンルーレットでした～ｗｗ【hololive ReGLOSS】",
-        "video_id": "R9kCk8nojzs"
-      },
       "name": "一条莉々華"
     },
     {
@@ -309,16 +302,18 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T11:00:00Z",
+          "title": "初対面なのに(二人とも)様子が…AZKi先輩と初コラボですのじゃ！【ホロライブ/AZKi/熱千めら】",
+          "video_id": "4LQhvVZ2zWo"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-28T11:00:29Z",
-        "title": "物理学博士によるJump King【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "fMC8x2qT5-A"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -334,14 +329,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-28T13:00:00Z",
-          "title": "【壺おじ】シーズン２、遂に解禁【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "yLNe1445sNs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-28T13:00:01Z",
+        "title": "【壺おじ】シーズン２、遂に解禁【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "yLNe1445sNs"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -390,7 +383,14 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー"
+      "name": "オーロ・クロニー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T03:00:00Z",
+          "title": "【Goddess of Victory: NIKKE】We're All Winners Here #NIKKEholoSquad #ad",
+          "video_id": "7ymE_3k2Lk4"
+        }
+      ]
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -520,11 +520,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-28T06:59:29Z",
-        "title": "Welcome to Kusaland Regional Hospital - Two Point Hospital【Pavolia Reine/hololive】",
-        "video_id": "tRBf8aigFeg"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -543,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T12:50:36Z"
+  "generated_at": "2026-10-28T13:01:09Z"
 }
