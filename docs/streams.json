@@ -239,7 +239,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T11:00:00Z",
+          "title": "【月曜日定期雑談（木）】ふりかけ事件の真相をお伝えします【一条莉々華/hololive ReGLOSS】",
+          "video_id": "V2DPSq7wwp4"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -261,11 +268,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-29T08:03:49Z",
-        "title": "【 歌枠 】ゲリラで歌います！！聴いてええええ❤【ホロライブ DEV_IS 響咲リオナ】",
-        "video_id": "EG9DEE9eKvw"
-      },
       "name": "響咲リオナ",
       "upcoming": [
         {
@@ -560,5 +562,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T09:00:49Z"
+  "generated_at": "2026-10-29T09:10:32Z"
 }
