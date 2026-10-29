@@ -461,7 +461,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T12:00:00Z",
+          "title": "Goblok Tenan | OST Troublemaker 2 Beyond Dream by AREA15 hololive",
+          "video_id": "c9yFK-ytqPg"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -501,5 +508,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T16:00:55Z"
+  "generated_at": "2026-10-29T16:10:27Z"
 }
