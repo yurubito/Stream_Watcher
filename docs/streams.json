@@ -291,7 +291,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T10:00:00Z",
+          "title": "【JUMP KING HOLORACE】ジャンプは物理 by 宙科そぴあ【ホロライブ/アソビ★まわり隊！】",
+          "video_id": "1nGDxGnxJtA"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -522,5 +529,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T18:30:48Z"
+  "generated_at": "2026-10-29T18:40:33Z"
 }
