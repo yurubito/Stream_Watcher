@@ -18,11 +18,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-29T09:00:09Z",
-        "title": "【チラ見せ枠】さくらみこ 2nd Live “Blooming Parade!!”【#咲き乱れみこち】",
-        "video_id": "t3qgd__IKEY"
-      },
       "name": "さくらみこ"
     },
     {
@@ -188,13 +183,13 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-29T10:00:09Z",
+        "title": "【ポルカの伝説】帰ってきたおつまみドラフト！？！！？",
+        "video_id": "PY7_JVQ2hKE"
+      },
       "name": "尾丸ポルカ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T10:00:00Z",
-          "title": "【ポルカの伝説】帰ってきたおつまみドラフト！？！！？",
-          "video_id": "PY7_JVQ2hKE"
-        },
         {
           "scheduled_at": "2026-10-29T12:00:00Z",
           "title": "【BOMBANANA!】謎の三人現る！！！！爆弾を解除せよ！！！！【尾丸ポルカ/春雨麗女/西園チグサ】",
@@ -215,14 +210,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T10:00:00Z",
-          "title": "【 #ホロ鯖ARK 】トライブの役に立ったり新しいテイムしたり洞窟に挑戦したりしたい！！！【博衣こより/ホロライブ】",
-          "video_id": "Cct8fHvoNPg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T10:00:24Z",
+        "title": "【 #ホロ鯖ARK 】トライブの役に立ったり新しいテイムしたり洞窟に挑戦したりしたい！！！【博衣こより/ホロライブ】",
+        "video_id": "Cct8fHvoNPg"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -341,7 +334,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-29T11:00:00Z",
-          "title": "初対面なのに(二人とも)様子が…好きな電柱ありますか？【ホロライブ/AZKi/熱千めら】",
+          "title": "初対面なのに二人とも様子が…好きな電柱ありますか？【ホロライブ/AZKi/熱千めら】",
           "video_id": "4LQhvVZ2zWo"
         }
       ]
@@ -565,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T09:40:37Z"
+  "generated_at": "2026-10-29T10:00:58Z"
 }
