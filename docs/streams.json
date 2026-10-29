@@ -313,13 +313,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-10-29T00:00:19Z",
+        "title": "【Granblue Fantasy Versus: Rising】where is sand dolphin #PR #calliolive",
+        "video_id": "pRIJRmI4YZM"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T00:00:00Z",
-          "title": "【Granblue Fantasy Versus: Rising】where is sand dolphin #PR #calliolive",
-          "video_id": "pRIJRmI4YZM"
-        },
         {
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
@@ -510,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-28T23:40:34Z"
+  "generated_at": "2026-10-29T00:40:24Z"
 }
