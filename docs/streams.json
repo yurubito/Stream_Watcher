@@ -102,14 +102,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T12:00:00Z",
-          "title": "#1【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
-          "video_id": "jqJb0qnueDo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T12:01:05Z",
+        "title": "#1【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "jqJb0qnueDo"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -192,14 +190,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T12:00:00Z",
-          "title": "【BOMBANANA!】謎の三人現る！！！！爆弾を解除せよ！！！！【尾丸ポルカ/春雨麗女/西園チグサ】",
-          "video_id": "RgkI6nThgVE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T12:02:33Z",
+        "title": "【BOMBANANA!】謎の三人現る！！！！爆弾を解除せよ！！！！【尾丸ポルカ/春雨麗女/西園チグサ】",
+        "video_id": "RgkI6nThgVE"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -229,14 +225,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T12:00:00Z",
-          "title": "【 歌枠 】ゆるくゆるく【音乃瀬奏】#ReGLOSS",
-          "video_id": "YUnpx-WpTGA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T12:01:13Z",
+        "title": "【 歌枠 】ゆるくゆるく【音乃瀬奏】#ReGLOSS",
+        "video_id": "YUnpx-WpTGA"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -577,5 +571,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T12:00:57Z"
+  "generated_at": "2026-10-29T12:10:26Z"
 }
