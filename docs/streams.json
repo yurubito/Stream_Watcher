@@ -164,6 +164,11 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-29T13:10:08Z",
+        "title": "【 #ホロ鯖ARK 】ルミナのサドルとワイバーンお世話！【 桃鈴ねね / hololive 】",
+        "video_id": "hjdva75lJvM"
+      },
       "name": "桃鈴ねね"
     },
     {
@@ -195,9 +200,9 @@
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
       "live": {
-        "started_at": "2026-10-29T10:00:24Z",
-        "title": "【 #ホロ鯖ARK 】トライブの役に立ったり新しいテイムしたり洞窟に挑戦したりしたい！！！【博衣こより/ホロライブ】",
-        "video_id": "Cct8fHvoNPg"
+        "started_at": "2026-10-29T13:25:47Z",
+        "title": "【 #ホロ鯖ARK 】枠しんでるので取り直し！！！！！！！！！！【博衣こより/ホロライブ】",
+        "video_id": "huTcyHt5PeY"
       },
       "name": "博衣こより"
     },
@@ -216,11 +221,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-29T12:01:13Z",
-        "title": "【 歌枠 】ゆるくゆるく【音乃瀬奏】#ReGLOSS",
-        "video_id": "YUnpx-WpTGA"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -305,11 +305,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-29T12:30:22Z",
-        "title": "【手元配信】科学博物館グッズ紹介【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "CdNRebqDxlk"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -539,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T13:10:34Z"
+  "generated_at": "2026-10-29T13:30:51Z"
 }
