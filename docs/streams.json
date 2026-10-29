@@ -104,14 +104,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T11:00:00Z",
-          "title": "【NY】ニューヨークコミコンで買ってきたもの開封する",
-          "video_id": "Y-rYPrVt1Vo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T11:00:00Z",
+        "title": "【NY】ニューヨークコミコンで買ってきたもの開封する",
+        "video_id": "Y-rYPrVt1Vo"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -175,12 +173,26 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T13:00:00Z",
+          "title": "【晩酌】明日からしばらく引っ越し休暇入ります～！！【​雪花ラミィ /ホロライブ】",
+          "video_id": "FDAt67Um_sM"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T13:00:00Z",
+          "title": "【 #ホロ鯖ARK 】ルミナのサドル作る！！【 桃鈴ねね / hololive 】",
+          "video_id": "4l9K_QpV0Hc"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -337,14 +349,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T11:00:00Z",
-          "title": "初対面なのに二人とも様子が…好きな電柱ありますか？【ホロライブ/AZKi/熱千めら】",
-          "video_id": "4LQhvVZ2zWo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T10:59:14Z",
+        "title": "初対面なのに二人とも様子が…好きな電柱ありますか？【ホロライブ/AZKi/熱千めら】",
+        "video_id": "4LQhvVZ2zWo"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -570,5 +580,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T10:50:40Z"
+  "generated_at": "2026-10-29T11:00:52Z"
 }
