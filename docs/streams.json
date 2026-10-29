@@ -45,11 +45,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-29T09:17:31Z",
-        "title": "【同時視聴】Blooming Parade!!　王国吊るし席会場　#咲き乱れみこち【ホロライブ/白上フブキ】",
-        "video_id": "72ypAS63wWo"
-      },
       "name": "白上フブキ"
     },
     {
@@ -124,7 +119,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T13:00:00Z",
+          "title": "#13【ほの暮しの庭】ED後 親密度とか2回目のアプデがきちゃ！【不知火フレア/ホロライブ】※ネタバレあり",
+          "video_id": "2aSS-7f3bFs"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -348,7 +350,7 @@
       "name": "宙科そぴあ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-29T12:00:00Z",
+          "scheduled_at": "2026-10-29T12:30:00Z",
           "title": "【手元配信】科学博物館グッズ紹介【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "CdNRebqDxlk"
         }
@@ -550,14 +552,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T11:45:00Z",
-          "title": "【hololive Dreams ホロライブドリームス】HAPPY HALLOWEEN【hololive holoro | Anya Melfissa】",
-          "video_id": "aSeIgFCmhrI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T11:46:54Z",
+        "title": "【hololive Dreams ホロライブドリームス】HAPPY HALLOWEEN【hololive holoro | Anya Melfissa】",
+        "video_id": "aSeIgFCmhrI"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -580,5 +580,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T11:40:24Z"
+  "generated_at": "2026-10-29T11:50:32Z"
 }
