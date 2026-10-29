@@ -202,14 +202,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T23:00:00Z",
-          "title": "【JumpKing】じゃあ、登ろうか🏔【風真いろは/ホロライブ】",
-          "video_id": "3erWvFXAls4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T23:00:45Z",
+        "title": "【JumpKing】じゃあ、登ろうか🏔【風真いろは/ホロライブ】",
+        "video_id": "3erWvFXAls4"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -528,5 +526,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T22:20:26Z"
+  "generated_at": "2026-10-29T23:20:25Z"
 }
