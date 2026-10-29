@@ -120,7 +120,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-30T09:00:00Z",
-          "title": "【ホロ鯖ARK】ホロメンの写真をとったり！海も興味あり！テイムもする？！！【白銀ノエル/ホロライブ】",
+          "title": "【ホロ鯖ARK】写真家カワウソ先生！ハロウィンの香りを感じながらガルガンターテイムetc...！【白銀ノエル/ホロライブ】",
           "video_id": "5qw2BRMOOiA"
         }
       ]
@@ -140,7 +140,19 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T10:00:00Z",
+          "title": "桃太郎がわた太郎だった世界線【ギリギリわるくないわため】 #ギリわる",
+          "video_id": "ZetSOnfSnww"
+        },
+        {
+          "scheduled_at": "2026-10-30T15:00:00Z",
+          "title": "【雑談＆お礼】ハッピーハロウィンからはじまる雑談🐏🎃【角巻わため/ホロライブ４期生】",
+          "video_id": "6RhecgXxweA"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -150,7 +162,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T11:00:00Z",
+          "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第37話～第44話【姫森ルーナ/ホロライブ】",
+          "video_id": "Kzs0SHs1Zpc"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -526,5 +545,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T23:20:25Z"
+  "generated_at": "2026-10-29T23:30:49Z"
 }
