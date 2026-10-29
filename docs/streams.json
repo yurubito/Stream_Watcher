@@ -163,11 +163,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-10-29T04:30:17Z",
-        "title": "【 #ホロ鯖ARK 】その１４｜試練洞窟予習させてもらえるって⁉️【常闇トワ/ホロライブ】",
-        "video_id": "XeBRol4W3I4"
-      },
       "name": "常闇トワ"
     },
     {
@@ -459,7 +454,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T00:00:00Z",
+          "title": "THE AMAZING DIGITAL COOKIES | CookieRun: Kingdom #ad #sponsored",
+          "video_id": "8lFbmoq7kjQ"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -563,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T09:30:57Z"
+  "generated_at": "2026-10-29T09:40:37Z"
 }
