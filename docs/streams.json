@@ -178,7 +178,19 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T12:00:00Z",
+          "title": "【 BOMBANANA! 】 #ホロ551 で見ざる聞かざる言わざる連携して爆弾解除できるのか！？？？【博衣こより視点/ホロライブ】",
+          "video_id": "cAmMlH1Jr-0"
+        },
+        {
+          "scheduled_at": "2026-10-30T14:00:00Z",
+          "title": "【Membership Only】10月のナイショのお話💗甘々雑談💗【博衣こより/ホロライブ】",
+          "video_id": "LaXx_QD9ZoA"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -510,5 +522,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T18:20:33Z"
+  "generated_at": "2026-10-29T18:30:48Z"
 }
