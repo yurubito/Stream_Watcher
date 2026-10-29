@@ -50,14 +50,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T09:15:00Z",
-          "title": "【同時視聴】Blooming Parade!!　王国吊るし席会場　#咲き乱れみこち【ホロライブ/白上フブキ】",
-          "video_id": "72ypAS63wWo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T09:17:31Z",
+        "title": "【同時視聴】Blooming Parade!!　王国吊るし席会場　#咲き乱れみこち【ホロライブ/白上フブキ】",
+        "video_id": "72ypAS63wWo"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -115,7 +113,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-29T11:00:00Z",
-          "title": "NY帰りの犬",
+          "title": "【NY】ニューヨークコミコンで買ってきたもの開封する",
           "video_id": "Y-rYPrVt1Vo"
         }
       ]
@@ -329,14 +327,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T09:00:00Z",
-          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃21【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "f0X9XPBJv-Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T09:12:56Z",
+        "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃21【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "f0X9XPBJv-Q"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -562,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T09:10:32Z"
+  "generated_at": "2026-10-29T09:20:43Z"
 }
