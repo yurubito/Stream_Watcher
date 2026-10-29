@@ -406,13 +406,13 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-29T19:00:38Z",
+        "title": "🔴LIVE |【JUMP KING】First Time - Practice for HOLORACE | 💄",
+        "video_id": "rirD_bqRkEc"
+      },
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T19:00:00Z",
-          "title": "🔴LIVE |【JUMP KING】First Time - Practice for HOLORACE | 💄",
-          "video_id": "rirD_bqRkEc"
-        },
         {
           "scheduled_at": "2026-10-30T02:00:00Z",
           "title": "🔴LIVE |【PHASMOPHOBIA】Justice Jams Halloween!  | 💄👧🍵🐱",
@@ -529,5 +529,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T18:40:33Z"
+  "generated_at": "2026-10-29T19:00:50Z"
 }
