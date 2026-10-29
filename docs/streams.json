@@ -430,13 +430,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-29T21:01:35Z",
+        "title": "【Goddess of Victory: NIKKE】HAPPY 4 YEAR ANNIVERSARY! #NIKKEholoSquad #ad",
+        "video_id": "WDVrUHzKQuc"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T21:00:00Z",
-          "title": "【Goddess of Victory: NIKKE】HAPPY 4 YEAR ANNIVERSARY! #NIKKEholoSquad #ad",
-          "video_id": "WDVrUHzKQuc"
-        },
         {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
@@ -524,5 +524,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T20:00:54Z"
+  "generated_at": "2026-10-29T21:10:28Z"
 }
