@@ -256,6 +256,11 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-29T08:03:49Z",
+        "title": "【 歌枠 】ゲリラで歌います！！聴いてええええ❤【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "EG9DEE9eKvw"
+      },
       "name": "響咲リオナ",
       "upcoming": [
         {
@@ -535,11 +540,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-29T04:07:03Z",
-        "title": "【Dogpile】dogs but pile",
-        "video_id": "bYuFljfPI4Y"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -548,5 +548,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T08:00:57Z"
+  "generated_at": "2026-10-29T08:20:25Z"
 }
