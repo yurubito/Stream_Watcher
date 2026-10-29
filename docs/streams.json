@@ -107,14 +107,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T13:00:00Z",
-          "title": "#13【ほの暮しの庭】ED後 親密度とか2回目のアプデがきちゃ！【不知火フレア/ホロライブ】※ネタバレあり",
-          "video_id": "2aSS-7f3bFs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T13:04:29Z",
+        "title": "#13【ほの暮しの庭】ED後 親密度とか2回目のアプデがきちゃ！【不知火フレア/ホロライブ】※ネタバレあり",
+        "video_id": "2aSS-7f3bFs"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -166,14 +164,7 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T13:00:00Z",
-          "title": "【 #ホロ鯖ARK 】ルミナのサドル作る！！【 桃鈴ねね / hololive 】",
-          "video_id": "4l9K_QpV0Hc"
-        }
-      ]
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -257,14 +248,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T13:00:00Z",
-          "title": "【 #ホロARK 】ついに試練の洞窟に挑む🔥【ホロライブ  響咲リオナ】",
-          "video_id": "XZyWiUY8MFE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T13:06:34Z",
+        "title": "【 #ホロARK 】ついに試練の洞窟に挑む🔥【ホロライブ  響咲リオナ】",
+        "video_id": "XZyWiUY8MFE"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -296,11 +285,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-29T13:00:08Z",
-        "title": "果てない旅 / 輪堂千速（official）",
-        "video_id": "CAuo9Nrfor4"
-      },
       "name": "輪堂千速"
     },
     {
@@ -532,14 +516,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T13:00:00Z",
-          "title": "Newest Rusty Lake Game! I Become a Servant of the Lake【Pavolia Reine/hololive】",
-          "video_id": "M-AG7CuMXs8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T13:00:59Z",
+        "title": "Newest Rusty Lake Game! I Become a Servant of the Lake【Pavolia Reine/hololive】",
+        "video_id": "M-AG7CuMXs8"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -557,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T13:01:00Z"
+  "generated_at": "2026-10-29T13:10:34Z"
 }
