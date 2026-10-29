@@ -50,11 +50,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-29T13:00:14Z",
-        "title": "【#ホロドリ 】自分完凸するまで終われないガチャ🎃【ホロライブ/夏色まつり】",
-        "video_id": "wIZpKua4svI"
-      },
       "name": "夏色まつり",
       "upcoming": [
         {
@@ -166,6 +161,11 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-29T13:47:51Z",
+        "title": "【 #ホロ鯖ARK 】ワイバーンのお世話ぐるぐると戦う配信！【 桃鈴ねね / hololive 】",
+        "video_id": "WRmOCiY25og"
+      },
       "name": "桃鈴ねね"
     },
     {
@@ -488,16 +488,18 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T14:00:00Z",
+          "title": "【APEX LEGENDS】 FOR THE FIRST TIME IN FOREVER!! #IOLLIE 【Kureiji Ollie】",
+          "video_id": "bRxPuvCtUrc"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-29T11:46:54Z",
-        "title": "【hololive Dreams ホロライブドリームス】HAPPY HALLOWEEN【hololive holoro | Anya Melfissa】",
-        "video_id": "aSeIgFCmhrI"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -523,8 +525,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T10:00:00Z",
+          "title": "【Jump King】WATASHI WA UTAU NO GA SUKI",
+          "video_id": "0iV9iAER9ww"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-10-29T13:50:31Z"
+  "generated_at": "2026-10-29T14:01:06Z"
 }
