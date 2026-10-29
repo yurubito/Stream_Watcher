@@ -461,21 +461,11 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-29T14:02:34Z",
-        "title": "【 APEX LEGENDS 】IOLLIE, THE LEGEND IS BACK【 iofi / hololive】",
-        "video_id": "gX4NtduorW0"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-29T14:02:10Z",
-        "title": "【APEX LEGENDS】 FOR THE FIRST TIME IN FOREVER!! #IOLLIE 【Kureiji Ollie】",
-        "video_id": "bRxPuvCtUrc"
-      },
       "name": "クレイジー・オリー"
     },
     {
@@ -511,5 +501,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T15:40:35Z"
+  "generated_at": "2026-10-29T16:00:55Z"
 }
