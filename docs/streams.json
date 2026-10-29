@@ -82,14 +82,7 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T11:00:00Z",
-          "title": "【#生スバル】ハロウィンVRCやるしゅばああああああああああああああああああああああああああああああ！！！：member ship only stream【ホロライブ/大空スバル】",
-          "video_id": "QINsrK0XGYE"
-        }
-      ]
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -244,14 +237,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T11:00:00Z",
-          "title": "【月曜日定期雑談（木）】ふりかけ事件の真相をお伝えします【一条莉々華/hololive ReGLOSS】",
-          "video_id": "V2DPSq7wwp4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T11:01:13Z",
+        "title": "【月曜日定期雑談（木）】ふりかけ事件の真相をお伝えします【一条莉々華/hololive ReGLOSS】",
+        "video_id": "V2DPSq7wwp4"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -547,7 +538,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T14:00:00Z",
+          "title": "【 APEX LEGENDS 】IOLLIE, THE LEGEND IS BACK【 iofi / hololive】",
+          "video_id": "gX4NtduorW0"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -580,5 +578,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T11:00:52Z"
+  "generated_at": "2026-10-29T11:10:44Z"
 }
