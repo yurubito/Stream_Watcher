@@ -333,14 +333,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T12:30:00Z",
-          "title": "【手元配信】科学博物館グッズ紹介【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "CdNRebqDxlk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T12:30:22Z",
+        "title": "【手元配信】科学博物館グッズ紹介【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "CdNRebqDxlk"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -566,5 +564,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T12:20:41Z"
+  "generated_at": "2026-10-29T12:30:39Z"
 }
