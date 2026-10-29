@@ -241,7 +241,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T11:00:00Z",
+          "title": "【月曜日定期雑談（木）】ふりかけ事件の真相をお伝えします【一条莉々華/hololive ReGLOSS】",
+          "video_id": "V2DPSq7wwp4"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -562,5 +569,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T08:30:44Z"
+  "generated_at": "2026-10-29T08:53:10Z"
 }
