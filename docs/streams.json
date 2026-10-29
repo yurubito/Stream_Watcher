@@ -92,11 +92,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-29T11:00:00Z",
-        "title": "【NY】ニューヨークコミコンで買ってきたもの開封する",
-        "video_id": "Y-rYPrVt1Vo"
-      },
       "name": "戌神ころね"
     },
     {
@@ -245,11 +240,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-29T11:30:27Z",
-        "title": "【課金できた】水宮がでたんだからでるだろ！ガチャ！【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "zo0B_AyhEzc"
-      },
       "name": "轟はじめ",
       "upcoming": [
         {
@@ -546,7 +536,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T13:00:00Z",
+          "title": "Newest Rusty Lake Game! I Become a Servant of the Lake【Pavolia Reine/hololive】",
+          "video_id": "M-AG7CuMXs8"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -564,5 +561,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T12:30:39Z"
+  "generated_at": "2026-10-29T12:40:34Z"
 }
