@@ -252,13 +252,13 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-10-29T11:30:27Z",
+        "title": "【課金できた】水宮がでたんだからでるだろ！ガチャ！【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "zo0B_AyhEzc"
+      },
       "name": "轟はじめ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T11:30:00Z",
-          "title": "【課金できた】水宮がでたんだからでるだろ！ガチャ！【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "zo0B_AyhEzc"
-        },
         {
           "scheduled_at": "2026-10-30T09:15:00Z",
           "title": "【密着】FILA×轟はじめコラボの裏側に完全潜入！こだわり抜いたスニーカー＆ロゴ制作の全貌を公開！#FILABANCHO",
@@ -555,7 +555,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T11:45:00Z",
+          "title": "【hololive Dreams ホロライブドリームス】HAPPY HALLOWEEN【hololive holoro | Anya Melfissa】",
+          "video_id": "aSeIgFCmhrI"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -578,5 +585,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T11:10:44Z"
+  "generated_at": "2026-10-29T11:30:54Z"
 }
