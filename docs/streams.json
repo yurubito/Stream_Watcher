@@ -101,12 +101,31 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T11:00:00Z",
+          "title": "NY帰りの犬",
+          "video_id": "Y-rYPrVt1Vo"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "live": {
+        "started_at": "2026-10-29T06:58:45Z",
+        "title": "【#ホロ鯖ARK】ホロメンたちと試練の洞窟へ行く！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "KweMgPbHN9I"
+      },
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T12:00:00Z",
+          "title": "#1【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
+          "video_id": "jqJb0qnueDo"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -116,14 +135,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T06:00:00Z",
-          "title": "【ホロ鯖ARK】初めての試練の洞窟＆前半は拠点整理とテイム！！【白銀ノエル/ホロライブ】",
-          "video_id": "4SVZn_9sOXY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T06:00:16Z",
+        "title": "【ホロ鯖ARK】初めての試練の洞窟＆前半は拠点整理とテイム！！【白銀ノエル/ホロライブ】",
+        "video_id": "4SVZn_9sOXY"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -138,6 +155,11 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-29T04:30:17Z",
+        "title": "【 #ホロ鯖ARK 】その１４｜試練洞窟予習させてもらえるって⁉️【常闇トワ/ホロライブ】",
+        "video_id": "XeBRol4W3I4"
+      },
       "name": "常闇トワ"
     },
     {
@@ -163,7 +185,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T10:00:00Z",
+          "title": "【ポルカの伝説】帰ってきたおつまみドラフト！？！！？",
+          "video_id": "PY7_JVQ2hKE"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -203,7 +232,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T09:15:00Z",
+          "title": "【密着】FILA×轟はじめコラボの裏側に完全潜入！こだわり抜いたスニーカー＆ロゴ制作の全貌を公開！#FILABANCHO",
+          "video_id": "L_qGRZZAQ5g"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -211,9 +247,9 @@
       "name": "響咲リオナ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-29T03:00:00Z",
-          "title": "【定期配信＃48】木曜のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
-          "video_id": "ao7gnnc5IOI"
+          "scheduled_at": "2026-10-29T13:00:00Z",
+          "title": "【 #ホロARK 】ついに試練の洞窟に挑む🔥【ホロライブ  響咲リオナ】",
+          "video_id": "XZyWiUY8MFE"
         }
       ]
     },
@@ -306,9 +342,9 @@
       "name": "百灯キョーコ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-29T02:00:00Z",
-          "title": "【EN】Who will I see at the top??【Hyakuto Kyoko/Hololive】",
-          "video_id": "S0kwyIv6ntM"
+          "scheduled_at": "2026-10-29T13:00:00Z",
+          "title": "明日のイベントに向けて練習～～～！！ | Jump King【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "Wuca3jqkXjg"
         }
       ]
     },
@@ -320,11 +356,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-29T00:00:19Z",
-        "title": "【Granblue Fantasy Versus: Rising】where is sand dolphin #PR #calliolive",
-        "video_id": "pRIJRmI4YZM"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -436,6 +467,11 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-29T21:00:00Z",
+          "title": "【Goddess of Victory: NIKKE】HAPPY 4 YEAR ANNIVERSARY! #NIKKEholoSquad #ad",
+          "video_id": "WDVrUHzKQuc"
+        },
+        {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
           "video_id": "rzxphuacYxo"
@@ -445,7 +481,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T19:00:00Z",
+          "title": "【Goddess of Victory: NIKKE】WOAH!!! YAY! LET'S CHECK IT OUT!",
+          "video_id": "DkGhq1hi8KY"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -490,14 +533,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T04:30:00Z",
-          "title": "【Dogpile】dogs but pile",
-          "video_id": "bYuFljfPI4Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T04:07:03Z",
+        "title": "【Dogpile】dogs but pile",
+        "video_id": "bYuFljfPI4Y"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -505,5 +546,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T04:20:23Z"
+  "generated_at": "2026-10-29T07:00:57Z"
 }
