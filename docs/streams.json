@@ -388,7 +388,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T03:00:00Z",
+          "title": "【Five Nights at Freddy's: Security Breach】I CAN DO THIS, FREDDY!",
+          "video_id": "tiTvG0apB-w"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -449,11 +456,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-29T19:01:40Z",
-        "title": "【Goddess of Victory: NIKKE】WOAH!!! YAY! LET'S CHECK IT OUT!",
-        "video_id": "DkGhq1hi8KY"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -526,5 +528,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T22:00:48Z"
+  "generated_at": "2026-10-29T22:20:26Z"
 }
