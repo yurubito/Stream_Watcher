@@ -86,7 +86,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-29T11:00:00Z",
-          "title": "【】メンバーシップ限定配信：ハロウィンVRC【ホロライブ/大空スバル】",
+          "title": "【#生スバル】ハロウィンVRCやるしゅばああああああああああああああああああああああああああああああ！！！：member ship only stream【ホロライブ/大空スバル】",
           "video_id": "QINsrK0XGYE"
         }
       ]
@@ -454,6 +454,11 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-10-29T10:30:13Z",
+        "title": "COME HOME, LITTLE WITCH NERISSA!!!! | hololive Dreams【#holodori】",
+        "video_id": "DQhbRXVB8zs"
+      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
         {
@@ -565,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T10:30:53Z"
+  "generated_at": "2026-10-29T10:50:40Z"
 }
