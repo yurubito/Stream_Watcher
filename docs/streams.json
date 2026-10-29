@@ -405,6 +405,11 @@
           "video_id": "3FwAg_0_xDc"
         },
         {
+          "scheduled_at": "2026-10-30T10:00:00Z",
+          "title": "🔴LIVE |【JUMP KING HOLORACE】Elizabeth POV | 💄#holorace2026",
+          "video_id": "3EKBdQXpVk0"
+        },
+        {
           "scheduled_at": "2027-04-25T18:00:00Z",
           "title": "🛡🌹 Rosarian Common Room ❤️ Community Hangout 🌹 🛡",
           "video_id": "BG1PnrEgNMY"
@@ -464,6 +469,11 @@
           "scheduled_at": "2026-10-31T12:00:00Z",
           "title": "Goblok Tenan | OST Troublemaker 2 Beyond Dream by AREA15 hololive",
           "video_id": "c9yFK-ytqPg"
+        },
+        {
+          "scheduled_at": "2026-10-31T13:00:00Z",
+          "title": "【 #holoctober 】FINALE! FUN THINGS INSIDE!【 iofi / hololive】",
+          "video_id": "60_b29Q9Fdc"
         }
       ]
     },
@@ -505,5 +515,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T17:10:28Z"
+  "generated_at": "2026-10-29T17:20:35Z"
 }
