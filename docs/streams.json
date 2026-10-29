@@ -219,7 +219,14 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T10:00:00Z",
+          "title": "【 #ホロ鯖ARK 】トライブの役に立ったり新しいテイムしたり洞窟に挑戦したりしたい！！！【博衣こより/ホロライブ】",
+          "video_id": "Cct8fHvoNPg"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -322,7 +329,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T09:00:00Z",
+          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃21【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "f0X9XPBJv-Q"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -548,5 +562,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T08:20:25Z"
+  "generated_at": "2026-10-29T08:30:44Z"
 }
