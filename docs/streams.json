@@ -158,11 +158,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-29T13:47:51Z",
-        "title": "【 #ホロ鯖ARK 】ワイバーンのお世話ぐるぐると戦う配信！【 桃鈴ねね / hololive 】",
-        "video_id": "WRmOCiY25og"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -516,5 +511,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T15:30:49Z"
+  "generated_at": "2026-10-29T15:40:35Z"
 }
