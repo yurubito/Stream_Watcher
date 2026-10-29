@@ -117,12 +117,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-29T06:00:16Z",
-        "title": "【ホロ鯖ARK】初めての試練の洞窟＆前半は拠点整理とテイム！！【白銀ノエル/ホロライブ】",
-        "video_id": "4SVZn_9sOXY"
-      },
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T09:00:00Z",
+          "title": "【ホロ鯖ARK】ホロメンの写真をとったり！海も興味あり！テイムもする？！！【白銀ノエル/ホロライブ】",
+          "video_id": "5qw2BRMOOiA"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -486,11 +488,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-29T12:00:29Z",
-        "title": "【#OllieNewDrip】 ERM ACTUALLY- NEW OUTFIT!! 【Kureiji Ollie】",
-        "video_id": "Ikx_2yaU7AM"
-      },
       "name": "クレイジー・オリー"
     },
     {
@@ -529,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T13:40:42Z"
+  "generated_at": "2026-10-29T13:50:31Z"
 }
