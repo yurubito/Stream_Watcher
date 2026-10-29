@@ -52,7 +52,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T09:15:00Z",
+          "title": "【同時視聴】Blooming Parade!!　王国を吊るし席会場　#咲き乱れみこち【ホロライブ/白上フブキ】",
+          "video_id": "72ypAS63wWo"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -502,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T01:30:40Z"
+  "generated_at": "2026-10-29T03:40:23Z"
 }
