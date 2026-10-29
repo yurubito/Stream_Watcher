@@ -92,11 +92,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-29T12:45:27Z",
-        "title": "#1【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
-        "video_id": "x7bMoyNWaEE"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -151,11 +146,6 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-29T12:59:49Z",
-        "title": "【晩酌】明日からしばらく引っ越し休暇入ります～！！【​雪花ラミィ /ホロライブ】",
-        "video_id": "FDAt67Um_sM"
-      },
       "name": "雪花ラミィ"
     },
     {
@@ -531,5 +521,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T14:10:44Z"
+  "generated_at": "2026-10-29T14:30:48Z"
 }
