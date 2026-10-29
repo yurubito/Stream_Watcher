@@ -50,13 +50,13 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-29T13:00:14Z",
+        "title": "【#ホロドリ 】自分完凸するまで終われないガチャ🎃【ホロライブ/夏色まつり】",
+        "video_id": "wIZpKua4svI"
+      },
       "name": "夏色まつり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T13:00:00Z",
-          "title": "【#ホロドリ 】自分完凸するまで終われないガチャ🎃【ホロライブ/夏色まつり】",
-          "video_id": "wIZpKua4svI"
-        },
         {
           "scheduled_at": "2026-11-01T11:00:00Z",
           "title": "【 3DLIVE 】速報！夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
@@ -97,6 +97,11 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-10-29T12:45:27Z",
+        "title": "#1【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "x7bMoyNWaEE"
+      },
       "name": "兎田ぺこら"
     },
     {
@@ -151,14 +156,12 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T13:00:00Z",
-          "title": "【晩酌】明日からしばらく引っ越し休暇入ります～！！【​雪花ラミィ /ホロライブ】",
-          "video_id": "FDAt67Um_sM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T12:59:49Z",
+        "title": "【晩酌】明日からしばらく引っ越し休暇入ります～！！【​雪花ラミィ /ホロライブ】",
+        "video_id": "FDAt67Um_sM"
+      },
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -210,7 +213,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T23:00:00Z",
+          "title": "【JumpKing】じゃあ、登ろうか🏔【風真いろは/ホロライブ】",
+          "video_id": "3erWvFXAls4"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -287,18 +297,11 @@
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
       "live": {
-        "started_at": "2026-10-29T11:59:07Z",
-        "title": "【告知アリ凸待ち】自認！！！新人限定凸待ち～～！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "uNfrn28Q9Fk"
+        "started_at": "2026-10-29T13:00:08Z",
+        "title": "果てない旅 / 輪堂千速（official）",
+        "video_id": "CAuo9Nrfor4"
       },
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T13:00:00Z",
-          "title": "？？？",
-          "video_id": "CAuo9Nrfor4"
-        }
-      ]
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -333,14 +336,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T13:00:00Z",
-          "title": "明日のイベントに向けて練習～～～！！ | Jump King【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "Wuca3jqkXjg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T12:59:13Z",
+        "title": "明日のイベントに向けて練習～～～！！ | Jump King【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "Wuca3jqkXjg"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -556,5 +557,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T12:50:31Z"
+  "generated_at": "2026-10-29T13:01:00Z"
 }
