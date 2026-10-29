@@ -347,14 +347,12 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T04:00:00Z",
-          "title": "【Watchalong / 同時視聴】IRyS 1st Concert 「HOPE ||: Beyond the Stars」配信チケット11/6まで発売中！",
-          "video_id": "qRhXRK4zu1s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T04:02:15Z",
+        "title": "【Watchalong / 同時視聴】IRyS 1st Concert 「HOPE ||: Beyond the Stars」配信チケット11/6まで発売中！",
+        "video_id": "qRhXRK4zu1s"
+      },
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -509,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T03:40:23Z"
+  "generated_at": "2026-10-29T04:10:25Z"
 }
