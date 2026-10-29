@@ -450,14 +450,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T19:00:00Z",
-          "title": "【Goddess of Victory: NIKKE】WOAH!!! YAY! LET'S CHECK IT OUT!",
-          "video_id": "DkGhq1hi8KY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T19:01:40Z",
+        "title": "【Goddess of Victory: NIKKE】WOAH!!! YAY! LET'S CHECK IT OUT!",
+        "video_id": "DkGhq1hi8KY"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -529,5 +527,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T19:00:50Z"
+  "generated_at": "2026-10-29T19:10:26Z"
 }
