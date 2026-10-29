@@ -79,7 +79,14 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【#3】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+          "video_id": "2kTRJXDL8bA"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -522,5 +529,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T19:20:26Z"
+  "generated_at": "2026-10-29T19:40:26Z"
 }
