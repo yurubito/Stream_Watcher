@@ -300,7 +300,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【R.E.P.O.】新MAPも来た！？先輩方と初めてのR.E.P.Oでワクワク！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "JvUyxkeFWRM"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -519,5 +526,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T21:50:28Z"
+  "generated_at": "2026-10-29T22:00:48Z"
 }
