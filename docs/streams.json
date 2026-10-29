@@ -235,11 +235,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-29T11:01:13Z",
-        "title": "【月曜日定期雑談（木）】ふりかけ事件の真相をお伝えします【一条莉々華/hololive ReGLOSS】",
-        "video_id": "V2DPSq7wwp4"
-      },
       "name": "一条莉々華"
     },
     {
@@ -333,11 +328,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-29T10:59:14Z",
-        "title": "初対面なのに二人とも様子が…好きな電柱ありますか？【ホロライブ/AZKi/熱千めら】",
-        "video_id": "4LQhvVZ2zWo"
-      },
       "name": "熱千めら"
     },
     {
@@ -538,6 +528,11 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-10-29T12:00:29Z",
+        "title": "【#OllieNewDrip】 ERM ACTUALLY- NEW OUTFIT!! 【Kureiji Ollie】",
+        "video_id": "Ikx_2yaU7AM"
+      },
       "name": "クレイジー・オリー"
     },
     {
@@ -571,5 +566,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T12:10:26Z"
+  "generated_at": "2026-10-29T12:20:41Z"
 }
