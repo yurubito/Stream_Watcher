@@ -183,11 +183,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-29T10:00:09Z",
-        "title": "【ポルカの伝説】帰ってきたおつまみドラフト！？！！？",
-        "video_id": "PY7_JVQ2hKE"
-      },
       "name": "尾丸ポルカ",
       "upcoming": [
         {
@@ -558,5 +553,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T10:10:28Z"
+  "generated_at": "2026-10-29T10:20:24Z"
 }
