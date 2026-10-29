@@ -148,7 +148,14 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "name": "宝鐘マリン"
+      "name": "宝鐘マリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T12:00:00Z",
+          "title": "【 勝利の女神：NIKKE 】船長初NIKKE！！4周年、参戦します！！【宝鐘マリン/ホロライブ】#PR",
+          "video_id": "suiN7F1D7E4"
+        }
+      ]
     },
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -244,6 +251,11 @@
       "group": "DEV_IS ReGLOSS",
       "name": "轟はじめ",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T11:30:00Z",
+          "title": "【課金できた】水宮がでたんだからでるだろ！ガチャ！【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "zo0B_AyhEzc"
+        },
         {
           "scheduled_at": "2026-10-30T09:15:00Z",
           "title": "【密着】FILA×轟はじめコラボの裏側に完全潜入！こだわり抜いたスニーカー＆ロゴ制作の全貌を公開！#FILABANCHO",
@@ -553,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T10:20:24Z"
+  "generated_at": "2026-10-29T10:30:53Z"
 }
