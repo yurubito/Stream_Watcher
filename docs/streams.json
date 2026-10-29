@@ -102,11 +102,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-29T06:58:45Z",
-        "title": "【#ホロ鯖ARK】ホロメンたちと試練の洞窟へ行く！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "KweMgPbHN9I"
-      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
@@ -234,7 +229,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T12:00:00Z",
+          "title": "【 歌枠 】ゆるくゆるく【音乃瀬奏】#ReGLOSS",
+          "video_id": "YUnpx-WpTGA"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -310,13 +312,13 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-29T11:59:07Z",
+        "title": "【告知アリ凸待ち】自認！！！新人限定凸待ち～～！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "uNfrn28Q9Fk"
+      },
       "name": "輪堂千速",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T12:00:00Z",
-          "title": "【告知アリ凸待ち】自認！！！新人限定凸待ち～～！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "uNfrn28Q9Fk"
-        },
         {
           "scheduled_at": "2026-10-29T13:00:00Z",
           "title": "？？？",
@@ -452,11 +454,6 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-29T10:30:13Z",
-        "title": "COME HOME, LITTLE WITCH NERISSA!!!! | hololive Dreams【#holodori】",
-        "video_id": "DQhbRXVB8zs"
-      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
         {
@@ -580,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T11:50:32Z"
+  "generated_at": "2026-10-29T12:00:57Z"
 }
