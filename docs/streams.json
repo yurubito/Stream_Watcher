@@ -396,12 +396,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-28T22:58:56Z",
-        "title": "【The Kidnap】yoink",
-        "video_id": "JWtRHVWt8dY"
-      },
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-29T15:00:00Z",
+          "title": "【DETROIT: BECOME HUMAN】Stuck between a rock and an automaton WITH  @holoen_ceciliaimmergreen​",
+          "video_id": "WRS2SODdX8w"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -505,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-29T00:50:21Z"
+  "generated_at": "2026-10-29T01:20:26Z"
 }
