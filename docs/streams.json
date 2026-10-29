@@ -234,11 +234,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-29T13:06:34Z",
-        "title": "【 #ホロARK 】ついに試練の洞窟に挑む🔥【ホロライブ  響咲リオナ】",
-        "video_id": "XZyWiUY8MFE"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -527,5 +522,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T19:10:26Z"
+  "generated_at": "2026-10-29T19:20:26Z"
 }
