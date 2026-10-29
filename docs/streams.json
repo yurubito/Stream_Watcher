@@ -383,14 +383,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-29T15:00:00Z",
-          "title": "【DETROIT: BECOME HUMAN】Stuck between a rock and an automaton WITH  @holoen_ceciliaimmergreen​",
-          "video_id": "WRS2SODdX8w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T15:01:05Z",
+        "title": "【DETROIT: BECOME HUMAN】Stuck between a rock and an automaton WITH  @holoen_ceciliaimmergreen​",
+        "video_id": "WRS2SODdX8w"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -528,5 +526,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T14:40:27Z"
+  "generated_at": "2026-10-29T15:10:29Z"
 }
