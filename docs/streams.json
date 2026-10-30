@@ -13,11 +13,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-30T13:04:38Z",
-        "title": "【告知】お知らせがある！！！【ホロライブ/ ロボ子さん 】",
-        "video_id": "IKW0V0xRGM8"
-      },
       "name": "ロボ子さん",
       "upcoming": [
         {
@@ -35,11 +30,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-30T12:04:03Z",
-        "title": "【ソロライブ新衣装お披露目！】2ndソロライブ振り返り！！みんなありがとうだにぇえええええええええ！！！！！！🌸【ホロライブ/さくらみこ】",
-        "video_id": "QeWn0SyQzxM"
-      },
       "name": "さくらみこ"
     },
     {
@@ -242,11 +232,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-10-30T12:02:56Z",
-        "title": "【BOMBANANA!】見えない聞こえない喋れない！？三匹の猿になって爆弾解除！！！ #ホロ551【尾丸ポルカ/博衣こより/一条莉々華】",
-        "video_id": "0hIvMpxHLvw"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -270,17 +255,12 @@
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
       "live": {
-        "started_at": "2026-10-30T12:00:43Z",
-        "title": "【 BOMBANANA! 】 #ホロ551 で見ざる聞かざる言わざる連携して爆弾解除できるのか！？？？【博衣こより視点/ホロライブ】",
-        "video_id": "cAmMlH1Jr-0"
+        "started_at": "2026-10-30T14:20:08Z",
+        "title": "【Membership Only】10月のナイショのお話💗甘々雑談💗【博衣こより/ホロライブ】",
+        "video_id": "LaXx_QD9ZoA"
       },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T14:00:00Z",
-          "title": "【Membership Only】10月のナイショのお話💗甘々雑談💗【博衣こより/ホロライブ】",
-          "video_id": "LaXx_QD9ZoA"
-        },
         {
           "scheduled_at": "2026-10-31T02:00:00Z",
           "title": "【空の軌跡 the 2nd】完全初見！第4章はじまる！？いざグランセルへ！ #5 【博衣こより/ホロライブ】※ネタバレあり",
@@ -306,11 +286,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-30T12:02:21Z",
-        "title": "変質者ではないんです！！551で初めてのBOMBANANA!【一条莉々華/hololive ReGLOSS】",
-        "video_id": "p9J_muoYcxk"
-      },
       "name": "一条莉々華"
     },
     {
@@ -416,6 +391,11 @@
       "group": "アソビ★まわり隊！",
       "name": "百灯キョーコ",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T02:00:00Z",
+          "title": "【EN】#7 WHO IS LEFT!? I'M COMING FOR YOU!!!! | Cuphead【Hyakuto Kyoko/Hololive】",
+          "video_id": "kYxfR1beO4o"
+        },
         {
           "scheduled_at": "2026-10-31T11:00:00Z",
           "title": "【マシュマロ雑談】ハロウィンだー！アソビ★まわり隊！４人でマシュマロ食べまくる！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -628,5 +608,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T13:50:27Z"
+  "generated_at": "2026-10-30T14:20:34Z"
 }
