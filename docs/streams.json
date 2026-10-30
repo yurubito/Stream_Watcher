@@ -374,11 +374,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-30T08:24:13Z",
-        "title": "【JUMP KING HOLORACE】駆け込み練習～～～！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "9GET5G91x_s"
-      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -727,5 +722,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T09:30:43Z"
+  "generated_at": "2026-10-30T09:40:26Z"
 }
