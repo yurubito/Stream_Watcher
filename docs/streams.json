@@ -235,11 +235,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-29T23:00:45Z",
-        "title": "【JumpKing】じゃあ、登ろうか🏔【風真いろは/ホロライブ】",
-        "video_id": "3erWvFXAls4"
-      },
       "name": "風真いろは"
     },
     {
@@ -343,18 +338,21 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T02:00:00Z",
-          "title": "【EN】To the TOOOOOOOOOOOP!!!【Hyakuto Kyoko/Hololive】",
-          "video_id": "e3hrAwhfRA4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T01:59:13Z",
+        "title": "【EN】To the TOOOOOOOOOOOP!!!【Hyakuto Kyoko/Hololive】",
+        "video_id": "e3hrAwhfRA4"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
+      "live": {
+        "started_at": "2026-10-30T02:58:20Z",
+        "title": "【今夜19時スタート】アソビ★まわり隊！初の冠番組＆歌ってみた【#昼ホロ / #花園さやか】",
+        "video_id": "YxTRXD1-kyQ"
+      },
       "name": "井月みちる"
     },
     {
@@ -366,6 +364,11 @@
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
           "video_id": "b6mcVgI0JjY"
+        },
+        {
+          "scheduled_at": "2026-10-31T03:00:00Z",
+          "title": "洗脳 (Brainwashed) - Mori Calliope (cover)",
+          "video_id": "zHorAsW9mPQ"
         }
       ]
     },
@@ -419,14 +422,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T03:00:00Z",
-          "title": "【Five Nights at Freddy's: Security Breach】I CAN DO THIS, FREDDY!",
-          "video_id": "tiTvG0apB-w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T03:11:15Z",
+        "title": "【Five Nights at Freddy's: Security Breach】I CAN DO THIS, FREDDY!",
+        "video_id": "tiTvG0apB-w"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -441,13 +442,13 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-30T02:02:17Z",
+        "title": "🔴LIVE |【PHASMOPHOBIA】Justice Jams Halloween!  | 💄👧🍵🐱",
+        "video_id": "3FwAg_0_xDc"
+      },
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T02:00:00Z",
-          "title": "🔴LIVE |【PHASMOPHOBIA】Justice Jams Halloween!  | 💄👧🍵🐱",
-          "video_id": "3FwAg_0_xDc"
-        },
         {
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "🔴LIVE |【JUMP KING HOLORACE】Elizabeth POV | 💄#holorace2026",
@@ -464,9 +465,9 @@
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
       "live": {
-        "started_at": "2026-10-29T21:01:35Z",
-        "title": "【Goddess of Victory: NIKKE】HAPPY 4 YEAR ANNIVERSARY! #NIKKEholoSquad #ad",
-        "video_id": "WDVrUHzKQuc"
+        "started_at": "2026-10-30T02:08:03Z",
+        "title": "PHASMOPHOBIA GIGI MURIN",
+        "video_id": "paGB4o8r5JQ"
       },
       "name": "ジジ・ムリン",
       "upcoming": [
@@ -522,7 +523,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T03:30:00Z",
+          "title": "【BUTTON PRISON | 押してダメなら押してみろ】Oh, Hey! A Funny-Looking Little Button!【hololive | Anya Melfissa】",
+          "video_id": "RqMxZbEYBOU"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -532,7 +540,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T08:00:00Z",
+          "title": "a little pain won't hurt, right~? #ホロドリ",
+          "video_id": "Y2naYuoqN-4"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -552,5 +567,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T01:20:36Z"
+  "generated_at": "2026-10-30T03:20:31Z"
 }
