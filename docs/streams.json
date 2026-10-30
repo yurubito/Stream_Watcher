@@ -164,13 +164,13 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-10-30T11:00:10Z",
+        "title": "【#ホロ鯖ARK】DAY20🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "J_0fi6QvUfE"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T11:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY20🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "J_0fi6QvUfE"
-        },
         {
           "scheduled_at": "2026-11-01T09:00:00Z",
           "title": "【BLEACH Mirrors High】【兎田ぺこら/ホロライブ】",
@@ -705,5 +705,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T10:50:24Z"
+  "generated_at": "2026-10-30T11:01:15Z"
 }
