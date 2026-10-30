@@ -179,14 +179,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T09:15:00Z",
-          "title": "【ホロ鯖ARK】写真家カワウソ先生！ハロウィンの香りを感じながらガルガンターテイムetc...！【白銀ノエル/ホロライブ】",
-          "video_id": "5qw2BRMOOiA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T09:15:52Z",
+        "title": "【ホロ鯖ARK】写真家カワウソ先生！ハロウィンの香りを感じながらガルガンターテイムetc...！【白銀ノエル/ホロライブ】",
+        "video_id": "5qw2BRMOOiA"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -330,13 +328,13 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-10-30T09:15:09Z",
+        "title": "【密着】FILA×轟はじめコラボの裏側に完全潜入！こだわり抜いたスニーカー＆ロゴ制作の全貌を公開！#FILABANCHO",
+        "video_id": "L_qGRZZAQ5g"
+      },
       "name": "轟はじめ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T09:15:00Z",
-          "title": "【密着】FILA×轟はじめコラボの裏側に完全潜入！こだわり抜いたスニーカー＆ロゴ制作の全貌を公開！#FILABANCHO",
-          "video_id": "L_qGRZZAQ5g"
-        },
         {
           "scheduled_at": "2026-10-30T13:00:00Z",
           "title": "【雑談】FILAさんコラボ、インドネシアロケ、カラオケで本人登場とか【轟はじめ/ホロライブReGLOSS】",
@@ -426,6 +424,11 @@
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "高難易度アクション「Jump King」の初心者大会🔰#holorace2026【ホロライブ/熱千めら】",
           "video_id": "_3_gYnsYquE"
+        },
+        {
+          "scheduled_at": "2026-10-31T10:00:00Z",
+          "title": "UNDEAD covered by 熱千めら",
+          "video_id": "pm4Vck0LCqE"
         }
       ]
     },
@@ -734,5 +737,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T09:10:47Z"
+  "generated_at": "2026-10-30T09:20:33Z"
 }
