@@ -18,7 +18,14 @@
         "title": "【告知】お知らせがある！！！【ホロライブ/ ロボ子さん 】",
         "video_id": "IKW0V0xRGM8"
       },
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T12:00:00Z",
+          "title": "【 オフコラボ】カメラ付き！ #お子様バッテリー  でもできるハロウィンクッキング✨  【ホロライブ/ ロボ子さん 】",
+          "video_id": "G6bF7EFUyhc"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -299,11 +306,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-30T13:01:42Z",
-        "title": "【 メン限 / 雑談 】ん？【音乃瀬奏】#ReGLOSS",
-        "video_id": "7WN_Cni7deY"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -566,11 +568,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-30T12:00:15Z",
-        "title": "【JAPANESE RAMEN SIMULATOR】DATTEBAYO~ with @PavoliaReine",
-        "video_id": "whveNujaPVo"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -618,11 +615,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-10-30T11:59:55Z",
-        "title": "Pavolia Reine & Cecilia Immergreen Run a Business - Japanese Ramen Simulator【Pavolia Reine/hololive】",
-        "video_id": "2Ofg-tSzc9U"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -648,5 +640,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T13:10:25Z"
+  "generated_at": "2026-10-30T13:20:28Z"
 }
