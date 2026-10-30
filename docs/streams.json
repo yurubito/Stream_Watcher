@@ -181,7 +181,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
+          "video_id": "sw9dV4iSYfo"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -274,11 +281,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-30T09:03:04Z",
-        "title": "【 回転寿司シミュレーター 】寿司屋の娘です。回転寿司屋OPENさせます。【鷹嶺ルイ/ホロライブ】",
-        "video_id": "2uto8dNCJlc"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -703,5 +705,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T11:10:33Z"
+  "generated_at": "2026-10-30T11:30:49Z"
 }
