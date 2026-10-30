@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【#ホロドリ】初のLive2D配信！！ホロドリの衣装で遊んじゃおう！！【ときのそら/ホロライブ】",
+          "video_id": "FOW5_1bJqXg"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -20,14 +27,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T10:00:00Z",
-          "title": "IRIS OUT - 米津玄師 / AZKi (Cover)",
-          "video_id": "xZVjjUTFgj0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T10:00:08Z",
+        "title": "IRIS OUT - 米津玄師 / AZKi (Cover)",
+        "video_id": "xZVjjUTFgj0"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -78,13 +83,13 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-30T10:00:32Z",
+        "title": "【JUMP KING HOLORACE】初心者限定！？完全初見で挑んだら何位になるのかッ！【ホロライブ/夏色まつり】",
+        "video_id": "YYuSQaMnojg"
+      },
       "name": "夏色まつり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T10:00:00Z",
-          "title": "【JUMP KING HOLORACE】初心者限定！？完全初見で挑んだら何位になるのかッ！【ホロライブ/夏色まつり】",
-          "video_id": "YYuSQaMnojg"
-        },
         {
           "scheduled_at": "2026-10-30T13:00:00Z",
           "title": "【R.E.P.O.】大型アプデきちゃ！プロに任せなさい！【ホロライブ/夏色まつり】",
@@ -201,13 +206,13 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-10-30T10:00:07Z",
+        "title": "桃太郎がわた太郎だった世界線【ギリギリわるくないわため】 #ギリわる",
+        "video_id": "ZetSOnfSnww"
+      },
       "name": "角巻わため",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T10:00:00Z",
-          "title": "桃太郎がわた太郎だった世界線【ギリギリわるくないわため】 #ギリわる",
-          "video_id": "ZetSOnfSnww"
-        },
         {
           "scheduled_at": "2026-10-30T15:00:00Z",
           "title": "【雑談＆お礼】ハッピーハロウィンからはじまる雑談🐏🎃【角巻わため/ホロライブ４期生】",
@@ -398,13 +403,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-30T10:00:28Z",
+        "title": "高難易度アクション「Jump King」の初心者大会🔰#holorace2026【ホロライブ/熱千めら】",
+        "video_id": "_3_gYnsYquE"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T10:00:00Z",
-          "title": "高難易度アクション「Jump King」の初心者大会🔰#holorace2026【ホロライブ/熱千めら】",
-          "video_id": "_3_gYnsYquE"
-        },
         {
           "scheduled_at": "2026-10-31T10:00:00Z",
           "title": "UNDEAD covered by 熱千めら",
@@ -415,14 +420,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T10:00:00Z",
-          "title": "【JUMP KING HOLORACE】ジャンプは物理 by 宙科そぴあ【ホロライブ/アソビ★まわり隊！】",
-          "video_id": "1nGDxGnxJtA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T10:00:50Z",
+        "title": "【JUMP KING HOLORACE】ジャンプは物理 by 宙科そぴあ【ホロライブ/アソビ★まわり隊！】",
+        "video_id": "1nGDxGnxJtA"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -439,13 +442,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-30T09:59:30Z",
+        "title": "【JUMP KING HOLORACE】遂に本番！！ てっぺん目指すぞーーー！！ |  Kyoko POV【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "B_NEeTucjJI"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T10:00:00Z",
-          "title": "【JUMP KING HOLORACE】遂に本番！！ てっぺん目指すぞーーー！！ |  Kyoko POV【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "B_NEeTucjJI"
-        },
         {
           "scheduled_at": "2026-10-31T11:00:00Z",
           "title": "【マシュマロ雑談】ハロウィンだー！アソビ★まわり隊！４人でマシュマロ食べまくる！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -596,6 +599,11 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-30T22:00:00Z",
+          "title": "【#GBVSR】COACHED BY FUMIKO HOSHI...AGAIN!",
+          "video_id": "kQHedsQfOHs"
+        },
+        {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
           "video_id": "rzxphuacYxo"
@@ -634,14 +642,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T10:00:00Z",
-          "title": "【Jump King 🔰#holorace2026】First time and already joining a race? i'm cooked.【moona POV】",
-          "video_id": "pVSuqseDO0M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T10:00:21Z",
+        "title": "【Jump King 🔰#holorace2026】First time and already joining a race? i'm cooked.【moona POV】",
+        "video_id": "pVSuqseDO0M"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -707,15 +713,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T10:00:00Z",
-          "title": "【Jump King】WATASHI WA UTAU NO GA SUKI #holorace2026",
-          "video_id": "0iV9iAER9ww"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T10:00:16Z",
+        "title": "【Jump King】WATASHI WA UTAU NO GA SUKI #holorace2026",
+        "video_id": "0iV9iAER9ww"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T09:50:26Z"
+  "generated_at": "2026-10-30T10:00:58Z"
 }
