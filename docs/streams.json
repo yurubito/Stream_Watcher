@@ -229,14 +229,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T23:00:00Z",
-          "title": "【#ホロ鯖ARK】ガルガンターをテイムしたいDAY🏝前半準備編【風真いろは/ホロライブ】",
-          "video_id": "Bo5ZDcdMrPU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T23:02:15Z",
+        "title": "【#ホロ鯖ARK】ガルガンターをテイムしたいDAY🏝前半準備編【風真いろは/ホロライブ】",
+        "video_id": "Bo5ZDcdMrPU"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -437,14 +435,7 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T23:00:00Z",
-          "title": "【MEMBER'S WATCHALONG】Cabin in the Woods",
-          "video_id": "SRdO1hBERWU"
-        }
-      ]
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -553,5 +544,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T23:00:45Z"
+  "generated_at": "2026-10-30T23:10:31Z"
 }
