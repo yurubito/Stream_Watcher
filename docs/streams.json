@@ -225,11 +225,6 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-30T15:09:42Z",
-        "title": "【ホロドリ】搾取！！！！！！！！！！！！！ガチャは悪！！！！！！！！！！！！悪！！！！！！！！【ラプラス・ダークネス/ホロライブ】",
-        "video_id": "Ou0dWkF5fbs"
-      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -264,7 +259,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T23:00:00Z",
+          "title": "【#ホロ鯖ARK】ガルガンターをテイムしたいDAY🏝前半準備編【風真いろは/ホロライブ】",
+          "video_id": "Bo5ZDcdMrPU"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -314,7 +316,12 @@
       "name": "水宮枢",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-01T13:30:00Z",
+          "scheduled_at": "2026-10-31T14:30:00Z",
+          "title": "【同時視聴】ドラゴンボール超スーパーヒーロー 完全初見！【水宮枢／ホロライブ】",
+          "video_id": "GB6MNA9grKw"
+        },
+        {
+          "scheduled_at": "2026-11-01T12:30:00Z",
           "title": "【 #ホロARK 】初心者がいく🔰アルゲンテイム🦖【水宮枢／ホロライブ】",
           "video_id": "QZ-GN3Yo7dU"
         }
@@ -591,5 +598,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T15:10:27Z"
+  "generated_at": "2026-10-30T15:40:28Z"
 }
