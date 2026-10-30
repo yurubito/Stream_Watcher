@@ -114,6 +114,16 @@
           "scheduled_at": "2026-10-30T13:00:00Z",
           "title": "【#3】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
           "video_id": "2kTRJXDL8bA"
+        },
+        {
+          "scheduled_at": "2026-10-31T01:00:00Z",
+          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+          "video_id": "z3I5yvxdD4w"
+        },
+        {
+          "scheduled_at": "2026-10-31T04:00:00Z",
+          "title": "【#4】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
+          "video_id": "KjmUgCl9K0g"
         }
       ]
     },
@@ -354,6 +364,11 @@
       "group": "DEV_IS FLOW GLOW",
       "name": "輪堂千速",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T08:20:00Z",
+          "title": "【JUMP KING HOLORACE】駆け込み練習～～～！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "9GET5G91x_s"
+        },
         {
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "【JUMP KING HOLORACE】初めてのジャンキンいくぞ！！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
@@ -664,5 +679,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T08:10:23Z"
+  "generated_at": "2026-10-30T08:20:33Z"
 }
