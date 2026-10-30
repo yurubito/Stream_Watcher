@@ -32,7 +32,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T12:00:00Z",
+          "title": "【ソロライブ新衣装お披露目！】2ndソロライブ振り返り！！みんなありがとうだにぇえええええええええ！！！！！！🌸【ホロライブ/さくらみこ】",
+          "video_id": "QeWn0SyQzxM"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -124,6 +131,11 @@
           "scheduled_at": "2026-10-31T04:00:00Z",
           "title": "【#4】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
           "video_id": "KjmUgCl9K0g"
+        },
+        {
+          "scheduled_at": "2026-11-01T04:00:00Z",
+          "title": "【#5】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
+          "video_id": "Q9GWBbmip4w"
         }
       ]
     },
@@ -362,13 +374,13 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-30T08:24:13Z",
+        "title": "【JUMP KING HOLORACE】駆け込み練習～～～！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "9GET5G91x_s"
+      },
       "name": "輪堂千速",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T08:20:00Z",
-          "title": "【JUMP KING HOLORACE】駆け込み練習～～～！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "9GET5G91x_s"
-        },
         {
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "【JUMP KING HOLORACE】初めてのジャンキンいくぞ！！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
@@ -383,7 +395,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-30T09:00:00Z",
-          "title": "【JUMP KING HOLORACE】人生初🔰練習から本番【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "title": "【JUMP KING HOLORACE】人生初🔰30分だけの鬼練習【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "a069HGnNj9A"
         }
       ]
@@ -679,5 +691,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T08:20:33Z"
+  "generated_at": "2026-10-30T08:30:53Z"
 }
