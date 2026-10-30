@@ -78,11 +78,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-30T10:00:32Z",
-        "title": "【JUMP KING HOLORACE】初心者限定！？完全初見で挑んだら何位になるのかッ！【ホロライブ/夏色まつり】",
-        "video_id": "YYuSQaMnojg"
-      },
       "name": "夏色まつり",
       "upcoming": [
         {
@@ -281,7 +276,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T05:00:00Z",
+          "title": "【 天皇賞(秋)/企画告知あり！ 】新衣装お披露目からの～天皇賞予想からの～企画告知！！！【 #鷹嶺ルイ競馬衣装 /ホロライブ】",
+          "video_id": "fGpju71ebCA"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -364,11 +366,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-30T10:04:23Z",
-        "title": "【JUMP KING HOLORACE】本番！初心者🔰がんばるぞ！【水宮枢／ホロライブ】",
-        "video_id": "J_uZTBLE4rY"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -381,11 +378,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-30T10:03:06Z",
-        "title": "【JUMP KING HOLORACE】初めてのジャンキンいくぞ！！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "AY7VADUUjIQ"
-      },
       "name": "輪堂千速"
     },
     {
@@ -462,11 +454,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-30T10:01:56Z",
-        "title": "【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026",
-        "video_id": "b6mcVgI0JjY"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -494,11 +481,6 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-30T10:01:04Z",
-        "title": "【JUMP KING HOLORACE】FIRST TIME NO CONFIDENCE",
-        "video_id": "9MXWNiM2aVg"
-      },
       "name": "一伊那尓栖"
     },
     {
@@ -616,11 +598,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-30T10:01:06Z",
-        "title": "【JUMP KING HOLORACE】I AM COOKED #holorace2026",
-        "video_id": "Sq8z79nQlsY"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -631,11 +608,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-30T10:00:21Z",
-        "title": "【Jump King 🔰#holorace2026】First time and already joining a race? i'm cooked.【moona POV】",
-        "video_id": "pVSuqseDO0M"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -697,13 +669,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-30T10:00:16Z",
-        "title": "【Jump King】WATASHI WA UTAU NO GA SUKI #holorace2026",
-        "video_id": "0iV9iAER9ww"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T11:46:30Z"
+  "generated_at": "2026-10-30T11:50:25Z"
 }
