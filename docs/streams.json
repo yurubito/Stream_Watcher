@@ -81,7 +81,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T07:00:00Z",
+          "title": "【#ホロ鯖ARK】ARK上陸19日目！飛行船作りたいのだ！【ホロライブ/癒月ちょこ】",
+          "video_id": "pbdSTX70bRU"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -113,7 +120,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T09:00:00Z",
+          "title": "【BLEACH Mirrors High】【兎田ぺこら/ホロライブ】",
+          "video_id": "03g_7timbg4"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -213,7 +227,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T09:00:00Z",
+          "title": "【 回転寿司シミュレーター 】寿司屋の娘です。回転寿司屋OPENさせます。【鷹嶺ルイ/ホロライブ】",
+          "video_id": "2uto8dNCJlc"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -261,13 +282,25 @@
           "scheduled_at": "2026-10-30T09:15:00Z",
           "title": "【密着】FILA×轟はじめコラボの裏側に完全潜入！こだわり抜いたスニーカー＆ロゴ制作の全貌を公開！#FILABANCHO",
           "video_id": "L_qGRZZAQ5g"
+        },
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【雑談】FILAさんコラボ、インドネシアロケ、カラオケで本人登場とか【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "Ylk_iNsDRY4"
         }
       ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【R.E.P.O. 】アプデきた！？久しぶりのホロメンレポ楽しみ♡【ホロライブ  響咲リオナ】",
+          "video_id": "wIAWYWAAlBU"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -309,7 +342,19 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T08:00:00Z",
+          "title": "🔰鬼畜ゲー「Jump King」初心者大会直前練習のじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "67vqn8Hyw3I"
+        },
+        {
+          "scheduled_at": "2026-10-30T10:00:00Z",
+          "title": "高難易度アクション「Jump King」の初心者大会🔰#holorace2026【ホロライブ/熱千めら】",
+          "video_id": "_3_gYnsYquE"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -338,21 +383,18 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-30T01:59:13Z",
-        "title": "【EN】To the TOOOOOOOOOOOP!!!【Hyakuto Kyoko/Hololive】",
-        "video_id": "e3hrAwhfRA4"
-      },
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T10:00:00Z",
+          "title": "【JUMP KING HOLORACE】遂に本番！！ てっぺん目指すぞーーー！！ |  Kyoko POV【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "B_NEeTucjJI"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-10-30T02:58:20Z",
-        "title": "【今夜19時スタート】アソビ★まわり隊！初の冠番組＆歌ってみた【#昼ホロ / #花園さやか】",
-        "video_id": "YxTRXD1-kyQ"
-      },
       "name": "井月みちる"
     },
     {
@@ -366,9 +408,19 @@
           "video_id": "b6mcVgI0JjY"
         },
         {
+          "scheduled_at": "2026-10-31T02:00:00Z",
+          "title": "spooky scary skeletons",
+          "video_id": "9mGH-o1cabk"
+        },
+        {
           "scheduled_at": "2026-10-31T03:00:00Z",
           "title": "洗脳 (Brainwashed) - Mori Calliope (cover)",
           "video_id": "zHorAsW9mPQ"
+        },
+        {
+          "scheduled_at": "2026-10-31T23:00:00Z",
+          "title": "【ZELDA: MAJORA'S MASK】the sky is falling, baby #calliolive",
+          "video_id": "qnLXx1-mOr0"
         }
       ]
     },
@@ -434,7 +486,14 @@
         "title": "【Five Nights at Freddy's: Security Breach】I CAN DO THIS, FREDDY!",
         "video_id": "tiTvG0apB-w"
       },
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T23:00:00Z",
+          "title": "【MEMBER'S WATCHALONG】Cabin in the Woods",
+          "video_id": "SRdO1hBERWU"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -449,11 +508,6 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-30T02:02:17Z",
-        "title": "🔴LIVE |【PHASMOPHOBIA】Justice Jams Halloween!  | 💄👧🍵🐱",
-        "video_id": "3FwAg_0_xDc"
-      },
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
         {
@@ -471,11 +525,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-30T02:08:03Z",
-        "title": "PHASMOPHOBIA GIGI MURIN",
-        "video_id": "paGB4o8r5JQ"
-      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -488,7 +537,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T12:00:00Z",
+          "title": "Auto-mane made this",
+          "video_id": "whveNujaPVo"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -530,14 +586,7 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T03:30:00Z",
-          "title": "【BUTTON PRISON | 押してダメなら押してみろ】Oh, Hey! A Funny-Looking Little Button!【hololive | Anya Melfissa】",
-          "video_id": "RqMxZbEYBOU"
-        }
-      ]
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -574,5 +623,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T03:30:34Z"
+  "generated_at": "2026-10-30T07:00:53Z"
 }
