@@ -3,26 +3,22 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【#ホロドリ】初のLive2D配信！！ホロドリの衣装で遊んじゃおう！！【ときのそら/ホロライブ】",
-          "video_id": "FOW5_1bJqXg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T13:05:22Z",
+        "title": "【#ホロドリ】初のLive2D配信！！ホロドリの衣装で遊んじゃおう！！【ときのそら/ホロライブ】",
+        "video_id": "FOW5_1bJqXg"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【告知】お知らせがある！！！【ホロライブ/ ロボ子さん 】",
-          "video_id": "IKW0V0xRGM8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T13:04:38Z",
+        "title": "【告知】お知らせがある！！！【ホロライブ/ ロボ子さん 】",
+        "video_id": "IKW0V0xRGM8"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -106,13 +102,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-30T13:02:41Z",
+        "title": "【#3】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+        "video_id": "2kTRJXDL8bA"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【#3】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-          "video_id": "2kTRJXDL8bA"
-        },
         {
           "scheduled_at": "2026-10-31T01:00:00Z",
           "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
@@ -172,14 +168,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
-          "video_id": "sw9dV4iSYfo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T13:02:15Z",
+        "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
+        "video_id": "sw9dV4iSYfo"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -305,14 +299,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【 メン限 / 雑談 】ん？【音乃瀬奏】#ReGLOSS",
-          "video_id": "7WN_Cni7deY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T13:01:42Z",
+        "title": "【 メン限 / 雑談 】ん？【音乃瀬奏】#ReGLOSS",
+        "video_id": "7WN_Cni7deY"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -342,14 +334,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【R.E.P.O. 】アプデきた！？久しぶりのホロメンレポ楽しみ♡【ホロライブ  響咲リオナ】",
-          "video_id": "wIAWYWAAlBU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T13:00:58Z",
+        "title": "【R.E.P.O. 】アプデきた！？久しぶりのホロメンレポ楽しみ♡【ホロライブ  響咲リオナ】",
+        "video_id": "wIAWYWAAlBU"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -378,14 +368,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【メン限/ラジオ】輪堂千速のニックナイトガレーディオ #17【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "W4clAMSfvNw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T13:05:54Z",
+        "title": "【メン限/ラジオ】輪堂千速のニックナイトガレーディオ #17【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "W4clAMSfvNw"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -417,13 +405,13 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-30T13:00:53Z",
+        "title": "【R.E.P.O.】新MAPも来た！？先輩方と初めてのR.E.P.Oでワクワク！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "JvUyxkeFWRM"
+      },
       "name": "鈴鳴つづり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【R.E.P.O.】新MAPも来た！？先輩方と初めてのR.E.P.Oでワクワク！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "JvUyxkeFWRM"
-        },
         {
           "scheduled_at": "2026-10-31T09:00:00Z",
           "title": "？？？　covered by 鈴鳴つづり ホロライブ",
@@ -660,5 +648,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T13:00:57Z"
+  "generated_at": "2026-10-30T13:10:25Z"
 }
