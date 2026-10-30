@@ -64,25 +64,23 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【R.E.P.O.】REPOはいつも突発に・・・。#突発ホロREPO【ホロライブ/白上フブキ】",
-          "video_id": "KvJk00Vf4H0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T13:00:42Z",
+        "title": "【R.E.P.O.】REPOはいつも突発に・・・。#突発ホロREPO【ホロライブ/白上フブキ】",
+        "video_id": "KvJk00Vf4H0"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-10-30T13:00:12Z",
+        "title": "【R.E.P.O.】大型アプデきちゃ！プロに任せなさい！【ホロライブ/夏色まつり】",
+        "video_id": "i3huWkaIwaw"
+      },
       "name": "夏色まつり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【R.E.P.O.】大型アプデきちゃ！プロに任せなさい！【ホロライブ/夏色まつり】",
-          "video_id": "i3huWkaIwaw"
-        },
         {
           "scheduled_at": "2026-11-01T11:00:00Z",
           "title": "【 3DLIVE 】速報！夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
@@ -334,14 +332,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:00:00Z",
-          "title": "【雑談】FILAさんコラボ、インドネシアロケ、カラオケで本人登場とか【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "Ylk_iNsDRY4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T13:00:23Z",
+        "title": "【雑談】FILAさんコラボ、インドネシアロケ、カラオケで本人登場とか【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "Ylk_iNsDRY4"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -382,7 +378,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【メン限/ラジオ】輪堂千速のニックナイトガレーディオ #17【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "W4clAMSfvNw"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -657,5 +660,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T12:50:45Z"
+  "generated_at": "2026-10-30T13:00:57Z"
 }
