@@ -180,24 +180,17 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-30T12:03:41Z",
-        "title": "【 勝利の女神：NIKKE 】船長初NIKKE！！4周年、参戦します！！【宝鐘マリン/ホロライブ】#PR",
-        "video_id": "suiN7F1D7E4"
-      },
       "name": "宝鐘マリン"
     },
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T15:00:00Z",
-          "title": "【雑談＆お礼】ハッピーハロウィンからはじまる雑談🐏🎃【角巻わため/ホロライブ４期生】",
-          "video_id": "6RhecgXxweA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T15:01:29Z",
+        "title": "【雑談＆お礼】ハッピーハロウィンからはじまる雑談🐏🎃【角巻わため/ホロライブ４期生】",
+        "video_id": "6RhecgXxweA"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -232,6 +225,11 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-30T15:09:42Z",
+        "title": "【ホロドリ】搾取！！！！！！！！！！！！！ガチャは悪！！！！！！！！！！！！悪！！！！！！！！【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "Ou0dWkF5fbs"
+      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -286,11 +284,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-30T13:00:23Z",
-        "title": "【雑談】FILAさんコラボ、インドネシアロケ、カラオケで本人登場とか【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "Ylk_iNsDRY4"
-      },
       "name": "轟はじめ"
     },
     {
@@ -598,5 +591,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T14:50:34Z"
+  "generated_at": "2026-10-30T15:10:27Z"
 }
