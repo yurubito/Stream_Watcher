@@ -74,6 +74,16 @@
       "name": "夏色まつり",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-30T10:00:00Z",
+          "title": "【JUMP KING HOLORACE】初心者限定！？完全初見で挑んだら何位になるのかッ！【ホロライブ/夏色まつり】",
+          "video_id": "YYuSQaMnojg"
+        },
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【R.E.P.O.】大型アプデきちゃ！プロに任せなさい！【ホロライブ/夏色まつり】",
+          "video_id": "i3huWkaIwaw"
+        },
+        {
           "scheduled_at": "2026-11-01T11:00:00Z",
           "title": "【 3DLIVE 】速報！夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
           "video_id": "oMXaXv1q7kw"
@@ -320,13 +330,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-10-30T08:00:11Z",
+        "title": "【Jump King 】初めてのジャンキン！キレない1時間練習配信【水宮枢／ホロライブ】",
+        "video_id": "FI1HuollS5U"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T08:00:00Z",
-          "title": "【Jump King 】初めてのジャンキン！キレない1時間練習配信【水宮枢／ホロライブ】",
-          "video_id": "FI1HuollS5U"
-        },
         {
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "【JUMP KING HOLORACE】本番！初心者🔰がんばるぞ！【水宮枢／ホロライブ】",
@@ -342,7 +352,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T10:00:00Z",
+          "title": "【JUMP KING HOLORACE】初めてのジャンキンいくぞ！！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "AY7VADUUjIQ"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -352,13 +369,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-30T07:57:18Z",
+        "title": "🔰鬼畜ゲー「Jump King」初心者大会直前練習のじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "67vqn8Hyw3I"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T08:00:00Z",
-          "title": "🔰鬼畜ゲー「Jump King」初心者大会直前練習のじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "67vqn8Hyw3I"
-        },
         {
           "scheduled_at": "2026-10-30T10:00:00Z",
           "title": "高難易度アクション「Jump King」の初心者大会🔰#holorace2026【ホロライブ/熱千めら】",
@@ -608,14 +625,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T08:00:00Z",
-          "title": "a little pain won't hurt, right~? #ホロドリ",
-          "video_id": "Y2naYuoqN-4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T07:59:28Z",
+        "title": "a little pain won't hurt, right~? #ホロドリ",
+        "video_id": "Y2naYuoqN-4"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -635,5 +650,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T07:40:26Z"
+  "generated_at": "2026-10-30T08:00:53Z"
 }
