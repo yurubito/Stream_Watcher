@@ -491,11 +491,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-30T03:11:15Z",
-        "title": "【Five Nights at Freddy's: Security Breach】I CAN DO THIS, FREDDY!",
-        "video_id": "tiTvG0apB-w"
-      },
       "name": "古石ビジュー",
       "upcoming": [
         {
@@ -640,5 +635,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T07:30:35Z"
+  "generated_at": "2026-10-30T07:40:26Z"
 }
