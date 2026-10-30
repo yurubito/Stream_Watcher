@@ -358,7 +358,14 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎"
+      "name": "虎金妃笑虎",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T00:00:00Z",
+          "title": "【 ＃朝ガオ vol.17 】今日はあまり元気じゃないですが久しぶりに話しましょう【虎金妃笑虎】",
+          "video_id": "TFWDFZ_RJog"
+        }
+      ]
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -380,14 +387,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T12:30:00Z",
-          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃22【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "tKeU3Dl8zmg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T12:40:18Z",
+        "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃22【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "tKeU3Dl8zmg"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -657,5 +662,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T12:20:33Z"
+  "generated_at": "2026-10-30T12:40:27Z"
 }
