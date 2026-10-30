@@ -288,13 +288,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-30T12:00:43Z",
+        "title": "【 BOMBANANA! 】 #ホロ551 で見ざる聞かざる言わざる連携して爆弾解除できるのか！？？？【博衣こより視点/ホロライブ】",
+        "video_id": "cAmMlH1Jr-0"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T12:00:00Z",
-          "title": "【 BOMBANANA! 】 #ホロ551 で見ざる聞かざる言わざる連携して爆弾解除できるのか！？？？【博衣こより視点/ホロライブ】",
-          "video_id": "cAmMlH1Jr-0"
-        },
         {
           "scheduled_at": "2026-10-30T14:00:00Z",
           "title": "【Membership Only】10月のナイショのお話💗甘々雑談💗【博衣こより/ホロライブ】",
@@ -304,6 +304,11 @@
           "scheduled_at": "2026-10-31T02:00:00Z",
           "title": "【空の軌跡 the 2nd】完全初見！第4章はじまる！？いざグランセルへ！ #5 【博衣こより/ホロライブ】※ネタバレあり",
           "video_id": "MACFr5pXH4U"
+        },
+        {
+          "scheduled_at": "2026-10-31T11:00:00Z",
+          "title": "【 重大告知‼️ 】 #KoZMy 3Dハロウィン晩酌パーティー🎃おもてなし成功させて告知をせよ！【AZKi・雪花ラミィ・博衣こより/ホロライブ】",
+          "video_id": "cQ7TwS2xPDk"
         }
       ]
     },
@@ -383,21 +388,11 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-30T10:03:20Z",
-        "title": "【JUMP KING HOLORACE】人生初🔰本番！！どこまでいけるか・・・【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "e_t_f0XaqCg"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-30T10:00:28Z",
-        "title": "高難易度アクション「Jump King」の初心者大会🔰#holorace2026【ホロライブ/熱千めら】",
-        "video_id": "_3_gYnsYquE"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -432,11 +427,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-30T09:59:30Z",
-        "title": "【JUMP KING HOLORACE】遂に本番！！ てっぺん目指すぞーーー！！ |  Kyoko POV【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "B_NEeTucjJI"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -552,11 +542,6 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-30T10:03:42Z",
-        "title": "🔴LIVE |【JUMP KING HOLORACE】Elizabeth POV | 💄#holorace2026",
-        "video_id": "3EKBdQXpVk0"
-      },
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
         {
@@ -586,14 +571,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T12:00:00Z",
-          "title": "Auto-mane made this",
-          "video_id": "whveNujaPVo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T12:00:15Z",
+        "title": "【JAPANESE RAMEN SIMULATOR】DATTEBAYO~ with @PavoliaReine",
+        "video_id": "whveNujaPVo"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -640,14 +623,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T12:00:00Z",
-          "title": "Pavolia Reine & Cecilia Immergreen Run a Business - Japanese Ramen Simulator【Pavolia Reine/hololive】",
-          "video_id": "2Ofg-tSzc9U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T11:59:55Z",
+        "title": "Pavolia Reine & Cecilia Immergreen Run a Business - Japanese Ramen Simulator【Pavolia Reine/hololive】",
+        "video_id": "2Ofg-tSzc9U"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -672,5 +653,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T11:50:25Z"
+  "generated_at": "2026-10-30T12:00:58Z"
 }
