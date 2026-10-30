@@ -417,14 +417,12 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T00:00:00Z",
-          "title": "THE AMAZING DIGITAL COOKIES | CookieRun: Kingdom #ad #sponsored",
-          "video_id": "8lFbmoq7kjQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-29T23:55:47Z",
+        "title": "THE AMAZING DIGITAL COOKIES | CookieRun: Kingdom #ad #sponsored",
+        "video_id": "8lFbmoq7kjQ"
+      },
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -545,5 +543,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-29T23:30:49Z"
+  "generated_at": "2026-10-30T00:40:19Z"
 }
