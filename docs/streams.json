@@ -32,14 +32,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T12:00:00Z",
-          "title": "【ソロライブ新衣装お披露目！】2ndソロライブ振り返り！！みんなありがとうだにぇえええええええええ！！！！！！🌸【ホロライブ/さくらみこ】",
-          "video_id": "QeWn0SyQzxM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T12:04:03Z",
+        "title": "【ソロライブ新衣装お披露目！】2ndソロライブ振り返り！！みんなありがとうだにぇえええええええええ！！！！！！🌸【ホロライブ/さくらみこ】",
+        "video_id": "QeWn0SyQzxM"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -198,14 +196,12 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "name": "宝鐘マリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T12:00:00Z",
-          "title": "【 勝利の女神：NIKKE 】船長初NIKKE！！4周年、参戦します！！【宝鐘マリン/ホロライブ】#PR",
-          "video_id": "suiN7F1D7E4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T12:03:41Z",
+        "title": "【 勝利の女神：NIKKE 】船長初NIKKE！！4周年、参戦します！！【宝鐘マリン/ホロライブ】#PR",
+        "video_id": "suiN7F1D7E4"
+      },
+      "name": "宝鐘マリン"
     },
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -247,26 +243,17 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T12:00:00Z",
-          "title": "【メンバー限定/Member only】SSRB総会 2026/10月号【獅白ぼたん/ホロライブ】",
-          "video_id": "zRaKyi_cCfQ"
-        }
-      ]
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T12:00:00Z",
-          "title": "【BOMBANANA!】見えない聞こえない喋れない！？三匹の猿になって爆弾解除！！！ #ホロ551【尾丸ポルカ/博衣こより/一条莉々華】",
-          "video_id": "0hIvMpxHLvw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T12:02:56Z",
+        "title": "【BOMBANANA!】見えない聞こえない喋れない！？三匹の猿になって爆弾解除！！！ #ホロ551【尾丸ポルカ/博衣こより/一条莉々華】",
+        "video_id": "0hIvMpxHLvw"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -320,19 +307,24 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【 メン限 / 雑談 】ん？【音乃瀬奏】#ReGLOSS",
+          "video_id": "7WN_Cni7deY"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T12:00:00Z",
-          "title": "変質者ではないんです！！551で初めてのBOMBANANA!【一条莉々華/hololive ReGLOSS】",
-          "video_id": "p9J_muoYcxk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T12:02:21Z",
+        "title": "変質者ではないんです！！551で初めてのBOMBANANA!【一条莉々華/hololive ReGLOSS】",
+        "video_id": "p9J_muoYcxk"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -388,7 +380,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T12:30:00Z",
+          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃22【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "tKeU3Dl8zmg"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -653,5 +652,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T12:00:58Z"
+  "generated_at": "2026-10-30T12:10:34Z"
 }
