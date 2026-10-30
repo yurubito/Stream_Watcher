@@ -3,11 +3,6 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-30T13:05:22Z",
-        "title": "【#ホロドリ】初のLive2D配信！！ホロドリの衣装で遊んじゃおう！！【ときのそら/ホロライブ】",
-        "video_id": "FOW5_1bJqXg"
-      },
       "name": "ときのそら"
     },
     {
@@ -57,21 +52,11 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-30T13:00:42Z",
-        "title": "【R.E.P.O.】REPOはいつも突発に・・・。#突発ホロREPO【ホロライブ/白上フブキ】",
-        "video_id": "KvJk00Vf4H0"
-      },
       "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-30T13:00:12Z",
-        "title": "【R.E.P.O.】大型アプデきちゃ！プロに任せなさい！【ホロライブ/夏色まつり】",
-        "video_id": "i3huWkaIwaw"
-      },
       "name": "夏色まつり",
       "upcoming": [
         {
@@ -94,11 +79,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-30T13:02:41Z",
-        "title": "【#3】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-        "video_id": "2kTRJXDL8bA"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -291,11 +271,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-30T13:00:58Z",
-        "title": "【R.E.P.O. 】アプデきた！？久しぶりのホロメンレポ楽しみ♡【ホロライブ  響咲リオナ】",
-        "video_id": "wIAWYWAAlBU"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -362,11 +337,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-30T13:00:53Z",
-        "title": "【R.E.P.O.】新MAPも来た！？先輩方と初めてのR.E.P.Oでワクワク！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "JvUyxkeFWRM"
-      },
       "name": "鈴鳴つづり",
       "upcoming": [
         {
@@ -598,5 +568,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T15:40:28Z"
+  "generated_at": "2026-10-30T15:50:25Z"
 }
