@@ -225,14 +225,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T11:00:00Z",
-          "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第37話～第44話【姫森ルーナ/ホロライブ】",
-          "video_id": "Kzs0SHs1Zpc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T11:01:55Z",
+        "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第37話～第44話【姫森ルーナ/ホロライブ】",
+        "video_id": "Kzs0SHs1Zpc"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -705,5 +703,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T11:01:15Z"
+  "generated_at": "2026-10-30T11:10:33Z"
 }
