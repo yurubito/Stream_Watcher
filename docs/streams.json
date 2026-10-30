@@ -364,7 +364,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T09:00:00Z",
+          "title": "【JUMP KING HOLORACE】人生初🔰練習から本番【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "a069HGnNj9A"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -620,7 +627,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T12:00:00Z",
+          "title": "Pavolia Reine & Cecilia Immergreen Run a Business - Japanese Ramen Simulator【Pavolia Reine/hololive】",
+          "video_id": "2Ofg-tSzc9U"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -650,5 +664,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T08:00:53Z"
+  "generated_at": "2026-10-30T08:10:23Z"
 }
