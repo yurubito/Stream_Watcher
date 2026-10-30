@@ -370,11 +370,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-30T13:05:54Z",
-        "title": "【メン限/ラジオ】輪堂千速のニックナイトガレーディオ #17【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "W4clAMSfvNw"
-      },
       "name": "輪堂千速"
     },
     {
@@ -625,14 +620,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-30T13:30:00Z",
-          "title": "【Skewer Squad】its tower defense but skewer but rougelite",
-          "video_id": "hd1Nf27gIIU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-30T13:24:51Z",
+        "title": "【Skewer Squad】its tower defense but skewer but rougelite",
+        "video_id": "hd1Nf27gIIU"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -640,5 +633,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T13:20:28Z"
+  "generated_at": "2026-10-30T13:30:43Z"
 }
