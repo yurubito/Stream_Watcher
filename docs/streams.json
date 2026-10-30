@@ -328,11 +328,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-30T09:15:09Z",
-        "title": "【密着】FILA×轟はじめコラボの裏側に完全潜入！こだわり抜いたスニーカー＆ロゴ制作の全貌を公開！#FILABANCHO",
-        "video_id": "L_qGRZZAQ5g"
-      },
       "name": "轟はじめ",
       "upcoming": [
         {
@@ -362,11 +357,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-30T08:00:11Z",
-        "title": "【Jump King 】初めてのジャンキン！キレない1時間練習配信【水宮枢／ホロライブ】",
-        "video_id": "FI1HuollS5U"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -731,11 +721,11 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-30T10:00:00Z",
-          "title": "【Jump King】WATASHI WA UTAU NO GA SUKI",
+          "title": "【Jump King】WATASHI WA UTAU NO GA SUKI #holorace2026",
           "video_id": "0iV9iAER9ww"
         }
       ]
     }
   ],
-  "generated_at": "2026-10-30T09:20:33Z"
+  "generated_at": "2026-10-30T09:30:43Z"
 }
