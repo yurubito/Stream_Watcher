@@ -281,14 +281,7 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T05:00:00Z",
-          "title": "【 天皇賞(秋)/企画告知あり！ 】新衣装お披露目からの～天皇賞予想からの～企画告知！！！【 #鷹嶺ルイ競馬衣装 /ホロライブ】",
-          "video_id": "fGpju71ebCA"
-        }
-      ]
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -712,5 +705,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T11:40:33Z"
+  "generated_at": "2026-10-30T11:46:30Z"
 }
