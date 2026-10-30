@@ -59,7 +59,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T13:00:00Z",
+          "title": "【R.E.P.O.】REPOはいつも突発に・・・。#突発ホロREPO【ホロライブ/白上フブキ】",
+          "video_id": "KvJk00Vf4H0"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -120,6 +127,11 @@
       "group": "JP 3期生",
       "name": "兎田ぺこら",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T11:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY20🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "J_0fi6QvUfE"
+        },
         {
           "scheduled_at": "2026-11-01T09:00:00Z",
           "title": "【BLEACH Mirrors High】【兎田ぺこら/ホロライブ】",
@@ -628,5 +640,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T07:20:25Z"
+  "generated_at": "2026-10-30T07:30:35Z"
 }
