@@ -488,7 +488,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-30T09:00:00Z",
+          "title": "【3D COLLAB】TRAUMA RELEASE PARTY @irise_theofficial  #kfp #キアライブ",
+          "video_id": "zdTb8L88L3k"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -691,5 +698,5 @@
       ]
     }
   ],
-  "generated_at": "2026-10-30T08:30:53Z"
+  "generated_at": "2026-10-30T08:40:43Z"
 }
