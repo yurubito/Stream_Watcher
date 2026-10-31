@@ -456,7 +456,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T23:00:00Z",
+          "title": "happy halloween",
+          "video_id": "nLolrNh7Xs4"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -586,5 +593,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T07:20:31Z"
+  "generated_at": "2026-10-31T07:50:22Z"
 }
