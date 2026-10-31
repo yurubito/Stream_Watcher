@@ -35,14 +35,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T12:00:00Z",
-          "title": "【 メンバー限定】雑談しよおおお！咲き乱れみこち後夜祭まである。【ホロライブ/さくらみこ】",
-          "video_id": "KMB0WIrPVwI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T12:04:37Z",
+        "title": "【 メンバー限定】雑談しよおおお！咲き乱れみこち後夜祭まである。【ホロライブ/さくらみこ】",
+        "video_id": "KMB0WIrPVwI"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -142,13 +140,13 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-10-31T12:01:13Z",
+        "title": "【#ホロ鯖ARK】DAY21🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "1E7eYQJB_58"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T12:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY21🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "1E7eYQJB_58"
-        },
         {
           "scheduled_at": "2026-11-01T09:00:00Z",
           "title": "【BLEACH Mirrors High】【兎田ぺこら/ホロライブ】",
@@ -255,11 +253,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-31T12:00:10Z",
-        "title": "推したら引けない恋でした / KoZMy（AZKi・雪花ラミィ・博衣こより (Official)",
-        "video_id": "Cl3LkvJkQzQ"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -551,11 +544,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-10-31T12:00:09Z",
-        "title": "Goblok Tenan | OST Troublemaker 2 Beyond Dream by AREA15 hololive",
-        "video_id": "c9yFK-ytqPg"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -573,14 +561,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T12:00:00Z",
-          "title": "【Obsessed : Night Shift】Yes, I Am Obsessed With Nasi Goreng【hololive holoro | Anya Melfissa】",
-          "video_id": "vZ_zRqKq_dI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T12:01:17Z",
+        "title": "【Obsessed : Night Shift】Yes, I Am Obsessed With Nasi Goreng【hololive holoro | Anya Melfissa】",
+        "video_id": "vZ_zRqKq_dI"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -608,5 +594,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T12:01:08Z"
+  "generated_at": "2026-10-31T12:10:22Z"
 }
