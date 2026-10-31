@@ -564,6 +564,11 @@
       "name": "ベスティア・ゼータ",
       "upcoming": [
         {
+          "scheduled_at": "2026-10-31T11:20:00Z",
+          "title": "【雑談】まちゅゼタ！FREE TALK~~~~",
+          "video_id": "06Z7Li1NTv4"
+        },
+        {
           "scheduled_at": "2026-10-31T12:00:00Z",
           "title": "Loveit? / biz×ZERA【Cover】(Vestia Zeta/夏色まつり)",
           "video_id": "cQbWSAbnduc"
@@ -581,5 +586,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T07:01:05Z"
+  "generated_at": "2026-10-31T07:20:31Z"
 }
