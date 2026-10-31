@@ -447,7 +447,14 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "name": "フワワ＆モココ・アビスガード"
+      "name": "フワワ＆モココ・アビスガード",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T01:00:00Z",
+          "title": "【SEVEN NIGHTS GHOST】living together with my ghostie girlfriend🐾🩵 【 FUWAWA SOLO】",
+          "video_id": "ahhAUnfp9eI"
+        }
+      ]
     },
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
@@ -553,5 +560,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T04:10:21Z"
+  "generated_at": "2026-10-31T06:10:21Z"
 }
