@@ -161,7 +161,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T13:00:00Z",
+          "title": "【MemberOnly/同時視聴】amazon primeで「ウィリーズ・ワンダーランド」をみよう🎃【不知火フレア/ホロライブ】",
+          "video_id": "BJrpK4KYIJE"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -600,5 +607,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T10:30:51Z"
+  "generated_at": "2026-10-31T10:50:25Z"
 }
