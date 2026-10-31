@@ -284,14 +284,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T11:00:00Z",
-          "title": "【ReGLOSSの絆】本人不在の分かりて選手権！？！！【一条莉々華/hololive ReGLOSS】",
-          "video_id": "SNnWyE1rL-s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T11:00:54Z",
+        "title": "【ReGLOSSの絆】本人不在の分かりて選手権！？！！【一条莉々華/hololive ReGLOSS】",
+        "video_id": "SNnWyE1rL-s"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -605,5 +603,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T11:00:50Z"
+  "generated_at": "2026-10-31T11:10:30Z"
 }
