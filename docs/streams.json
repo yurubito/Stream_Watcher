@@ -52,11 +52,6 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-10-31T10:00:09Z",
-        "title": "【しりとり旅】終わらん。【ホロライブ/赤井はあと】",
-        "video_id": "s5XQjcMZUao"
-      },
       "name": "赤井はあと"
     },
     {
@@ -214,11 +209,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-31T03:05:08Z",
-        "title": "【 ドラゴンクエスト ビルダーズ 】ラダトーム編突入！？！？！？！？！？【鷹嶺ルイ/ホロライブ】ネタバレあり",
-        "video_id": "xQr6JbwcBTE"
-      },
       "name": "鷹嶺ルイ",
       "upcoming": [
         {
@@ -253,14 +243,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T10:00:00Z",
-          "title": "【#ホロ鯖ARK】ガルガンターをテイムしたいDAY🏝後半ぜったいつかまえる編【風真いろは/ホロライブ】",
-          "video_id": "iLMQ3_nRusc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T10:00:44Z",
+        "title": "【#ホロ鯖ARK】ガルガンターをテイムしたいDAY🏝後半ぜったいつかまえる編【風真いろは/ホロライブ】",
+        "video_id": "iLMQ3_nRusc"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -336,11 +324,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-31T10:00:08Z",
-        "title": "UNDEAD covered by 熱千めら",
-        "video_id": "pm4Vck0LCqE"
-      },
       "name": "熱千めら"
     },
     {
@@ -591,5 +574,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T10:00:41Z"
+  "generated_at": "2026-10-31T10:10:35Z"
 }
