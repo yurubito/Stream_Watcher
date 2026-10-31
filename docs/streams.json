@@ -364,16 +364,6 @@
       "name": "森カリオペ",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-31T02:00:00Z",
-          "title": "spooky scary skeletons (no archive)",
-          "video_id": "9mGH-o1cabk"
-        },
-        {
-          "scheduled_at": "2026-10-31T03:00:00Z",
-          "title": "洗脳 (Brainwashed) - Mori Calliope (cover)",
-          "video_id": "zHorAsW9mPQ"
-        },
-        {
           "scheduled_at": "2026-10-31T23:00:00Z",
           "title": "【ZELDA: MAJORA'S MASK】the sky is falling, baby #calliolive",
           "video_id": "qnLXx1-mOr0"
@@ -547,7 +537,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T12:00:00Z",
+          "title": "Loveit? / biz×ZERA【Cover】(Vestia Zeta/夏色まつり)",
+          "video_id": "cQbWSAbnduc"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -560,5 +557,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T06:10:21Z"
+  "generated_at": "2026-10-31T06:41:14Z"
 }
