@@ -252,13 +252,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-31T10:59:21Z",
+        "title": "【 重大告知‼️ 】 #KoZMy 3Dハロウィン晩酌パーティー🎃おもてなし成功させて告知をせよ！【AZKi・雪花ラミィ・博衣こより/ホロライブ】",
+        "video_id": "cQ7TwS2xPDk"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T11:00:00Z",
-          "title": "【 重大告知‼️ 】 #KoZMy 3Dハロウィン晩酌パーティー🎃おもてなし成功させて告知をせよ！【AZKi・雪花ラミィ・博衣こより/ホロライブ】",
-          "video_id": "cQ7TwS2xPDk"
-        },
         {
           "scheduled_at": "2026-11-01T02:00:00Z",
           "title": "【空の軌跡 the 2nd】完全初見！第5章やってくぞおおおおお！！！ #6 【博衣こより/ホロライブ】※ネタバレあり",
@@ -365,13 +365,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-31T11:00:04Z",
+        "title": "【マシュマロ雑談】ハロウィンだー！アソビ★まわり隊！４人でマシュマロ食べまくる！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "oTiW26A4-vw"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T11:00:00Z",
-          "title": "【マシュマロ雑談】ハロウィンだー！アソビ★まわり隊！４人でマシュマロ食べまくる！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "oTiW26A4-vw"
-        },
         {
           "scheduled_at": "2026-10-31T13:00:00Z",
           "title": "#5 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -470,14 +470,12 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T11:00:00Z",
-          "title": "HALLOWEEN KARAOKE TIME!!!",
-          "video_id": "hIZStHIIISo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T10:55:35Z",
+        "title": "HALLOWEEN KARAOKE TIME!!!",
+        "video_id": "hIZStHIIISo"
+      },
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -607,5 +605,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T10:50:25Z"
+  "generated_at": "2026-10-31T11:00:50Z"
 }
