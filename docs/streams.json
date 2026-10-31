@@ -345,13 +345,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-31T08:57:43Z",
+        "title": "【40万人耐久?】初コメ大歓迎◎コメント拾いまくるのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "JW3o2zk4f0U"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T09:00:00Z",
-          "title": "【40万人耐久?】初コメ大歓迎◎コメント拾いまくるのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "JW3o2zk4f0U"
-        },
         {
           "scheduled_at": "2026-10-31T10:00:00Z",
           "title": "UNDEAD covered by 熱千めら",
@@ -368,18 +368,11 @@
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
       "live": {
-        "started_at": "2026-10-31T08:17:19Z",
-        "title": "【雑談】ちょっとだけお話!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "efmeth3jUts"
+        "started_at": "2026-10-31T09:00:09Z",
+        "title": "？？？　covered by 鈴鳴つづり ホロライブ",
+        "video_id": "Go7vY-ZdJGA"
       },
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T09:00:00Z",
-          "title": "？？？　covered by 鈴鳴つづり ホロライブ",
-          "video_id": "Go7vY-ZdJGA"
-        }
-      ]
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -614,5 +607,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T08:50:28Z"
+  "generated_at": "2026-10-31T09:00:43Z"
 }
