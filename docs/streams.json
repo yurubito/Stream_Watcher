@@ -14,6 +14,11 @@
           "scheduled_at": "2026-10-31T12:00:00Z",
           "title": "【 オフコラボ】カメラ付き！ #お子様バッテリー  でもできるハロウィンクッキング✨  【ホロライブ/ ロボ子さん 】",
           "video_id": "G6bF7EFUyhc"
+        },
+        {
+          "scheduled_at": "2026-11-01T10:00:00Z",
+          "title": "【勝利の女神：NIKKE】高性能ロボットはPONじゃない！4周年作戦に参戦するよ～！【ロボ子さん / ホロライブ】",
+          "video_id": "SP2vZfE5b-0"
         }
       ]
     },
@@ -47,7 +52,14 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと"
+      "name": "赤井はあと",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T10:00:00Z",
+          "title": "【しりとり旅】終わらん。【ホロライブ/赤井はあと】",
+          "video_id": "s5XQjcMZUao"
+        }
+      ]
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -79,13 +91,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-10-31T04:04:11Z",
+        "title": "【#4】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
+        "video_id": "KjmUgCl9K0g"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T04:00:00Z",
-          "title": "【#4】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
-          "video_id": "KjmUgCl9K0g"
-        },
         {
           "scheduled_at": "2026-11-01T04:00:00Z",
           "title": "【#5】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
@@ -104,7 +116,7 @@
       "name": "猫又おかゆ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-01T11:00:00Z",
+          "scheduled_at": "2026-11-01T12:00:00Z",
           "title": "た　だ　い　ま　！　！　！　！　！",
           "video_id": "N1yk3MOe0sE"
         }
@@ -120,6 +132,11 @@
       "group": "JP 3期生",
       "name": "兎田ぺこら",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T09:00:00Z",
+          "title": "【メンバー限定】ハロウィン🎃お菓子作り【ホロライブ/兎田ぺこら】",
+          "video_id": "Pw0wchRQJac"
+        },
         {
           "scheduled_at": "2026-11-01T09:00:00Z",
           "title": "【BLEACH Mirrors High】【兎田ぺこら/ホロライブ】",
@@ -187,6 +204,11 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-10-31T04:41:16Z",
+        "title": "【#ホロ鯖ARK】2回目！ルーナとの拠点は元気かなああああああああ【尾丸ポルカ/ホロライブ】",
+        "video_id": "qnPw4IjMBsM"
+      },
       "name": "尾丸ポルカ"
     },
     {
@@ -197,13 +219,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-31T03:05:08Z",
+        "title": "【 ドラゴンクエスト ビルダーズ 】ラダトーム編突入！？！？！？！？！？【鷹嶺ルイ/ホロライブ】ネタバレあり",
+        "video_id": "xQr6JbwcBTE"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T03:00:00Z",
-          "title": "【 ドラゴンクエスト ビルダーズ 】ラダトーム編突入！？！？！？！？！？【鷹嶺ルイ/ホロライブ】ネタバレあり",
-          "video_id": "xQr6JbwcBTE"
-        },
         {
           "scheduled_at": "2026-10-31T14:00:00Z",
           "title": "【 ギャリー邸事件 】圧倒的高評価‼夜な夜な現れる名探偵鷹嶺！ー前編ー The Incident at Galley House【鷹嶺ルイ/ホロライブ】",
@@ -236,12 +258,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-30T23:02:15Z",
-        "title": "【#ホロ鯖ARK】ガルガンターをテイムしたいDAY🏝前半準備編【風真いろは/ホロライブ】",
-        "video_id": "Bo5ZDcdMrPU"
-      },
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T10:00:00Z",
+          "title": "【#ホロ鯖ARK】ガルガンターをテイムしたいDAY🏝後半ぜったいつかまえる編【風真いろは/ホロライブ】",
+          "video_id": "iLMQ3_nRusc"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -339,17 +363,17 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-31T01:58:33Z",
-        "title": "【EN】#7 WHO IS LEFT!? I'M COMING FOR YOU!!!! | Cuphead【Hyakuto Kyoko/Hololive】",
-        "video_id": "kYxfR1beO4o"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
           "scheduled_at": "2026-10-31T11:00:00Z",
           "title": "【マシュマロ雑談】ハロウィンだー！アソビ★まわり隊！４人でマシュマロ食べまくる！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "oTiW26A4-vw"
+        },
+        {
+          "scheduled_at": "2026-10-31T13:00:00Z",
+          "title": "#5 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "_HVrcK_xJk0"
         }
       ]
     },
@@ -404,6 +428,11 @@
           "scheduled_at": "2026-11-01T03:00:00Z",
           "title": "≪OFF COLLAB≫ WORKING OUT WITH SUISEI + NEW MV RELEASE #RoadToREGALIA",
           "video_id": "mD093bq2UOk"
+        },
+        {
+          "scheduled_at": "2026-11-01T04:15:00Z",
+          "title": "【ORIGINAL 3D MV】 HEADSHOT || HAKOS BAELZ (Prod. TeddyLoid x MATZ)",
+          "video_id": "gcw3FDCFWi8"
         },
         {
           "scheduled_at": "2026-11-01T14:30:00Z",
@@ -461,11 +490,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-31T00:24:28Z",
-        "title": "【DEADLOCK】1 VERY SHORT GAME",
-        "video_id": "94qVroazdCI"
-      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -557,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T06:41:14Z"
+  "generated_at": "2026-10-31T07:01:05Z"
 }
