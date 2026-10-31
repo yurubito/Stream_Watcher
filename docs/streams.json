@@ -261,11 +261,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-31T14:45:18Z",
-        "title": "【同時視聴】ドラゴンボール超スーパーヒーロー 完全初見！【水宮枢／ホロライブ】",
-        "video_id": "GB6MNA9grKw"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -533,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T17:20:27Z"
+  "generated_at": "2026-10-31T17:30:37Z"
 }
