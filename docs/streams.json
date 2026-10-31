@@ -363,7 +363,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-10-31T02:00:00Z",
-          "title": "spooky scary skeletons",
+          "title": "spooky scary skeletons (no archive)",
           "video_id": "9mGH-o1cabk"
         },
         {
@@ -542,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T00:40:22Z"
+  "generated_at": "2026-10-31T01:20:30Z"
 }
