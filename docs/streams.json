@@ -315,7 +315,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T14:00:00Z",
+          "title": "【#ホロ鯖ARK】ハッピーハロウィン🎃初めてのホロ鯖ARK！！＃23【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "Lf-TPN0wA-I"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -335,14 +342,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T13:00:00Z",
-          "title": "#5 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "_HVrcK_xJk0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T12:59:56Z",
+        "title": "#5 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "_HVrcK_xJk0"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -565,5 +570,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T12:50:31Z"
+  "generated_at": "2026-10-31T13:00:49Z"
 }
