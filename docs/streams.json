@@ -19,6 +19,11 @@
           "scheduled_at": "2026-11-01T10:00:00Z",
           "title": "【勝利の女神：NIKKE】高性能ロボットはPONじゃない！4周年作戦に参戦するよ～！【ロボ子さん / ホロライブ】",
           "video_id": "SP2vZfE5b-0"
+        },
+        {
+          "scheduled_at": "2026-11-05T10:00:00Z",
+          "title": "【対面初対談】ReoNaさんが遊びにきちゃー！？？初めましてロボ子です！！！【ホロライブ/ ロボ子さん 】",
+          "video_id": "XLpSn9ilNbU"
         }
       ]
     },
@@ -120,7 +125,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T12:00:00Z",
+          "title": "【DbD】テリファーが好きすぎてさすがに遊んでみたい",
+          "video_id": "CsbKFQgZ51o"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -574,5 +586,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T10:10:35Z"
+  "generated_at": "2026-10-31T10:20:23Z"
 }
