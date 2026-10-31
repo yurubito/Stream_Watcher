@@ -35,11 +35,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-10-31T12:04:37Z",
-        "title": "【 メンバー限定】雑談しよおおお！咲き乱れみこち後夜祭まである。【ホロライブ/さくらみこ】",
-        "video_id": "KMB0WIrPVwI"
-      },
       "name": "さくらみこ"
     },
     {
@@ -226,11 +221,6 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-31T11:38:33Z",
-        "title": "【KARAOKE】５０％の確率でアーカイブメン限歌",
-        "video_id": "OOHD0S51ay0"
-      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -576,11 +566,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-10-31T11:21:50Z",
-        "title": "【雑談】まちゅゼタ！FREE TALK~~~~",
-        "video_id": "06Z7Li1NTv4"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -594,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T12:10:22Z"
+  "generated_at": "2026-10-31T12:20:31Z"
 }
