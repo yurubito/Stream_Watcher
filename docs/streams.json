@@ -135,12 +135,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-10-31T10:00:19Z",
-        "title": "【ホロ鯖ARK】写真家カワウソ先生！ハロウィンの香りを感じながら暴食の海底＆拠点整理＆写真館etc...！【白銀ノエル/ホロライブ】",
-        "video_id": "aGWSkYHBr68"
-      },
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T01:00:00Z",
+          "title": "【朝活雑談】11月最初のさんでーまっするうううう✨【白銀ノエル/ホロライブ】",
+          "video_id": "uwCg7lqLELE"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -531,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T16:01:06Z"
+  "generated_at": "2026-10-31T17:20:27Z"
 }
