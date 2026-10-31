@@ -292,11 +292,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-31T20:44:57Z",
-        "title": "【F1同時視聴】メキシコGP！予選！！チャンピオンが決まる！？！？！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "S1Ituq89HVE"
-      },
       "name": "輪堂千速",
       "upcoming": [
         {
@@ -540,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T21:20:31Z"
+  "generated_at": "2026-10-31T22:20:31Z"
 }
