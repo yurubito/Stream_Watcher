@@ -282,7 +282,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T11:00:00Z",
+          "title": "【ReGLOSSの絆】本人不在の分かりて選手権！？！！【一条莉々華/hololive ReGLOSS】",
+          "video_id": "SNnWyE1rL-s"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -343,6 +350,11 @@
       "group": "アソビ★まわり隊！",
       "name": "熱千めら",
       "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T09:00:00Z",
+          "title": "【40万人耐久?】初コメ大歓迎◎コメント拾いまくるのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "JW3o2zk4f0U"
+        },
         {
           "scheduled_at": "2026-10-31T10:00:00Z",
           "title": "UNDEAD covered by 熱千めら",
@@ -600,5 +612,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T08:00:48Z"
+  "generated_at": "2026-10-31T08:20:23Z"
 }
