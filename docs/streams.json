@@ -162,7 +162,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T10:00:00Z",
+          "title": "【 宝くじ開封 | メンバー限定 】ハロウィンジャンボ宝くじ40枚！FIREするのら！！！＃１０【姫森ルーナ/ホロライブ】",
+          "video_id": "2oiD9OaA_uU"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -530,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T18:30:53Z"
+  "generated_at": "2026-10-31T19:50:29Z"
 }
