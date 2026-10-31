@@ -205,13 +205,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-31T14:26:39Z",
+        "title": "【 ギャリー邸事件 】圧倒的高評価‼夜な夜な現れる名探偵鷹嶺！ー前編ー The Incident at Galley House【鷹嶺ルイ/ホロライブ】",
+        "video_id": "Ml2X5Uk653E"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T14:00:00Z",
-          "title": "【 ギャリー邸事件 】圧倒的高評価‼夜な夜な現れる名探偵鷹嶺！ー前編ー The Incident at Galley House【鷹嶺ルイ/ホロライブ】",
-          "video_id": "Ml2X5Uk653E"
-        },
         {
           "scheduled_at": "2026-11-01T05:00:00Z",
           "title": "【 天皇賞(秋)/企画告知あり！ 】新衣装お披露目からの～天皇賞予想からの～企画告知！！！【 #鷹嶺ルイ競馬衣装 /ホロライブ】",
@@ -544,5 +544,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T14:20:44Z"
+  "generated_at": "2026-10-31T14:30:34Z"
 }
