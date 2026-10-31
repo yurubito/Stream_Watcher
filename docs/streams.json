@@ -52,14 +52,12 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T10:00:00Z",
-          "title": "【しりとり旅】終わらん。【ホロライブ/赤井はあと】",
-          "video_id": "s5XQjcMZUao"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T10:00:09Z",
+        "title": "【しりとり旅】終わらん。【ホロライブ/赤井はあと】",
+        "video_id": "s5XQjcMZUao"
+      },
+      "name": "赤井はあと"
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -154,14 +152,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T10:00:00Z",
-          "title": "【ホロ鯖ARK】写真家カワウソ先生！ハロウィンの香りを感じながら暴食の海底＆拠点整理＆写真館etc...！【白銀ノエル/ホロライブ】",
-          "video_id": "aGWSkYHBr68"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T10:00:19Z",
+        "title": "【ホロ鯖ARK】写真家カワウソ先生！ハロウィンの香りを感じながら暴食の海底＆拠点整理＆写真館etc...！【白銀ノエル/ホロライブ】",
+        "video_id": "aGWSkYHBr68"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -341,18 +337,11 @@
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
       "live": {
-        "started_at": "2026-10-31T08:57:43Z",
-        "title": "【40万人耐久?】初コメ大歓迎◎コメント拾いまくるのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "JW3o2zk4f0U"
+        "started_at": "2026-10-31T10:00:08Z",
+        "title": "UNDEAD covered by 熱千めら",
+        "video_id": "pm4Vck0LCqE"
       },
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T10:00:00Z",
-          "title": "UNDEAD covered by 熱千めら",
-          "video_id": "pm4Vck0LCqE"
-        }
-      ]
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -602,5 +591,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T09:40:30Z"
+  "generated_at": "2026-10-31T10:00:41Z"
 }
