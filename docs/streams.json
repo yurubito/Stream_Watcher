@@ -35,7 +35,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T12:00:00Z",
+          "title": "【 メンバー限定】雑談しよおおお！咲き乱れみこち後夜祭まである。【ホロライブ/さくらみこ】",
+          "video_id": "KMB0WIrPVwI"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -456,7 +463,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T11:00:00Z",
+          "title": "HALLOWEEN KARAOKE TIME!!!",
+          "video_id": "hIZStHIIISo"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -586,5 +600,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T10:20:23Z"
+  "generated_at": "2026-10-31T10:30:51Z"
 }
