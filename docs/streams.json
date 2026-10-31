@@ -11,7 +11,7 @@
       "name": "ロボ子さん",
       "upcoming": [
         {
-          "scheduled_at": "2026-10-31T12:00:00Z",
+          "scheduled_at": "2026-10-31T12:20:00Z",
           "title": "【 オフコラボ】カメラ付き！ #お子様バッテリー  でもできるハロウィンクッキング✨  【ホロライブ/ ロボ子さん 】",
           "video_id": "G6bF7EFUyhc"
         },
@@ -132,14 +132,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T12:00:00Z",
-          "title": "【DbD】テリファーが好きすぎてさすがに遊んでみたい",
-          "video_id": "CsbKFQgZ51o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T12:00:38Z",
+        "title": "【DbD】テリファーが好きすぎてさすがに遊んでみたい",
+        "video_id": "CsbKFQgZ51o"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -230,6 +228,11 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-10-31T11:38:33Z",
+        "title": "【KARAOKE】５０％の確率でアーカイブメン限歌",
+        "video_id": "OOHD0S51ay0"
+      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -253,9 +256,9 @@
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
       "live": {
-        "started_at": "2026-10-31T10:59:21Z",
-        "title": "【 重大告知‼️ 】 #KoZMy 3Dハロウィン晩酌パーティー🎃おもてなし成功させて告知をせよ！【AZKi・雪花ラミィ・博衣こより/ホロライブ】",
-        "video_id": "cQ7TwS2xPDk"
+        "started_at": "2026-10-31T12:00:10Z",
+        "title": "推したら引けない恋でした / KoZMy（AZKi・雪花ラミィ・博衣こより (Official)",
+        "video_id": "Cl3LkvJkQzQ"
       },
       "name": "博衣こより",
       "upcoming": [
@@ -284,11 +287,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-10-31T11:00:54Z",
-        "title": "【ReGLOSSの絆】本人不在の分かりて選手権！？！！【一条莉々華/hololive ReGLOSS】",
-        "video_id": "SNnWyE1rL-s"
-      },
       "name": "一条莉々華"
     },
     {
@@ -417,13 +415,13 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-10-31T12:00:35Z",
+        "title": "≪CHADCast≫ EPISODE 3 - Happy Halloween #chadcast",
+        "video_id": "-rEMiOIoqbo"
+      },
       "name": "ハコス・ベールズ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T12:00:00Z",
-          "title": "≪CHADCast≫ EPISODE 3 - Happy Halloween #chadcast",
-          "video_id": "-rEMiOIoqbo"
-        },
         {
           "scheduled_at": "2026-11-01T03:00:00Z",
           "title": "≪OFF COLLAB≫ WORKING OUT WITH SUISEI + NEW MV RELEASE #RoadToREGALIA",
@@ -531,7 +529,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T14:00:00Z",
+          "title": "【Goddess of Victory: NIKKE】LET'S CELEBRATE!! 4th Anniversary! #NIKKEholoSquad #ad",
+          "video_id": "PFuUPdIM1e8"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -546,13 +551,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-10-31T12:00:09Z",
+        "title": "Goblok Tenan | OST Troublemaker 2 Beyond Dream by AREA15 hololive",
+        "video_id": "c9yFK-ytqPg"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T12:00:00Z",
-          "title": "Goblok Tenan | OST Troublemaker 2 Beyond Dream by AREA15 hololive",
-          "video_id": "c9yFK-ytqPg"
-        },
         {
           "scheduled_at": "2026-10-31T13:00:00Z",
           "title": "【 #holoctober 】FINALE! FUN THINGS INSIDE!【 iofi / hololive】",
@@ -590,14 +595,7 @@
         "title": "【雑談】まちゅゼタ！FREE TALK~~~~",
         "video_id": "06Z7Li1NTv4"
       },
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T12:00:00Z",
-          "title": "Loveit? / biz×ZERA【Cover】(Vestia Zeta/夏色まつり)",
-          "video_id": "cQbWSAbnduc"
-        }
-      ]
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -610,5 +608,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T11:40:23Z"
+  "generated_at": "2026-10-31T12:01:08Z"
 }
