@@ -113,11 +113,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-10-31T12:00:38Z",
-        "title": "【DbD】テリファーが好きすぎてさすがに遊んでみたい",
-        "video_id": "CsbKFQgZ51o"
-      },
       "name": "戌神ころね"
     },
     {
@@ -296,7 +291,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T10:00:00Z",
+          "title": "チラズの異変探しホラー「新幹線０号」をかっこよくプレイのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "oIgWCd0kIZc"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -517,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T15:20:36Z"
+  "generated_at": "2026-10-31T15:50:26Z"
 }
