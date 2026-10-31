@@ -64,7 +64,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T13:00:00Z",
+          "title": "【メン限】REPO…とおもったら月末定期雑談。　2026.10【ホロライブ/白上フブキ】",
+          "video_id": "Q2x-IYLBJto"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -181,14 +188,7 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T13:00:00Z",
-          "title": "【 メンバー限定 】ハロウィン特別企画🎃叡智な大人のASMR…なのら(・o・🍬)【姫森ルーナ/ホロライブ】",
-          "video_id": "0nxO9774M1w"
-        }
-      ]
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -602,5 +602,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T09:30:33Z"
+  "generated_at": "2026-10-31T09:40:30Z"
 }
