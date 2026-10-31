@@ -91,11 +91,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-10-31T04:04:11Z",
-        "title": "【#4】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
-        "video_id": "KjmUgCl9K0g"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -152,7 +147,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T10:00:00Z",
+          "title": "【ホロ鯖ARK】写真家カワウソ先生！ハロウィンの香りを感じながら暴食の海底＆拠点整理＆写真館etc...！【白銀ノエル/ホロライブ】",
+          "video_id": "aGWSkYHBr68"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -370,6 +372,11 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-31T08:17:19Z",
+        "title": "【雑談】ちょっとだけお話!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "efmeth3jUts"
+      },
       "name": "鈴鳴つづり",
       "upcoming": [
         {
@@ -612,5 +619,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T08:20:23Z"
+  "generated_at": "2026-10-31T08:30:48Z"
 }
