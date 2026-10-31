@@ -276,7 +276,19 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T20:45:00Z",
+          "title": "【F1同時視聴】メキシコGP！予選！！チャンピオンが決まる！？！？！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "S1Ituq89HVE"
+        },
+        {
+          "scheduled_at": "2026-11-01T19:45:00Z",
+          "title": "【F1同時視聴】メキシコGP！絶対見逃せない決勝！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "FZ7rqXi-Bvg"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -369,7 +381,7 @@
         },
         {
           "scheduled_at": "2026-11-01T14:30:00Z",
-          "title": "HAKOS BAELZ 2ND ALBUM「MIRROR MIRROR」 LIVE LISTENING PARTY  PANIC PANIC PANIC",
+          "title": "HAKOS BAELZ 2ND ALBUM「MIRROR MIRROR」 LIVE LISTENING PARTY PANIC PANIC PANIC",
           "video_id": "r2Ax7ADRSWg"
         }
       ]
@@ -519,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T15:50:26Z"
+  "generated_at": "2026-10-31T16:01:06Z"
 }
