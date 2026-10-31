@@ -181,7 +181,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T13:00:00Z",
+          "title": "【 メンバー限定 】ハロウィン特別企画🎃叡智な大人のASMR…なのら(・o・🍬)【姫森ルーナ/ホロライブ】",
+          "video_id": "0nxO9774M1w"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -595,5 +602,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T09:20:26Z"
+  "generated_at": "2026-10-31T09:30:33Z"
 }
