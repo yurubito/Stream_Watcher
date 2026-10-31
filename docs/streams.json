@@ -264,14 +264,12 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T00:00:00Z",
-          "title": "【 ＃朝ガオ vol.17 】今日はあまり元気じゃないですが久しぶりに話しましょう【虎金妃笑虎】",
-          "video_id": "TFWDFZ_RJog"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T00:03:35Z",
+        "title": "【 ＃朝ガオ vol.17 】今日はあまり元気じゃないですが久しぶりに話しましょう【虎金妃笑虎】",
+        "video_id": "TFWDFZ_RJog"
+      },
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -544,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-30T23:10:31Z"
+  "generated_at": "2026-10-31T00:30:59Z"
 }
