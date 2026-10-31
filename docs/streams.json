@@ -281,11 +281,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-10-31T12:37:09Z",
-        "title": "【ホロじゃん】ホロライブの麻雀やるぞおお！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "m2pekd7ZL6c"
-      },
       "name": "輪堂千速"
     },
     {
@@ -316,11 +311,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-10-31T12:59:56Z",
-        "title": "#5 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "_HVrcK_xJk0"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -527,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T15:10:29Z"
+  "generated_at": "2026-10-31T15:20:36Z"
 }
