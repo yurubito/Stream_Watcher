@@ -344,13 +344,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-10-31T01:58:33Z",
+        "title": "【EN】#7 WHO IS LEFT!? I'M COMING FOR YOU!!!! | Cuphead【Hyakuto Kyoko/Hololive】",
+        "video_id": "kYxfR1beO4o"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T02:00:00Z",
-          "title": "【EN】#7 WHO IS LEFT!? I'M COMING FOR YOU!!!! | Cuphead【Hyakuto Kyoko/Hololive】",
-          "video_id": "kYxfR1beO4o"
-        },
         {
           "scheduled_at": "2026-10-31T11:00:00Z",
           "title": "【マシュマロ雑談】ハロウィンだー！アソビ★まわり隊！４人でマシュマロ食べまくる！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -549,5 +549,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T02:20:24Z"
+  "generated_at": "2026-10-31T02:30:33Z"
 }
