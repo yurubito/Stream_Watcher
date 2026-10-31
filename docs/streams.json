@@ -425,12 +425,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-30T22:58:43Z",
-        "title": "Going on a Date at a Morgue Probably 【Withering Rooms】",
-        "video_id": "O9j07qEMbZU"
-      },
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-10-31T23:00:00Z",
+          "title": "American Candy Tier List 【Halloween Handcam】",
+          "video_id": "iNmJjLc1_RU"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -544,5 +546,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T02:40:23Z"
+  "generated_at": "2026-10-31T03:20:24Z"
 }
