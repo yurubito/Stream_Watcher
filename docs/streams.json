@@ -90,6 +90,11 @@
           "scheduled_at": "2026-11-01T04:00:00Z",
           "title": "【#5】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
           "video_id": "Q9GWBbmip4w"
+        },
+        {
+          "scheduled_at": "2026-11-01T10:00:00Z",
+          "title": "【】まだ、ギリ夏――――――【ホロライブ/大空スバル】",
+          "video_id": "etHdRM82XOE"
         }
       ]
     },
@@ -199,11 +204,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-10-31T14:26:39Z",
-        "title": "【 ギャリー邸事件 】圧倒的高評価‼夜な夜な現れる名探偵鷹嶺！ー前編ー The Incident at Galley House【鷹嶺ルイ/ホロライブ】",
-        "video_id": "Ml2X5Uk653E"
-      },
       "name": "鷹嶺ルイ",
       "upcoming": [
         {
@@ -448,13 +448,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-10-31T21:02:57Z",
+        "title": "【AMNESIA: THE DARK DESCENT】end stream when im scared",
+        "video_id": "aOHjykM4YM0"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T21:00:00Z",
-          "title": "【AMNESIA: THE DARK DESCENT】end stream when im scared",
-          "video_id": "aOHjykM4YM0"
-        },
         {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
@@ -530,5 +530,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T20:50:31Z"
+  "generated_at": "2026-10-31T21:10:32Z"
 }
