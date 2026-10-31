@@ -341,14 +341,12 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T23:00:00Z",
-          "title": "【ZELDA: MAJORA'S MASK】the sky is falling, baby #calliolive",
-          "video_id": "qnLXx1-mOr0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T23:00:10Z",
+        "title": "【ZELDA: MAJORA'S MASK】the sky is falling, baby #calliolive",
+        "video_id": "qnLXx1-mOr0"
+      },
+      "name": "森カリオペ"
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -395,26 +393,22 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T23:00:00Z",
-          "title": "American Candy Tier List 【Halloween Handcam】",
-          "video_id": "iNmJjLc1_RU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T22:58:41Z",
+        "title": "American Candy Tier List 【Halloween Handcam】",
+        "video_id": "iNmJjLc1_RU"
+      },
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-10-31T23:00:00Z",
-          "title": "happy halloween",
-          "video_id": "nLolrNh7Xs4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-10-31T22:56:39Z",
+        "title": "happy halloween",
+        "video_id": "nLolrNh7Xs4"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -530,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T22:30:42Z"
+  "generated_at": "2026-10-31T23:00:45Z"
 }
