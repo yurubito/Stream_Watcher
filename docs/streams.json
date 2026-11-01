@@ -8,13 +8,13 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-01T10:00:41Z",
+        "title": "【勝利の女神：NIKKE】高性能ロボットはPONじゃない！4周年作戦に参戦するよ～！【ロボ子さん / ホロライブ】",
+        "video_id": "SP2vZfE5b-0"
+      },
       "name": "ロボ子さん",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T10:00:00Z",
-          "title": "【勝利の女神：NIKKE】高性能ロボットはPONじゃない！4周年作戦に参戦するよ～！【ロボ子さん / ホロライブ】",
-          "video_id": "SP2vZfE5b-0"
-        },
         {
           "scheduled_at": "2026-11-05T10:00:00Z",
           "title": "【対面初対談】ReoNaさんが遊びにきちゃー！？？初めましてロボ子です！！！【ホロライブ/ ロボ子さん 】",
@@ -41,7 +41,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-01T12:00:00Z",
-          "title": "【 はいしんよてち！ 】やるにぇええええええええええ！！【ホロライブ/さくらみこ】",
+          "title": "【AIドット絵バトル 】最強モンスターでバトル！！！視聴者かかってこいよ！！！！！！！！【ホロライブ/さくらみこ】",
           "video_id": "wZ3YTAOBAJ4"
         }
       ]
@@ -107,7 +107,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-01T10:00:00Z",
-          "title": "【】まだ、ギリ夏――――――【ホロライブ/大空スバル】",
+          "title": "【#生スバル】まだ、ギリ夏――――――【ホロライブ/大空スバル】",
           "video_id": "etHdRM82XOE"
         }
       ]
@@ -324,14 +324,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T10:00:00Z",
-          "title": "チラズの異変探しホラー「新幹線０号」をかっこよくプレイのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "oIgWCd0kIZc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T09:58:56Z",
+        "title": "チラズの異変探しホラー「新幹線０号」をかっこよくプレイのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "oIgWCd0kIZc"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -504,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T09:50:32Z"
+  "generated_at": "2026-11-01T10:00:53Z"
 }
