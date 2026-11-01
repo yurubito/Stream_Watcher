@@ -137,7 +137,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T12:00:00Z",
+          "title": "【】はいしにょていりち】",
+          "video_id": "IXi0umJ1SpM"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -494,5 +501,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T08:30:38Z"
+  "generated_at": "2026-11-01T08:50:40Z"
 }
