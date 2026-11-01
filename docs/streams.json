@@ -115,14 +115,12 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T12:00:00Z",
-          "title": "た　だ　い　ま　！　！　！　！　！",
-          "video_id": "N1yk3MOe0sE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T12:00:11Z",
+        "title": "た　だ　い　ま　！　！　！　！　！",
+        "video_id": "N1yk3MOe0sE"
+      },
+      "name": "猫又おかゆ"
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -139,14 +137,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T12:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY22🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "BWs4Co9bqr0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T12:00:24Z",
+        "title": "【#ホロ鯖ARK】DAY22🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "BWs4Co9bqr0"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -191,11 +187,6 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-01T09:01:49Z",
-        "title": "【SULFUR/サルファー】ダンジョン潜って装備集め！FPS&ローグライク&RPG【獅白ぼたん/ホロライブ】",
-        "video_id": "4TPnIUDDlAo"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -500,5 +491,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T11:30:37Z"
+  "generated_at": "2026-11-01T12:00:59Z"
 }
