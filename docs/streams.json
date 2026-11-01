@@ -68,6 +68,11 @@
           "scheduled_at": "2026-11-01T11:00:00Z",
           "title": "【 3DLIVE 】速報！夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
           "video_id": "oMXaXv1q7kw"
+        },
+        {
+          "scheduled_at": "2026-11-01T12:05:00Z",
+          "title": "？？？",
+          "video_id": "LCCe_mqLNH8"
         }
       ]
     },
@@ -84,13 +89,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-11-01T04:07:10Z",
+        "title": "【#5】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
+        "video_id": "Q9GWBbmip4w"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T04:00:00Z",
-          "title": "【#5】閲覧注意！初見トルネコやるしゅばあああああああああああ！！！！！：Torneko's Great Adventure: Mystery Dungeon【ネタバレあり】",
-          "video_id": "Q9GWBbmip4w"
-        },
         {
           "scheduled_at": "2026-11-01T10:00:00Z",
           "title": "【】まだ、ギリ夏――――――【ホロライブ/大空スバル】",
@@ -495,5 +500,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T05:30:37Z"
+  "generated_at": "2026-11-01T06:30:44Z"
 }
