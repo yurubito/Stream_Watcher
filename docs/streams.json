@@ -103,11 +103,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-11-01T10:06:29Z",
-        "title": "【#生スバル】まだ、ギリ夏――――――【ホロライブ/大空スバル】",
-        "video_id": "etHdRM82XOE"
-      },
       "name": "大空スバル"
     },
     {
@@ -520,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T11:01:08Z"
+  "generated_at": "2026-11-01T11:10:29Z"
 }
