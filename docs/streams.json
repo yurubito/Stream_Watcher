@@ -405,7 +405,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T19:00:00Z",
+          "title": "【not really ASMR】Literally and figuratively reading you a book!",
+          "video_id": "Ae0g2ETlea0"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -455,7 +462,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T03:00:00Z",
+          "title": "【PEAK】WE ARE BACK AT IT AGAIN! STRONGER THAN EVER 🏔️",
+          "video_id": "s8bcmHJ_4fU"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -463,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T15:50:24Z"
+  "generated_at": "2026-11-01T16:01:10Z"
 }
