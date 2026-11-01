@@ -140,14 +140,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T01:00:00Z",
-          "title": "【朝活雑談】11月最初のさんでーまっするうううう✨【白銀ノエル/ホロライブ】",
-          "video_id": "uwCg7lqLELE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T01:00:24Z",
+        "title": "【朝活雑談】11月最初のさんでーまっするうううう✨【白銀ノエル/ホロライブ】",
+        "video_id": "uwCg7lqLELE"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -514,5 +512,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T00:50:25Z"
+  "generated_at": "2026-11-01T01:00:42Z"
 }
