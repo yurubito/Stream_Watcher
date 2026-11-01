@@ -172,14 +172,7 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T10:00:00Z",
-          "title": "【 宝くじ開封 | メンバー限定 】ハロウィンジャンボ宝くじ40枚！FIREするのら！！！＃１０【姫森ルーナ/ホロライブ】",
-          "video_id": "2oiD9OaA_uU"
-        }
-      ]
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -194,7 +187,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T09:00:00Z",
+          "title": "【SULFUR/サルファー】ダンジョン潜って装備集め！FPS&ローグライク&RPG【獅白ぼたん/ホロライブ】",
+          "video_id": "4TPnIUDDlAo"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -209,13 +209,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-01T05:01:16Z",
+        "title": "【 天皇賞(秋)/企画告知あり！ 】新衣装お披露目からの～天皇賞予想からの～企画告知！！！【 #鷹嶺ルイ競馬衣装 /ホロライブ】",
+        "video_id": "fGpju71ebCA"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T05:00:00Z",
-          "title": "【 天皇賞(秋)/企画告知あり！ 】新衣装お披露目からの～天皇賞予想からの～企画告知！！！【 #鷹嶺ルイ競馬衣装 /ホロライブ】",
-          "video_id": "fGpju71ebCA"
-        },
         {
           "scheduled_at": "2026-11-01T08:00:00Z",
           "title": "【 ドラゴンクエスト ビルダーズ 】ラダトーム編最終回か・・・？【鷹嶺ルイ/ホロライブ】ネタバレあり",
@@ -334,7 +334,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T13:00:00Z",
+          "title": "#5 次々と明かされる衝撃の真実…！！今回は何が潜んでるかな？  | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "nLVNDZ0IM8M"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -344,11 +351,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-10-31T23:00:10Z",
-        "title": "【ZELDA: MAJORA'S MASK】the sky is falling, baby #calliolive",
-        "video_id": "qnLXx1-mOr0"
-      },
       "name": "森カリオペ"
     },
     {
@@ -386,11 +388,6 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-31T22:58:41Z",
-        "title": "American Candy Tier List 【Halloween Handcam】",
-        "video_id": "iNmJjLc1_RU"
-      },
       "name": "シオリ・ノヴェラ"
     },
     {
@@ -435,11 +432,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-10-31T23:32:07Z",
-        "title": "【UNARCHIVED KAAROAKE】OKTOBERJEST KAROAKEEE",
-        "video_id": "4GbzRgCPLAg"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -500,5 +492,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T06:30:44Z"
+  "generated_at": "2026-11-01T07:01:02Z"
 }
