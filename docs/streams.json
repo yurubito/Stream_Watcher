@@ -192,11 +192,6 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-01T02:29:17Z",
-        "title": "【ホロライブ麻雀 -ホロじゃん-】先行プレイ！！！初めての麻雀配信する！【ラプラス・ダークネス/ホロライブ】",
-        "video_id": "82AxSld-ZzY"
-      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -515,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T02:36:36Z"
+  "generated_at": "2026-11-01T05:10:26Z"
 }
