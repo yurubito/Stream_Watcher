@@ -20,14 +20,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T13:00:00Z",
-          "title": "【メン限】月イチみんなとまったり雑談！11月ここだけの話！【ホロライブ / AZKi】",
-          "video_id": "P4DTtPbgiqs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T13:02:35Z",
+        "title": "【メン限】月イチみんなとまったり雑談！11月ここだけの話！【ホロライブ / AZKi】",
+        "video_id": "P4DTtPbgiqs"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -101,12 +99,14 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-01T12:00:11Z",
-        "title": "た　だ　い　ま　！　！　！　！　！",
-        "video_id": "N1yk3MOe0sE"
-      },
-      "name": "猫又おかゆ"
+      "name": "猫又おかゆ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T11:00:00Z",
+          "title": "新衣装お披露目だああああああ🔥🍙✦",
+          "video_id": "-Se1EOY452o"
+        }
+      ]
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -131,14 +131,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T13:00:00Z",
-          "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
-          "video_id": "cwphiNChgH8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T13:02:41Z",
+        "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
+        "video_id": "cwphiNChgH8"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -205,13 +203,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-01T13:07:17Z",
+        "title": "【ホロじゃん】先行体験⁉️ホロライブの麻雀ゲームがくるーーーーーーー！？？？？【博衣こより/ホロライブ】",
+        "video_id": "mjbt0t7QyYA"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T13:00:00Z",
-          "title": "【ホロじゃん】先行体験⁉️ホロライブの麻雀ゲームがくるーーーーーーー！？？？？【博衣こより/ホロライブ】",
-          "video_id": "mjbt0t7QyYA"
-        },
         {
           "scheduled_at": "2026-11-02T11:00:00Z",
           "title": "【初コラボ】 豪 運 V S 不 憫 ～初めましてからの運ゲー勝負🔥～【熱千めら・博衣こより/ホロライブ】",
@@ -459,14 +457,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T13:00:00Z",
-          "title": "【Leafy Corner】I Opened a Cozy Plant Shop :D 植物屋さん始めました！【hololive holoro | Anya Melfissa】",
-          "video_id": "YvIAvbEi8XA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T13:01:47Z",
+        "title": "【Leafy Corner】I Opened a Cozy Plant Shop :D 植物屋さん始めました！【hololive holoro | Anya Melfissa】",
+        "video_id": "YvIAvbEi8XA"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -489,5 +485,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T13:00:50Z"
+  "generated_at": "2026-11-01T13:10:32Z"
 }
