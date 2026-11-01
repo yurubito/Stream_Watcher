@@ -11,6 +11,11 @@
       "name": "ロボ子さん",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-02T09:00:00Z",
+          "title": "【 歌枠】NO36 復活のろぼめろでぃ✨ 告知があるので今週は今やるしかないないっ✨ 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+          "video_id": "TEPBDaYLqOE"
+        },
+        {
           "scheduled_at": "2026-11-05T10:00:00Z",
           "title": "【対面初対談】ReoNaさんが遊びにきちゃー！？？初めましてロボ子です！！！【ホロライブ/ ロボ子さん 】",
           "video_id": "XLpSn9ilNbU"
@@ -20,11 +25,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-01T13:02:35Z",
-        "title": "【メン限】月イチみんなとまったり雑談！11月ここだけの話！【ホロライブ / AZKi】",
-        "video_id": "P4DTtPbgiqs"
-      },
       "name": "AZKi"
     },
     {
@@ -485,5 +485,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T13:10:32Z"
+  "generated_at": "2026-11-01T13:20:44Z"
 }
