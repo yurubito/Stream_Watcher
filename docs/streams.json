@@ -69,11 +69,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-01T12:05:07Z",
-        "title": "？？？",
-        "video_id": "LCCe_mqLNH8"
-      },
       "name": "夏色まつり"
     },
     {
@@ -313,14 +308,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T12:15:00Z",
-          "title": "VALORANT イモータルを目指す!! #６　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "mV8OmlBklGM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T12:15:02Z",
+        "title": "VALORANT イモータルを目指す!! #６　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "mV8OmlBklGM"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -483,5 +476,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T12:10:40Z"
+  "generated_at": "2026-11-01T12:20:22Z"
 }
