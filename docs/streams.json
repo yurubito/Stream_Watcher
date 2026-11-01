@@ -403,11 +403,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-10-31T22:56:39Z",
-        "title": "happy halloween",
-        "video_id": "nLolrNh7Xs4"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -460,9 +455,9 @@
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
       "live": {
-        "started_at": "2026-10-31T20:08:11Z",
-        "title": "【OKTOBERFEST】IT'S NOT HALLOWEEN OK, IT'S OKTOBERFEST!!!!!!!!!!!!! YAY~",
-        "video_id": "6b_lYraAX38"
+        "started_at": "2026-10-31T23:32:07Z",
+        "title": "【UNARCHIVED KAAROAKE】OKTOBERJEST KAROAKEEE",
+        "video_id": "4GbzRgCPLAg"
       },
       "name": "セシリア・イマーグリーン"
     },
@@ -524,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-10-31T23:00:45Z"
+  "generated_at": "2026-11-01T00:20:28Z"
 }
