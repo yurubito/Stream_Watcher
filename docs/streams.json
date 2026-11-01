@@ -276,14 +276,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T12:30:00Z",
-          "title": "【 #ホロARK 】初心者がいく🔰アルゲンテイム🦖【水宮枢／ホロライブ】",
-          "video_id": "QZ-GN3Yo7dU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T12:32:01Z",
+        "title": "【 #ホロARK 】初心者がいく🔰アルゲンテイム🦖【水宮枢／ホロライブ】",
+        "video_id": "QZ-GN3Yo7dU"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -465,7 +463,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T13:00:00Z",
+          "title": "【Leafy Corner】I Opened a Cozy Plant Shop :D 植物屋さん始めました！【hololive holoro | Anya Melfissa】",
+          "video_id": "YvIAvbEi8XA"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -488,5 +493,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T12:30:52Z"
+  "generated_at": "2026-11-01T12:40:37Z"
 }
