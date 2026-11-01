@@ -113,14 +113,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T09:00:00Z",
-          "title": "【妹に運転を教える】お姉ちゃん免許持ってるから大丈夫！【ホロライブ/大神ミオ】",
-          "video_id": "RxqGatF8tLI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T09:00:14Z",
+        "title": "【妹に運転を教える】お姉ちゃん免許持ってるから大丈夫！【ホロライブ/大神ミオ】",
+        "video_id": "RxqGatF8tLI"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -149,12 +147,17 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-11-01T09:00:18Z",
+        "title": "【BLEACH Mirrors High】ブリーチ新作ゲームきｔら✨ぺこらはどの隊に入隊する？ぺこ！千年血戦篇のその後？！【兎田ぺこら/ホロライブ】",
+        "video_id": "03g_7timbg4"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-01T09:00:00Z",
-          "title": "【BLEACH Mirrors High】ブリーチ新作ゲームきｔら✨ぺこらはどの隊に入隊する？ぺこ！千年血戦篇のその後？！【兎田ぺこら/ホロライブ】",
-          "video_id": "03g_7timbg4"
+          "scheduled_at": "2026-11-01T12:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY22🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "BWs4Co9bqr0"
         }
       ]
     },
@@ -501,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T08:50:40Z"
+  "generated_at": "2026-11-01T09:00:43Z"
 }
