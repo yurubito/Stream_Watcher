@@ -209,13 +209,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-01T08:04:03Z",
+        "title": "【 ドラゴンクエスト ビルダーズ 】ラダトーム編最終回か・・・？【鷹嶺ルイ/ホロライブ】ネタバレあり",
+        "video_id": "hJbmq0cy5CY"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T08:00:00Z",
-          "title": "【 ドラゴンクエスト ビルダーズ 】ラダトーム編最終回か・・・？【鷹嶺ルイ/ホロライブ】ネタバレあり",
-          "video_id": "hJbmq0cy5CY"
-        },
         {
           "scheduled_at": "2026-11-01T14:00:00Z",
           "title": "【 ギャリー邸事件 】圧倒的高評価‼夜な夜な現れる名探偵鷹嶺！ー後編ー The Incident at Galley House【鷹嶺ルイ/ホロライブ】",
@@ -487,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T07:30:38Z"
+  "generated_at": "2026-11-01T08:10:29Z"
 }
