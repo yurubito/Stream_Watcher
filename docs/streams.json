@@ -101,7 +101,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T09:00:00Z",
+          "title": "【妹に運転を教える】お姉ちゃん免許持ってるから大丈夫！【ホロライブ/大神ミオ】",
+          "video_id": "RxqGatF8tLI"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -286,11 +293,6 @@
       "name": "輪堂千速",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-01T05:30:00Z",
-          "title": "【競馬/天皇賞】いくぞおおおおおおおおお！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-          "video_id": "JzZqjEgVOQY"
-        },
-        {
           "scheduled_at": "2026-11-01T19:45:00Z",
           "title": "【F1同時視聴】メキシコGP！絶対見逃せない決勝！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
           "video_id": "FZ7rqXi-Bvg"
@@ -370,16 +372,6 @@
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-01T03:00:00Z",
-          "title": "≪OFF COLLAB≫ WORKING OUT WITH SUISEI + NEW MV RELEASE #RoadToREGALIA",
-          "video_id": "mD093bq2UOk"
-        },
-        {
-          "scheduled_at": "2026-11-01T04:15:00Z",
-          "title": "【ORIGINAL 3D MV】 HEADSHOT || HAKOS BAELZ (Prod. TeddyLoid x MATZ)",
-          "video_id": "gcw3FDCFWi8"
-        },
-        {
           "scheduled_at": "2026-11-01T14:30:00Z",
           "title": "HAKOS BAELZ 2ND ALBUM「MIRROR MIRROR」 LIVE LISTENING PARTY PANIC PANIC PANIC",
           "video_id": "r2Ax7ADRSWg"
@@ -409,11 +401,6 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-01T00:55:19Z",
-        "title": "【SEVEN NIGHTS GHOST】living together with my ghostie girlfriend🐾🩵 【 FUWAWA SOLO】",
-        "video_id": "ahhAUnfp9eI"
-      },
       "name": "フワワ＆モココ・アビスガード"
     },
     {
@@ -508,5 +495,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T05:20:35Z"
+  "generated_at": "2026-11-01T05:30:37Z"
 }
