@@ -140,11 +140,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-01T01:00:24Z",
-        "title": "【朝活雑談】11月最初のさんでーまっするうううう✨【白銀ノエル/ホロライブ】",
-        "video_id": "uwCg7lqLELE"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -197,6 +192,11 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-01T02:29:17Z",
+        "title": "【ホロライブ麻雀 -ホロじゃん-】先行プレイ！！！初めての麻雀配信する！【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "82AxSld-ZzY"
+      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -515,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T01:10:24Z"
+  "generated_at": "2026-11-01T02:36:36Z"
 }
