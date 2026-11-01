@@ -259,14 +259,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T12:45:00Z",
-          "title": "【Dead by Daylight】人生初DBD✨愛しのアート・ザ・クラウン【ホロライブ  響咲リオナ】",
-          "video_id": "Aj_IjmDH-qU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T12:45:18Z",
+        "title": "【Dead by Daylight】人生初DBD✨愛しのアート・ザ・クラウン【ホロライブ  響咲リオナ】",
+        "video_id": "Aj_IjmDH-qU"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -493,5 +491,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T12:40:37Z"
+  "generated_at": "2026-11-01T12:50:29Z"
 }
