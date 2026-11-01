@@ -106,11 +106,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-01T12:01:21Z",
-        "title": "【FNAF: Into the Pit】はじめてのピッツァ屋さん🍕",
-        "video_id": "IXi0umJ1SpM"
-      },
       "name": "戌神ころね"
     },
     {
@@ -416,11 +411,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-01T14:01:13Z",
-        "title": "【Goddess of Victory: NIKKE】LET'S CELEBRATE!! 4th Anniversary! #NIKKEholoSquad #ad",
-        "video_id": "PFuUPdIM1e8"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -476,5 +466,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T17:10:32Z"
+  "generated_at": "2026-11-01T17:30:37Z"
 }
