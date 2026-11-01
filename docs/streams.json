@@ -210,11 +210,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-01T15:29:58Z",
-        "title": "風真いろはの #ねるまえらじお 📻❣ #27",
-        "video_id": "XAMQ_4mDrKo"
-      },
       "name": "風真いろは",
       "upcoming": [
         {
@@ -366,7 +361,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T00:00:00Z",
+          "title": "【ONE MILLION CELEBRATION】Featuring Momseki, Debut Watchalong, and A SURPRISE?!",
+          "video_id": "i98EfvV4i2Q"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -477,5 +479,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T16:01:10Z"
+  "generated_at": "2026-11-01T16:10:40Z"
 }
