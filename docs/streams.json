@@ -103,14 +103,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T10:00:00Z",
-          "title": "【#生スバル】まだ、ギリ夏――――――【ホロライブ/大空スバル】",
-          "video_id": "etHdRM82XOE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T10:06:29Z",
+        "title": "【#生スバル】まだ、ギリ夏――――――【ホロライブ/大空スバル】",
+        "video_id": "etHdRM82XOE"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -253,7 +251,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T15:30:00Z",
+          "title": "風真いろはの #ねるまえらじお 📻❣ #27",
+          "video_id": "XAMQ_4mDrKo"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -502,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T10:00:53Z"
+  "generated_at": "2026-11-01T10:10:31Z"
 }
