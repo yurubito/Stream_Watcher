@@ -82,14 +82,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T22:30:00Z",
-          "title": "【#朝ミオ 】１１月だ！月曜日だよ～～！おはみぉーん！",
-          "video_id": "-CttcNadrdY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T22:31:03Z",
+        "title": "【#朝ミオ 】１１月だ！月曜日だよ～～！おはみぉーん！",
+        "video_id": "-CttcNadrdY"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -377,9 +375,9 @@
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
         {
-          "scheduled_at": "2027-04-25T18:00:00Z",
-          "title": "🛡🌹 Rosarian Common Room ❤️ Community Hangout 🌹 🛡",
-          "video_id": "BG1PnrEgNMY"
+          "scheduled_at": "2026-11-04T20:00:00Z",
+          "title": "🔴LIVE |【WATCHALONG】IRyS 1st Concert 「HOPE ||: Beyond the Stars」 | 💄",
+          "video_id": "hNO3xfLnhd8"
         }
       ]
     },
@@ -458,5 +456,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T20:50:30Z"
+  "generated_at": "2026-11-01T22:40:25Z"
 }
