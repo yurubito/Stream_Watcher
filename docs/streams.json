@@ -131,7 +131,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T13:00:00Z",
+          "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
+          "video_id": "cwphiNChgH8"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -221,6 +228,11 @@
           "scheduled_at": "2026-11-01T15:30:00Z",
           "title": "風真いろはの #ねるまえらじお 📻❣ #27",
           "video_id": "XAMQ_4mDrKo"
+        },
+        {
+          "scheduled_at": "2026-11-01T23:00:00Z",
+          "title": "【メン限】メン限月曜日討伐朝活☀02【風真いろは/ホロライブ】",
+          "video_id": "NwX5rfNh3yI"
         }
       ]
     },
@@ -476,5 +488,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T12:20:22Z"
+  "generated_at": "2026-11-01T12:30:52Z"
 }
