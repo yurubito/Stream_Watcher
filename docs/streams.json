@@ -333,7 +333,14 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS"
+      "name": "IRyS",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T03:00:00Z",
+          "title": "【#GBVSR】First Time Playing!!! We gonna FIGHT and TRAIN #sponsored",
+          "video_id": "mVOs-0U1YqE"
+        }
+      ]
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -466,5 +473,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T17:30:37Z"
+  "generated_at": "2026-11-01T17:40:40Z"
 }
