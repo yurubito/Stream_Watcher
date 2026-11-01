@@ -246,7 +246,14 @@
         "title": "【空の軌跡 the 2nd】完全初見！第5章やってくぞおおおおお！！！ #6 【博衣こより/ホロライブ】※ネタバレあり",
         "video_id": "m_CcqIxgJOY"
       },
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-01T13:00:00Z",
+          "title": "【ホロじゃん】先行体験⁉️ホロライブの麻雀ゲームがくるーーーーーーー！？？？？【博衣こより/ホロライブ】",
+          "video_id": "mjbt0t7QyYA"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -507,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T10:10:31Z"
+  "generated_at": "2026-11-01T10:20:24Z"
 }
