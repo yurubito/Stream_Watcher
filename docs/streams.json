@@ -326,14 +326,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T13:00:00Z",
-          "title": "#5 次々と明かされる衝撃の真実…！！今回は何が潜んでるかな？  | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "nLVNDZ0IM8M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T12:59:34Z",
+        "title": "#5 次々と明かされる衝撃の真実…！！今回は何が潜んでるかな？  | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "nLVNDZ0IM8M"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -491,5 +489,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T12:50:29Z"
+  "generated_at": "2026-11-01T13:00:50Z"
 }
