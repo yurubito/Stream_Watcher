@@ -32,14 +32,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T12:00:00Z",
-          "title": "【AIドット絵バトル 】最強モンスターでバトル！！！視聴者かかってこいよ！！！！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "wZ3YTAOBAJ4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T12:02:24Z",
+        "title": "【AIドット絵バトル 】最強モンスターでバトル！！！視聴者かかってこいよ！！！！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "wZ3YTAOBAJ4"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -72,18 +70,11 @@
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
       "live": {
-        "started_at": "2026-11-01T10:53:13Z",
-        "title": "【 3DLIVE 】速報！夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
-        "video_id": "oMXaXv1q7kw"
+        "started_at": "2026-11-01T12:05:07Z",
+        "title": "？？？",
+        "video_id": "LCCe_mqLNH8"
       },
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T12:05:00Z",
-          "title": "？？？",
-          "video_id": "LCCe_mqLNH8"
-        }
-      ]
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -125,14 +116,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T12:00:00Z",
-          "title": "【FNAF: Into the Pit】はじめてのピッツァ屋さん🍕",
-          "video_id": "IXi0umJ1SpM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T12:01:21Z",
+        "title": "【FNAF: Into the Pit】はじめてのピッツァ屋さん🍕",
+        "video_id": "IXi0umJ1SpM"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -220,6 +209,11 @@
           "scheduled_at": "2026-11-01T13:00:00Z",
           "title": "【ホロじゃん】先行体験⁉️ホロライブの麻雀ゲームがくるーーーーーーー！？？？？【博衣こより/ホロライブ】",
           "video_id": "mjbt0t7QyYA"
+        },
+        {
+          "scheduled_at": "2026-11-02T11:00:00Z",
+          "title": "【初コラボ】 豪 運 V S 不 憫 ～初めましてからの運ゲー勝負🔥～【熱千めら・博衣こより/ホロライブ】",
+          "video_id": "w5UO1TRxc8c"
         }
       ]
     },
@@ -299,14 +293,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T12:00:00Z",
-          "title": "【#ホロ鯖ARK】ガルガンダーテイム！初めてのホロ鯖ARK！！＃24【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "bnxbPxmpqQc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T12:09:25Z",
+        "title": "【#ホロ鯖ARK】ガルガンダーテイム！初めてのホロ鯖ARK！！＃24【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "bnxbPxmpqQc"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -491,5 +483,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T12:00:59Z"
+  "generated_at": "2026-11-01T12:10:40Z"
 }
