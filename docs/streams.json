@@ -116,11 +116,6 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-01T13:02:41Z",
-        "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
-        "video_id": "cwphiNChgH8"
-      },
       "name": "不知火フレア"
     },
     {
@@ -247,11 +242,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-01T12:32:01Z",
-        "title": "【 #ホロARK 】初心者がいく🔰アルゲンテイム🦖【水宮枢／ホロライブ】",
-        "video_id": "QZ-GN3Yo7dU"
-      },
       "name": "水宮枢"
     },
     {
@@ -480,5 +470,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T17:50:26Z"
+  "generated_at": "2026-11-01T18:20:38Z"
 }
