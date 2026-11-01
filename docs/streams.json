@@ -299,7 +299,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T03:00:00Z",
+          "title": "【EN】#5  WE ARE HERE AGAIN!!!! | PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
+          "video_id": "0O54TfKz4Ic"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -474,5 +481,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T16:30:39Z"
+  "generated_at": "2026-11-01T16:40:24Z"
 }
