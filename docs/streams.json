@@ -254,11 +254,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-01T12:09:25Z",
-        "title": "【#ホロ鯖ARK】ガルガンダーテイム！初めてのホロ鯖ARK！！＃24【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "bnxbPxmpqQc"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -401,7 +396,7 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-01T19:00:00Z",
+          "scheduled_at": "2026-11-01T19:15:00Z",
           "title": "【not really ASMR】Literally and figuratively reading you a book!",
           "video_id": "Ae0g2ETlea0"
         }
@@ -465,5 +460,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T18:50:37Z"
+  "generated_at": "2026-11-01T19:01:03Z"
 }
