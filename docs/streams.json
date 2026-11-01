@@ -393,14 +393,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T19:10:00Z",
-          "title": "【not really ASMR】Literally and figuratively reading you a book!",
-          "video_id": "Ae0g2ETlea0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T19:11:00Z",
+        "title": "【not really ASMR】Literally and figuratively reading you a book!",
+        "video_id": "Ae0g2ETlea0"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -460,5 +458,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T19:10:36Z"
+  "generated_at": "2026-11-01T19:20:28Z"
 }
