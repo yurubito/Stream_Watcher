@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-01T10:00:41Z",
-        "title": "【勝利の女神：NIKKE】高性能ロボットはPONじゃない！4周年作戦に参戦するよ～！【ロボ子さん / ホロライブ】",
-        "video_id": "SP2vZfE5b-0"
-      },
       "name": "ロボ子さん",
       "upcoming": [
         {
@@ -330,11 +325,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-01T09:58:56Z",
-        "title": "チラズの異変探しホラー「新幹線０号」をかっこよくプレイのじゃ！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "oIgWCd0kIZc"
-      },
       "name": "熱千めら"
     },
     {
@@ -515,5 +505,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T11:10:29Z"
+  "generated_at": "2026-11-01T11:20:30Z"
 }
