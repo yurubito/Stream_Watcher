@@ -204,14 +204,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T09:00:00Z",
-          "title": "【SULFUR/サルファー】ダンジョン潜って装備集め！FPS&ローグライク&RPG【獅白ぼたん/ホロライブ】",
-          "video_id": "4TPnIUDDlAo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T09:01:49Z",
+        "title": "【SULFUR/サルファー】ダンジョン潜って装備集め！FPS&ローグライク&RPG【獅白ぼたん/ホロライブ】",
+        "video_id": "4TPnIUDDlAo"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -504,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T09:00:43Z"
+  "generated_at": "2026-11-01T09:10:24Z"
 }
