@@ -376,14 +376,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T14:30:00Z",
-          "title": "HAKOS BAELZ 2ND ALBUM「MIRROR MIRROR」 LIVE LISTENING PARTY PANIC PANIC PANIC",
-          "video_id": "r2Ax7ADRSWg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T14:30:49Z",
+        "title": "HAKOS BAELZ 2ND ALBUM「MIRROR MIRROR」 LIVE LISTENING PARTY PANIC PANIC PANIC",
+        "video_id": "r2Ax7ADRSWg"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -495,5 +493,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T14:10:26Z"
+  "generated_at": "2026-11-01T14:40:40Z"
 }
