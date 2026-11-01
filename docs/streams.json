@@ -161,7 +161,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T13:00:00Z",
+          "title": "天下統一への道のりなのら(・o・🍬)【姫森ルーナ/ホロライブ】",
+          "video_id": "hWZhyEbP580"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -337,7 +344,14 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T00:00:00Z",
+          "title": "【ZELDA: MAJORA'S MASK】im just a lil deku scrub guy!! (part 2) #calliolive",
+          "video_id": "5htZJ4LI_1M"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -423,14 +437,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-01T14:00:00Z",
-          "title": "【Goddess of Victory: NIKKE】LET'S CELEBRATE!! 4th Anniversary! #NIKKEholoSquad #ad",
-          "video_id": "PFuUPdIM1e8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-01T14:01:13Z",
+        "title": "【Goddess of Victory: NIKKE】LET'S CELEBRATE!! 4th Anniversary! #NIKKEholoSquad #ad",
+        "video_id": "PFuUPdIM1e8"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -483,5 +495,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T14:00:54Z"
+  "generated_at": "2026-11-01T14:10:26Z"
 }
