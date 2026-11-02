@@ -45,14 +45,12 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T14:40:00Z",
-          "title": "【#アキちょこナイパレ｜第58回】📞ケンカしたらすぐ仲直りしたい派🆚💬少し時間を置きたい派  あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
-          "video_id": "4Ebb33QFZBQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T14:43:28Z",
+        "title": "【#アキちょこナイパレ｜第58回】📞ケンカしたらすぐ仲直りしたい派🆚💬少し時間を置きたい派  あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
+        "video_id": "4Ebb33QFZBQ"
+      },
+      "name": "アキ・ローゼンタール"
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -139,14 +137,7 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T15:00:00Z",
-          "title": "【 #ホロ鯖ARK 】強い装備、強いルミナ or ワニ or カルカロが欲しい！！！【角巻わため/ホロライブ４期生】",
-          "video_id": "i_vvv2NXxAo"
-        }
-      ]
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -493,5 +484,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T14:40:26Z"
+  "generated_at": "2026-11-02T14:50:27Z"
 }
