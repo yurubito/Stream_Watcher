@@ -125,7 +125,19 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T11:00:00Z",
+          "title": "【#戌神ころね新衣装】新衣装で並びたいので『おがゆ限定凸待ち』しまーーーす🐱",
+          "video_id": "M9eA-TmMgFg"
+        },
+        {
+          "scheduled_at": "2026-11-04T10:00:00Z",
+          "title": "【案件】おかころで『ソニックレーシング クロスワールド』遊ぶよ！！！【戌神ころね/猫又おかゆ/ホロライブ】",
+          "video_id": "GLBnfdLZTtU"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -492,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T20:20:32Z"
+  "generated_at": "2026-11-02T20:30:50Z"
 }
