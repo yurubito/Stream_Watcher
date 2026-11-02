@@ -113,7 +113,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T13:00:00Z",
+          "title": "【ド★初見】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
+          "video_id": "StlocFxdRVM"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -273,14 +280,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T09:00:00Z",
-          "title": "【#ホロ鯖ARK】ガルガンダーテイム！初めてのホロ鯖ARK！！＃24【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "XMJi8I_9pp4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T09:11:49Z",
+        "title": "【#ホロ鯖ARK】ガルガンダーテイム！初めてのホロ鯖ARK！！＃24【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "XMJi8I_9pp4"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -494,5 +499,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T09:00:50Z"
+  "generated_at": "2026-11-02T09:20:41Z"
 }
