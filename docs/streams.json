@@ -25,7 +25,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T11:00:00Z",
+          "title": "【WWE2K22】【ホロライブ/さくらみこ】",
+          "video_id": "QDProjZb3_o"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -212,11 +219,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-02T12:02:40Z",
-        "title": "【#ホロ鯖ARK】洞窟チャレンジDAY🏝アーティファクトほしいいいい【風真いろは/ホロライブ】",
-        "video_id": "cy1VIGFMR-4"
-      },
       "name": "風真いろは"
     },
     {
@@ -484,5 +486,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T17:00:54Z"
+  "generated_at": "2026-11-02T17:20:35Z"
 }
