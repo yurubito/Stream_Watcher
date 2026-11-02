@@ -170,14 +170,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T13:00:00Z",
-          "title": "天下統一への道のりなのら(・o・🍬)【姫森ルーナ/ホロライブ】",
-          "video_id": "hWZhyEbP580"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T12:59:51Z",
+        "title": "天下統一への道のりなのら(・o・🍬)【姫森ルーナ/ホロライブ】",
+        "video_id": "hWZhyEbP580"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -197,14 +195,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T13:00:00Z",
-          "title": "【#どちゃ凸】突発でどちゃくそゆるい凸待ちをする配信【獅白ぼたん・尾丸ポルカ/ホロライブ】",
-          "video_id": "BaHxZoGkpV0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T13:00:40Z",
+        "title": "【#どちゃ凸】突発でどちゃくそゆるい凸待ちをする配信【獅白ぼたん・尾丸ポルカ/ホロライブ】",
+        "video_id": "BaHxZoGkpV0"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -261,11 +257,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-02T11:30:43Z",
-        "title": "【歌枠】リクエスト歌枠∼！【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "N0zOqrloArU"
-      },
       "name": "轟はじめ"
     },
     {
@@ -328,14 +319,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T13:00:00Z",
-          "title": "#8 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "1keTs6wLc3o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T12:59:17Z",
+        "title": "#8 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "1keTs6wLc3o"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -453,14 +442,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T13:00:00Z",
-          "title": "#MMMalas : MONDAY MALAM MALAS NOVEMBER ~!!!",
-          "video_id": "nLJQ_uNNSls"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T12:59:24Z",
+        "title": "#MMMalas : MONDAY MALAM MALAS NOVEMBER ~!!!",
+        "video_id": "nLJQ_uNNSls"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -475,14 +462,12 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T13:00:00Z",
-          "title": "【FREETALK】 HAPPY NOVEMBER EVERYBODY!! LET'S CHAT!! 【Kureiji Ollie】",
-          "video_id": "FAzK_lZBsls"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T13:00:13Z",
+        "title": "【FREETALK】 HAPPY NOVEMBER EVERYBODY!! LET'S CHAT!! 【Kureiji Ollie】",
+        "video_id": "FAzK_lZBsls"
+      },
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -529,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T12:50:24Z"
+  "generated_at": "2026-11-02T13:01:11Z"
 }
