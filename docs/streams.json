@@ -45,7 +45,14 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール"
+      "name": "アキ・ローゼンタール",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T14:40:00Z",
+          "title": "【#アキちょこナイパレ｜第59回】高くても長く使える物を買う派🆚安くいろいろ楽しむ派  あなたはどっち？｜ちょこのお悩み相談室 💋～深夜のひとくちラジオ～",
+          "video_id": "wV7bDHLuBa8"
+        }
+      ]
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -139,11 +146,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-02T10:01:49Z",
-        "title": "【 #ホロ鯖ARK 】その１６｜洞窟いきたいのにいいいいいいい【常闇トワ/ホロライブ】",
-        "video_id": "zEk5IlaTkcY"
-      },
       "name": "常闇トワ"
     },
     {
@@ -471,5 +473,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T15:10:47Z"
+  "generated_at": "2026-11-02T15:20:39Z"
 }
