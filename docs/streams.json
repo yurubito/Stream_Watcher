@@ -186,7 +186,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T10:30:00Z",
+          "title": "【 #ホロ鯖ARK 】とわわ先輩とりおなが洞窟にいくと聞きまして・・・ｻﾝｾﾝ！【 桃鈴ねね / hololive 】",
+          "video_id": "0x-SRTphUNI"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -513,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T09:50:25Z"
+  "generated_at": "2026-11-02T10:00:47Z"
 }
