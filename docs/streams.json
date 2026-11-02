@@ -453,7 +453,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T13:00:00Z",
+          "title": "#MMMalas : MONDAY MALAM MALAS NOVEMBER ~!!!",
+          "video_id": "nLJQ_uNNSls"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -522,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T12:40:24Z"
+  "generated_at": "2026-11-02T12:50:24Z"
 }
