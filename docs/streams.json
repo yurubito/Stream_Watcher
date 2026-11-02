@@ -263,26 +263,22 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T11:30:00Z",
-          "title": "【歌枠】リクエスト歌枠∼！【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "N0zOqrloArU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T11:30:43Z",
+        "title": "【歌枠】リクエスト歌枠∼！【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "N0zOqrloArU"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T11:30:00Z",
-          "title": "【 #ホロARK 】ホロ鯖もあと少し(´;ω;｀)洞窟に行くかも・・！？【ホロライブ  響咲リオナ】",
-          "video_id": "Ke6CFcvkmpY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T11:31:26Z",
+        "title": "【 #ホロARK 】ホロ鯖もあと少し(´;ω;｀)洞窟に行くかも・・！？【ホロライブ  響咲リオナ】",
+        "video_id": "Ke6CFcvkmpY"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -533,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T11:30:57Z"
+  "generated_at": "2026-11-02T11:40:33Z"
 }
