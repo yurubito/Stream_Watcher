@@ -452,7 +452,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T13:00:00Z",
+          "title": "Tending to Bizarre Guests as a Servant of the Lake (PART 2)【Pavolia Reine/hololive】",
+          "video_id": "rIyRCMIzNJw"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -487,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T08:01:08Z"
+  "generated_at": "2026-11-02T08:20:45Z"
 }
