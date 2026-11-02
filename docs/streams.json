@@ -340,14 +340,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T00:00:00Z",
-          "title": "【ONE MILLION CELEBRATION】Featuring Momseki, Debut Watchalong, and A SURPRISE?!",
-          "video_id": "i98EfvV4i2Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T00:00:40Z",
+        "title": "【ONE MILLION CELEBRATION】Featuring Momseki, Debut Watchalong, and A SURPRISE?!",
+        "video_id": "i98EfvV4i2Q"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -446,5 +444,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-01T23:52:12Z"
+  "generated_at": "2026-11-02T00:40:36Z"
 }
