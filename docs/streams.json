@@ -157,14 +157,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T10:00:00Z",
-          "title": "【 #ホロ鯖ARK 】その１６｜洞窟いきたいのにいいいいいいい【常闇トワ/ホロライブ】",
-          "video_id": "zEk5IlaTkcY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T10:01:49Z",
+        "title": "【 #ホロ鯖ARK 】その１６｜洞窟いきたいのにいいいいいいい【常闇トワ/ホロライブ】",
+        "video_id": "zEk5IlaTkcY"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -267,7 +265,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T11:30:00Z",
+          "title": "【 #ホロARK 】ホロ鯖もあと少し(´;ω;｀)洞窟に行くかも・・！？【ホロライブ  響咲リオナ】",
+          "video_id": "Ke6CFcvkmpY"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -520,5 +525,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T10:00:47Z"
+  "generated_at": "2026-11-02T10:10:33Z"
 }
