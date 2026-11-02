@@ -430,11 +430,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-02T13:00:13Z",
-        "title": "【FREETALK】 HAPPY NOVEMBER EVERYBODY!! LET'S CHAT!! 【Kureiji Ollie】",
-        "video_id": "FAzK_lZBsls"
-      },
       "name": "クレイジー・オリー"
     },
     {
@@ -445,11 +440,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-02T13:04:48Z",
-        "title": "Tending to Bizarre Guests as a Servant of the Lake (PART 2)【Pavolia Reine/hololive】",
-        "video_id": "rIyRCMIzNJw"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -480,5 +470,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T15:50:47Z"
+  "generated_at": "2026-11-02T16:01:01Z"
 }
