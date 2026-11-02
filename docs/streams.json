@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-02T08:59:18Z",
-        "title": "【 歌枠】NO36 復活のろぼめろでぃ✨ 告知があるので今週は今やるしかないないっ✨ 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-        "video_id": "TEPBDaYLqOE"
-      },
       "name": "ロボ子さん",
       "upcoming": [
         {
@@ -125,7 +120,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T12:00:00Z",
+          "title": "【配信予定】ぺこぺーこぺーここぺぺぺっこぺこぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "4kjr01cadqE"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -260,7 +262,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T11:30:00Z",
+          "title": "【歌枠】リクエスト歌枠∼！【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "N0zOqrloArU"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -525,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T10:20:34Z"
+  "generated_at": "2026-11-02T10:30:48Z"
 }
