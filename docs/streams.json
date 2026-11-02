@@ -303,7 +303,14 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "name": "井月みちる"
+      "name": "井月みちる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T09:00:00Z",
+          "title": "【同時視聴】み私感‐みこさん、私たち感動いたしました‐【＃holoAN/＃さくらみこ】",
+          "video_id": "72DGEoJuRCI"
+        }
+      ]
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -401,7 +408,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T16:00:00Z",
+          "title": "【BLOODBORNE】Forcing @holoen_raorapanthera to play so I can watch! hehehehe",
+          "video_id": "MuPlYJbkzzA"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -459,5 +473,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T05:20:25Z"
+  "generated_at": "2026-11-02T05:30:43Z"
 }
