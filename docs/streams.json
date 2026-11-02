@@ -323,14 +323,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T01:00:00Z",
-          "title": "≪HEADSHOT NEW MV AFTER PARTY≫ rat did some things hehehe lets talk #HEADSHOT",
-          "video_id": "kD0fpHScZLk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T01:03:03Z",
+        "title": "≪HEADSHOT NEW MV AFTER PARTY≫ rat did some things hehehe lets talk #HEADSHOT",
+        "video_id": "kD0fpHScZLk"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -444,5 +442,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T00:40:36Z"
+  "generated_at": "2026-11-02T01:10:38Z"
 }
