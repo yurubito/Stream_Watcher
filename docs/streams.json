@@ -181,11 +181,6 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-02T13:00:40Z",
-        "title": "【#どちゃ凸】突発でどちゃくそゆるい凸待ちをする配信【獅白ぼたん・尾丸ポルカ/ホロライブ】",
-        "video_id": "BaHxZoGkpV0"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -498,5 +493,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T14:10:50Z"
+  "generated_at": "2026-11-02T14:40:26Z"
 }
