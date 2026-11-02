@@ -158,7 +158,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T11:00:00Z",
+          "title": "【 Japanese Ramen Simulator 】#ハリポルーナ でラーメン屋を経営するのら！！！【姫森ルーナ/ホロライブ】",
+          "video_id": "fKJZ46_LQSA"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -477,5 +484,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T16:50:41Z"
+  "generated_at": "2026-11-02T17:00:54Z"
 }
