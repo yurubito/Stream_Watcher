@@ -25,11 +25,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-02T12:05:26Z",
-        "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅【ホロライブ/さくらみこ】",
-        "video_id": "Jx8v-46RnHQ"
-      },
       "name": "さくらみこ"
     },
     {
@@ -292,11 +287,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-02T12:59:17Z",
-        "title": "#8 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "1keTs6wLc3o"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -470,5 +460,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T16:01:01Z"
+  "generated_at": "2026-11-02T16:10:32Z"
 }
