@@ -282,7 +282,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T10:30:00Z",
+          "title": "【よていち【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "X2vuO3s1vBE"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -506,5 +513,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T09:31:07Z"
+  "generated_at": "2026-11-02T09:50:25Z"
 }
