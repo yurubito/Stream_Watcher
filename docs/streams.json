@@ -30,7 +30,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T12:00:00Z",
+          "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】",
+          "video_id": "Jx8v-46RnHQ"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -194,7 +201,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-02T11:00:00Z",
-          "title": "【初コラボ】 豪 運 V S 不 憫 ～初めましてからの運ゲー勝負🔥～【熱千めら・博衣こより/ホロライブ】",
+          "title": "【初コラボ】 豪 運 V S 不 憫 ～初めましてからの運ゲー勝負🔥～ #のじゃこよ 【熱千めら・博衣こより/ホロライブ】",
           "video_id": "w5UO1TRxc8c"
         },
         {
@@ -293,11 +300,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-02T03:02:42Z",
-        "title": "【EN】#5  WE ARE HERE AGAIN!!!! | PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
-        "video_id": "0O54TfKz4Ic"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -342,14 +344,7 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T03:00:00Z",
-          "title": "【#GBVSR】First Time Playing!!! We gonna FIGHT and TRAIN #sponsored",
-          "video_id": "mVOs-0U1YqE"
-        }
-      ]
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -440,7 +435,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T13:00:00Z",
+          "title": "【FREETALK】 HAPPY NOVEMBER EVERYBODY!! LET'S CHAT!! 【Kureiji Ollie】",
+          "video_id": "FAzK_lZBsls"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -455,7 +457,19 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T05:00:00Z",
+          "title": "we do a little cooking.",
+          "video_id": "lUzGRYAD4Yc"
+        },
+        {
+          "scheduled_at": "2026-11-07T13:00:00Z",
+          "title": "【3D LIVE】Dance The Night Away! ♪【#ZETA3DLIVE2026】",
+          "video_id": "Gr9kcxof0X4"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -473,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T05:30:43Z"
+  "generated_at": "2026-11-02T08:01:08Z"
 }
