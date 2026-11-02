@@ -123,14 +123,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T12:00:00Z",
-          "title": "ルールを破ると即終了【ホロライブ/兎田ぺこら】",
-          "video_id": "4kjr01cadqE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T12:00:01Z",
+        "title": "ルールを破ると即終了【ホロライブ/兎田ぺこら】",
+        "video_id": "4kjr01cadqE"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -529,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T11:40:33Z"
+  "generated_at": "2026-11-02T12:00:48Z"
 }
