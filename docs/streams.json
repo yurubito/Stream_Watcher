@@ -290,6 +290,11 @@
       "name": "百灯キョーコ",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-03T03:00:00Z",
+          "title": "【EN】#8 Just 2 more bosses!!  | Cuphead【Hyakuto Kyoko/Hololive】",
+          "video_id": "-ITkl7EoxMo"
+        },
+        {
           "scheduled_at": "2026-11-03T13:00:00Z",
           "title": "【コラボ】ヤベェ幽霊が出るらしいお家に突入ーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "5E8wedwJyNA"
@@ -331,7 +336,14 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS"
+      "name": "IRyS",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T01:00:00Z",
+          "title": "【#GBVSR】Please don't obliterate me #ad",
+          "video_id": "k02lF6t4Eec"
+        }
+      ]
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -398,7 +410,7 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-02T16:00:00Z",
+          "scheduled_at": "2026-11-02T16:35:00Z",
           "title": "【BLOODBORNE】Forcing @holoen_raorapanthera to play so I can watch! hehehehe",
           "video_id": "MuPlYJbkzzA"
         }
@@ -467,5 +479,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T16:20:38Z"
+  "generated_at": "2026-11-02T16:30:39Z"
 }
