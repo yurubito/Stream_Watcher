@@ -89,7 +89,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T09:00:00Z",
+          "title": "【 #ホロ甲2026 】まだ対戦したことのない２校とドリームマッチ！【大神ミオ/白銀ノエル/博衣こより】",
+          "video_id": "EykXVxwSefs"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -100,6 +107,11 @@
           "scheduled_at": "2026-11-03T13:00:00Z",
           "title": "【 Strange Seed 】目指せ最強⁉️ 敵を食べて強くなれ‼️💥💥【 猫又おかゆ/ホロライブ 】",
           "video_id": "9pQneXmdlpU"
+        },
+        {
+          "scheduled_at": "2026-11-04T10:00:00Z",
+          "title": "【 ソニックレーシング クロスワールド 】おかころきちゃああ!! 🍙🥐✦ 思いっきり遊んじゃお!! #おかころ【 猫又おかゆ/戌神ころね/ホロライブ 】",
+          "video_id": "vZHb1OwdDpA"
         },
         {
           "scheduled_at": "2026-12-07T09:00:00Z",
@@ -151,11 +163,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-02T12:59:51Z",
-        "title": "天下統一への道のりなのら(・o・🍬)【姫森ルーナ/ホロライブ】",
-        "video_id": "hWZhyEbP580"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -473,5 +480,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T15:30:48Z"
+  "generated_at": "2026-11-02T15:50:47Z"
 }
