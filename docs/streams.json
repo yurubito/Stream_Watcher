@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T13:00:00Z",
-          "title": "【もうすぐそらぱ】コーレスとかライブの楽しみ方のお話してみよう！！【ときのそら/ホロライブ】",
-          "video_id": "X6rfBM8Hw00"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T13:04:02Z",
+        "title": "【もうすぐそらぱ】コーレスとかライブの楽しみ方のお話してみよう！！【ときのそら/ホロライブ】",
+        "video_id": "X6rfBM8Hw00"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -111,14 +109,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T13:00:00Z",
-          "title": "【ド★初見】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
-          "video_id": "StlocFxdRVM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T13:01:15Z",
+        "title": "【ド★初見】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
+        "video_id": "StlocFxdRVM"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -477,14 +473,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T13:00:00Z",
-          "title": "Tending to Bizarre Guests as a Servant of the Lake (PART 2)【Pavolia Reine/hololive】",
-          "video_id": "rIyRCMIzNJw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T13:04:48Z",
+        "title": "Tending to Bizarre Guests as a Servant of the Lake (PART 2)【Pavolia Reine/hololive】",
+        "video_id": "rIyRCMIzNJw"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -514,5 +508,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T13:01:11Z"
+  "generated_at": "2026-11-02T13:10:27Z"
 }
