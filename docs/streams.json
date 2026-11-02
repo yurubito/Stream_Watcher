@@ -214,14 +214,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T22:00:00Z",
-          "title": "【 #朝こよ 】3週連続告知アリ③週目‼️10月の\"めい\"言発表！火曜日の朝は朝こよ～！☀ #305 【博衣こより/hololive】",
-          "video_id": "YQdaiqI7An8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T22:09:15Z",
+        "title": "【 #朝こよ 】3週連続告知アリ③週目‼️10月の\"めい\"言発表！火曜日の朝は朝こよ～！☀ #305 【博衣こより/hololive】",
+        "video_id": "YQdaiqI7An8"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -511,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T21:00:51Z"
+  "generated_at": "2026-11-02T22:10:35Z"
 }
