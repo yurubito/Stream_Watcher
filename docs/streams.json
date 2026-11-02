@@ -407,14 +407,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T16:35:00Z",
-          "title": "【BLOODBORNE】Forcing @holoen_raorapanthera to play so I can watch! hehehehe",
-          "video_id": "MuPlYJbkzzA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T16:41:27Z",
+        "title": "【BLOODBORNE】Forcing @holoen_raorapanthera to play so I can watch! hehehehe",
+        "video_id": "MuPlYJbkzzA"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -479,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T16:30:39Z"
+  "generated_at": "2026-11-02T16:50:41Z"
 }
