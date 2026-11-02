@@ -157,7 +157,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T10:00:00Z",
+          "title": "【 #ホロ鯖ARK 】その１６｜洞窟いきたいのにいいいいいいい【常闇トワ/ホロライブ】",
+          "video_id": "zEk5IlaTkcY"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -499,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T09:20:41Z"
+  "generated_at": "2026-11-02T09:31:07Z"
 }
