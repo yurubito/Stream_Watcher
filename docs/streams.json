@@ -25,14 +25,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T12:00:00Z",
-          "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅【ホロライブ/さくらみこ】",
-          "video_id": "Jx8v-46RnHQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T12:05:26Z",
+        "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅【ホロライブ/さくらみこ】",
+        "video_id": "Jx8v-46RnHQ"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -125,7 +123,7 @@
       "group": "JP 3期生",
       "live": {
         "started_at": "2026-11-02T12:00:01Z",
-        "title": "ルールを破ると即終了【ホロライブ/兎田ぺこら】",
+        "title": "ルールを破ると即終了！クリアするまで終わらない【ホロライブ/兎田ぺこら】",
         "video_id": "4kjr01cadqE"
       },
       "name": "兎田ぺこら"
@@ -234,14 +232,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T12:00:00Z",
-          "title": "【#ホロ鯖ARK】洞窟チャレンジDAY🏝アーティファクトほしいいいい【風真いろは/ホロライブ】",
-          "video_id": "cy1VIGFMR-4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T12:02:40Z",
+        "title": "【#ホロ鯖ARK】洞窟チャレンジDAY🏝アーティファクトほしいいいい【風真いろは/ホロライブ】",
+        "video_id": "cy1VIGFMR-4"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -298,11 +294,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-02T10:33:26Z",
-        "title": "【歌枠/KARAOKE】やっとこさ新アプリ！『楽』試してみるぞい！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "X2vuO3s1vBE"
-      },
       "name": "輪堂千速"
     },
     {
@@ -527,5 +518,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T12:00:48Z"
+  "generated_at": "2026-11-02T12:10:33Z"
 }
