@@ -226,7 +226,14 @@
         "title": "【 #朝こよ 】3週連続告知アリ③週目‼️10月の\"めい\"言発表！火曜日の朝は朝こよ～！☀ #305 【博衣こより/hololive】",
         "video_id": "YQdaiqI7An8"
       },
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T23:10:00Z",
+          "title": "博衣こより 2nd Album『Chemical Spark』クロスフェード🧪✨",
+          "video_id": "Bgeo4tijl8c"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -516,5 +523,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T22:40:36Z"
+  "generated_at": "2026-11-02T22:50:27Z"
 }
