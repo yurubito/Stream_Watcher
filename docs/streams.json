@@ -260,7 +260,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T11:30:00Z",
+          "title": "【歌枠】リクエスト歌枠∼！【轟はじめ/ホロライブReGLOSS】",
+          "video_id": "N0zOqrloArU"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -428,6 +435,11 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-03T01:00:00Z",
+          "title": "【#GBVSR】i wont throw i wont throw i wont throw i wont throw i wont throw #ad",
+          "video_id": "85zaVMZJOGQ"
+        },
+        {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
           "video_id": "rzxphuacYxo"
@@ -523,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T10:37:48Z"
+  "generated_at": "2026-11-02T10:40:40Z"
 }
