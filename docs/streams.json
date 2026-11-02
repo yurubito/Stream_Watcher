@@ -287,7 +287,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T13:00:00Z",
+          "title": "【コラボ】ヤベェ幽霊が出るらしいお家に突入ーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "5E8wedwJyNA"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -460,5 +467,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T16:10:32Z"
+  "generated_at": "2026-11-02T16:20:38Z"
 }
