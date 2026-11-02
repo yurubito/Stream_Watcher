@@ -293,14 +293,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T03:00:00Z",
-          "title": "【EN】#5  WE ARE HERE AGAIN!!!! | PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
-          "video_id": "0O54TfKz4Ic"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T03:02:42Z",
+        "title": "【EN】#5  WE ARE HERE AGAIN!!!! | PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
+        "video_id": "0O54TfKz4Ic"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -364,11 +362,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-02T00:00:40Z",
-        "title": "【ONE MILLION CELEBRATION】Featuring Momseki, Debut Watchalong, and A SURPRISE?!",
-        "video_id": "i98EfvV4i2Q"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -466,5 +459,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T04:50:19Z"
+  "generated_at": "2026-11-02T05:20:25Z"
 }
