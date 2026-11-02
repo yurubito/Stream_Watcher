@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T13:00:00Z",
+          "title": "【もうすぐそらぱ】コーレスとかライブの楽しみ方のお話してみよう！！【ときのそら/ホロライブ】",
+          "video_id": "X6rfBM8Hw00"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -515,5 +522,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T12:30:39Z"
+  "generated_at": "2026-11-02T12:40:24Z"
 }
