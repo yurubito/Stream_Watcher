@@ -8,13 +8,13 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-02T08:59:18Z",
+        "title": "【 歌枠】NO36 復活のろぼめろでぃ✨ 告知があるので今週は今やるしかないないっ✨ 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+        "video_id": "TEPBDaYLqOE"
+      },
       "name": "ロボ子さん",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T09:00:00Z",
-          "title": "【 歌枠】NO36 復活のろぼめろでぃ✨ 告知があるので今週は今やるしかないないっ✨ 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-          "video_id": "TEPBDaYLqOE"
-        },
         {
           "scheduled_at": "2026-11-05T10:00:00Z",
           "title": "【対面初対談】ReoNaさんが遊びにきちゃー！？？初めましてロボ子です！！！【ホロライブ/ ロボ子さん 】",
@@ -300,19 +300,24 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-02T13:00:00Z",
+          "title": "#8 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "1keTs6wLc3o"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "name": "井月みちる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T09:00:00Z",
-          "title": "【同時視聴】み私感‐みこさん、私たち感動いたしました‐【＃holoAN/＃さくらみこ】",
-          "video_id": "72DGEoJuRCI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T08:56:54Z",
+        "title": "【同時視聴】み私感‐みこさん、私たち感動いたしました‐【＃holoAN/＃さくらみこ】",
+        "video_id": "72DGEoJuRCI"
+      },
+      "name": "井月みちる"
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -481,11 +486,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-02T02:59:45Z",
-        "title": "【PEAK】WE ARE BACK AT IT AGAIN! STRONGER THAN EVER 🏔️",
-        "video_id": "s8bcmHJ_4fU"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -494,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T08:20:45Z"
+  "generated_at": "2026-11-02T09:00:50Z"
 }
