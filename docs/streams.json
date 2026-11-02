@@ -209,7 +209,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T13:00:00Z",
+          "title": "【 Phasmophobia 】初コラボ！キョーコ、頼んだぞ。【鷹嶺ルイ視点/ホロライブ】",
+          "video_id": "c5HXK5bAbWU"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -509,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T22:10:35Z"
+  "generated_at": "2026-11-02T22:40:36Z"
 }
