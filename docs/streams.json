@@ -186,14 +186,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T10:30:00Z",
-          "title": "【 #ホロ鯖ARK 】とわわ先輩とりおなが洞窟にいくと聞きまして・・・ｻﾝｾﾝ！【 桃鈴ねね / hololive 】",
-          "video_id": "0x-SRTphUNI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T10:30:54Z",
+        "title": "【 #ホロ鯖ARK 】とわわ先輩とりおなが洞窟にいくと聞きまして・・・ｻﾝｾﾝ！【 桃鈴ねね / hololive 】",
+        "video_id": "0x-SRTphUNI"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -262,14 +260,7 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T11:30:00Z",
-          "title": "【歌枠】リクエスト歌枠∼！【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "N0zOqrloArU"
-        }
-      ]
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -303,14 +294,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-02T10:30:00Z",
-          "title": "【歌枠/KARAOKE】やっとこさ新アプリ！『楽』試してみるぞい！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "X2vuO3s1vBE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-02T10:33:26Z",
+        "title": "【歌枠/KARAOKE】やっとこさ新アプリ！『楽』試してみるぞい！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "X2vuO3s1vBE"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -534,5 +523,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T10:30:48Z"
+  "generated_at": "2026-11-02T10:37:48Z"
 }
