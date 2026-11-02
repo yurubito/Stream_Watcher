@@ -29,7 +29,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-02T12:00:00Z",
-          "title": "【 あ・・・・・・ 】【ホロライブ/さくらみこ】",
+          "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅【ホロライブ/さくらみこ】",
           "video_id": "Jx8v-46RnHQ"
         }
       ]
@@ -69,7 +69,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T09:00:00Z",
+          "title": "【裏話】振り返り雑談✨生ライブ頑張ったで賞ください！【ホロライブ/夏色まつり】",
+          "video_id": "Oej51lnlYlE"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -344,11 +351,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-11-02T08:56:54Z",
-        "title": "【同時視聴】み私感‐みこさん、私たち感動いたしました‐【＃holoAN/＃さくらみこ】",
-        "video_id": "72DGEoJuRCI"
-      },
       "name": "井月みちる"
     },
     {
@@ -531,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T11:20:40Z"
+  "generated_at": "2026-11-02T11:30:57Z"
 }
