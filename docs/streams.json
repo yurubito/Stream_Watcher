@@ -203,7 +203,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T13:00:00Z",
+          "title": "【メンバー限定】開通テスト！！【雪花ラミィ /ホロライブ】",
+          "video_id": "FG6gwtixrLc"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -513,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T05:10:22Z"
+  "generated_at": "2026-11-03T05:20:26Z"
 }
