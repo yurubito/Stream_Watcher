@@ -25,14 +25,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T12:15:00Z",
-          "title": "【単発ホラゲー】【ホロライブ/さくらみこ】",
-          "video_id": "FOr26RbLl-U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T12:21:28Z",
+        "title": "【単発ホラゲー】緊急で動画まわしてます【ホロライブ/さくらみこ】",
+        "video_id": "FOr26RbLl-U"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -133,11 +131,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-03T11:00:09Z",
-        "title": "【#戌神ころね新衣装】新衣装で並びたいので『おがゆ限定凸待ち』しまーーーす🐱",
-        "video_id": "M9eA-TmMgFg"
-      },
       "name": "戌神ころね",
       "upcoming": [
         {
@@ -582,5 +575,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T12:20:35Z"
+  "generated_at": "2026-11-03T12:30:47Z"
 }
