@@ -157,12 +157,26 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "name": "宝鐘マリン"
+      "name": "宝鐘マリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T10:00:00Z",
+          "title": "【配信予定】【ホロライブ/宝鐘マリン】",
+          "video_id": "eDW-lFiu3PY"
+        }
+      ]
     },
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T13:00:00Z",
+          "title": "【 RATATAN  】アーニャと２人で初めてのラタタン🎺🎶【角巻わため/ホロライブ４期生】※ネタバレ注意",
+          "video_id": "17uiYbuaKa8"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -341,13 +355,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-11-03T01:00:10Z",
+        "title": "【Granblue Fantasy Versus: Rising】this reaper TRAINED I PROMISE!! #PR #calliolive",
+        "video_id": "i__wtswcD-E"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T01:00:00Z",
-          "title": "【Granblue Fantasy Versus: Rising】this reaper TRAINED I PROMISE!! #PR #calliolive",
-          "video_id": "i__wtswcD-E"
-        },
         {
           "scheduled_at": "2026-11-04T00:00:00Z",
           "title": "【ZELDA: MAJORA'S MASK】im just a lil deku scrub guy!! (part 2) #calliolive",
@@ -363,26 +377,22 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T01:00:00Z",
-          "title": "【#GBVSR】Tournament Time!!! #sponsored",
-          "video_id": "XmWqKmGtLHk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T01:02:38Z",
+        "title": "【#GBVSR】Tournament Time!!! #sponsored",
+        "video_id": "XmWqKmGtLHk"
+      },
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T01:00:00Z",
-          "title": "【#GBVSR】Please don't obliterate me #ad",
-          "video_id": "k02lF6t4Eec"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T01:00:54Z",
+        "title": "【#GBVSR】Please don't obliterate me #ad",
+        "video_id": "k02lF6t4Eec"
+      },
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -397,7 +407,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T22:00:00Z",
+          "title": "Official Unc Status Achieved 【OPUS: Prism Peak】❗Spoilers",
+          "video_id": "ZryTcFRL0uk"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -429,13 +446,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-11-03T01:02:19Z",
+        "title": "【#GBVSR】i wont throw i wont throw i wont throw i wont throw i wont throw #ad",
+        "video_id": "85zaVMZJOGQ"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T01:00:00Z",
-          "title": "【#GBVSR】i wont throw i wont throw i wont throw i wont throw i wont throw #ad",
-          "video_id": "85zaVMZJOGQ"
-        },
         {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
@@ -511,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-02T23:30:36Z"
+  "generated_at": "2026-11-03T02:20:39Z"
 }
