@@ -106,11 +106,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-03T09:01:13Z",
-        "title": "【 #ホロ甲2026 】まだ対戦したことのない２校とドリームマッチ！【大神ミオ/白銀ノエル/博衣こより】",
-        "video_id": "EykXVxwSefs"
-      },
       "name": "大神ミオ"
     },
     {
@@ -589,5 +584,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T10:40:30Z"
+  "generated_at": "2026-11-03T10:50:31Z"
 }
