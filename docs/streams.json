@@ -69,11 +69,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-03T10:00:09Z",
-        "title": "【ダンスレッスン】新オリ曲の初振り入れレッスン！【ホロライブ/夏色まつり】",
-        "video_id": "iCgymy1w4JE"
-      },
       "name": "夏色まつり"
     },
     {
@@ -100,6 +95,11 @@
           "scheduled_at": "2026-11-03T12:00:00Z",
           "title": "【】やる…か…【ホロライブ/大空スバル】",
           "video_id": "-B788-9aDK8"
+        },
+        {
+          "scheduled_at": "2026-11-04T12:00:00Z",
+          "title": "【】単発予定【ホロライブ/大空スバル】",
+          "video_id": "gzOO19hnYgk"
         }
       ]
     },
@@ -133,13 +133,13 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-03T11:00:09Z",
+        "title": "【#戌神ころね新衣装】新衣装で並びたいので『おがゆ限定凸待ち』しまーーーす🐱",
+        "video_id": "M9eA-TmMgFg"
+      },
       "name": "戌神ころね",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T11:00:00Z",
-          "title": "【#戌神ころね新衣装】新衣装で並びたいので『おがゆ限定凸待ち』しまーーーす🐱",
-          "video_id": "M9eA-TmMgFg"
-        },
         {
           "scheduled_at": "2026-11-04T10:00:00Z",
           "title": "【案件】おかころで『ソニックレーシング クロスワールド』遊ぶよ！！！【戌神ころね/猫又おかゆ/ホロライブ】",
@@ -162,7 +162,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T13:00:00Z",
+          "title": "【RATATAN】今日は初見二人とうきうき遠足気分♪【不知火フレア/ホロライブ】※ネタバレ注意",
+          "video_id": "sN6ixbuoAf0"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -199,14 +206,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T11:00:00Z",
-          "title": "【 Japanese Ramen Simulator 】#ハリポルーナ でラーメン屋しゃんを経営するのら！！！【姫森ルーナ/ホロライブ】",
-          "video_id": "fKJZ46_LQSA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T11:00:32Z",
+        "title": "【 Japanese Ramen Simulator 】#ハリポルーナ でラーメン屋しゃんを経営するのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "fKJZ46_LQSA"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -233,14 +238,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T11:00:00Z",
-          "title": "【Japanese Ramen Simulator】へいらっしゃい！ #ハリポルーナ のラーメン屋だよ！！【尾丸ポルカ視点/ホロライブ】",
-          "video_id": "eikW4el4rwo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T11:00:33Z",
+        "title": "【Japanese Ramen Simulator】へいらっしゃい！ #ハリポルーナ のラーメン屋だよ！！【尾丸ポルカ視点/ホロライブ】",
+        "video_id": "eikW4el4rwo"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -301,26 +304,22 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T11:00:00Z",
-          "title": "【ラーメン屋さん】ハリポルーナでJapanese Ramen Simulator！【轟はじめ/ホロライブReGLOSS】",
-          "video_id": "nUl4wcsH0kg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T11:00:34Z",
+        "title": "【ラーメン屋さん】ハリポルーナでJapanese Ramen Simulator！【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "nUl4wcsH0kg"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T11:00:00Z",
-          "title": "【Japanese Ramen Simulator 】ハリポルーナの愛増し増しラーメンいっちょ！【ホロライブ  響咲リオナ】",
-          "video_id": "C64sM_QroSI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T11:00:38Z",
+        "title": "【Japanese Ramen Simulator 】ハリポルーナの愛増し増しラーメンいっちょ！【ホロライブ  響咲リオナ】",
+        "video_id": "C64sM_QroSI"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -584,5 +583,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T10:50:31Z"
+  "generated_at": "2026-11-03T11:00:50Z"
 }
