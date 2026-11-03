@@ -29,7 +29,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-03T11:00:00Z",
-          "title": "【WWE2K22】【ホロライブ/さくらみこ】",
+          "title": "【WWE2K22】新世代ホロファイター襲来！！！！！！！！！🔥【ホロライブ/さくらみこ】",
           "video_id": "QDProjZb3_o"
         }
       ]
@@ -70,9 +70,9 @@
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
       "live": {
-        "started_at": "2026-11-03T09:00:10Z",
-        "title": "【裏話】振り返り雑談✨生ライブ頑張ったで賞ください！【ホロライブ/夏色まつり】",
-        "video_id": "Oej51lnlYlE"
+        "started_at": "2026-11-03T10:00:09Z",
+        "title": "【ダンスレッスン】新オリ曲の初振り入れレッスン！【ホロライブ/夏色まつり】",
+        "video_id": "iCgymy1w4JE"
       },
       "name": "夏色まつり"
     },
@@ -289,7 +289,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T12:00:00Z",
+          "title": "【 Japanese Ramen Simulator 】ラーメンが売れないわけがない！しゅぴなで【音乃瀬奏】#ReGLOSS",
+          "video_id": "0j6ZTJh4sSU"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -585,5 +592,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T10:00:46Z"
+  "generated_at": "2026-11-03T10:10:32Z"
 }
