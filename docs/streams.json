@@ -289,14 +289,7 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T12:00:00Z",
-          "title": "【 Japanese Ramen Simulator 】ラーメンが売れないわけがない！しゅぴなで【音乃瀬奏】#ReGLOSS",
-          "video_id": "0j6ZTJh4sSU"
-        }
-      ]
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -592,5 +585,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T10:10:32Z"
+  "generated_at": "2026-11-03T10:20:28Z"
 }
