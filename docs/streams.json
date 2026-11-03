@@ -71,13 +71,13 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-11-03T09:00:10Z",
+        "title": "【裏話】振り返り雑談✨生ライブ頑張ったで賞ください！【ホロライブ/夏色まつり】",
+        "video_id": "Oej51lnlYlE"
+      },
       "name": "夏色まつり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T09:00:00Z",
-          "title": "【裏話】振り返り雑談✨生ライブ頑張ったで賞ください！【ホロライブ/夏色まつり】",
-          "video_id": "Oej51lnlYlE"
-        },
         {
           "scheduled_at": "2026-11-03T10:00:00Z",
           "title": "【ダンスレッスン】新オリ曲の初振り入れレッスン！【ホロライブ/夏色まつり】",
@@ -569,5 +569,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T08:50:34Z"
+  "generated_at": "2026-11-03T09:01:02Z"
 }
