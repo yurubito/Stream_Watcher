@@ -97,6 +97,11 @@
           "video_id": "vZHb1OwdDpA"
         },
         {
+          "scheduled_at": "2026-11-04T12:00:00Z",
+          "title": "【 AIドット絵バトル 】最強のモンスター考えてみた🤣🤣🤣ｗｗｗ【 猫又おかゆ/ホロライブ 】",
+          "video_id": "z5Y6l9WORI4"
+        },
+        {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
           "video_id": "JTRI5dPcho0"
@@ -123,11 +128,6 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-03T13:06:40Z",
-        "title": "【RATATAN】今日は初見二人とうきうき遠足気分♪【不知火フレア/ホロライブ】※ネタバレ注意",
-        "video_id": "sN6ixbuoAf0"
-      },
       "name": "不知火フレア"
     },
     {
@@ -143,11 +143,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-03T13:06:16Z",
-        "title": "【 RATATAN  】フレわたーニャで初めてのラタタン🎺🎶【角巻わため/ホロライブ４期生】※ネタバレ注意",
-        "video_id": "17uiYbuaKa8"
-      },
       "name": "角巻わため"
     },
     {
@@ -499,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T19:01:38Z"
+  "generated_at": "2026-11-03T19:20:49Z"
 }
