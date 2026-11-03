@@ -205,11 +205,6 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-03T13:00:48Z",
-        "title": "【メンバー限定】開通テスト！！【雪花ラミィ /ホロライブ】",
-        "video_id": "FG6gwtixrLc"
-      },
       "name": "雪花ラミィ"
     },
     {
@@ -563,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T13:10:25Z"
+  "generated_at": "2026-11-03T13:20:26Z"
 }
