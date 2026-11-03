@@ -381,7 +381,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T12:00:00Z",
+          "title": "VALORANT イモータルを目指す!! #７　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "3RbYa0YskZQ"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -570,5 +577,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T09:30:58Z"
+  "generated_at": "2026-11-03T09:40:25Z"
 }
