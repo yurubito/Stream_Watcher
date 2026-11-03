@@ -74,14 +74,7 @@
         "title": "【裏話】振り返り雑談✨生ライブ頑張ったで賞ください！【ホロライブ/夏色まつり】",
         "video_id": "Oej51lnlYlE"
       },
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T10:00:00Z",
-          "title": "【ダンスレッスン】新オリ曲の初振り入れレッスン！【ホロライブ/夏色まつり】",
-          "video_id": "iCgymy1w4JE"
-        }
-      ]
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -184,14 +177,12 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "name": "宝鐘マリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T10:00:00Z",
-          "title": "宝鐘家の話や、体調のこととかNIKKEのこととか…船長のいろいろ近況トーク！【ホロライブ/宝鐘マリン】",
-          "video_id": "eDW-lFiu3PY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T09:59:30Z",
+        "title": "宝鐘家の話や、体調のこととかNIKKEのこととか…船長のいろいろ近況トーク！【ホロライブ/宝鐘マリン】",
+        "video_id": "eDW-lFiu3PY"
+      },
+      "name": "宝鐘マリン"
     },
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -259,14 +250,12 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T10:00:00Z",
-          "title": "【恐怖診断】自分が怖いものだけ出てくる！？ ホラーゲームを #いろはス  でやる！【ラプラス・ダークネス/ホロライブ】",
-          "video_id": "fIGicaBRC-E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T09:59:00Z",
+        "title": "【恐怖診断】自分が怖いものだけ出てくる！？ ホラーゲームを #いろはス  でやる！【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "fIGicaBRC-E"
+      },
+      "name": "ラプラス・ダークネス"
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -371,14 +360,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T10:00:00Z",
-          "title": "自分の声「のじゃ」だけで動物園を作るゲームのじゃ！【ホロライブ/熱千めら】",
-          "video_id": "qZ1GbjDVhjo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T09:58:37Z",
+        "title": "自分の声「のじゃ」だけで動物園を作るゲームのじゃ！【ホロライブ/熱千めら】",
+        "video_id": "qZ1GbjDVhjo"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -598,5 +585,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T09:50:41Z"
+  "generated_at": "2026-11-03T10:00:46Z"
 }
