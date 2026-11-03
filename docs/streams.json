@@ -72,7 +72,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T14:30:00Z",
+          "title": "【#ホロ鯖ARK】ARK上陸２０日目！ドレッドメア召喚するのだ！【ホロライブ/癒月ちょこ】",
+          "video_id": "uypK_OwqdnY"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -509,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T14:20:43Z"
+  "generated_at": "2026-11-03T14:30:48Z"
 }
