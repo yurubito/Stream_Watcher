@@ -25,11 +25,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-03T12:21:28Z",
-        "title": "【単発ホラゲー】緊急で動画まわしてます【ホロライブ/さくらみこ】",
-        "video_id": "FOr26RbLl-U"
-      },
       "name": "さくらみこ"
     },
     {
@@ -297,14 +292,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T14:00:00Z",
-          "title": "【#ホロ鯖ARK】ガルガンターテイム！初めてのホロ鯖ARK！！＃26【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "8a_G_WJL-RE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T13:44:01Z",
+        "title": "【#ホロ鯖ARK】ガルガンターテイム！初めてのホロ鯖ARK！！＃26【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "8a_G_WJL-RE"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -533,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T13:40:27Z"
+  "generated_at": "2026-11-03T13:50:41Z"
 }
