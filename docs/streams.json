@@ -276,6 +276,11 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-03T21:58:53Z",
+        "title": "【のじゃEnglish】中学英語を復習するのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "pc9jj2KhcKs"
+      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -499,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T22:10:27Z"
+  "generated_at": "2026-11-03T22:20:40Z"
 }
