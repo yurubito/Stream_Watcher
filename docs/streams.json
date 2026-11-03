@@ -30,7 +30,14 @@
         "title": "【WWE2K22】新世代ホロファイター襲来！！！！！！！！！🔥【ホロライブ/さくらみこ】",
         "video_id": "QDProjZb3_o"
       },
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T12:15:00Z",
+          "title": "【はいしんよてち！】【ホロライブ/さくらみこ】",
+          "video_id": "FOr26RbLl-U"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -87,13 +94,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-11-03T12:07:16Z",
+        "title": "【#生スバル】ロックマンXやるしゅばああああああああああああああああああああああああああああああああ！！！：Mega Man X Legacy Collection【ホロライブ/大空スバル】",
+        "video_id": "-B788-9aDK8"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T12:00:00Z",
-          "title": "【#生スバル】ロックマンXやるしゅばああああああああああああああああああああああああああああああああ！！！：Mega Man X Legacy Collection【ホロライブ/大空スバル】",
-          "video_id": "-B788-9aDK8"
-        },
         {
           "scheduled_at": "2026-11-04T12:00:00Z",
           "title": "【】単発予定【ホロライブ/大空スバル】",
@@ -170,7 +177,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T14:00:00Z",
+          "title": "【ホロ鯖ARK】カワウソ先生！写真館の準備もしつつ！アンブラ孵化やボス戦に向けてダエオドンとゾウテイム(準備？)したい🔥【白銀ノエル/ホロライブ】",
+          "video_id": "39gdbYmZFXg"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -559,5 +573,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T12:00:51Z"
+  "generated_at": "2026-11-03T12:10:28Z"
 }
