@@ -172,7 +172,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T14:00:00Z",
+          "title": "【ホロ鯖ARK】カワウソ先生！写真館の準備もしつつ！アンブラ孵化やボス戦に向けてダエオドンとゾウテイム(準備？)したい🔥【白銀ノエル/ホロライブ】",
+          "video_id": "39gdbYmZFXg"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -351,11 +358,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-03T09:58:37Z",
-        "title": "自分の声「のじゃ」だけで動物園を作るゲームのじゃ！【ホロライブ/熱千めら】",
-        "video_id": "qZ1GbjDVhjo"
-      },
       "name": "熱千めら"
     },
     {
@@ -574,5 +576,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T11:30:43Z"
+  "generated_at": "2026-11-03T11:50:41Z"
 }
