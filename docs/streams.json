@@ -99,11 +99,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-03T13:02:12Z",
-        "title": "【 Strange Seed 】目指せ最強⁉️ 敵を食べて強くなれ‼️💥💥【 猫又おかゆ/ホロライブ 】",
-        "video_id": "9pQneXmdlpU"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -242,7 +237,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T03:30:00Z",
+          "title": "ニコたんはコイツが好きだと聞いた【#一条莉々華の限界飯】",
+          "video_id": "BV5iPvOLHeg"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -489,5 +491,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T15:31:06Z"
+  "generated_at": "2026-11-03T15:40:32Z"
 }
