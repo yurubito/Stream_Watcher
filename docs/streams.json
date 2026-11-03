@@ -98,7 +98,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-03T12:00:00Z",
-          "title": "【】【ホロライブ/大空スバル】",
+          "title": "【】やる…か…【ホロライブ/大空スバル】",
           "video_id": "-B788-9aDK8"
         }
       ]
@@ -250,11 +250,6 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-03T09:59:00Z",
-        "title": "【恐怖診断】自分が怖いものだけ出てくる！？ ホラーゲームを #いろはス  でやる！【ラプラス・ダークネス/ホロライブ】",
-        "video_id": "fIGicaBRC-E"
-      },
       "name": "ラプラス・ダークネス"
     },
     {
@@ -289,7 +284,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T12:00:00Z",
+          "title": "【 Japanese Ramen Simulator 】ラーメンが売れないわけがない！しゅぴなで【音乃瀬奏】#ReGLOSS",
+          "video_id": "0j6ZTJh4sSU"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -328,11 +330,6 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-03T09:01:58Z",
-        "title": "【 歌枠 】お歌を歌いますよ！リクエストにも応える！【虎金妃笑虎】",
-        "video_id": "Q3yMMD9GNow"
-      },
       "name": "虎金妃笑虎"
     },
     {
@@ -585,5 +582,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T10:20:28Z"
+  "generated_at": "2026-11-03T10:30:42Z"
 }
