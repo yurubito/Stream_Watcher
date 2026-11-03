@@ -148,14 +148,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T14:00:00Z",
-          "title": "【ホロ鯖ARK】カワウソ先生！写真館の準備もしつつ！アンブラ孵化やボス戦に向けてダエオドンとゾウテイム(準備？)したい🔥【白銀ノエル/ホロライブ】",
-          "video_id": "39gdbYmZFXg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T14:00:54Z",
+        "title": "【ホロ鯖ARK】カワウソ先生！写真館の準備もしつつ！アンブラ孵化やボス戦に向けてダエオドンとゾウテイム(準備？)したい🔥【白銀ノエル/ホロライブ】",
+        "video_id": "39gdbYmZFXg"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -237,11 +235,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-03T12:00:29Z",
-        "title": "【 Japanese Ramen Simulator 】ラーメンが売れないわけがない！しゅぴなで【音乃瀬奏】#ReGLOSS",
-        "video_id": "0j6ZTJh4sSU"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -272,11 +265,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-03T12:00:29Z",
-        "title": "【Japanese Ramen Simulator】しゅぴなで最強ラーメン屋への道…！✨️【水宮枢／ホロライブ】",
-        "video_id": "2gd-K7aKa1E"
-      },
       "name": "水宮枢"
     },
     {
@@ -449,14 +437,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T14:00:00Z",
-          "title": "【Resident Evil 2】 MY VERY FIRST TIME IN RESIDENT EVIL!!! Biboo pls help me!!!",
-          "video_id": "ZIUUENJo-6A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T14:02:49Z",
+        "title": "【Resident Evil 2】 MY VERY FIRST TIME IN RESIDENT EVIL!!! Biboo pls help me!!!",
+        "video_id": "ZIUUENJo-6A"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -516,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T14:00:55Z"
+  "generated_at": "2026-11-03T14:10:45Z"
 }
