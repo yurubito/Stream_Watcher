@@ -148,14 +148,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T12:00:00Z",
-          "title": "【コラボ】3人で浮気判定シートに挑戦！！！！！ぺこ！【ホロライブ/兎田ぺこら/宝鐘マリン/綺々羅々ヴィヴィ】",
-          "video_id": "MNqsUcQloXs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T11:59:54Z",
+        "title": "【コラボ】3人で浮気判定シートに挑戦！！！！！ぺこ！【ホロライブ/兎田ぺこら/宝鐘マリン/綺々羅々ヴィヴィ】",
+        "video_id": "MNqsUcQloXs"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -172,14 +170,7 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T14:00:00Z",
-          "title": "【ホロ鯖ARK】カワウソ先生！写真館の準備もしつつ！アンブラ孵化やボス戦に向けてダエオドンとゾウテイム(準備？)したい🔥【白銀ノエル/ホロライブ】",
-          "video_id": "39gdbYmZFXg"
-        }
-      ]
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -282,14 +273,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T12:00:00Z",
-          "title": "【 Japanese Ramen Simulator 】ラーメンが売れないわけがない！しゅぴなで【音乃瀬奏】#ReGLOSS",
-          "video_id": "0j6ZTJh4sSU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T12:00:29Z",
+        "title": "【 Japanese Ramen Simulator 】ラーメンが売れないわけがない！しゅぴなで【音乃瀬奏】#ReGLOSS",
+        "video_id": "0j6ZTJh4sSU"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -329,14 +318,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T12:00:00Z",
-          "title": "【Japanese Ramen Simulator】しゅぴなで最強ラーメン屋への道…！✨️【水宮枢／ホロライブ】",
-          "video_id": "2gd-K7aKa1E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T12:00:29Z",
+        "title": "【Japanese Ramen Simulator】しゅぴなで最強ラーメン屋への道…！✨️【水宮枢／ホロライブ】",
+        "video_id": "2gd-K7aKa1E"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -373,14 +360,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T12:00:00Z",
-          "title": "VALORANT イモータルを目指す!! #７　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "3RbYa0YskZQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T11:59:13Z",
+        "title": "VALORANT イモータルを目指す!! #７　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "3RbYa0YskZQ"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -566,15 +551,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T12:00:00Z",
-          "title": "【FREE TALK】TALK TO MEEEE",
-          "video_id": "M4nW9rzCqeg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T11:57:33Z",
+        "title": "【FREE TALK】TALK TO MEEEE",
+        "video_id": "M4nW9rzCqeg"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T11:50:41Z"
+  "generated_at": "2026-11-03T12:00:51Z"
 }
