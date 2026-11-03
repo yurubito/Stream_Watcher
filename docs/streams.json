@@ -393,7 +393,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T01:00:00Z",
+          "title": "【UNARCHIVED KARAOKE】but im just messing around",
+          "video_id": "ydMW5pd1bOM"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -497,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T18:20:33Z"
+  "generated_at": "2026-11-03T18:40:29Z"
 }
