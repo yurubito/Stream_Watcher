@@ -25,16 +25,11 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-03T11:05:06Z",
-        "title": "【WWE2K22】新世代ホロファイター襲来！！！！！！！！！🔥【ホロライブ/さくらみこ】",
-        "video_id": "QDProjZb3_o"
-      },
       "name": "さくらみこ",
       "upcoming": [
         {
           "scheduled_at": "2026-11-03T12:15:00Z",
-          "title": "【はいしんよてち！】【ホロライブ/さくらみこ】",
+          "title": "【単発ホラゲー】【ホロライブ/さくらみこ】",
           "video_id": "FOr26RbLl-U"
         }
       ]
@@ -359,7 +354,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T10:00:00Z",
+          "title": "ホロライブの麻雀アプリ「ホロじゃん」を先行プレイのじゃ！【アソビ★まわり隊！/ホロライブ/熱千めら】",
+          "video_id": "HJGLBGgzldQ"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -538,7 +540,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T13:00:00Z",
+          "title": "【SPOILER WARNING | Ratatan ラタタン】FIRST TIME PLAYING!! 初見プレイ！フレわたーニャ！【hololive holoro | Anya Melfissa】",
+          "video_id": "V4nbZaxZQdM"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -573,5 +582,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T12:10:28Z"
+  "generated_at": "2026-11-03T12:20:35Z"
 }
