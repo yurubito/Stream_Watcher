@@ -486,6 +486,11 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-04T03:00:00Z",
+          "title": "【DEADLOCK】using my senpai tax to form my deadlock team with @HyakutoKyoko",
+          "video_id": "EhLvVLPRtg8"
+        },
+        {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
           "video_id": "rzxphuacYxo"
@@ -500,7 +505,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T14:00:00Z",
+          "title": "【Resident Evil 2】 MY VERY FIRST TIME IN RESIDENT EVIL!!! Biboo pls help me!!!",
+          "video_id": "ZIUUENJo-6A"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -562,5 +574,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T08:10:30Z"
+  "generated_at": "2026-11-03T08:20:34Z"
 }
