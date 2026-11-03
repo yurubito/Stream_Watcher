@@ -247,7 +247,14 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス"
+      "name": "ラプラス・ダークネス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-03T10:00:00Z",
+          "title": "【恐怖診断】自分が怖いものだけ出てくる！？ ホラーゲームを #いろはス  でやる！【ラプラス・ダークネス/ホロライブ】",
+          "video_id": "fIGicaBRC-E"
+        }
+      ]
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -565,5 +572,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T09:10:41Z"
+  "generated_at": "2026-11-03T09:20:31Z"
 }
