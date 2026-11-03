@@ -108,14 +108,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T09:00:00Z",
-          "title": "【 #ホロ甲2026 】まだ対戦したことのない２校とドリームマッチ！【大神ミオ/白銀ノエル/博衣こより】",
-          "video_id": "EykXVxwSefs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T09:01:13Z",
+        "title": "【 #ホロ甲2026 】まだ対戦したことのない２校とドリームマッチ！【大神ミオ/白銀ノエル/博衣こより】",
+        "video_id": "EykXVxwSefs"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -322,14 +320,12 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T09:00:00Z",
-          "title": "【 歌枠 】お歌を歌いますよ！リクエストにも応える！【虎金妃笑虎】",
-          "video_id": "Q3yMMD9GNow"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T09:01:58Z",
+        "title": "【 歌枠 】お歌を歌いますよ！リクエストにも応える！【虎金妃笑虎】",
+        "video_id": "Q3yMMD9GNow"
+      },
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -569,5 +565,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T09:01:02Z"
+  "generated_at": "2026-11-03T09:10:41Z"
 }
