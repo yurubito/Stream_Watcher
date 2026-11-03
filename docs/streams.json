@@ -221,6 +221,11 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-11-03T12:45:28Z",
+        "title": "【 メン限 】歌枠すっぞ！！！！！！！！！【 桃鈴ねね / hololive 】",
+        "video_id": "Zv5QLUzrrtY"
+      },
       "name": "桃鈴ねね"
     },
     {
@@ -575,5 +580,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T12:30:47Z"
+  "generated_at": "2026-11-03T12:50:25Z"
 }
