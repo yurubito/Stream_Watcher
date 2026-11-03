@@ -178,7 +178,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T09:00:00Z",
+          "title": "【 #ホロ鯖ARK 】ホロ鯖ARKに上陸3日目なのら！！！【姫森ルーナ/ホロライブ】",
+          "video_id": "fgDJ0AjDnGY"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -502,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T14:10:45Z"
+  "generated_at": "2026-11-03T14:20:43Z"
 }
