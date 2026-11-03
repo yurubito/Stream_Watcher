@@ -25,14 +25,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T11:00:00Z",
-          "title": "【WWE2K22】新世代ホロファイター襲来！！！！！！！！！🔥【ホロライブ/さくらみこ】",
-          "video_id": "QDProjZb3_o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T11:05:06Z",
+        "title": "【WWE2K22】新世代ホロファイター襲来！！！！！！！！！🔥【ホロライブ/さくらみこ】",
+        "video_id": "QDProjZb3_o"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -368,14 +366,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T11:00:00Z",
-          "title": "【閉店事件】科学の前では、幽霊も無力【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "nKxbaiWef1k"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T11:01:59Z",
+        "title": "【閉店事件】科学の前では、幽霊も無力【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "nKxbaiWef1k"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -583,5 +579,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T11:00:50Z"
+  "generated_at": "2026-11-03T11:10:30Z"
 }
