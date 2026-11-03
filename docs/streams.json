@@ -81,6 +81,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-11-03T03:00:23Z",
+        "title": "【#ホロ鯖ARK】ARK上陸20日目！海賊船準備なのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "9kCuLtDhT-w"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -372,11 +377,6 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-03T01:02:38Z",
-        "title": "【#GBVSR】Tournament Time!!! #sponsored",
-        "video_id": "XmWqKmGtLHk"
-      },
       "name": "一伊那尓栖"
     },
     {
@@ -513,5 +513,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T04:20:25Z"
+  "generated_at": "2026-11-03T05:10:22Z"
 }
