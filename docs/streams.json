@@ -59,14 +59,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-03T10:00:00Z",
-          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその８【ホロライブ/白上フブキ】",
-          "video_id": "uwL3J0l9ueI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-03T09:30:22Z",
+        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその８【ホロライブ/白上フブキ】",
+        "video_id": "uwL3J0l9ueI"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -572,5 +570,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T09:20:31Z"
+  "generated_at": "2026-11-03T09:30:58Z"
 }
