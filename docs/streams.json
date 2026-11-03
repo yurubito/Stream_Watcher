@@ -311,7 +311,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T03:00:00Z",
+          "title": "【EN】NEW TO THE GAME!! | Deadlock【Hyakuto Kyoko/Hololive】",
+          "video_id": "hHEinrjxeWA"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -426,11 +433,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-03T14:02:49Z",
-        "title": "【Resident Evil 2】 MY VERY FIRST TIME IN RESIDENT EVIL!!! Biboo pls help me!!!",
-        "video_id": "ZIUUENJo-6A"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -491,5 +493,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T15:40:32Z"
+  "generated_at": "2026-11-03T16:10:36Z"
 }
