@@ -220,11 +220,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-03T13:00:30Z",
-        "title": "【 Phasmophobia 】初コラボ！キョーコ、頼んだぞ。【鷹嶺ルイ視点/ホロライブ】",
-        "video_id": "c5HXK5bAbWU"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -329,11 +324,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-03T13:00:30Z",
-        "title": "【コラボ】ヤベェ幽霊が出るらしいお家に突入ーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "5E8wedwJyNA"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -514,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T14:40:35Z"
+  "generated_at": "2026-11-03T15:10:41Z"
 }
