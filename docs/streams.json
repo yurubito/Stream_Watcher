@@ -300,7 +300,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T10:00:00Z",
+          "title": "ホロライブの麻雀アプリ！？ほぼ初心者だけど勝つ自信しかありません！！【 ホロじゃん with.アソビ★まわり隊！】#ホロライブ #アソビまわり隊",
+          "video_id": "u5zrDl1g8PU"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -494,5 +501,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T19:20:49Z"
+  "generated_at": "2026-11-03T20:30:51Z"
 }
