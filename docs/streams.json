@@ -133,11 +133,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-03T14:00:54Z",
-        "title": "【ホロ鯖ARK】カワウソ先生！写真館の準備もしつつ！アンブラ孵化やボス戦に向けてダエオドンとゾウテイム(準備？)したい🔥【白銀ノエル/ホロライブ】",
-        "video_id": "39gdbYmZFXg"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -326,6 +321,11 @@
           "scheduled_at": "2026-11-04T03:00:00Z",
           "title": "【EN】NEW TO THE GAME!! | Deadlock【Hyakuto Kyoko/Hololive】",
           "video_id": "hHEinrjxeWA"
+        },
+        {
+          "scheduled_at": "2026-11-04T10:00:00Z",
+          "title": "【先行プレイ】アソビ★まわり隊！でホロ雀やってみるーーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "pSN2ivW6evI"
         }
       ]
     },
@@ -497,5 +497,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T18:01:08Z"
+  "generated_at": "2026-11-03T18:20:33Z"
 }
