@@ -143,11 +143,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-03T11:59:54Z",
-        "title": "【コラボ】3人で浮気判定シートに挑戦！！！！！ぺこ！【ホロライブ/兎田ぺこら/宝鐘マリン/綺々羅々ヴィヴィ】",
-        "video_id": "MNqsUcQloXs"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -195,11 +190,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-03T11:00:32Z",
-        "title": "【 Japanese Ramen Simulator 】#ハリポルーナ でラーメン屋しゃんを経営するのら！！！【姫森ルーナ/ホロライブ】",
-        "video_id": "fKJZ46_LQSA"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -220,11 +210,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-03T11:00:33Z",
-        "title": "【Japanese Ramen Simulator】へいらっしゃい！ #ハリポルーナ のラーメン屋だよ！！【尾丸ポルカ視点/ホロライブ】",
-        "video_id": "eikW4el4rwo"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -282,21 +267,11 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-03T11:00:34Z",
-        "title": "【ラーメン屋さん】ハリポルーナでJapanese Ramen Simulator！【轟はじめ/ホロライブReGLOSS】",
-        "video_id": "nUl4wcsH0kg"
-      },
       "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-03T11:00:38Z",
-        "title": "【Japanese Ramen Simulator 】ハリポルーナの愛増し増しラーメンいっちょ！【ホロライブ  響咲リオナ】",
-        "video_id": "C64sM_QroSI"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -558,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T13:20:26Z"
+  "generated_at": "2026-11-03T13:40:27Z"
 }
