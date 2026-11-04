@@ -235,11 +235,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-04T13:01:03Z",
-        "title": "【 Supermarket Chaos 】我が家のよう【音乃瀬奏】#ReGLOSS",
-        "video_id": "f8qeTQ6WWsI"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -357,11 +352,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-04T12:00:39Z",
-        "title": "【コラボ】鎖に繋がれてソウルライクゲーム！？！？できらァ！！ | Soul Chained【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "TpyHb_oEeyc"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -414,11 +404,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-04T12:03:22Z",
-        "title": "【SOUL CHAINED】CHAINED TO MY CUTE KOHAI",
-        "video_id": "xBG42xoBM0U"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -463,7 +448,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T02:00:00Z",
+          "title": "【DESIGN CHALLENGE】Mori and I dress each other up! 👚",
+          "video_id": "rShP1u-_wEE"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -528,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T15:30:49Z"
+  "generated_at": "2026-11-04T15:40:34Z"
 }
