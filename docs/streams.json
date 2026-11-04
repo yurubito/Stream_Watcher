@@ -398,7 +398,7 @@
       "name": "エリザベス・ローズ・ブラッドフレイム",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-04T20:15:00Z",
+          "scheduled_at": "2026-11-04T20:30:00Z",
           "title": "🔴LIVE |【WATCHALONG】IRyS 1st Concert 「HOPE ||: Beyond the Stars」 | 💄",
           "video_id": "hNO3xfLnhd8"
         }
@@ -419,14 +419,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T20:05:00Z",
-          "title": "【MUSIC】MAKING A BGM FOR A HOLO TOURNAMENT!?!?!?!?! (yes!)",
-          "video_id": "5FYnvlsXhoU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T20:09:43Z",
+        "title": "【MUSIC】MAKING A BGM FOR A HOLO TOURNAMENT!?!?!?!?! (yes!)",
+        "video_id": "5FYnvlsXhoU"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -493,5 +491,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T20:01:12Z"
+  "generated_at": "2026-11-04T20:10:40Z"
 }
