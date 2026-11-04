@@ -361,14 +361,7 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T02:00:00Z",
-          "title": "【GODDESS OF VICTORY:NIKKE】The Goddesses Smile upon me :D",
-          "video_id": "-xI31PcFOOU"
-        }
-      ]
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -504,5 +497,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-03T22:20:40Z"
+  "generated_at": "2026-11-04T01:30:32Z"
 }
