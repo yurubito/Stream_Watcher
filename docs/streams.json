@@ -198,14 +198,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T09:00:00Z",
-          "title": "【 #ホロ鯖ARK 】ホロ鯖ARKに上陸3日目なのら！！！【姫森ルーナ/ホロライブ】",
-          "video_id": "fgDJ0AjDnGY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T09:01:15Z",
+        "title": "【 #ホロ鯖ARK 】ホロ鯖ARKに上陸3日目なのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "fgDJ0AjDnGY"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -225,14 +223,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T09:00:00Z",
-          "title": "【#ホロ鯖ARK】3回目！パイロメインをテイムしたいんだ！！！！【尾丸ポルカ/ホロライブ】",
-          "video_id": "VuU8tt1hm3Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T09:05:05Z",
+        "title": "【#ホロ鯖ARK】3回目！パイロメインをテイムしたいんだ！！！！【尾丸ポルカ/ホロライブ】",
+        "video_id": "VuU8tt1hm3Q"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -547,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T09:00:53Z"
+  "generated_at": "2026-11-04T09:10:28Z"
 }
