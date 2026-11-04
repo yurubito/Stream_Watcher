@@ -434,7 +434,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T20:00:00Z",
+          "title": "【MUSIC】MAKING A BGM FOR A HOLO TOURNAMENT!?!?!?!?! (yes!)",
+          "video_id": "5FYnvlsXhoU"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -476,11 +483,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-04T12:01:21Z",
-        "title": "You're Invited to Our Ward - Two Point Hospital【Pavolia Reine/hololive】",
-        "video_id": "DGcQ7bTSOnw"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -511,5 +513,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T16:50:32Z"
+  "generated_at": "2026-11-04T17:00:56Z"
 }
