@@ -37,11 +37,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-04T11:03:26Z",
-        "title": "【絶対厳守】ルール破ったら即終了！みこがルールを守り切るまで終わらない配信【ホロライブ/さくらみこ】",
-        "video_id": "7lsBunkNkyk"
-      },
       "name": "さくらみこ"
     },
     {
@@ -146,14 +141,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T13:00:00Z",
-          "title": "【ホロ鯖ARK】カワウソ先生！カメラマンしながら写真館準備＆ボス戦準備(ゾウやハチテイム)【白銀ノエル/ホロライブ】",
-          "video_id": "gkpL4zPNCIM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T13:01:19Z",
+        "title": "【ホロ鯖ARK】カワウソ先生！カメラマンしながら写真館準備＆ボス戦準備(ゾウやハチテイム)【白銀ノエル/ホロライブ】",
+        "video_id": "gkpL4zPNCIM"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -168,14 +161,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T13:00:00Z",
-          "title": "【 #ホロ鯖ARK 】その１７｜残るところ試練の天帝だ…【常闇トワ/ホロライブ】",
-          "video_id": "XMUjdlrDVFs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T13:01:21Z",
+        "title": "【 #ホロ鯖ARK 】その１７｜残るところ試練の天帝だ…【常闇トワ/ホロライブ】",
+        "video_id": "XMUjdlrDVFs"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -242,14 +233,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T13:00:00Z",
-          "title": "【 Supermarket Chaos 】我が家のよう【音乃瀬奏】#ReGLOSS",
-          "video_id": "f8qeTQ6WWsI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T13:01:03Z",
+        "title": "【 Supermarket Chaos 】我が家のよう【音乃瀬奏】#ReGLOSS",
+        "video_id": "f8qeTQ6WWsI"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -528,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T12:50:43Z"
+  "generated_at": "2026-11-04T13:10:33Z"
 }
