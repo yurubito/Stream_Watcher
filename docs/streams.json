@@ -329,7 +329,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T12:00:00Z",
+          "title": "【Soul Chained】鎖に繋がれて運命共同体！！！！！【Koseki Bijou/百灯キョーコ/#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "N_77GxuprFY"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -350,6 +357,11 @@
           "scheduled_at": "2026-11-04T10:00:00Z",
           "title": "ホロライブの麻雀アプリ「ホロじゃん」を先行プレイのじゃ！【アソビ★まわり隊！/ホロライブ/熱千めら】",
           "video_id": "HJGLBGgzldQ"
+        },
+        {
+          "scheduled_at": "2026-11-05T10:00:00Z",
+          "title": "チラズの異変探しホラー「新幹線０号」真エンディングが見たい！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "9R1sId-lrgo"
         }
       ]
     },
@@ -543,5 +555,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T09:10:28Z"
+  "generated_at": "2026-11-04T09:20:26Z"
 }
