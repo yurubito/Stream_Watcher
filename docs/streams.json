@@ -309,7 +309,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T12:00:00Z",
+          "title": "【時のオカリナ　リメイク】#１ゼルダの伝説　完全初見プレイ！！どんな世界が待っているのか....　　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "3-daj98ehHg"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -491,5 +498,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T20:10:40Z"
+  "generated_at": "2026-11-04T20:50:27Z"
 }
