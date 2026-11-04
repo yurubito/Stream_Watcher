@@ -3,7 +3,19 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T11:00:00Z",
+          "title": "ときのそら「マルゴトミライ」【Official Music Video】",
+          "video_id": "GKUUf0fs_So"
+        },
+        {
+          "scheduled_at": "2026-11-05T11:00:00Z",
+          "title": "ときのそら「ハイパーチャッチャカチャージ」【Official Music Video】",
+          "video_id": "eaPEREHrA5w"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -20,7 +32,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T12:00:00Z",
+          "title": "【#ホロ鯖ARK】えっ、今からでも入れるARKありますか――！？ARK: Survival Ascended【ホロライブ / AZKi】",
+          "video_id": "w3SReu9rY6k"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -140,7 +159,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T13:00:00Z",
+          "title": "【ホロ鯖ARK】カワウソ先生！カメラマンしながら写真館準備＆ボス戦準備(ゾウやハチテイム)【白銀ノエル/ホロライブ】",
+          "video_id": "gkpL4zPNCIM"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -207,7 +233,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T10:00:00Z",
+          "title": "【#ホロ鯖ARK】雑務【風真いろは/ホロライブ】",
+          "video_id": "5JvXsQrVOz0"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -217,19 +250,24 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T03:30:00Z",
-          "title": "ニコたんはコイツが好きだと聞いた【#一条莉々華の限界飯】",
-          "video_id": "BV5iPvOLHeg"
-        }
-      ]
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T13:30:00Z",
+          "title": "【雑談】配信予定！【儒烏風亭らでん #ReGLOSS 】",
+          "video_id": "m1MmY7UXJLU"
+        },
+        {
+          "scheduled_at": "2026-11-05T12:00:00Z",
+          "title": "【舊好藝術節「左營有光」× 儒烏風亭らでん】台湾の芸術イベントとコラボします！！【儒烏風亭らでん #ReGLOSS 】#PR",
+          "video_id": "ku0ZzkQ4zKQ"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -239,7 +277,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T09:00:00Z",
+          "title": "【 #ホロARK 】ああ、パイロメインテイムしておいて良かったああ【ホロライブ  響咲リオナ】",
+          "video_id": "09rgDjt5K5M"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -271,7 +316,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T09:00:00Z",
+          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃27【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "EfY_yvlTOLc"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -312,17 +364,22 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-04T02:59:47Z",
+        "title": "【EN】NEW TO THE GAME!! | Deadlock【Hyakuto Kyoko/Hololive】",
+        "video_id": "hHEinrjxeWA"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T03:00:00Z",
-          "title": "【EN】NEW TO THE GAME!! | Deadlock【Hyakuto Kyoko/Hololive】",
-          "video_id": "hHEinrjxeWA"
-        },
         {
           "scheduled_at": "2026-11-04T10:00:00Z",
           "title": "【先行プレイ】アソビ★まわり隊！でホロ雀やってみるーーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "pSN2ivW6evI"
+        },
+        {
+          "scheduled_at": "2026-11-04T12:00:00Z",
+          "title": "【コラボ】鎖に繋がれてソウルライクゲーム！？！？できらァ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "D9V0J0fVsYY"
         }
       ]
     },
@@ -334,14 +391,7 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T00:00:00Z",
-          "title": "【ZELDA: MAJORA'S MASK】im just a lil deku scrub guy!! (part 2) #calliolive",
-          "video_id": "5htZJ4LI_1M"
-        }
-      ]
+      "name": "森カリオペ"
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -487,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T07:30:47Z"
+  "generated_at": "2026-11-04T08:01:08Z"
 }
