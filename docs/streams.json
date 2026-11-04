@@ -526,7 +526,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T12:00:00Z",
+          "title": "You're Invited to Our Ward - Two Point Hospital【Pavolia Reine/hololive】",
+          "video_id": "DGcQ7bTSOnw"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -548,8 +555,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T11:00:00Z",
+          "title": "【hololive Dreams】Only for Zeta. Gacha for Zeta. #holodori #ホロドリ",
+          "video_id": "FASHR1qB50c"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-11-04T10:20:32Z"
+  "generated_at": "2026-11-04T10:30:44Z"
 }
