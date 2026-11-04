@@ -110,14 +110,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T09:00:00Z",
-          "title": "【トルネコの大冒険】そろそろドラゴン・・会えるかな？！ 【ネタバレあり】",
-          "video_id": "KrQBNXaPMlA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T09:00:16Z",
+        "title": "【トルネコの大冒険】そろそろドラゴン・・会えるかな？！ 【ネタバレあり】",
+        "video_id": "KrQBNXaPMlA"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -298,14 +296,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T09:00:00Z",
-          "title": "【 #ホロARK 】ああ、パイロメインテイムしておいて良かったああ【ホロライブ  響咲リオナ】",
-          "video_id": "09rgDjt5K5M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T09:00:07Z",
+        "title": "【 #ホロARK 】ああ、パイロメインテイムしておいて良かったああ【ホロライブ  響咲リオナ】",
+        "video_id": "09rgDjt5K5M"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -342,14 +338,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T09:00:00Z",
-          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃27【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "EfY_yvlTOLc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T08:59:44Z",
+        "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃27【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "EfY_yvlTOLc"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -396,6 +390,11 @@
           "scheduled_at": "2026-11-04T10:00:00Z",
           "title": "【先行プレイ】アソビ★まわり隊！でホロ雀やってみるーーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "pSN2ivW6evI"
+        },
+        {
+          "scheduled_at": "2026-11-04T12:00:00Z",
+          "title": "【コラボ】鎖に繋がれてソウルライクゲーム！？！？できらァ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "TpyHb_oEeyc"
         }
       ]
     },
@@ -548,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T08:50:42Z"
+  "generated_at": "2026-11-04T09:00:53Z"
 }
