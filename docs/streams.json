@@ -172,7 +172,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T13:00:00Z",
+          "title": "【 #ホロ鯖ARK 】その１７｜残るところ試練の天帝だ…【常闇トワ/ホロライブ】",
+          "video_id": "XMUjdlrDVFs"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -229,14 +236,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T12:00:00Z",
-          "title": "【#ホロ鯖ARK】雑務【風真いろは/ホロライブ】",
-          "video_id": "5JvXsQrVOz0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T12:00:37Z",
+        "title": "【#ホロ鯖ARK】雑務【風真いろは/ホロライブ】",
+        "video_id": "5JvXsQrVOz0"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -354,14 +359,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T12:00:00Z",
-          "title": "【コラボ】鎖に繋がれてソウルライクゲーム！？！？できらァ！！ | Soul Chained【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "TpyHb_oEeyc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T12:00:39Z",
+        "title": "【コラボ】鎖に繋がれてソウルライクゲーム！？！？できらァ！！ | Soul Chained【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "TpyHb_oEeyc"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -531,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T11:50:37Z"
+  "generated_at": "2026-11-04T12:00:49Z"
 }
