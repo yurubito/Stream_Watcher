@@ -511,18 +511,20 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T13:15:00Z",
+          "title": "【Skewer Squad】food vs rats",
+          "video_id": "loio8BByIOw"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-04T10:57:31Z",
-        "title": "【hololive Dreams】Only for Zeta. Gacha for Zeta. #holodori #ホロドリ",
-        "video_id": "FASHR1qB50c"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T12:10:25Z"
+  "generated_at": "2026-11-04T12:20:29Z"
 }
