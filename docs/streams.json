@@ -417,13 +417,13 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-11-04T03:01:40Z",
+        "title": "【DEADLOCK】using my senpai tax to form my deadlock team with @HyakutoKyoko",
+        "video_id": "EhLvVLPRtg8"
+      },
       "name": "ジジ・ムリン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T03:00:00Z",
-          "title": "【DEADLOCK】using my senpai tax to form my deadlock team with @HyakutoKyoko",
-          "video_id": "EhLvVLPRtg8"
-        },
         {
           "scheduled_at": "2026-11-24T09:00:00Z",
           "title": "BUY!!!!!!",
@@ -494,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T02:10:21Z"
+  "generated_at": "2026-11-04T03:20:23Z"
 }
