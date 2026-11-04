@@ -445,7 +445,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T12:00:00Z",
+          "title": "【SOUL CHAINED】CHAINED TO MY CUTE KOHAI",
+          "video_id": "xBG42xoBM0U"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -544,5 +551,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T10:10:39Z"
+  "generated_at": "2026-11-04T10:20:32Z"
 }
