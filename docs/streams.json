@@ -390,22 +390,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-04T02:59:47Z",
-        "title": "【EN】NEW TO THE GAME!! | Deadlock【Hyakuto Kyoko/Hololive】",
-        "video_id": "hHEinrjxeWA"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
           "scheduled_at": "2026-11-04T10:00:00Z",
           "title": "【先行プレイ】アソビ★まわり隊！でホロ雀やってみるーーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "pSN2ivW6evI"
-        },
-        {
-          "scheduled_at": "2026-11-04T12:00:00Z",
-          "title": "【コラボ】鎖に繋がれてソウルライクゲーム！？！？できらァ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "D9V0J0fVsYY"
         }
       ]
     },
@@ -486,11 +476,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-04T03:01:40Z",
-        "title": "【DEADLOCK】using my senpai tax to form my deadlock team with @HyakutoKyoko",
-        "video_id": "EhLvVLPRtg8"
-      },
       "name": "ジジ・ムリン",
       "upcoming": [
         {
@@ -563,5 +548,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T08:40:25Z"
+  "generated_at": "2026-11-04T08:50:42Z"
 }
