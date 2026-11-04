@@ -283,11 +283,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-03T21:58:53Z",
-        "title": "【のじゃEnglish】中学英語を復習するのじゃ！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "pc9jj2KhcKs"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -383,12 +378,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-03T22:02:24Z",
-        "title": "Official Unc Status Achieved 【OPUS: Prism Peak】❗Spoilers",
-        "video_id": "ZryTcFRL0uk"
-      },
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T22:00:00Z",
+          "title": "I think that horse is my ex-wife 【OPUS: Prism Peak】❗Spoilers",
+          "video_id": "e1464lhR_Gs"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -504,5 +501,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T01:40:30Z"
+  "generated_at": "2026-11-04T02:00:51Z"
 }
