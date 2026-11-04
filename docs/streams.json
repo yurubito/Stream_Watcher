@@ -526,14 +526,7 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T12:00:00Z",
-          "title": "You're Invited to Our Ward - Two Point Hospital【Pavolia Reine/hololive】",
-          "video_id": "DGcQ7bTSOnw"
-        }
-      ]
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -565,5 +558,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-04T10:30:44Z"
+  "generated_at": "2026-11-04T10:40:25Z"
 }
