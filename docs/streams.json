@@ -402,14 +402,12 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
-      "name": "エリザベス・ローズ・ブラッドフレイム",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T20:30:00Z",
-          "title": "🔴LIVE |【WATCHALONG】IRyS 1st Concert 「HOPE ||: Beyond the Stars」 | 💄",
-          "video_id": "hNO3xfLnhd8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T21:21:25Z",
+        "title": "🔴LIVE |【WATCHALONG】IRyS 1st Concert 「HOPE ||: Beyond the Stars」 | 💄",
+        "video_id": "hNO3xfLnhd8"
+      },
+      "name": "エリザベス・ローズ・ブラッドフレイム"
     },
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
@@ -498,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T20:50:27Z"
+  "generated_at": "2026-11-04T21:30:54Z"
 }
