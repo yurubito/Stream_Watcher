@@ -95,7 +95,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-04T12:00:00Z",
-          "title": "【】単発予定【ホロライブ/大空スバル】",
+          "title": "【#生スバル】夜の植物店やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！！：the plant shop【ホロライブ/大空スバル】",
           "video_id": "gzOO19hnYgk"
         }
       ]
@@ -207,7 +207,14 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス"
+      "name": "ラプラス・ダークネス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T11:00:00Z",
+          "title": "【診断】アソビ★まわり隊！から隠れお姉さんを探したい！🔥【ラプラス・ダークネス/ホロライブ】",
+          "video_id": "zDYSfXhGvU4"
+        }
+      ]
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -524,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T11:20:40Z"
+  "generated_at": "2026-11-04T11:40:35Z"
 }
