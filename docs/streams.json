@@ -37,11 +37,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-04T13:10:16Z",
-        "title": "【 絶対 】厳守するにぇええええええええええええええ！！！クリアする！！！【ホロライブ/さくらみこ】",
-        "video_id": "vUFuPPevafo"
-      },
       "name": "さくらみこ"
     },
     {
@@ -220,7 +215,14 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T10:00:00Z",
+          "title": "【 #ホロ鯖ARK 】うおおおおおおおおおおおおおおおおお【博衣こより/ホロライブ】",
+          "video_id": "Jy5AitXcdd0"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -286,11 +288,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-04T13:32:21Z",
-        "title": "【ホロじゃん】初心者麻雀🔰先行プレイ自分と対面するかぁ、、【水宮枢／ホロライブ】",
-        "video_id": "waYEoKCX7O8"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -534,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T16:00:58Z"
+  "generated_at": "2026-11-04T16:10:35Z"
 }
