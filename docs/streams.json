@@ -37,6 +37,11 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-04T13:10:16Z",
+        "title": "【 絶対 】厳守するにぇええええええええええええええ！！！クリアする！！！【ホロライブ/さくらみこ】",
+        "video_id": "vUFuPPevafo"
+      },
       "name": "さくらみこ"
     },
     {
@@ -94,11 +99,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-04T09:00:16Z",
-        "title": "【トルネコの大冒険】そろそろドラゴン・・会えるかな？！ 【ネタバレあり】",
-        "video_id": "KrQBNXaPMlA"
-      },
       "name": "大神ミオ"
     },
     {
@@ -136,7 +136,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T14:00:00Z",
+          "title": "【ツーポイントホスピタル：ハートフルコレクション】深夜にまったりヘンテコ病院を運用🏥【不知火フレア/ホロライブ】",
+          "video_id": "3xnJMnbcNVM"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -171,11 +178,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-04T09:01:15Z",
-        "title": "【 #ホロ鯖ARK 】ホロ鯖ARKに上陸3日目なのら！！！【姫森ルーナ/ホロライブ】",
-        "video_id": "fgDJ0AjDnGY"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -243,7 +245,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T12:00:00Z",
+          "title": "【先行プレイ】リリース日きたああああ！！ホロじゃんで遊ぼう！！【一条莉々華/hololive ReGLOSS】",
+          "video_id": "f6gzo_8PzyU"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -502,14 +511,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T13:15:00Z",
-          "title": "【Skewer Squad】food vs rats",
-          "video_id": "loio8BByIOw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T13:14:15Z",
+        "title": "【Skewer Squad】food vs rats",
+        "video_id": "loio8BByIOw"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -517,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T13:10:33Z"
+  "generated_at": "2026-11-04T13:20:42Z"
 }
