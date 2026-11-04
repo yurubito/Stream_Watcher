@@ -242,7 +242,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T13:00:00Z",
+          "title": "【 Supermarket Chaos 】我が家のよう【音乃瀬奏】#ReGLOSS",
+          "video_id": "f8qeTQ6WWsI"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -526,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T12:20:29Z"
+  "generated_at": "2026-11-04T12:30:46Z"
 }
