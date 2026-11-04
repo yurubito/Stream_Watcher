@@ -47,7 +47,14 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと"
+      "name": "赤井はあと",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T10:00:00Z",
+          "title": "パスタが増殖した・・・【ホロライブ/赤井はあと】",
+          "video_id": "r5zbMh5EYE0"
+        }
+      ]
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -497,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T01:30:32Z"
+  "generated_at": "2026-11-04T01:40:30Z"
 }
