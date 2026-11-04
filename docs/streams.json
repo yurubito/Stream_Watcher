@@ -257,11 +257,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-04T13:35:44Z",
-        "title": "【雑談】配信予定！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "m1MmY7UXJLU"
-      },
       "name": "儒烏風亭らでん",
       "upcoming": [
         {
@@ -279,7 +274,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T03:00:00Z",
+          "title": "【定期配信＃49】木曜のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
+          "video_id": "UV2irCI-src"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -531,5 +533,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T14:40:38Z"
+  "generated_at": "2026-11-04T14:50:39Z"
 }
