@@ -44,7 +44,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-04T11:00:00Z",
+          "title": "【絶対厳守】ルール破ったら即終了！みこがルールを守り切るまで終わらない配信【ホロライブ/さくらみこ】",
+          "video_id": "7lsBunkNkyk"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -66,14 +73,7 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T10:00:00Z",
-          "title": "パスタが増殖した・・・【ホロライブ/赤井はあと】",
-          "video_id": "r5zbMh5EYE0"
-        }
-      ]
+      "name": "赤井はあと"
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -120,13 +120,13 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-04T10:00:08Z",
+        "title": "【 ソニックレーシング クロスワールド 】おかころきちゃああ!! 🍙🥐✦ 思いっきり遊んじゃお!! #おかころ【 猫又おかゆ/戌神ころね/ホロライブ 】",
+        "video_id": "vZHb1OwdDpA"
+      },
       "name": "猫又おかゆ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T10:00:00Z",
-          "title": "【 ソニックレーシング クロスワールド 】おかころきちゃああ!! 🍙🥐✦ 思いっきり遊んじゃお!! #おかころ【 猫又おかゆ/戌神ころね/ホロライブ 】",
-          "video_id": "vZHb1OwdDpA"
-        },
         {
           "scheduled_at": "2026-11-04T12:00:00Z",
           "title": "【 AIドット絵バトル 】最強のモンスター考えてみた🤣🤣🤣ｗｗｗ【 猫又おかゆ/ホロライブ 】",
@@ -142,14 +142,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T10:00:00Z",
-          "title": "【案件】おかころで『ソニックレーシング クロスワールド』遊ぶよ！！！【戌神ころね/猫又おかゆ/ホロライブ】",
-          "video_id": "GLBnfdLZTtU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T10:01:36Z",
+        "title": "【案件】おかころで『ソニックレーシング クロスワールド』遊ぶよ！！！【戌神ころね/猫又おかゆ/ホロライブ】",
+        "video_id": "GLBnfdLZTtU"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -346,13 +344,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-04T09:59:43Z",
+        "title": "ホロライブの麻雀アプリ「ホロじゃん」を先行プレイのじゃ！【アソビ★まわり隊！/ホロライブ/熱千めら】",
+        "video_id": "HJGLBGgzldQ"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T10:00:00Z",
-          "title": "ホロライブの麻雀アプリ「ホロじゃん」を先行プレイのじゃ！【アソビ★まわり隊！/ホロライブ/熱千めら】",
-          "video_id": "HJGLBGgzldQ"
-        },
         {
           "scheduled_at": "2026-11-05T10:00:00Z",
           "title": "チラズの異変探しホラー「新幹線０号」真エンディングが見たい！【ホロライブ/アソビ★まわり隊！/熱千めら】",
@@ -363,37 +361,33 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T10:00:00Z",
-          "title": "【アソビ★まわり隊！】ホロライブの麻雀ゲーム「ホロじゃん」を先行プレイ！【宙科そぴあ/ホロライブ】",
-          "video_id": "cfnDCkuWIR8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T10:00:52Z",
+        "title": "【アソビ★まわり隊！】ホロライブの麻雀ゲーム「ホロじゃん」を先行プレイ！【宙科そぴあ/ホロライブ】",
+        "video_id": "cfnDCkuWIR8"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T10:00:00Z",
-          "title": "ホロライブの麻雀アプリ！？ほぼ初心者だけど勝つ自信しかありません！！【 ホロじゃん with.アソビ★まわり隊！】#ホロライブ #アソビまわり隊",
-          "video_id": "u5zrDl1g8PU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-04T10:00:59Z",
+        "title": "ホロライブの麻雀アプリ！？ほぼ初心者だけど勝つ自信しかありません！！【 ホロじゃん with.アソビ★まわり隊！】#ホロライブ #アソビまわり隊",
+        "video_id": "u5zrDl1g8PU"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-04T10:01:19Z",
+        "title": "【先行プレイ】アソビ★まわり隊！でホロ雀やってみるーーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "pSN2ivW6evI"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-04T10:00:00Z",
-          "title": "【先行プレイ】アソビ★まわり隊！でホロ雀やってみるーーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "pSN2ivW6evI"
-        },
         {
           "scheduled_at": "2026-11-04T12:00:00Z",
           "title": "【コラボ】鎖に繋がれてソウルライクゲーム！？！？できらァ！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -481,9 +475,9 @@
       "name": "ジジ・ムリン",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-24T09:00:00Z",
-          "title": "BUY!!!!!!",
-          "video_id": "rzxphuacYxo"
+          "scheduled_at": "2026-11-04T22:00:00Z",
+          "title": "【#WORLDS2026】BELIEVE IN THE NA VICTORY LETS GO NA!!!!!",
+          "video_id": "enFa4EpxMFs"
         }
       ]
     },
@@ -550,5 +544,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T09:50:37Z"
+  "generated_at": "2026-11-04T10:10:39Z"
 }
