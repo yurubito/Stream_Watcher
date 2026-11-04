@@ -89,11 +89,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-11-04T12:02:37Z",
-        "title": "【#生スバル】夜の植物店やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！！：the plant shop【ホロライブ/大空スバル】",
-        "video_id": "gzOO19hnYgk"
-      },
       "name": "大空スバル"
     },
     {
@@ -104,11 +99,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-04T12:01:10Z",
-        "title": "【 AIドット絵バトル 】最強のモンスター考えてみた🤣🤣🤣ｗｗｗ【 猫又おかゆ/ホロライブ 】",
-        "video_id": "z5Y6l9WORI4"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -348,7 +338,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T11:00:00Z",
+          "title": "趣味全開カラオケ歌枠 邦ロック編【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "AFBJLmEjrQ0"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -529,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-04T14:10:31Z"
+  "generated_at": "2026-11-04T14:20:37Z"
 }
