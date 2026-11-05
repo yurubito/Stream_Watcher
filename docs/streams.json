@@ -104,11 +104,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-05T11:00:28Z",
-        "title": "#2【楽しい】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
-        "video_id": "EuinQK8-zNQ"
-      },
       "name": "戌神ころね"
     },
     {
@@ -196,14 +191,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T14:00:00Z",
-          "title": "【 #ホロ1GP 】マイクラの競馬企画の準備するぜ！！舞倉競馬場突入！【鷹嶺ルイ/ホロライブ】",
-          "video_id": "_ByDJ4vJ5hA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T14:02:24Z",
+        "title": "【 #ホロ1GP 】マイクラの競馬企画の準備するぜ！！舞倉競馬場突入！【鷹嶺ルイ/ホロライブ】",
+        "video_id": "_ByDJ4vJ5hA"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -478,5 +471,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T13:50:26Z"
+  "generated_at": "2026-11-05T14:10:31Z"
 }
