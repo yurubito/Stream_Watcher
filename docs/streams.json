@@ -25,7 +25,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T11:00:00Z",
+          "title": "【 はいしんよてち 】にぇ！！！！！！【ホロライブ/さくらみこ】",
+          "video_id": "Pbq8TtAPyMU"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -525,5 +532,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T11:40:30Z"
+  "generated_at": "2026-11-05T11:50:27Z"
 }
