@@ -3,21 +3,11 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-05T11:00:09Z",
-        "title": "ときのそら「ハイパーチャッチャカチャージ」【Official Music Video】",
-        "video_id": "eaPEREHrA5w"
-      },
       "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-05T09:59:03Z",
-        "title": "【対面初対談】ReoNaさんが遊びにきちゃー！？？初めましてロボ子です！！！【ホロライブ/ ロボ子さん 】",
-        "video_id": "XLpSn9ilNbU"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -235,11 +225,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-05T10:00:12Z",
-        "title": "【LogRiders】#いろはス の仲良し♡ゲーム配信(1時間チャレンジ)【風真いろは/ホロライブ】",
-        "video_id": "tT3AIXi7KMw"
-      },
       "name": "風真いろは"
     },
     {
@@ -336,14 +321,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T11:00:00Z",
-          "title": "趣味全開カラオケ歌枠 邦ロック編【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "AFBJLmEjrQ0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T11:01:21Z",
+        "title": "趣味全開カラオケ歌枠 邦ロック編【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "AFBJLmEjrQ0"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -493,7 +476,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T12:00:00Z",
+          "title": "【Supadonoreading】KETCH-UP! KETCH-UP! Delicious Ketchup! #shorts【hololive holoro | Anya Melfissa】",
+          "video_id": "5WNTsNL-iuw"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -540,5 +530,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T11:00:49Z"
+  "generated_at": "2026-11-05T11:10:26Z"
 }
