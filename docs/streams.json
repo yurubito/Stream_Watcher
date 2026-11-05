@@ -320,7 +320,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T09:00:00Z",
+          "title": "【#ホロ鯖ARK】ギガントラプトルテイム！！初めてのホロ鯖ARK！！＃28【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "UbC03Ga4ukI"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -510,6 +517,11 @@
           "scheduled_at": "2026-11-05T13:08:00Z",
           "title": "【Shroom and Gloom】FIRST PERSON ROUGELIKE DECKBUILDING",
           "video_id": "26-vTQuDdZ4"
+        },
+        {
+          "scheduled_at": "2026-11-06T14:00:00Z",
+          "title": "【Shoe it All!】fly high, shoe! adios",
+          "video_id": "GyFtjnX7fW0"
         }
       ]
     },
@@ -519,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T08:01:03Z"
+  "generated_at": "2026-11-05T08:20:37Z"
 }
