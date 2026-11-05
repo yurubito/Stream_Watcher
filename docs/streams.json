@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-05T12:02:01Z",
-        "title": "【#ホロ鯖ARK】カワウ荘でお世話になります！ARK: Survival Ascended【ホロライブ / AZKi】",
-        "video_id": "6EJsh7IeH5g"
-      },
       "name": "AZKi"
     },
     {
@@ -154,11 +149,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-05T12:57:50Z",
-        "title": "【 ゼルダの伝説 時のオカリナ 】本日発売！！時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃１.５【姫森ルーナ/ホロライブ】",
-        "video_id": "BqzEcjNPjss"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -196,11 +186,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-05T14:02:24Z",
-        "title": "【 #ホロ1GP 】マイクラの競馬企画の準備するぜ！！舞倉競馬場突入！【鷹嶺ルイ/ホロライブ】",
-        "video_id": "_ByDJ4vJ5hA"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -475,5 +460,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T16:50:28Z"
+  "generated_at": "2026-11-05T17:01:06Z"
 }
