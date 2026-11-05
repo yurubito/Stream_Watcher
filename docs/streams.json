@@ -316,9 +316,9 @@
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
       "live": {
-        "started_at": "2026-11-05T13:00:59Z",
-        "title": "【ホラゲ】もうヤバそうな雰囲気しかしない銭湯に突入！！ | 地獄銭湯【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "DfgbSnr9Icw"
+        "started_at": "2026-11-05T13:13:46Z",
+        "title": "超突発ノープランすぎ雑談！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "XT0gAYXkRHw"
       },
       "name": "百灯キョーコ"
     },
@@ -478,13 +478,13 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-11-05T13:10:23Z",
+        "title": "【Shroom and Gloom】FIRST PERSON ROUGELIKE DECKBUILDING",
+        "video_id": "26-vTQuDdZ4"
+      },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T13:08:00Z",
-          "title": "【Shroom and Gloom】FIRST PERSON ROUGELIKE DECKBUILDING",
-          "video_id": "26-vTQuDdZ4"
-        },
         {
           "scheduled_at": "2026-11-06T14:00:00Z",
           "title": "【Shoe it All!】fly high, shoe! adios",
@@ -498,5 +498,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T13:10:25Z"
+  "generated_at": "2026-11-05T13:20:33Z"
 }
