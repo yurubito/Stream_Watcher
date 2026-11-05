@@ -111,7 +111,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T12:00:00Z",
+          "title": "#2【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
+          "video_id": "ZpGtQNsS0Fs"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -199,7 +206,19 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T10:00:00Z",
+          "title": "【 #カゲマス 】新情報あり！4周年イベきたーーーー!!メチャ強シャドウ引いてワンパンチャレンジ👊‼【鷹嶺ルイ/ホロライブ】",
+          "video_id": "rGfFaldh8V8"
+        },
+        {
+          "scheduled_at": "2026-11-05T14:00:00Z",
+          "title": "【 #ホロ1GP 】マイクラの競馬企画の準備するぜ！！舞倉競馬場突入！【鷹嶺ルイ/ホロライブ】",
+          "video_id": "_ByDJ4vJ5hA"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -216,7 +235,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T10:00:00Z",
+          "title": "【LogRiders】#いろはス の仲良し♡ゲーム配信(1時間チャレンジ)【風真いろは/ホロライブ】",
+          "video_id": "tT3AIXi7KMw"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -282,7 +308,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T11:00:00Z",
+          "title": "【雑談】オリ曲制作裏話～～～！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "EWdKaGccKWU"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -414,11 +447,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-04T21:51:06Z",
-        "title": "【#WORLDS2026】BELIEVE IN THE NA VICTORY LETS GO NA!!!!!",
-        "video_id": "enFa4EpxMFs"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -476,7 +504,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T13:08:00Z",
+          "title": "【Shroom and Gloom】FIRST PERSON ROUGELIKE DECKBUILDING",
+          "video_id": "26-vTQuDdZ4"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -484,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T05:00:52Z"
+  "generated_at": "2026-11-05T08:01:03Z"
 }
