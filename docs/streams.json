@@ -13,14 +13,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T12:00:00Z",
-          "title": "【#ホロ鯖ARK】カワウ荘でお世話になります！ARK: Survival Ascended【ホロライブ / AZKi】",
-          "video_id": "6EJsh7IeH5g"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T12:02:01Z",
+        "title": "【#ホロ鯖ARK】カワウ荘でお世話になります！ARK: Survival Ascended【ホロライブ / AZKi】",
+        "video_id": "6EJsh7IeH5g"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -94,13 +92,13 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-05T12:02:14Z",
+        "title": "【 Nintendo Switch Sports Resort 】二人で魂のスポーツ!!💥 告知アリ🥳【 猫又おかゆ/大空スバル/#スバおか 】",
+        "video_id": "hoaJ6f2J2M8"
+      },
       "name": "猫又おかゆ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T12:00:00Z",
-          "title": "【 Nintendo Switch Sports Resort 】二人で魂のスポーツ!!💥 告知アリ🥳【 猫又おかゆ/大空スバル/#スバおか 】",
-          "video_id": "hoaJ6f2J2M8"
-        },
         {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
@@ -235,26 +233,22 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T12:00:00Z",
-          "title": "【先行プレイ】リリース日きたああああ！！ホロじゃんで遊ぼう！！【一条莉々華/hololive ReGLOSS】",
-          "video_id": "f6gzo_8PzyU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T12:01:24Z",
+        "title": "【先行プレイ】リリース日きたああああ！！ホロじゃんで遊ぼう！！【一条莉々華/hololive ReGLOSS】",
+        "video_id": "f6gzo_8PzyU"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T12:00:00Z",
-          "title": "【舊好藝術節「左營有光」× 儒烏風亭らでん】台湾の芸術イベントとコラボします！！【儒烏風亭らでん #ReGLOSS 】#PR",
-          "video_id": "ku0ZzkQ4zKQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T12:04:28Z",
+        "title": "【舊好藝術節「左營有光」× 儒烏風亭らでん】台湾の芸術イベントとコラボします！！【儒烏風亭らでん #ReGLOSS 】#PR",
+        "video_id": "ku0ZzkQ4zKQ"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -474,14 +468,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T12:00:00Z",
-          "title": "【Supadonoreading】KETCH-UP! KETCH-UP! Delicious Ketchup! #shorts【hololive holoro | Anya Melfissa】",
-          "video_id": "5WNTsNL-iuw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T12:01:25Z",
+        "title": "【Supadonoreading】KETCH-UP! KETCH-UP! Delicious Ketchup! #shorts【hololive holoro | Anya Melfissa】",
+        "video_id": "5WNTsNL-iuw"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -528,5 +520,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T12:00:49Z"
+  "generated_at": "2026-11-05T12:10:26Z"
 }
