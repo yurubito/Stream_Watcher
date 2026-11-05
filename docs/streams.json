@@ -106,7 +106,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T11:00:00Z",
+          "title": "#2【楽しい】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
+          "video_id": "EuinQK8-zNQ"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -494,14 +501,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T09:00:00Z",
-          "title": "Afternoon Shift at Two Point Hospital【Pavolia Reine/hololive】",
-          "video_id": "GgqfLTp6h7A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T09:00:50Z",
+        "title": "Afternoon Shift at Two Point Hospital【Pavolia Reine/hololive】",
+        "video_id": "GgqfLTp6h7A"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -538,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T08:40:24Z"
+  "generated_at": "2026-11-05T09:00:54Z"
 }
