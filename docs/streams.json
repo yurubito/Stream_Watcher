@@ -382,24 +382,19 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-04T22:05:45Z",
-        "title": "I think that horse is my ex-wife 【OPUS: Prism Peak】❗Spoilers",
-        "video_id": "e1464lhR_Gs"
-      },
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T00:00:00Z",
+          "title": "I'm just a little Alice! 【Withering Rooms】",
+          "video_id": "6oGdOpLqkws"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T00:00:00Z",
-          "title": "【The Legend of Zelda: Ocarina of Time Remake】HYAH! HAH! HYAAAAAAAAAHHHHH",
-          "video_id": "AqWWkm-ltFg"
-        }
-      ]
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -499,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T03:50:31Z"
+  "generated_at": "2026-11-05T04:00:43Z"
 }
