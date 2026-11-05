@@ -95,6 +95,11 @@
       "name": "猫又おかゆ",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-06T09:00:00Z",
+          "title": "ホロじゃん しようじゃん ☆ᯤ",
+          "video_id": "U1x0E4tXVk4"
+        },
+        {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
           "video_id": "JTRI5dPcho0"
@@ -129,11 +134,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-05T15:04:44Z",
-        "title": "【雑談＆お礼】最強のPCが動かなくなったので、次強のサブPCから！【角巻わため/ホロライブ４期生】",
-        "video_id": "ko3z615ZvQA"
-      },
       "name": "角巻わため"
     },
     {
@@ -465,11 +465,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-05T13:10:23Z",
-        "title": "【Shroom and Gloom】FIRST PERSON ROUGELIKE DECKBUILDING",
-        "video_id": "26-vTQuDdZ4"
-      },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
         {
@@ -485,5 +480,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T18:01:05Z"
+  "generated_at": "2026-11-05T18:20:34Z"
 }
