@@ -418,6 +418,11 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-11-05T15:33:03Z",
+        "title": "【Graveyard Keeper】AAAUUURRGHHH【hololive | moona】",
+        "video_id": "qT2RDWLRNJs"
+      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -475,5 +480,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T15:20:34Z"
+  "generated_at": "2026-11-05T15:40:28Z"
 }
