@@ -438,11 +438,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-05T09:00:50Z",
-        "title": "Afternoon Shift at Two Point Hospital【Pavolia Reine/hololive】",
-        "video_id": "GgqfLTp6h7A"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -480,5 +475,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T15:10:35Z"
+  "generated_at": "2026-11-05T15:20:34Z"
 }
