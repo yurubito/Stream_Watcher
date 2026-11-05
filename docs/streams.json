@@ -62,11 +62,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-05T10:59:42Z",
-        "title": "【#4】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
-        "video_id": "gZ42MAwjPGA"
-      },
       "name": "白上フブキ"
     },
     {
@@ -97,11 +92,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-05T12:02:14Z",
-        "title": "【 Nintendo Switch Sports Resort 】二人で魂のスポーツ!!💥 告知アリ🥳【 猫又おかゆ/大空スバル/#スバおか 】",
-        "video_id": "hoaJ6f2J2M8"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -164,6 +154,11 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-11-05T12:57:50Z",
+        "title": "【 ゼルダの伝説 時のオカリナ 】本日発売！！時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃１.５【姫森ルーナ/ホロライブ】",
+        "video_id": "BqzEcjNPjss"
+      },
       "name": "姫森ルーナ"
     },
     {
@@ -320,14 +315,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T13:00:00Z",
-          "title": "【ホラゲ】もうヤバそうな雰囲気しかしない銭湯に突入！！ | 地獄銭湯【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "DfgbSnr9Icw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T13:00:59Z",
+        "title": "【ホラゲ】もうヤバそうな雰囲気しかしない銭湯に突入！！ | 地獄銭湯【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "DfgbSnr9Icw"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -505,5 +498,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T13:00:54Z"
+  "generated_at": "2026-11-05T13:10:25Z"
 }
