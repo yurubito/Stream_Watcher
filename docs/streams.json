@@ -409,11 +409,6 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-04T21:21:25Z",
-        "title": "🔴LIVE |【WATCHALONG】IRyS 1st Concert 「HOPE ||: Beyond the Stars」 | 💄",
-        "video_id": "hNO3xfLnhd8"
-      },
       "name": "エリザベス・ローズ・ブラッドフレイム"
     },
     {
@@ -434,11 +429,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-05T02:07:23Z",
-        "title": "【DESIGN CHALLENGE】Mori and I dress each other up! 👚",
-        "video_id": "rShP1u-_wEE"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -494,5 +484,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T04:50:26Z"
+  "generated_at": "2026-11-05T05:00:52Z"
 }
