@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T11:00:00Z",
-          "title": "ときのそら「ハイパーチャッチャカチャージ」【Official Music Video】",
-          "video_id": "eaPEREHrA5w"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T11:00:09Z",
+        "title": "ときのそら「ハイパーチャッチャカチャージ」【Official Music Video】",
+        "video_id": "eaPEREHrA5w"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -64,14 +62,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T11:00:00Z",
-          "title": "【#4】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
-          "video_id": "gZ42MAwjPGA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T10:59:42Z",
+        "title": "【#4】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
+        "video_id": "gZ42MAwjPGA"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -118,14 +114,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T11:00:00Z",
-          "title": "#2【楽しい】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
-          "video_id": "EuinQK8-zNQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T11:00:28Z",
+        "title": "#2【楽しい】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
+        "video_id": "EuinQK8-zNQ"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -312,14 +306,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T11:00:00Z",
-          "title": "【雑談】オリ曲制作裏話～～～！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "EWdKaGccKWU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T11:00:12Z",
+        "title": "【雑談】オリ曲制作裏話～～～！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "EWdKaGccKWU"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -548,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T10:20:34Z"
+  "generated_at": "2026-11-05T11:00:49Z"
 }
