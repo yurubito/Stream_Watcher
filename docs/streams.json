@@ -119,11 +119,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-05T09:01:35Z",
-        "title": "【ホロ鯖ARK】カワウソ先生！カワウ荘のみんなで思い出作り＆写真館ほぼ完成目指す！【白銀ノエル/ホロライブ】",
-        "video_id": "VHvJy-KW9y8"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -153,7 +148,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-06T11:00:00Z",
-          "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第45話～第50話【姫森ルーナ/ホロライブ】",
+          "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第45話～第50話 最終回【姫森ルーナ/ホロライブ】",
           "video_id": "_TH9gdYSb4g"
         }
       ]
@@ -205,11 +200,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-05T09:58:58Z",
-        "title": "【 #ホロ鯖ARK 】うおおおおおおおおおおおおおおおおお【博衣こより/ホロライブ】",
-        "video_id": "Jy5AitXcdd0"
-      },
       "name": "博衣こより"
     },
     {
@@ -481,5 +471,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T17:30:41Z"
+  "generated_at": "2026-11-05T17:40:30Z"
 }
