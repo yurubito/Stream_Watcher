@@ -109,11 +109,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-05T12:00:11Z",
-        "title": "#2【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
-        "video_id": "ZpGtQNsS0Fs"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -139,7 +134,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T15:00:00Z",
+          "title": "【雑談＆お礼】最強のPCが動かなくなったので、次強のサブPCから！【角巻わため/ホロライブ４期生】",
+          "video_id": "ko3z615ZvQA"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -221,7 +223,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T12:00:00Z",
+          "title": "私たちの青春を取り戻そう。With ゼルダの伝説 時のオカリナ【一条莉々華/hololive ReGLOSS】",
+          "video_id": "uadF2T0d79k"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -283,11 +292,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-05T12:00:02Z",
-        "title": "【時のオカリナ　リメイク】#１ゼルダの伝説　完全初見プレイ！！どんな世界が待っているのか....　　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "3-daj98ehHg"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -471,5 +475,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T14:10:31Z"
+  "generated_at": "2026-11-05T14:20:38Z"
 }
