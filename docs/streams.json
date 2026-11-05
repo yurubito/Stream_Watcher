@@ -139,14 +139,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T15:00:00Z",
-          "title": "【雑談＆お礼】最強のPCが動かなくなったので、次強のサブPCから！【角巻わため/ホロライブ４期生】",
-          "video_id": "ko3z615ZvQA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-05T15:04:44Z",
+        "title": "【雑談＆お礼】最強のPCが動かなくなったので、次強のサブPCから！【角巻わため/ホロライブ４期生】",
+        "video_id": "ko3z615ZvQA"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -371,7 +369,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T01:00:00Z",
+          "title": "Let's get 10k steps! | Walking Pad",
+          "video_id": "dWsi1VaWjR4"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -428,11 +433,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-05T12:01:25Z",
-        "title": "【Supadonoreading】KETCH-UP! KETCH-UP! Delicious Ketchup! #shorts【hololive holoro | Anya Melfissa】",
-        "video_id": "5WNTsNL-iuw"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -480,5 +480,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T15:01:00Z"
+  "generated_at": "2026-11-05T15:10:35Z"
 }
