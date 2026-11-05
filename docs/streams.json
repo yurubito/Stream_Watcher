@@ -175,7 +175,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-05T10:00:00Z",
+          "title": "【ポルカの伝説】みんなの節約術が知りたい！！！！",
+          "video_id": "ciE3XuAWbp8"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -248,14 +255,7 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-05T03:00:00Z",
-          "title": "【定期配信＃49】木曜のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
-          "video_id": "UV2irCI-src"
-        }
-      ]
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -494,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-05T04:00:43Z"
+  "generated_at": "2026-11-05T04:50:26Z"
 }
