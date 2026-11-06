@@ -67,11 +67,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-11-06T12:45:41Z",
-        "title": "【#ホロ鯖ARK】ARK上陸２２日目！なにやら拠点がやばいらしい！【ホロライブ/癒月ちょこ】",
-        "video_id": "JX5GBjKbpDc"
-      },
       "name": "癒月ちょこ"
     },
     {
@@ -222,7 +217,14 @@
         "title": "【 #ホロ鯖ARK 】ケルベラックスで三位一体助手システムしたいんだよぉぉぉぉぉぉッ！！！【博衣こより/ホロライブ】",
         "video_id": "4o1a8flNNCg"
       },
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T11:10:00Z",
+          "title": "【 #ホロ鯖ARK 】闘ったり電車乗ったりボス行ったり！？ケルベラックスと共にイベントいくぞ！【博衣こより/ホロライブ】",
+          "video_id": "3kQaq_L9m3E"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -555,5 +557,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T19:50:29Z"
+  "generated_at": "2026-11-06T20:10:35Z"
 }
