@@ -223,11 +223,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-06T13:26:24Z",
-        "title": "【 球ひろいSimulator 】球拾いになるぜい！【音乃瀬奏】#ReGLOSS",
-        "video_id": "zbFZibUVohA"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -526,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T14:20:33Z"
+  "generated_at": "2026-11-06T14:40:34Z"
 }
