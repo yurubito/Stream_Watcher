@@ -305,14 +305,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T03:00:00Z",
-          "title": "【EN】Can I even survive here...? | Mouthwashing【Hyakuto Kyoko/Hololive】",
-          "video_id": "6bsOynF13wE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T02:59:12Z",
+        "title": "【EN】Can I even survive here...? | Mouthwashing【Hyakuto Kyoko/Hololive】",
+        "video_id": "6bsOynF13wE"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -487,5 +485,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T03:40:24Z"
+  "generated_at": "2026-11-06T05:20:22Z"
 }
