@@ -246,14 +246,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T12:00:00Z",
-          "title": "私たちの青春を取り戻そう。With ゼルダの伝説 時のオカリナ【一条莉々華/hololive ReGLOSS】",
-          "video_id": "uadF2T0d79k"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T12:12:19Z",
+        "title": "【完全初見】私たちの青春を取り戻そう。With ゼルダの伝説 時のオカリナ【一条莉々華/hololive ReGLOSS】",
+        "video_id": "uadF2T0d79k"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -281,8 +279,8 @@
       "name": "水宮枢",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-06T13:30:00Z",
-          "title": "【#8】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
+          "scheduled_at": "2026-11-11T13:00:00Z",
+          "title": "【#9】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
           "video_id": "FYeElr0BDi0"
         }
       ]
@@ -502,5 +500,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T12:10:37Z"
+  "generated_at": "2026-11-06T12:20:31Z"
 }
