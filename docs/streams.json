@@ -25,14 +25,7 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T13:00:00Z",
-          "title": "【メン限同時視聴】さくらみこ 2nd Live “Blooming Parade!!”をいっしょにみるにぇ！【#咲き乱れみこち】",
-          "video_id": "uY3iNoXLSdY"
-        }
-      ]
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -84,14 +77,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T13:00:00Z",
-          "title": "【#4】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-          "video_id": "skBVsQ3zwEc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T13:04:04Z",
+        "title": "【#4】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+        "video_id": "skBVsQ3zwEc"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -128,14 +119,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T13:00:00Z",
-          "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
-          "video_id": "anJeov8bgN8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T13:04:05Z",
+        "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
+        "video_id": "anJeov8bgN8"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -167,14 +156,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T13:00:00Z",
-          "title": "【 #ホロ鯖ARK 】その１８｜BOSS準備～～～～～～！！！！！！【常闇トワ/ホロライブ】",
-          "video_id": "t1Y6pmLXut8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T13:02:02Z",
+        "title": "【 #ホロ鯖ARK 】その１８｜BOSS準備～～～～～～！！！！！！【常闇トワ/ホロライブ】",
+        "video_id": "t1Y6pmLXut8"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -241,14 +228,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T13:00:00Z",
-          "title": "【 球ひろいSimulator 】球拾いになるぜい！【音乃瀬奏】#ReGLOSS",
-          "video_id": "T2qTYSS8rvo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T13:01:32Z",
+        "title": "【 球ひろいSimulator 】球拾いになるぜい！【音乃瀬奏】#ReGLOSS",
+        "video_id": "T2qTYSS8rvo"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -445,14 +430,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T13:00:00Z",
-          "title": "【Hololive Dreams】TOP UP AND GET AREA15 PLEASE!【hololive | moona】",
-          "video_id": "bF5y4DFnXFI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T13:00:51Z",
+        "title": "【Hololive Dreams】TOP UP AND GET AREA15 PLEASE!【hololive | moona】",
+        "video_id": "bF5y4DFnXFI"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -528,5 +511,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T13:00:53Z"
+  "generated_at": "2026-11-06T13:10:26Z"
 }
