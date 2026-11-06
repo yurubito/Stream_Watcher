@@ -91,7 +91,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-06T14:00:00Z",
-          "title": "【異変麻雀】この麻雀・・なんか変？！異変を見つけて脱出(?)せよ【大神ミオ/ホロライブ】",
+          "title": "【異変麻雀】この麻雀・・なんか変？！異変を見つけて脱出(?)せよ【ネタバレ注意】",
           "video_id": "ztic5ij8o48"
         }
       ]
@@ -153,11 +153,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-06T11:59:58Z",
-        "title": "【 ヒツジのいらない枕 】アンバサダーのお仕事です！超豪華なコラボキャンペーン情報を解禁するよ～📢【角巻わため/ホロライブ４期生】",
-        "video_id": "-pDfy5uD06Q"
-      },
       "name": "角巻わため"
     },
     {
@@ -469,14 +464,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T13:30:00Z",
-          "title": "Chef Reine is Back with Gacha Cooking - Omelet You Cook【Pavolia Reine/hololive】",
-          "video_id": "Bc55OGJlMlk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T13:31:24Z",
+        "title": "Chef Reine is Back with Gacha Cooking - Omelet You Cook【Pavolia Reine/hololive】",
+        "video_id": "Bc55OGJlMlk"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -518,5 +511,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T13:30:46Z"
+  "generated_at": "2026-11-06T13:40:26Z"
 }
