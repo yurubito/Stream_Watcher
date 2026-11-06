@@ -235,14 +235,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T10:00:00Z",
-          "title": "【 #ホロ鯖ARK 】ケルベラックスで三位一体助手システムしたいんだよぉぉぉぉぉぉッ！！！【博衣こより/ホロライブ】",
-          "video_id": "4o1a8flNNCg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T09:46:10Z",
+        "title": "【 #ホロ鯖ARK 】ケルベラックスで三位一体助手システムしたいんだよぉぉぉぉぉぉッ！！！【博衣こより/ホロライブ】",
+        "video_id": "4o1a8flNNCg"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -494,5 +492,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T09:20:29Z"
+  "generated_at": "2026-11-06T09:50:32Z"
 }
