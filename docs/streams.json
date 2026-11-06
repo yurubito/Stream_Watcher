@@ -77,11 +77,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-11-06T13:04:04Z",
-        "title": "【#4】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-        "video_id": "skBVsQ3zwEc"
-      },
       "name": "大空スバル"
     },
     {
@@ -448,11 +443,6 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-06T13:00:51Z",
-        "title": "【Hololive Dreams】TOP UP AND GET AREA15 PLEASE!【hololive | moona】",
-        "video_id": "bF5y4DFnXFI"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
@@ -525,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T15:00:57Z"
+  "generated_at": "2026-11-06T15:10:29Z"
 }
