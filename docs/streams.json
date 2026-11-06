@@ -62,7 +62,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T10:00:00Z",
+          "title": "【#ホロじゃん】リーチせずにはいられないな【ホロライブ/夏色まつり】",
+          "video_id": "-k8EZv9wkAs"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -109,7 +116,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T10:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY24🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "o1uMpV9ZemQ"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -305,11 +319,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-06T02:59:12Z",
-        "title": "【EN】Can I even survive here...? | Mouthwashing【Hyakuto Kyoko/Hololive】",
-        "video_id": "6bsOynF13wE"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -360,33 +369,21 @@
       "name": "シオリ・ノヴェラ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-06T00:00:00Z",
-          "title": "I'm just a little Alice! 【Withering Rooms】",
-          "video_id": "6oGdOpLqkws"
+          "scheduled_at": "2026-11-07T00:00:00Z",
+          "title": "Studying Japanese with Food 【Handcam】",
+          "video_id": "Fnb0XDRVjI4"
         }
       ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-06T00:00:04Z",
-        "title": "【The Legend of Zelda: Ocarina of Time Remake】don't smack the chickens",
-        "video_id": "79NZJTU3R-A"
-      },
       "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T01:00:00Z",
-          "title": "Let's get 10k steps! | Walking Pad",
-          "video_id": "dWsi1VaWjR4"
-        }
-      ]
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -401,11 +398,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-05T22:02:42Z",
-        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】another day another part finished!!",
-        "video_id": "VFnWKiZS4S0"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -421,7 +413,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T09:00:00Z",
+          "title": "【hololive Dreams】AREA15 EVENT LET'S GO !!!!【#holodori #ホロドリ】",
+          "video_id": "GzVOArSefZY"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -441,14 +440,7 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T01:00:00Z",
-          "title": "【BanG Dream! Our Notes】Doloris Please Come Home in Ten Pulls. Please.【hololive holoro | Anya】",
-          "video_id": "ftVpJ8YB_NA"
-        }
-      ]
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -485,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T05:20:22Z"
+  "generated_at": "2026-11-06T08:01:08Z"
 }
