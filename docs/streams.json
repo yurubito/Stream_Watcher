@@ -436,7 +436,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T01:00:00Z",
+          "title": "【BanG Dream! Our Notes】Doloris Please Come Home in Ten Pulls. Please.【hololive holoro | Anya】",
+          "video_id": "ftVpJ8YB_NA"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -473,5 +480,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T00:30:37Z"
+  "generated_at": "2026-11-06T00:50:28Z"
 }
