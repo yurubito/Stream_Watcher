@@ -463,14 +463,12 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T22:00:00Z",
-          "title": "【#WORLDS2026】FAKER DEMON KING",
-          "video_id": "ZEAKH1cHPzk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T21:57:57Z",
+        "title": "【#WORLDS2026】FAKER DEMON KING",
+        "video_id": "ZEAKH1cHPzk"
+      },
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -552,5 +550,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T20:20:29Z"
+  "generated_at": "2026-11-06T22:14:06Z"
 }
