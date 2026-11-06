@@ -379,7 +379,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T01:00:00Z",
+          "title": "≪Ring Fit Adventure≫ ROAD TO REGALIA TRAINING! #RoadToREGALIA",
+          "video_id": "k_pdlVOTX6Q"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -515,5 +522,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T15:10:29Z"
+  "generated_at": "2026-11-06T15:20:44Z"
 }
