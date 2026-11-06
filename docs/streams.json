@@ -459,6 +459,11 @@
       "name": "ベスティア・ゼータ",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-06T14:45:00Z",
+          "title": "【Bday Countdown】🎂3...2...1🎂#ZETA3DLIVE2026",
+          "video_id": "ssjLwHgRtHo"
+        },
+        {
           "scheduled_at": "2026-11-07T13:00:00Z",
           "title": "【3D LIVE】Dance The Night Away! ♪【#ZETA3DLIVE2026】",
           "video_id": "Gr9kcxof0X4"
@@ -483,5 +488,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T10:09:50Z"
+  "generated_at": "2026-11-06T10:20:30Z"
 }
