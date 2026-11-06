@@ -99,11 +99,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-06T09:00:36Z",
-        "title": "ホロじゃん しようじゃん ☆ᯤ",
-        "video_id": "U1x0E4tXVk4"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -500,5 +495,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T10:40:42Z"
+  "generated_at": "2026-11-06T10:50:25Z"
 }
