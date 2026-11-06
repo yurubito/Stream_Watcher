@@ -86,7 +86,7 @@
         },
         {
           "scheduled_at": "2026-11-07T04:00:00Z",
-          "title": "【#生スバル】ドラゴンクエストⅡやるしゅばああああああああああああああああああああああああああああああああああああ！！！！！！：ドラゴンクエストI＆II【ホロライブ/大空スバル】",
+          "title": "【#生スバル】　ドラゴンクエストII HD-2D版やるしゅばあああああああああああああああ！！！！！！：Dragon Quest I & II HD-2D Remake【ホロライブ/大空スバル】",
           "video_id": "-Q_oGrgDYqs"
         }
       ]
@@ -501,11 +501,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-06T13:31:24Z",
-        "title": "Chef Reine is Back with Gacha Cooking - Omelet You Cook【Pavolia Reine/hololive】",
-        "video_id": "Bc55OGJlMlk"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -546,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T16:10:33Z"
+  "generated_at": "2026-11-06T16:30:48Z"
 }
