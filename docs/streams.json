@@ -25,11 +25,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-06T11:02:40Z",
-        "title": "【ソウルキャリバーⅥ】カオスなキャラクリ大会だああああ‼🔥⚔視聴者参加型だにぇ！！！！！！！！【ホロライブ/さくらみこ】",
-        "video_id": "Pbq8TtAPyMU"
-      },
       "name": "さくらみこ",
       "upcoming": [
         {
@@ -79,6 +74,11 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-11-06T12:45:41Z",
+        "title": "【#ホロ鯖ARK】ARK上陸２２日目！なにやら拠点がやばいらしい！【ホロライブ/癒月ちょこ】",
+        "video_id": "JX5GBjKbpDc"
+      },
       "name": "癒月ちょこ"
     },
     {
@@ -241,7 +241,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T13:00:00Z",
+          "title": "【 球ひろいSimulator 】球拾いになるぜい！【音乃瀬奏】#ReGLOSS",
+          "video_id": "T2qTYSS8rvo"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -438,7 +445,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T13:00:00Z",
+          "title": "【Hololive Dreams】TOP UP AND GET AREA15 PLEASE!【hololive | moona】",
+          "video_id": "bF5y4DFnXFI"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -514,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T12:40:30Z"
+  "generated_at": "2026-11-06T13:00:53Z"
 }
