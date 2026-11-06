@@ -87,7 +87,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T14:00:00Z",
+          "title": "【異変麻雀】この麻雀・・なんか変？！異変を見つけて脱出(?)せよ【大神ミオ/ホロライブ】",
+          "video_id": "ztic5ij8o48"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -229,9 +236,9 @@
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
       "live": {
-        "started_at": "2026-11-06T13:01:32Z",
+        "started_at": "2026-11-06T13:26:24Z",
         "title": "【 球ひろいSimulator 】球拾いになるぜい！【音乃瀬奏】#ReGLOSS",
-        "video_id": "T2qTYSS8rvo"
+        "video_id": "zbFZibUVohA"
       },
       "name": "音乃瀬奏"
     },
@@ -511,5 +518,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T13:10:26Z"
+  "generated_at": "2026-11-06T13:30:46Z"
 }
