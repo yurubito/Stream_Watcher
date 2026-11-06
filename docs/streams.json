@@ -119,7 +119,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T05:00:00Z",
+          "title": "【ホロ鯖ARK】カワウソ先生！サムネは後から差し替えます！【白銀ノエル/ホロライブ】",
+          "video_id": "aIVKhx2ufTo"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -480,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T00:50:28Z"
+  "generated_at": "2026-11-06T03:40:24Z"
 }
