@@ -80,6 +80,11 @@
       "name": "大空スバル",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-07T01:00:00Z",
+          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+          "video_id": "O5KYoG-dlAU"
+        },
+        {
           "scheduled_at": "2026-11-07T04:00:00Z",
           "title": "【#生スバル】ドラゴンクエストⅡやるしゅばああああああああああああああああああああああああああああああああああああ！！！！！！：ドラゴンクエストI＆II【ホロライブ/大空スバル】",
           "video_id": "-Q_oGrgDYqs"
@@ -89,11 +94,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-06T14:01:07Z",
-        "title": "【異変麻雀】この麻雀・・なんか変？！異変を見つけて脱出(?)せよ【ネタバレ注意】",
-        "video_id": "ztic5ij8o48"
-      },
       "name": "大神ミオ"
     },
     {
@@ -286,11 +286,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-06T09:07:55Z",
-        "title": "【#ホロ鯖ARK】洞窟に挑戦！！初めてのホロ鯖ARK！！＃29【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "rrLQgfiPeb8"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -343,6 +338,11 @@
           "scheduled_at": "2026-11-07T02:00:00Z",
           "title": "【EN】WE’RE JUST TRYING TO GET HOME!! | Friendly Steps【Hyakuto Kyoko/Hololive】",
           "video_id": "TmOgDdG8riI"
+        },
+        {
+          "scheduled_at": "2026-11-07T06:00:00Z",
+          "title": "【#ホロ鯖ARK】初上陸！アソビ★まわり隊！の４人で大冒険だーーーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "lflPYCV8Ovk"
         }
       ]
     },
@@ -529,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T15:40:29Z"
+  "generated_at": "2026-11-06T15:50:43Z"
 }
