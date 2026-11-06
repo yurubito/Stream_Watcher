@@ -128,7 +128,14 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T13:00:00Z",
+          "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
+          "video_id": "anJeov8bgN8"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -167,6 +174,11 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-11-06T11:12:10Z",
+        "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第45話～第50話 最終回【姫森ルーナ/ホロライブ】",
+        "video_id": "h-D-QVtCFAE"
+      },
       "name": "姫森ルーナ"
     },
     {
@@ -426,7 +438,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T14:00:00Z",
+          "title": "【#holodori 】GACHA! Streamer's Luck【 iofi / hololive】",
+          "video_id": "U1quXEYdu6U"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -483,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T11:20:24Z"
+  "generated_at": "2026-11-06T11:30:37Z"
 }
