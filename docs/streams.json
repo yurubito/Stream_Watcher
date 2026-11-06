@@ -102,6 +102,16 @@
       "name": "猫又おかゆ",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-07T11:00:00Z",
+          "title": "妹 妹 妹 妹 妹 妹 妹 妹 妹 妹",
+          "video_id": "xrMnEglSDP4"
+        },
+        {
+          "scheduled_at": "2026-11-07T14:00:00Z",
+          "title": "────── ねえ、浮気してないよネ？",
+          "video_id": "VdOa9bkgkEU"
+        },
+        {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
           "video_id": "JTRI5dPcho0"
@@ -267,6 +277,11 @@
       "name": "水宮枢",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-07T12:50:00Z",
+          "title": "【 #ホロARK 】初心者がいく🔰列車と冒険すうのArk最終日！【水宮枢／ホロライブ】",
+          "video_id": "BXafvmQoFZQ"
+        },
+        {
           "scheduled_at": "2026-11-11T13:00:00Z",
           "title": "【#9】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
           "video_id": "FYeElr0BDi0"
@@ -405,7 +420,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T00:00:00Z",
+          "title": "【The Legend of Zelda: Ocarina of Time Remake】learning to doot doot cuz i bought an ocarina",
+          "video_id": "kdCm_0YbzrE"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -524,5 +546,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T16:00:51Z"
+  "generated_at": "2026-11-06T16:10:33Z"
 }
