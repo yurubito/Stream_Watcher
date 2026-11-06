@@ -228,12 +228,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-06T12:12:19Z",
-        "title": "【完全初見】私たちの青春を取り戻そう。With ゼルダの伝説 時のオカリナ【一条莉々華/hololive ReGLOSS】",
-        "video_id": "uadF2T0d79k"
-      },
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T10:00:00Z",
+          "title": "【完全初見】ハイラル城へ…！私たちの青春を取り戻そう。With ゼルダの伝説 時のオカリナ part2【一条莉々華/hololive ReGLOSS】",
+          "video_id": "nA_lh9jWGeE"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -298,6 +300,11 @@
           "scheduled_at": "2026-11-07T06:00:00Z",
           "title": "【#ホロ鯖ARK】完全初見ARK🔰ホロライブの新人がゆく！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "aLR5By86tVo"
+        },
+        {
+          "scheduled_at": "2026-11-07T10:00:00Z",
+          "title": "AZKi先輩のホロメンMAPで一歩も動かずにGeoGuessr【ホロライブ/熱千めら】",
+          "video_id": "y4TuInevWV0"
         }
       ]
     },
@@ -451,11 +458,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-06T14:01:00Z",
-        "title": "【#holodori 】GACHA! Streamer's Luck【 iofi / hololive】",
-        "video_id": "U1quXEYdu6U"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -466,7 +468,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T12:00:00Z",
+          "title": "【Original Song MV】オーガンジー (Organdy)【Anya Melfissa】",
+          "video_id": "nxx0SVGp5yQ"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -513,13 +522,8 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-06T13:59:58Z",
-        "title": "【Home Sweet Home Ep 2】MISTERI PENARI TERPECAHKAN  !!!  LAST FIGHT !!",
-        "video_id": "jkuYS2RGvls"
-      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T14:50:32Z"
+  "generated_at": "2026-11-06T15:00:57Z"
 }
