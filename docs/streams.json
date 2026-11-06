@@ -101,13 +101,13 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-06T09:00:36Z",
+        "title": "ホロじゃん しようじゃん ☆ᯤ",
+        "video_id": "U1x0E4tXVk4"
+      },
       "name": "猫又おかゆ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T09:00:00Z",
-          "title": "ホロじゃん しようじゃん ☆ᯤ",
-          "video_id": "U1x0E4tXVk4"
-        },
         {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
@@ -238,7 +238,7 @@
       "name": "博衣こより",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-06T10:30:00Z",
+          "scheduled_at": "2026-11-06T10:00:00Z",
           "title": "【 #ホロ鯖ARK 】ケルベラックスで三位一体助手システムしたいんだよぉぉぉぉぉぉッ！！！【博衣こより/ホロライブ】",
           "video_id": "4o1a8flNNCg"
         }
@@ -412,7 +412,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T22:00:00Z",
+          "title": "【#WORLDS2026】FAKER DEMON KING",
+          "video_id": "ZEAKH1cHPzk"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -427,14 +434,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T09:00:00Z",
-          "title": "【hololive Dreams】AREA15 EVENT LET'S GO !!!!【#holodori #ホロドリ】",
-          "video_id": "GzVOArSefZY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-06T09:00:33Z",
+        "title": "【hololive Dreams】AREA15 EVENT LET'S GO !!!!【#holodori #ホロドリ】",
+        "video_id": "GzVOArSefZY"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -491,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T08:40:28Z"
+  "generated_at": "2026-11-06T09:01:05Z"
 }
