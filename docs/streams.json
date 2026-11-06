@@ -305,7 +305,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T06:00:00Z",
+          "title": "【#ホロ鯖ARK】完全初見ARK🔰ホロライブの新人がゆく！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "aLR5By86tVo"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -467,6 +474,11 @@
           "scheduled_at": "2026-11-07T13:00:00Z",
           "title": "【3D LIVE】Dance The Night Away! ♪【#ZETA3DLIVE2026】",
           "video_id": "Gr9kcxof0X4"
+        },
+        {
+          "scheduled_at": "2026-11-07T14:30:00Z",
+          "title": "【Free Talk/雑談】After-Party Chat! #ZETA3DLIVE2026",
+          "video_id": "bdeQCmODKCU"
         }
       ]
     },
@@ -488,5 +500,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T10:20:30Z"
+  "generated_at": "2026-11-06T10:40:42Z"
 }
