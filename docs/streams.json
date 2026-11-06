@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T10:00:00Z",
+          "title": "エジソン coverd by ロボ子さん ⚙ Cecilia Immergreen",
+          "video_id": "5Fg6ldWqESI"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -62,11 +69,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-06T10:00:16Z",
-        "title": "【#ホロじゃん】リーチせずにはいられないな【ホロライブ/夏色まつり】",
-        "video_id": "-k8EZv9wkAs"
-      },
       "name": "夏色まつり"
     },
     {
@@ -165,11 +167,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-06T10:59:07Z",
-        "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第45話～第50話 最終回【姫森ルーナ/ホロライブ】",
-        "video_id": "_TH9gdYSb4g"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -486,5 +483,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T11:10:23Z"
+  "generated_at": "2026-11-06T11:20:24Z"
 }
