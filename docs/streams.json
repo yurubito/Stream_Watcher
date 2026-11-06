@@ -167,7 +167,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-06T13:00:00Z",
+          "title": "【 #ホロ鯖ARK 】その１８｜BOSS準備～～～～～～！！！！！！【常闇トワ/ホロライブ】",
+          "video_id": "t1Y6pmLXut8"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -495,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T12:00:46Z"
+  "generated_at": "2026-11-06T12:10:37Z"
 }
