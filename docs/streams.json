@@ -166,11 +166,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-06T11:12:10Z",
-        "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第45話～第50話 最終回【姫森ルーナ/ホロライブ】",
-        "video_id": "h-D-QVtCFAE"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -263,7 +258,14 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎"
+      "name": "虎金妃笑虎",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T00:00:00Z",
+          "title": "【 ＃朝ガオ vol.18 】おはようございアスロン【虎金妃笑虎】",
+          "video_id": "s3c9BiQ5p8A"
+        }
+      ]
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -307,7 +309,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T06:00:00Z",
+          "title": "【#ホロ鯖ARK】アソビ★まわり隊！で初上陸っ！！【宙科そぴあ/ホロライブ】",
+          "video_id": "D9ovxHNw98o"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -509,8 +518,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-11-06T13:59:58Z",
+        "title": "【Home Sweet Home Ep 2】MISTERI PENARI TERPECAHKAN  !!!  LAST FIGHT !!",
+        "video_id": "jkuYS2RGvls"
+      },
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T14:01:23Z"
+  "generated_at": "2026-11-06T14:20:33Z"
 }
