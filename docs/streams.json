@@ -18,13 +18,13 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-06T11:02:40Z",
+        "title": "【ソウルキャリバーⅥ】カオスなキャラクリ大会だああああ‼🔥⚔視聴者参加型だにぇ！！！！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "Pbq8TtAPyMU"
+      },
       "name": "さくらみこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-06T11:00:00Z",
-          "title": "【ソウルキャリバーⅥ】カオスなキャラクリ大会だああああ‼🔥⚔視聴者参加型だにぇ！！！！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "Pbq8TtAPyMU"
-        },
         {
           "scheduled_at": "2026-11-06T13:00:00Z",
           "title": "【メン限同時視聴】さくらみこ 2nd Live “Blooming Parade!!”をいっしょにみるにぇ！【#咲き乱れみこち】",
@@ -419,11 +419,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-06T09:00:33Z",
-        "title": "【hololive Dreams】AREA15 EVENT LET'S GO !!!!【#holodori #ホロドリ】",
-        "video_id": "GzVOArSefZY"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -491,5 +486,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T11:00:53Z"
+  "generated_at": "2026-11-06T11:10:23Z"
 }
