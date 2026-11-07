@@ -365,11 +365,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-07T10:58:23Z",
-        "title": "AZKi先輩のホロメンMAPで一歩も動かずにGeoGuessr【ホロライブ/熱千めら】",
-        "video_id": "y4TuInevWV0"
-      },
       "name": "熱千めら"
     },
     {
@@ -413,6 +408,11 @@
           "scheduled_at": "2026-11-08T01:00:00Z",
           "title": "【ZELDA: MAJORA'S MASK】only game I wanna play right now sorry.... (part 4) #calliolive",
           "video_id": "6AQ-ghYOxmc"
+        },
+        {
+          "scheduled_at": "2026-11-10T01:00:00Z",
+          "title": "【GODHAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
+          "video_id": "pcmJoVYzV00"
         }
       ]
     },
@@ -553,5 +553,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T13:10:29Z"
+  "generated_at": "2026-11-07T13:20:40Z"
 }
