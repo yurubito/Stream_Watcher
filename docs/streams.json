@@ -150,7 +150,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T01:00:00Z",
+          "title": "【朝活雑談】15時間半ARK配信して起きれるのかだんちょ...？【白銀ノエル/ホロライブ】",
+          "video_id": "ITPrSx_TY3k"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -548,5 +555,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T20:40:25Z"
+  "generated_at": "2026-11-07T20:50:23Z"
 }
