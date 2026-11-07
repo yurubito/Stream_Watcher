@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-07T11:01:06Z",
-        "title": "【#ホロ鯖ARK】カワウ荘でお世話になります！2 ARK: Survival Ascended【ホロライブ / AZKi】",
-        "video_id": "dLRZ8R9sccM"
-      },
       "name": "AZKi"
     },
     {
@@ -339,11 +334,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-07T17:44:33Z",
-        "title": "【F1同時視聴】ブラジルGP！予選！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "woLxDBfyUBg"
-      },
       "name": "輪堂千速"
     },
     {
@@ -355,6 +345,11 @@
           "scheduled_at": "2026-11-08T03:00:00Z",
           "title": "【#ホロ鯖ARK】最終日！試練の洞窟に挑戦！！初めてのホロ鯖ARK！！＃31【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "nRIayZMdLmA"
+        },
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【 #ホロ1GP 】 的中100％！豪運のヴィヴィ！ラッキッキー💸【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "v4nKi8VJY1g"
         }
       ]
     },
@@ -553,5 +548,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T20:30:38Z"
+  "generated_at": "2026-11-07T20:40:25Z"
 }
