@@ -253,6 +253,11 @@
           "scheduled_at": "2026-11-07T11:10:00Z",
           "title": "【 #ホロ鯖ARK 】闘ったり電車乗ったりボス行ったり！？ケルベラックスと共にイベントいくぞ！【博衣こより/ホロライブ】",
           "video_id": "3kQaq_L9m3E"
+        },
+        {
+          "scheduled_at": "2026-11-08T02:00:00Z",
+          "title": "【空の軌跡 the 2nd】完全初見！第6章やってくぞおおおおお！！！ #7 【博衣こより/ホロライブ】※ネタバレあり",
+          "video_id": "HzWosIrnTv0"
         }
       ]
     },
@@ -503,14 +508,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T09:15:00Z",
-          "title": "【 #そらぱぴあアリ2026 】そら姉さん！【 iofi / hololive】",
-          "video_id": "RiScOkrQUdo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T09:16:22Z",
+        "title": "【 #そらぱぴあアリ2026 】そら姉さん！【 iofi / hololive】",
+        "video_id": "RiScOkrQUdo"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -574,5 +577,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T09:00:47Z"
+  "generated_at": "2026-11-07T09:20:29Z"
 }
