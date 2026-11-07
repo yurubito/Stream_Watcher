@@ -315,13 +315,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-07T06:02:20Z",
+        "title": "【#ホロ鯖ARK】完全初見ARK🔰ホロライブの新人がゆく！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "aLR5By86tVo"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T06:00:00Z",
-          "title": "【#ホロ鯖ARK】完全初見ARK🔰ホロライブの新人がゆく！！！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "aLR5By86tVo"
-        },
         {
           "scheduled_at": "2026-11-07T10:00:00Z",
           "title": "AZKi先輩のホロメンMAPで一歩も動かずにGeoGuessr【ホロライブ/熱千めら】",
@@ -546,5 +546,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T06:00:43Z"
+  "generated_at": "2026-11-07T06:20:25Z"
 }
