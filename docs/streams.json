@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T09:30:00Z",
-          "title": "【チラ見せ枠_Night】ときのそら 9th Anniversary Party「Everyday of Light」-Moonlight Stage-",
-          "video_id": "bEYM4SkDMCI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T09:22:15Z",
+        "title": "【チラ見せ枠_Night】ときのそら 9th Anniversary Party「Everyday of Light」-Moonlight Stage-",
+        "video_id": "bEYM4SkDMCI"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -121,6 +119,11 @@
           "scheduled_at": "2026-11-07T14:00:00Z",
           "title": "────── ねえ、浮気してないよネ？",
           "video_id": "VdOa9bkgkEU"
+        },
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【 #ホロ1GP/マインクラフト 】一攫千金!? マイクラ競馬に挑戦🐎✦【 猫又おかゆ視点/ホロライブ 】",
+          "video_id": "mF73slVZul0"
         },
         {
           "scheduled_at": "2026-12-07T09:00:00Z",
@@ -577,5 +580,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T09:20:29Z"
+  "generated_at": "2026-11-07T09:30:36Z"
 }
