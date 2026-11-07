@@ -23,14 +23,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T12:00:00Z",
-          "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅２日目【ホロライブ/さくらみこ】",
-          "video_id": "4ETPnsQikMU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T12:02:43Z",
+        "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅２日目【ホロライブ/さくらみこ】",
+        "video_id": "4ETPnsQikMU"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -161,11 +159,6 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-07T11:59:50Z",
-        "title": "【メン限】ちょっと落ち込み、なにやるかは一緒に考える！【ホロライブ/宝鐘マリン】",
-        "video_id": "a8PQ2VAohXg"
-      },
       "name": "宝鐘マリン"
     },
     {
@@ -285,11 +278,6 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-07T12:00:11Z",
-        "title": "おどりゃんせ／町田ちま×虎金妃笑虎(cover)",
-        "video_id": "AJRfDbuDne4"
-      },
       "name": "虎金妃笑虎"
     },
     {
@@ -503,18 +491,11 @@
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
       "live": {
-        "started_at": "2026-11-07T12:00:08Z",
-        "title": "【Original Song MV】オーガンジー (Organdy)【Anya Melfissa】",
-        "video_id": "nxx0SVGp5yQ"
+        "started_at": "2026-11-07T12:06:07Z",
+        "title": "【MV Release After-Talk】ORGANDY MV IS FINALLY HERE! オーガンジーのMVプレミア公開されました！【hololive | Anya Melfissa】",
+        "video_id": "uMxglr-brMQ"
       },
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T12:05:00Z",
-          "title": "【MV Release After-Talk】ORGANDY MV IS FINALLY HERE! オーガンジーのMVプレミア公開されました！【hololive | Anya Melfissa】",
-          "video_id": "uMxglr-brMQ"
-        }
-      ]
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -549,5 +530,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T12:01:05Z"
+  "generated_at": "2026-11-07T12:10:28Z"
 }
