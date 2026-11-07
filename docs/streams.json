@@ -27,7 +27,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-07T12:00:00Z",
-          "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅【ホロライブ/さくらみこ】",
+          "title": "【ポケモンBDSP】みこちの色違い捕まえないと次のジム行けない伝説の旅２日目【ホロライブ/さくらみこ】",
           "video_id": "4ETPnsQikMU"
         }
       ]
@@ -277,11 +277,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-07T09:58:14Z",
-        "title": "【#サンリオパーティランド】みんななかよく！○○○○○○○結成!?【夏色まつり/儒烏風亭らでん/水宮枢】",
-        "video_id": "2g8h37-ztTE"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -344,8 +339,8 @@
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-07T11:00:00Z",
-          "title": "【#ホロ鯖ARK】海賊船乗りたい！！初めてのホロ鯖ARK！！＃30【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "scheduled_at": "2026-11-07T12:00:00Z",
+          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃30【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
           "video_id": "dWHoKOQNJtM"
         },
         {
@@ -561,5 +556,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T11:20:41Z"
+  "generated_at": "2026-11-07T11:30:37Z"
 }
