@@ -268,14 +268,7 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T00:00:00Z",
-          "title": "【 ＃朝ガオ vol.18 】おはようございアスロン【虎金妃笑虎】",
-          "video_id": "s3c9BiQ5p8A"
-        }
-      ]
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -380,14 +373,12 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T01:00:00Z",
-          "title": "【ZELDA: MAJORA'S MASK】\"I Think the Mask Vendor is Hot\" (part 3) #calliolive",
-          "video_id": "bY7R4O4Eruk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T01:00:48Z",
+        "title": "【ZELDA: MAJORA'S MASK】\"I Think the Mask Vendor is Hot\" (part 3) #calliolive",
+        "video_id": "bY7R4O4Eruk"
+      },
+      "name": "森カリオペ"
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -550,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-06T22:14:06Z"
+  "generated_at": "2026-11-07T01:10:24Z"
 }
