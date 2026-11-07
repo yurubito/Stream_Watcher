@@ -101,13 +101,13 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-07T11:00:39Z",
+        "title": "妹 妹 妹 妹 妹 妹 妹 妹 妹 妹",
+        "video_id": "xrMnEglSDP4"
+      },
       "name": "猫又おかゆ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T11:00:00Z",
-          "title": "妹 妹 妹 妹 妹 妹 妹 妹 妹 妹",
-          "video_id": "xrMnEglSDP4"
-        },
         {
           "scheduled_at": "2026-11-07T14:00:00Z",
           "title": "────── ねえ、浮気してないよネ？",
@@ -371,14 +371,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T11:00:00Z",
-          "title": "AZKi先輩のホロメンMAPで一歩も動かずにGeoGuessr【ホロライブ/熱千めら】",
-          "video_id": "y4TuInevWV0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T10:58:23Z",
+        "title": "AZKi先輩のホロメンMAPで一歩も動かずにGeoGuessr【ホロライブ/熱千めら】",
+        "video_id": "y4TuInevWV0"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -566,5 +564,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T10:50:25Z"
+  "generated_at": "2026-11-07T11:01:03Z"
 }
