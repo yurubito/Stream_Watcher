@@ -3,7 +3,19 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T05:00:00Z",
+          "title": "【チラ見せ枠_DAY】ときのそら 9th Anniversary Party「Everyday of Light」-Sunlight Stage-",
+          "video_id": "sAPc9qFcK5Y"
+        },
+        {
+          "scheduled_at": "2026-11-07T09:30:00Z",
+          "title": "【チラ見せ枠_Night】ときのそら 9th Anniversary Party「Everyday of Light」-Moonlight Stage-",
+          "video_id": "bEYM4SkDMCI"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -536,5 +548,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T04:40:21Z"
+  "generated_at": "2026-11-07T04:50:25Z"
 }
