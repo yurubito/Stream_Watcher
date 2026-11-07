@@ -137,13 +137,13 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-11-07T09:00:30Z",
+        "title": "【#ホロ鯖ARK】DAY25🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+        "video_id": "uqIGdOy-3J0"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T09:00:00Z",
-          "title": "【#ホロ鯖ARK】DAY25🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-          "video_id": "uqIGdOy-3J0"
-        },
         {
           "scheduled_at": "2026-11-08T09:00:00Z",
           "title": "【マイクラ】 #ホロ1GP 大勝会場 ぺこ！【ホロライブ/兎田ぺこら】",
@@ -169,7 +169,14 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "name": "宝鐘マリン"
+      "name": "宝鐘マリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T12:00:00Z",
+          "title": "【メン限】【ホロライブ/宝鐘マリン】",
+          "video_id": "a8PQ2VAohXg"
+        }
+      ]
     },
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -508,7 +515,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T11:00:00Z",
+          "title": "【Dressmaker】 CHALLENGE: MAKING DRESSES FOR EACH OTHER!! HE WILL BE WEARING THEM!! 【Kureiji Ollie】",
+          "video_id": "f8SUT6ci8aA"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -560,5 +574,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T08:50:30Z"
+  "generated_at": "2026-11-07T09:00:47Z"
 }
