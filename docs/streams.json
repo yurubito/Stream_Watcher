@@ -18,7 +18,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【Minecraft】#ホロ1GP で大勝するにぇええええええぇえええええええ‼🏇【ホロライブ/さくらみこ】",
+          "video_id": "ew6vJm5cK8c"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -314,11 +321,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-07T13:55:47Z",
-        "title": "【 #ホロARK 】初心者がいく🔰列車と冒険すうのArk最終日！【水宮枢／ホロライブ】",
-        "video_id": "BXafvmQoFZQ"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -555,5 +557,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T20:50:23Z"
+  "generated_at": "2026-11-07T21:01:01Z"
 }
