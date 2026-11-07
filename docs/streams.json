@@ -138,14 +138,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T05:00:00Z",
-          "title": "【ホロ鯖ARK】カワウソ先生！試練の洞窟(天帝)や海賊船バトル！なにやら新人ちゃんの香りも...？！【白銀ノエル/ホロライブ】",
-          "video_id": "aIVKhx2ufTo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T05:01:15Z",
+        "title": "【ホロ鯖ARK】カワウソ先生！試練の洞窟(天帝)や海賊船バトル！なにやら新人ちゃんの香りも...？！【白銀ノエル/ホロライブ】",
+        "video_id": "aIVKhx2ufTo"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -548,5 +546,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T04:50:25Z"
+  "generated_at": "2026-11-07T06:00:43Z"
 }
