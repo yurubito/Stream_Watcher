@@ -359,7 +359,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "マイクラで競馬🏇ご利益担当の #ホロ1GP のじゃ！【ホロライブ/熱千めら】",
+          "video_id": "4AWfksK_tbY"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -542,5 +549,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T16:40:30Z"
+  "generated_at": "2026-11-07T16:50:40Z"
 }
