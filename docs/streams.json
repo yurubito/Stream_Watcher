@@ -50,11 +50,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-07T11:03:09Z",
-        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその９【ホロライブ/白上フブキ】",
-        "video_id": "60AaXlKlG64"
-      },
       "name": "白上フブキ"
     },
     {
@@ -325,14 +320,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T17:45:00Z",
-          "title": "【F1同時視聴】ブラジルGP！予選！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "woLxDBfyUBg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T17:44:33Z",
+        "title": "【F1同時視聴】ブラジルGP！予選！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "woLxDBfyUBg"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -539,5 +532,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T17:30:37Z"
+  "generated_at": "2026-11-07T17:50:30Z"
 }
