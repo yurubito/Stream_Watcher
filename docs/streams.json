@@ -192,7 +192,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【#ホロ1GP】5000兆円稼ぐぞ！－ホロ1グランプリ－【獅白ぼたん/ホロライブ】",
+          "video_id": "W7meQ6PrDpo"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -218,6 +225,11 @@
           "scheduled_at": "2026-11-08T05:30:00Z",
           "title": "【 アンゼンチン共和国杯＋みやこS 】久々のG2とG3で久々的中を狙え！【鷹嶺ルイ/ホロライブ】",
           "video_id": "QxIn9xCPHjk"
+        },
+        {
+          "scheduled_at": "2026-11-08T08:00:00Z",
+          "title": "【爆飲み！】好みのワインが分かる⁉ワイン飲み比べでホロ酔いに…🍷【ルイ姉、今日なにする？】#8",
+          "video_id": "Q_tugwQP_f8"
         },
         {
           "scheduled_at": "2026-11-08T09:00:00Z",
@@ -517,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T18:31:02Z"
+  "generated_at": "2026-11-07T19:01:08Z"
 }
