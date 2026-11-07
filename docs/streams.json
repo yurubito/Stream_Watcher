@@ -143,11 +143,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-07T09:00:30Z",
-        "title": "【#ホロ鯖ARK】DAY25🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "uqIGdOy-3J0"
-      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
@@ -544,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T17:10:39Z"
+  "generated_at": "2026-11-07T17:30:37Z"
 }
