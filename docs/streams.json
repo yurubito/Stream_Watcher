@@ -142,6 +142,11 @@
           "scheduled_at": "2026-11-08T04:00:00Z",
           "title": "#3【ついにポッドレーサー】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
           "video_id": "PuzU1g9zOhk"
+        },
+        {
+          "scheduled_at": "2026-11-08T12:00:00Z",
+          "title": "【R.E.P.O】ころね支店",
+          "video_id": "SStzDq4MONU"
         }
       ]
     },
@@ -274,11 +279,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-07T10:01:03Z",
-        "title": "【完全初見】ハイラル城へ…！私たちの青春を取り戻そう。With ゼルダの伝説 時のオカリナ part2【一条莉々華/hololive ReGLOSS】",
-        "video_id": "nA_lh9jWGeE"
-      },
       "name": "一条莉々華"
     },
     {
@@ -343,11 +343,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-07T11:45:08Z",
-        "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃30【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "dWHoKOQNJtM"
-      },
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
@@ -532,7 +527,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-07T14:30:00Z",
-          "title": "【Free Talk/雑談】After-Party Chat! #ZETA3DLIVE2026",
+          "title": "【3D】After-Party Chat! / 雑談 #ZETA3DLIVE2026",
           "video_id": "bdeQCmODKCU"
         }
       ]
@@ -548,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T14:01:00Z"
+  "generated_at": "2026-11-07T14:10:46Z"
 }
