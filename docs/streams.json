@@ -384,7 +384,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T03:00:00Z",
+          "title": "【EN】Japanese Vtuber playing a Japanese Horror game! *Spoiler Alert【Hyakuto Kyoko/Hololive】",
+          "video_id": "8m0PM8NAcRU"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -525,11 +532,6 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-07T14:30:54Z",
-        "title": "【3D】After-Party/ EP LISTENING! #ZETA3DLIVE2026",
-        "video_id": "bdeQCmODKCU"
-      },
       "name": "ベスティア・ゼータ"
     },
     {
@@ -543,5 +545,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T15:50:29Z"
+  "generated_at": "2026-11-07T16:10:33Z"
 }
