@@ -8,11 +8,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-07T10:00:08Z",
-        "title": "エジソン coverd by ロボ子さん ⚙ Cecilia Immergreen",
-        "video_id": "5Fg6ldWqESI"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -275,14 +270,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T10:00:00Z",
-          "title": "【完全初見】ハイラル城へ…！私たちの青春を取り戻そう。With ゼルダの伝説 時のオカリナ part2【一条莉々華/hololive ReGLOSS】",
-          "video_id": "nA_lh9jWGeE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T10:01:03Z",
+        "title": "【完全初見】ハイラル城へ…！私たちの青春を取り戻そう。With ゼルダの伝説 時のオカリナ part2【一条莉々華/hololive ReGLOSS】",
+        "video_id": "nA_lh9jWGeE"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -574,5 +567,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T10:00:57Z"
+  "generated_at": "2026-11-07T10:10:23Z"
 }
