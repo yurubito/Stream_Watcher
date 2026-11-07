@@ -59,7 +59,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T11:00:00Z",
+          "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその９【ホロライブ/白上フブキ】",
+          "video_id": "60AaXlKlG64"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -79,14 +86,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T04:00:00Z",
-          "title": "【#生スバル】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
-          "video_id": "x8q-CSfHmgw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T04:03:09Z",
+        "title": "【#生スバル】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
+        "video_id": "x8q-CSfHmgw"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -123,7 +128,19 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T09:00:00Z",
+          "title": "【#ホロ鯖ARK】DAY25🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
+          "video_id": "uqIGdOy-3J0"
+        },
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【マイクラ】 #ホロ1GP 大勝会場 ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "7J5ytqVW5BY"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -148,7 +165,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T11:00:00Z",
+          "title": "【 #ホロ鯖ARK 】ARK最終回！雪ダルマントマン、海戦へ...！！！【角巻わため/ホロライブ４期生】",
+          "video_id": "Mq19bivGT6s"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -195,13 +219,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-07T03:02:05Z",
+        "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！神ゲーと噂のビルダーズ2をスタート！！【鷹嶺ルイ/ホロライブ】ネタバレあり",
+        "video_id": "Mw73q8dKFcI"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T03:00:00Z",
-          "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！神ゲーと噂のビルダーズ2をスタート！！【鷹嶺ルイ/ホロライブ】ネタバレあり",
-          "video_id": "Mw73q8dKFcI"
-        },
         {
           "scheduled_at": "2026-11-08T09:00:00Z",
           "title": "【 #ホロ1GP 】神視点！本格実況付き✨マイクラ競馬で一攫千金を狙え！！ 【鷹嶺ルイ/ホロライブ】",
@@ -224,6 +248,11 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-07T07:00:50Z",
+        "title": "【#ホロ鯖ARK】85れべにしてゾウテイムするんだ🐘【風真いろは/ホロライブ】",
+        "video_id": "w6bB3YGBltI"
+      },
       "name": "風真いろは"
     },
     {
@@ -327,43 +356,32 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T06:00:00Z",
-          "title": "【#ホロ鯖ARK】アソビ★まわり隊！で初上陸っ！！【宙科そぴあ/ホロライブ】",
-          "video_id": "D9ovxHNw98o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T06:02:40Z",
+        "title": "【#ホロ鯖ARK】アソビ★まわり隊！で上陸っ！！【宙科そぴあ/ホロライブ】",
+        "video_id": "D9ovxHNw98o"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T06:00:00Z",
-          "title": "【#ホロ鯖ARK】アソビ★まわり隊！でARKの世界へ!!!!!!  鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "4vDWW8Oatso"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T07:57:58Z",
+        "title": "【#ホロ鯖ARK】アソビ★まわり隊！でARKの世界へ!!!!!!  鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "4vDWW8Oatso"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T02:00:00Z",
-          "title": "【EN】WE’RE JUST TRYING TO GET HOME!! | Friendly Steps【Hyakuto Kyoko/Hololive】",
-          "video_id": "TmOgDdG8riI"
-        },
-        {
-          "scheduled_at": "2026-11-07T06:00:00Z",
-          "title": "【#ホロ鯖ARK】初上陸！アソビ★まわり隊！の４人で大冒険だーーーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "lflPYCV8Ovk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T06:39:01Z",
+        "title": "【#ホロ鯖ARK】初上陸！アソビ★まわり隊！の４人で大冒険だーーーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "lflPYCV8Ovk"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -373,11 +391,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-07T01:00:48Z",
-        "title": "【ZELDA: MAJORA'S MASK】\"I Think the Mask Vendor is Hot\" (part 3) #calliolive",
-        "video_id": "bY7R4O4Eruk"
-      },
       "name": "森カリオペ"
     },
     {
@@ -408,26 +421,12 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T00:00:00Z",
-          "title": "Studying Japanese with Food 【Handcam】",
-          "video_id": "Fnb0XDRVjI4"
-        }
-      ]
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T00:00:00Z",
-          "title": "【The Legend of Zelda: Ocarina of Time Remake】learning to doot doot cuz i bought an ocarina",
-          "video_id": "kdCm_0YbzrE"
-        }
-      ]
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -447,11 +446,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-06T21:57:57Z",
-        "title": "【#WORLDS2026】FAKER DEMON KING",
-        "video_id": "ZEAKH1cHPzk"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -465,7 +459,7 @@
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-07T14:00:00Z",
+          "scheduled_at": "2026-11-07T15:00:00Z",
           "title": "【UNDERTALE】 I chose violence.",
           "video_id": "nMtDSls-ZAo"
         }
@@ -484,7 +478,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T09:15:00Z",
+          "title": "【 #そらぱぴあアリ2026 】そら姉さん！【 iofi / hololive】",
+          "video_id": "RiScOkrQUdo"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -494,17 +495,17 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-07T02:00:15Z",
-        "title": "【Friendly Steps】First Collab With Kyoko! LET'S HOLD HANDS【hololive holoro | Anya Melfissa】",
-        "video_id": "M296NaCnCWw"
-      },
       "name": "アーニャ・メルフィッサ",
       "upcoming": [
         {
           "scheduled_at": "2026-11-07T12:00:00Z",
           "title": "【Original Song MV】オーガンジー (Organdy)【Anya Melfissa】",
           "video_id": "nxx0SVGp5yQ"
+        },
+        {
+          "scheduled_at": "2026-11-07T12:05:00Z",
+          "title": "【MV Release After-Talk】ORGANDY MV IS FINALLY HERE! オーガンジーのMVプレミア公開されました！【hololive | Anya Melfissa】",
+          "video_id": "uMxglr-brMQ"
         }
       ]
     },
@@ -533,6 +534,11 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-11-07T05:32:15Z",
+        "title": "【Sunset Summit】Kaela and Kaeluarga are the incredible boomers who will reach the peak!",
+        "video_id": "jA1eet-fBAs"
+      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -541,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T07:30:37Z"
+  "generated_at": "2026-11-07T08:00:33Z"
 }
