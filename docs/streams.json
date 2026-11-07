@@ -494,11 +494,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-07T09:16:22Z",
-        "title": "【 #そらぱぴあアリ2026 】そら姉さん！【 iofi / hololive】",
-        "video_id": "RiScOkrQUdo"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -556,5 +551,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T11:30:37Z"
+  "generated_at": "2026-11-07T11:40:29Z"
 }
