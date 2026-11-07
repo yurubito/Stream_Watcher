@@ -269,11 +269,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-07T07:00:50Z",
-        "title": "【#ホロ鯖ARK】85れべにしてゾウテイムするんだ🐘【風真いろは/ホロライブ】",
-        "video_id": "w6bB3YGBltI"
-      },
       "name": "風真いろは"
     },
     {
@@ -528,14 +523,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T14:30:00Z",
-          "title": "【3D】After-Party/ EP LISTENING! #ZETA3DLIVE2026",
-          "video_id": "bdeQCmODKCU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T14:30:54Z",
+        "title": "【3D】After-Party/ EP LISTENING! #ZETA3DLIVE2026",
+        "video_id": "bdeQCmODKCU"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -548,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T14:30:36Z"
+  "generated_at": "2026-11-07T14:40:23Z"
 }
