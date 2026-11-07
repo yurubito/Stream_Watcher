@@ -336,13 +336,13 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-07T11:45:08Z",
+        "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃30【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "dWHoKOQNJtM"
+      },
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T12:00:00Z",
-          "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃30【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "dWHoKOQNJtM"
-        },
         {
           "scheduled_at": "2026-11-07T14:45:00Z",
           "title": "【プレミアリーグ同時視聴】アーセナルVSハル・シティ！プレミアリーグ見るならコーク！【#綺々羅々ヴィヴィ  #FLOWGLOW 】",
@@ -551,5 +551,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T11:40:29Z"
+  "generated_at": "2026-11-07T11:50:30Z"
 }
