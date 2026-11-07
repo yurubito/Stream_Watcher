@@ -307,7 +307,7 @@
       "name": "水宮枢",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-07T12:50:00Z",
+          "scheduled_at": "2026-11-07T14:00:00Z",
           "title": "【 #ホロARK 】初心者がいく🔰列車と冒険すうのArk最終日！【水宮枢／ホロライブ】",
           "video_id": "BXafvmQoFZQ"
         },
@@ -407,7 +407,14 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T01:00:00Z",
+          "title": "【ZELDA: MAJORA'S MASK】only game I wanna play right now sorry.... (part 4) #calliolive",
+          "video_id": "6AQ-ghYOxmc"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -511,11 +518,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-07T12:06:07Z",
-        "title": "【MV Release After-Talk】ORGANDY MV IS FINALLY HERE! オーガンジーのMVプレミア公開されました！【hololive | Anya Melfissa】",
-        "video_id": "uMxglr-brMQ"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -526,13 +528,13 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-11-07T13:00:48Z",
+        "title": "【3D LIVE】Dance The Night Away! ♪【#ZETA3DLIVE2026】",
+        "video_id": "Gr9kcxof0X4"
+      },
       "name": "ベスティア・ゼータ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T13:00:00Z",
-          "title": "【3D LIVE】Dance The Night Away! ♪【#ZETA3DLIVE2026】",
-          "video_id": "Gr9kcxof0X4"
-        },
         {
           "scheduled_at": "2026-11-07T14:30:00Z",
           "title": "【Free Talk/雑談】After-Party Chat! #ZETA3DLIVE2026",
@@ -551,5 +553,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T13:00:50Z"
+  "generated_at": "2026-11-07T13:10:29Z"
 }
