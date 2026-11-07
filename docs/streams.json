@@ -161,14 +161,12 @@
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "group": "JP 3期生",
-      "name": "宝鐘マリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T12:00:00Z",
-          "title": "【メン限】ちょっと落ち込み、なにやるかは一緒に考える！【ホロライブ/宝鐘マリン】",
-          "video_id": "a8PQ2VAohXg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T11:59:50Z",
+        "title": "【メン限】ちょっと落ち込み、なにやるかは一緒に考える！【ホロライブ/宝鐘マリン】",
+        "video_id": "a8PQ2VAohXg"
+      },
+      "name": "宝鐘マリン"
     },
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -203,11 +201,6 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-07T11:01:35Z",
-        "title": "【企画告知】みんな～～～！クリスマス何してんの？？？？【獅白ぼたん/ホロライブ】",
-        "video_id": "bPq2mIZYmNo"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -292,14 +285,12 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T12:00:00Z",
-          "title": "?????",
-          "video_id": "AJRfDbuDne4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T12:00:11Z",
+        "title": "おどりゃんせ／町田ちま×虎金妃笑虎(cover)",
+        "video_id": "AJRfDbuDne4"
+      },
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -331,7 +322,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-07T17:45:00Z",
+          "title": "【F1同時視聴】ブラジルGP！予選！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "woLxDBfyUBg"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -504,13 +502,13 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-11-07T12:00:08Z",
+        "title": "【Original Song MV】オーガンジー (Organdy)【Anya Melfissa】",
+        "video_id": "nxx0SVGp5yQ"
+      },
       "name": "アーニャ・メルフィッサ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T12:00:00Z",
-          "title": "【Original Song MV】オーガンジー (Organdy)【Anya Melfissa】",
-          "video_id": "nxx0SVGp5yQ"
-        },
         {
           "scheduled_at": "2026-11-07T12:05:00Z",
           "title": "【MV Release After-Talk】ORGANDY MV IS FINALLY HERE! オーガンジーのMVプレミア公開されました！【hololive | Anya Melfissa】",
@@ -551,5 +549,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T11:50:30Z"
+  "generated_at": "2026-11-07T12:01:05Z"
 }
