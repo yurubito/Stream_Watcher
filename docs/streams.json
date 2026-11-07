@@ -220,6 +220,11 @@
           "video_id": "YnpgOMIHGsU"
         },
         {
+          "scheduled_at": "2026-11-08T05:30:00Z",
+          "title": "【 アンゼンチン共和国杯＋みやこS 】久々のG2とG3で久々的中を狙え！【鷹嶺ルイ/ホロライブ】",
+          "video_id": "QxIn9xCPHjk"
+        },
+        {
           "scheduled_at": "2026-11-08T09:00:00Z",
           "title": "【 #ホロ1GP 】神視点！本格実況付き✨マイクラ競馬で一攫千金を狙え！！ 【鷹嶺ルイ/ホロライブ】",
           "video_id": "ShQEwCHd838"
@@ -229,11 +234,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-07T11:16:06Z",
-        "title": "【 #ホロ鯖ARK 】闘ったり電車乗ったりボス行ったり！？ケルベラックスと共にイベントいくぞ！【博衣こより/ホロライブ】",
-        "video_id": "3kQaq_L9m3E"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -527,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T18:00:49Z"
+  "generated_at": "2026-11-07T18:10:27Z"
 }
