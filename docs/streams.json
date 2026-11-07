@@ -165,7 +165,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-07T12:00:00Z",
-          "title": "【メン限】【ホロライブ/宝鐘マリン】",
+          "title": "【メン限】ちょっと落ち込み、なにやるかは一緒に考える！【ホロライブ/宝鐘マリン】",
           "video_id": "a8PQ2VAohXg"
         }
       ]
@@ -173,14 +173,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T11:00:00Z",
-          "title": "【 #ホロ鯖ARK 】ARK最終回！雪ダルマントマン、海戦へ...！！！【角巻わため/ホロライブ４期生】",
-          "video_id": "Mq19bivGT6s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T11:12:14Z",
+        "title": "【 #ホロ鯖ARK 】ARK最終回！雪ダルマントマン、海戦へ...！！！【角巻わため/ホロライブ４期生】",
+        "video_id": "Mq19bivGT6s"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -237,13 +235,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-07T11:16:06Z",
+        "title": "【 #ホロ鯖ARK 】闘ったり電車乗ったりボス行ったり！？ケルベラックスと共にイベントいくぞ！【博衣こより/ホロライブ】",
+        "video_id": "3kQaq_L9m3E"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T11:10:00Z",
-          "title": "【 #ホロ鯖ARK 】闘ったり電車乗ったりボス行ったり！？ケルベラックスと共にイベントいくぞ！【博衣こより/ホロライブ】",
-          "video_id": "3kQaq_L9m3E"
-        },
         {
           "scheduled_at": "2026-11-08T02:00:00Z",
           "title": "【空の軌跡 the 2nd】完全初見！第6章やってくぞおおおおお！！！ #7 【博衣こより/ホロライブ】※ネタバレあり",
@@ -380,14 +378,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T11:15:00Z",
-          "title": "【時のオカリナ　リメイク】#２ゼルダの伝説　完全初見プレイ！！勇者になるんだ！！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "xhJzctKLVSk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T11:19:41Z",
+        "title": "【時のオカリナ　リメイク】#２ゼルダの伝説　完全初見プレイ！！勇者になるんだ！！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "xhJzctKLVSk"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -565,5 +561,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T11:10:26Z"
+  "generated_at": "2026-11-07T11:20:41Z"
 }
