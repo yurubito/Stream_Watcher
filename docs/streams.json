@@ -3,24 +3,17 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-07T09:22:15Z",
-        "title": "【チラ見せ枠_Night】ときのそら 9th Anniversary Party「Everyday of Light」-Moonlight Stage-",
-        "video_id": "bEYM4SkDMCI"
-      },
       "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T10:00:00Z",
-          "title": "エジソン coverd by ロボ子さん ⚙ Cecilia Immergreen",
-          "video_id": "5Fg6ldWqESI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T10:00:08Z",
+        "title": "エジソン coverd by ロボ子さん ⚙ Cecilia Immergreen",
+        "video_id": "5Fg6ldWqESI"
+      },
+      "name": "ロボ子さん"
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -294,14 +287,12 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T10:00:00Z",
-          "title": "【#サンリオパーティランド】みんななかよく！○○○○○○○結成!?【夏色まつり/儒烏風亭らでん/水宮枢】",
-          "video_id": "2g8h37-ztTE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T09:58:14Z",
+        "title": "【#サンリオパーティランド】みんななかよく！○○○○○○○結成!?【夏色まつり/儒烏風亭らでん/水宮枢】",
+        "video_id": "2g8h37-ztTE"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -583,5 +574,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T09:50:38Z"
+  "generated_at": "2026-11-07T10:00:57Z"
 }
