@@ -354,7 +354,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【#ホロ1GP】競馬は確率【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "NgR0VyQXNhg"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -530,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T12:10:28Z"
+  "generated_at": "2026-11-07T12:30:54Z"
 }
