@@ -109,11 +109,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-07T14:00:44Z",
-        "title": "────── ねえ、浮気してないよネ？",
-        "video_id": "VdOa9bkgkEU"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -200,7 +195,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T08:00:00Z",
+          "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃２【姫森ルーナ/ホロライブ】",
+          "video_id": "XloQPhUDsKk"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -545,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T16:10:33Z"
+  "generated_at": "2026-11-07T16:20:25Z"
 }
