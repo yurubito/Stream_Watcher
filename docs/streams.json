@@ -521,14 +521,7 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T11:00:00Z",
-          "title": "【Dressmaker】 CHALLENGE: MAKING DRESSES FOR EACH OTHER!! HE WILL BE WEARING THEM!! 【Kureiji Ollie】",
-          "video_id": "f8SUT6ci8aA"
-        }
-      ]
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -580,5 +573,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T09:30:36Z"
+  "generated_at": "2026-11-07T09:40:28Z"
 }
