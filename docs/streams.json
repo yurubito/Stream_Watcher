@@ -481,14 +481,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-07T15:00:00Z",
-          "title": "【UNDERTALE】 I chose violence.",
-          "video_id": "nMtDSls-ZAo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-07T15:06:41Z",
+        "title": "【UNDERTALE】 I chose violence.",
+        "video_id": "nMtDSls-ZAo"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -541,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T14:50:25Z"
+  "generated_at": "2026-11-07T15:10:30Z"
 }
