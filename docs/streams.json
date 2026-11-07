@@ -65,7 +65,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T12:00:00Z",
+          "title": "【飲酒雑談】🏮まちゅらでん🐚マシュマロ雑談！【ホロライブ/夏色まつり】",
+          "video_id": "SkTcCa4b3QA"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -85,7 +92,19 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T04:00:00Z",
+          "title": "【#2】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
+          "video_id": "EK0Idt3nktE"
+        },
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【】【ホロライブ/大空スバル】",
+          "video_id": "8llnciIkv8I"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -95,11 +114,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-07T11:00:39Z",
-        "title": "妹 妹 妹 妹 妹 妹 妹 妹 妹 妹",
-        "video_id": "xrMnEglSDP4"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -122,7 +136,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T04:00:00Z",
+          "title": "#3【ついにポッドレーサー】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
+          "video_id": "PuzU1g9zOhk"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -537,5 +558,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T12:30:54Z"
+  "generated_at": "2026-11-07T12:40:28Z"
 }
