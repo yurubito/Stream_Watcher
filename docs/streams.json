@@ -3,6 +3,11 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-08T14:05:23Z",
+        "title": "【#そらぱぴあアリ2026】感想会！～横アリ決まりました！～【ときのそら/ホロライブ】",
+        "video_id": "Sxa1ZPn6C5I"
+      },
       "name": "ときのそら"
     },
     {
@@ -250,14 +255,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T14:30:00Z",
-          "title": "２周年カウントダウン",
-          "video_id": "xQW2LqlLblQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T14:30:12Z",
+        "title": "２周年カウントダウン",
+        "video_id": "xQW2LqlLblQ"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -324,6 +327,11 @@
           "scheduled_at": "2026-11-09T03:00:00Z",
           "title": "過酷な山登りゲーム「PEAK」のじゃEnglishで挑む！【ホロライブ/アソビ★まわり隊！/熱千めら】",
           "video_id": "JyHztd5iGqs"
+        },
+        {
+          "scheduled_at": "2026-11-09T10:00:00Z",
+          "title": "【メン限🔒】まったりお絵描き配信なのじゃ！【ホロライブ/熱千めら】",
+          "video_id": "kUTVT1tQyWA"
         }
       ]
     },
@@ -392,11 +400,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-11-08T13:00:53Z",
-        "title": "≪KOREA TRIP≫ rat said 안녕하세요 and 감사합니다 a lot",
-        "video_id": "Kv4thi6Cz78"
-      },
       "name": "ハコス・ベールズ"
     },
     {
@@ -511,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T14:20:25Z"
+  "generated_at": "2026-11-08T14:30:37Z"
 }
