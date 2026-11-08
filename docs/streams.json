@@ -23,11 +23,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-08T08:57:34Z",
-        "title": "【Minecraft】#ホロ1GP で大勝するにぇええええええぇえええええええ‼🏇【ホロライブ/さくらみこ】",
-        "video_id": "ew6vJm5cK8c"
-      },
       "name": "さくらみこ"
     },
     {
@@ -301,7 +296,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T16:45:00Z",
+          "title": "【F1同時視聴】ブラジルGP！決勝！！天気どうなる！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "oEgq83vyQ0U"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -509,5 +511,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T14:10:21Z"
+  "generated_at": "2026-11-08T14:20:25Z"
 }
