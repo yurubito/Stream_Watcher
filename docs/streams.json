@@ -471,7 +471,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T03:00:00Z",
+          "title": "【PEAK】PEJUANG MONDAY PEAK with Koseki Kyoko Knoja",
+          "video_id": "O3I0BcLkFGc"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -479,5 +486,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T16:50:25Z"
+  "generated_at": "2026-11-08T17:01:03Z"
 }
