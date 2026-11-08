@@ -60,11 +60,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-08T09:04:02Z",
-        "title": "【 #ホロ1GP 】アーカイブ残るよなぁ？！　競馬勝ちます。【ホロライブと名乗りたい】",
-        "video_id": "MgPlox_h_Oo"
-      },
       "name": "白上フブキ"
     },
     {
@@ -112,11 +107,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-08T08:56:52Z",
-        "title": "【 #ホロ1GP/マインクラフト 】一攫千金!? マイクラ競馬に挑戦🐎✦【 猫又おかゆ視点/ホロライブ 】",
-        "video_id": "mF73slVZul0"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -251,11 +241,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-08T09:00:26Z",
-        "title": "【 #ホロ1GP 】初の競馬？！ビギナーズラックックー！！【音乃瀬奏】#ReGLOSS",
-        "video_id": "Ze6c6QIuRFQ"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -337,23 +322,16 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T12:00:00Z",
-          "title": "【#ホロ鯖ARK】ついに２周年迎える！！！初めてのホロ鯖ARK！！＃3２【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "mXehF9q1FGI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T12:12:27Z",
+        "title": "【#ホロ鯖ARK】ついに２周年迎える！！！初めてのホロ鯖ARK！！＃3２【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "mXehF9q1FGI"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-08T08:59:18Z",
-        "title": "Minecraft競馬🏇ドパマンダーの初ギャンブル #ホロ1GP【ホロライブ/熱千めら】",
-        "video_id": "4AWfksK_tbY"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -376,21 +354,11 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-08T09:00:08Z",
-        "title": "【#ホロ１GP  Minecraft】勝つ。そのほかに選択肢は見えてない。【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "gS67Tmgliv8"
-      },
       "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-08T08:59:22Z",
-        "title": "【#ホロ1GP】上振れのその先、見に行こうぜ！！！ | マイクラ競馬【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "Lf__4xwxjzE"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -565,11 +533,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-08T08:59:51Z",
-        "title": "【 #ホロ1GP #holo1GP 】PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE LEMME BE LUCKY TODAY😭😭 【Minecraft】",
-        "video_id": "ir957srO__w"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -578,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T12:10:39Z"
+  "generated_at": "2026-11-08T12:20:35Z"
 }
