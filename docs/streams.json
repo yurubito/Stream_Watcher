@@ -8,6 +8,11 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-08T10:50:50Z",
+        "title": "【メンバー限定】最近のおしゃべりちよちよ【ホロライブ/ ロボ子さん 】",
+        "video_id": "p3SYqzy1tkM"
+      },
       "name": "ロボ子さん"
     },
     {
@@ -35,14 +40,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T11:00:00Z",
-          "title": "【絶対遵守】ここはどこ……？？私はライブ会場にいたはずでは……？？【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "auw-e6pt6BY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T11:00:25Z",
+        "title": "【絶対遵守】ここはどこ……？？私はライブ会場にいたはずでは……？？【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "auw-e6pt6BY"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -333,6 +336,11 @@
       "name": "虎金妃笑虎",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-09T09:00:00Z",
+          "title": "【 ２周年記念歌枠 】二周年だー！！告知もあるぞー！！【虎金妃笑虎】",
+          "video_id": "WYg7Qpux_mA"
+        },
+        {
           "scheduled_at": "2026-11-09T10:05:00Z",
           "title": "🐯",
           "video_id": "IHm3yvo50Dw"
@@ -620,5 +628,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T10:40:28Z"
+  "generated_at": "2026-11-08T11:01:04Z"
 }
