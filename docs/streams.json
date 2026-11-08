@@ -184,13 +184,13 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-11-08T03:19:32Z",
+        "title": "【 #ホロ鯖ARK 】最終回｜常闇ファミリアでBOSS挑戦するぞ！！【常闇トワ/ホロライブ】",
+        "video_id": "BL3L8kvAPsw"
+      },
       "name": "常闇トワ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T03:00:00Z",
-          "title": "【 #ホロ鯖ARK 】最終回｜常闇ファミリアでBOSS挑戦するぞ！！【常闇トワ/ホロライブ】",
-          "video_id": "BL3L8kvAPsw"
-        },
         {
           "scheduled_at": "2026-11-08T09:00:00Z",
           "title": "【 #ホロ1GP 】よくギャンブルやらないほうが良いとは言われるけど【 常闇トワ /ホロライブ】",
@@ -565,5 +565,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T02:20:23Z"
+  "generated_at": "2026-11-08T03:50:29Z"
 }
