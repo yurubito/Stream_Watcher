@@ -89,11 +89,6 @@
       "name": "大空スバル",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-08T04:00:00Z",
-          "title": "【#2】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
-          "video_id": "EK0Idt3nktE"
-        },
-        {
           "scheduled_at": "2026-11-08T09:00:00Z",
           "title": "【】【ホロライブ/大空スバル】",
           "video_id": "8llnciIkv8I"
@@ -171,12 +166,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-08T01:00:12Z",
-        "title": "【朝活雑談】15時間半ARK配信して起きれるのかだんちょ...？【白銀ノエル/ホロライブ】",
-        "video_id": "ITPrSx_TY3k"
-      },
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T11:30:00Z",
+          "title": "【ホロ鯖ARK】カワウソ先生！最終日！【白銀ノエル/ホロライブ】",
+          "video_id": "MXQsHh2c76Q"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -198,11 +195,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-08T03:19:32Z",
-        "title": "【 #ホロ鯖ARK 】最終回｜常闇ファミリアでBOSS挑戦するぞ！！【常闇トワ/ホロライブ】",
-        "video_id": "BL3L8kvAPsw"
-      },
       "name": "常闇トワ",
       "upcoming": [
         {
@@ -215,14 +207,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T08:00:00Z",
-          "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃２【姫森ルーナ/ホロライブ】",
-          "video_id": "XloQPhUDsKk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T07:58:21Z",
+        "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃２【姫森ルーナ/ホロライブ】",
+        "video_id": "XloQPhUDsKk"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -259,13 +249,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-08T08:00:08Z",
+        "title": "【爆飲み！】好みのワインが分かる⁉ワイン飲み比べでホロ酔いに…🍷【ルイ姉、今日なにする？】#8",
+        "video_id": "Q_tugwQP_f8"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T08:00:00Z",
-          "title": "【爆飲み！】好みのワインが分かる⁉ワイン飲み比べでホロ酔いに…🍷【ルイ姉、今日なにする？】#8",
-          "video_id": "Q_tugwQP_f8"
-        },
         {
           "scheduled_at": "2026-11-08T09:00:00Z",
           "title": "【 #ホロ1GP 】神視点！本格実況付き✨マイクラ競馬で一攫千金を狙え！！ 【鷹嶺ルイ/ホロライブ】",
@@ -276,11 +266,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-08T02:02:00Z",
-        "title": "【空の軌跡 the 2nd】完全初見！第6章やってくぞおおおおお！！！ #7 【博衣こより/ホロライブ】※ネタバレあり",
-        "video_id": "HzWosIrnTv0"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -293,11 +278,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-08T04:10:53Z",
-        "title": "【#ホロ鯖ARK】最終回！！トライブでBOSSに挑戦🔥【風真いろは/ホロライブ】",
-        "video_id": "P52Q6D2SunI"
-      },
       "name": "風真いろは",
       "upcoming": [
         {
@@ -315,7 +295,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【 #ホロ1GP 】初の競馬？！ビギナーズラックックー！！【音乃瀬奏】#ReGLOSS",
+          "video_id": "Ze6c6QIuRFQ"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -335,19 +322,19 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T04:00:00Z",
-          "title": "【 #ホロARK 】LAST！ARK★トライブメンバーでボス戦！【ホロライブ  響咲リオナ】",
-          "video_id": "5snx9ftx_vk"
-        }
-      ]
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎"
+      "name": "虎金妃笑虎",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T10:05:00Z",
+          "title": "🐯",
+          "video_id": "IHm3yvo50Dw"
+        }
+      ]
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -379,13 +366,13 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-08T03:03:00Z",
+        "title": "【#ホロ鯖ARK】最終日！試練の洞窟に挑戦！！初めてのホロ鯖ARK！！＃31【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "nRIayZMdLmA"
+      },
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T03:00:00Z",
-          "title": "【#ホロ鯖ARK】最終日！試練の洞窟に挑戦！！初めてのホロ鯖ARK！！＃31【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "nRIayZMdLmA"
-        },
         {
           "scheduled_at": "2026-11-08T09:00:00Z",
           "title": "【 #ホロ1GP 】 的中100％！豪運のヴィヴィ！ラッキッキー💸【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
@@ -402,6 +389,11 @@
           "scheduled_at": "2026-11-08T09:00:00Z",
           "title": "Minecraft競馬🏇ドパマンダーの初ギャンブル #ホロ1GP【ホロライブ/熱千めら】",
           "video_id": "4AWfksK_tbY"
+        },
+        {
+          "scheduled_at": "2026-11-09T03:00:00Z",
+          "title": "過酷な山登りゲーム「PEAK」のじゃEnglishで挑む！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+          "video_id": "JyHztd5iGqs"
         }
       ]
     },
@@ -454,11 +446,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-08T01:32:02Z",
-        "title": "【ZELDA: MAJORA'S MASK】only game I wanna play right now sorry.... (part 4) #calliolive",
-        "video_id": "6AQ-ghYOxmc"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -584,7 +571,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【Minecraft #ホロ1GP】HASHIREEEEEEEEEEEEE🏇【hololive holoro | Anya Melfissa】",
+          "video_id": "SRE2N2NK2Wo"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -614,5 +608,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T07:50:22Z"
+  "generated_at": "2026-11-08T08:00:52Z"
 }
