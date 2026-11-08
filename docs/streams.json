@@ -156,11 +156,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-08T08:59:03Z",
-        "title": "【  #ホロ1GP  】ドドドレース経験から予想家を頼まれたひつじは勘性で予想をする！！【角巻わため/ホロライブ４期生】",
-        "video_id": "HNsjOXRyBPA"
-      },
       "name": "角巻わため"
     },
     {
@@ -400,7 +395,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T01:00:00Z",
+          "title": "≪Yakuza 7: Like a Dragon≫ what even is yakuza 7...First Playthrough #9【SPOILER WARNING】",
+          "video_id": "6uFTFwee0bA"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -514,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T14:30:37Z"
+  "generated_at": "2026-11-08T14:40:24Z"
 }
