@@ -77,14 +77,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T22:30:00Z",
-          "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
-          "video_id": "V46fDZ87LFc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T22:30:23Z",
+        "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
+        "video_id": "V46fDZ87LFc"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -420,11 +418,6 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-08T20:08:04Z",
-        "title": "【GAME】ANNOUNCEMENT!!! GAME! WOAH! what could it be!?!?",
-        "video_id": "3mu5oQREf0U"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
@@ -485,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T22:10:25Z"
+  "generated_at": "2026-11-08T22:30:42Z"
 }
