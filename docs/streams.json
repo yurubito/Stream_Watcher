@@ -193,14 +193,7 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T23:00:00Z",
-          "title": "【メン限】メン限月曜日討伐朝活☀03【風真いろは/ホロライブ】",
-          "video_id": "1VXe1QSMqSk"
-        }
-      ]
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -485,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T22:40:39Z"
+  "generated_at": "2026-11-08T23:09:52Z"
 }
