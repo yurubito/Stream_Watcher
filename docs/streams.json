@@ -64,14 +64,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T09:00:00Z",
-          "title": "【 #ホロ1GP 】アーカイブ残るよなぁ？！　競馬勝ちます。【ホロライブと名乗りたい】",
-          "video_id": "MgPlox_h_Oo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T09:04:02Z",
+        "title": "【 #ホロ1GP 】アーカイブ残るよなぁ？！　競馬勝ちます。【ホロライブと名乗りたい】",
+        "video_id": "MgPlox_h_Oo"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -152,13 +150,13 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-11-08T09:01:27Z",
+        "title": "【マイクラ】 #ホロ1GP 大勝会場はコチラ ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "7J5ytqVW5BY"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T09:00:00Z",
-          "title": "【マイクラ】 #ホロ1GP 大勝会場 ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "7J5ytqVW5BY"
-        },
         {
           "scheduled_at": "2026-11-08T12:00:00Z",
           "title": "【#ホロ鯖ARK】最終日🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
@@ -201,14 +199,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T09:00:00Z",
-          "title": "【 #ホロ1GP 】よくギャンブルやらないほうが良いとは言われるけど【 常闇トワ /ホロライブ】",
-          "video_id": "hgZ1rFDeJfs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T09:01:27Z",
+        "title": "【 #ホロ1GP 】よくギャンブルやらないほうが良いとは言われるけど【 常闇トワ /ホロライブ】",
+        "video_id": "hgZ1rFDeJfs"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -273,13 +269,13 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-08T09:00:37Z",
+        "title": "【Minecraft】#ホロ1GP　マイクラでは運いいとこみせたい💰【風真いろは/ホロライブ】",
+        "video_id": "upEFCT9V_nw"
+      },
       "name": "風真いろは",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T09:00:00Z",
-          "title": "【Minecraft】#ホロ1GP　マイクラでは運いいとこみせたい💰【風真いろは/ホロライブ】",
-          "video_id": "upEFCT9V_nw"
-        },
         {
           "scheduled_at": "2026-11-08T15:30:00Z",
           "title": "風真いろはの #ねるまえらじお 📻❣ #28",
@@ -398,14 +394,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T09:00:00Z",
-          "title": "【#ホロ1GP】このレースには必勝法がある!!!!!!【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "NgR0VyQXNhg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T09:01:47Z",
+        "title": "【#ホロ1GP】このレースには必勝法がある!!!!!!【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "NgR0VyQXNhg"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -574,14 +568,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T09:00:00Z",
-          "title": "【Minecraft #ホロ1GP】HASHIREEEEEEEEEEEEE🏇【hololive holoro | Anya Melfissa】",
-          "video_id": "SRE2N2NK2Wo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T09:01:12Z",
+        "title": "【Minecraft #ホロ1GP】HASHIREEEEEEEEEEEEE🏇【hololive holoro | Anya Melfissa】",
+        "video_id": "SRE2N2NK2Wo"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -609,5 +601,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T09:00:51Z"
+  "generated_at": "2026-11-08T09:10:22Z"
 }
