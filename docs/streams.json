@@ -102,7 +102,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T22:30:00Z",
+          "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
+          "video_id": "V46fDZ87LFc"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -541,5 +548,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T12:20:35Z"
+  "generated_at": "2026-11-08T12:30:53Z"
 }
