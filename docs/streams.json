@@ -96,7 +96,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【ホロ1グランプリ】勝つ馬を 当ててみましょう タロットで...【大神ミオ視点】",
+          "video_id": "aM7w-nnuP5Y"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -583,5 +590,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T07:30:41Z"
+  "generated_at": "2026-11-08T07:40:22Z"
 }
