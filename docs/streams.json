@@ -470,14 +470,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T00:00:00Z",
-          "title": "【The Legend of Zelda: Ocarina of Time Remake】HEY LISTEN (to my ocarina)",
-          "video_id": "1lnTcqnqB-o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T00:02:56Z",
+        "title": "【The Legend of Zelda: Ocarina of Time Remake】HEY LISTEN (to my ocarina)",
+        "video_id": "1lnTcqnqB-o"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -555,5 +553,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T01:50:31Z"
+  "generated_at": "2026-11-08T01:51:12Z"
 }
