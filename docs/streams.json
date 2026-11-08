@@ -72,7 +72,14 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T15:45:00Z",
+          "title": "【#ホロ鯖ARK】ARK上陸２４日目！最終回なのだ！【ホロライブ/癒月ちょこ】",
+          "video_id": "bxFfinLhZJ0"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -116,11 +123,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-08T12:10:13Z",
-        "title": "【#ホロ鯖ARK】最終日🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "CSScHhS82x0"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -136,11 +138,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-08T11:32:52Z",
-        "title": "【ホロ鯖ARK】カワウソ先生！最終日！悔いない日にする！【白銀ノエル/ホロライブ】",
-        "video_id": "MXQsHh2c76Q"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -208,13 +205,13 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-08T15:31:37Z",
+        "title": "風真いろはの #ねるまえらじお 📻❣ #28",
+        "video_id": "9q9cuuYv-R8"
+      },
       "name": "風真いろは",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T15:30:00Z",
-          "title": "風真いろはの #ねるまえらじお 📻❣ #28",
-          "video_id": "9q9cuuYv-R8"
-        },
         {
           "scheduled_at": "2026-11-08T23:00:00Z",
           "title": "【メン限】メン限月曜日討伐朝活☀03【風真いろは/ホロライブ】",
@@ -245,11 +242,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-08T14:30:12Z",
-        "title": "２周年カウントダウン",
-        "video_id": "xQW2LqlLblQ"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -516,5 +508,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T15:30:58Z"
+  "generated_at": "2026-11-08T15:40:30Z"
 }
