@@ -408,14 +408,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T13:00:00Z",
-          "title": "≪KOREA TRIP≫ rat said 안녕하세요 and 감사합니다 a lot",
-          "video_id": "Kv4thi6Cz78"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T13:00:53Z",
+        "title": "≪KOREA TRIP≫ rat said 안녕하세요 and 감사합니다 a lot",
+        "video_id": "Kv4thi6Cz78"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -536,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T13:00:57Z"
+  "generated_at": "2026-11-08T13:10:26Z"
 }
