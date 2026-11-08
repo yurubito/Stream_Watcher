@@ -249,11 +249,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-08T08:00:08Z",
-        "title": "【爆飲み！】好みのワインが分かる⁉ワイン飲み比べでホロ酔いに…🍷【ルイ姉、今日なにする？】#8",
-        "video_id": "Q_tugwQP_f8"
-      },
       "name": "鷹嶺ルイ",
       "upcoming": [
         {
@@ -322,7 +317,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T14:30:00Z",
+          "title": "２周年カウントダウン",
+          "video_id": "xQW2LqlLblQ"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -361,7 +363,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【 #ホロ1GP 】どぱ予想家です！！！ここでも勝つぞ！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "k8HVxzKkvJI"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -603,5 +612,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T08:11:45Z"
+  "generated_at": "2026-11-08T08:20:35Z"
 }
