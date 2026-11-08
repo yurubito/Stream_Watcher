@@ -161,11 +161,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-08T07:58:21Z",
-        "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃２【姫森ルーナ/ホロライブ】",
-        "video_id": "XloQPhUDsKk"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -219,6 +214,11 @@
           "scheduled_at": "2026-11-08T15:30:00Z",
           "title": "風真いろはの #ねるまえらじお 📻❣ #28",
           "video_id": "9q9cuuYv-R8"
+        },
+        {
+          "scheduled_at": "2026-11-08T23:00:00Z",
+          "title": "【メン限】メン限月曜日討伐朝活☀03【風真いろは/ホロライブ】",
+          "video_id": "1VXe1QSMqSk"
         }
       ]
     },
@@ -516,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T15:13:06Z"
+  "generated_at": "2026-11-08T15:30:58Z"
 }
