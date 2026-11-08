@@ -118,13 +118,13 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-08T04:02:54Z",
+        "title": "#3【ついにポッドレーサー】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
+        "video_id": "PuzU1g9zOhk"
+      },
       "name": "戌神ころね",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T04:00:00Z",
-          "title": "#3【ついにポッドレーサー】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
-          "video_id": "PuzU1g9zOhk"
-        },
         {
           "scheduled_at": "2026-11-08T12:00:00Z",
           "title": "【R.E.P.O】ころね支店",
@@ -391,7 +391,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-08T09:00:00Z",
-          "title": "【#ホロ1GP】競馬は確率【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "title": "【#ホロ1GP】このレースには必勝法がある!!!!!!【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "NgR0VyQXNhg"
         }
       ]
@@ -414,9 +414,14 @@
       "name": "百灯キョーコ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-08T03:00:00Z",
-          "title": "【EN】Japanese Vtuber playing a Japanese Horror game! *Spoiler Alert【Hyakuto Kyoko/Hololive】",
-          "video_id": "8m0PM8NAcRU"
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【#ホロ1GP】上振れのその先、見に行こうぜ！！！ | マイクラ競馬【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "Lf__4xwxjzE"
+        },
+        {
+          "scheduled_at": "2026-11-08T13:00:00Z",
+          "title": "#6 最終回？遂にすべての謎が明かされるとき…！！  | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "aLoVNTHo0_4"
         }
       ]
     },
@@ -573,7 +578,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【 #ホロ1GP #holo1GP 】PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE LEMME BE LUCKY TODAY😭😭 【Minecraft】",
+          "video_id": "ir957srO__w"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -581,5 +593,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T07:00:58Z"
+  "generated_at": "2026-11-08T07:10:23Z"
 }
