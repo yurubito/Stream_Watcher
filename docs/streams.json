@@ -311,7 +311,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T03:00:00Z",
+          "title": "【EN】FULL SQUAD!!!!! IT'S FINALLY HAPPENING!!  | PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
+          "video_id": "Rgqok3L-_Sw"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -486,5 +493,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T17:01:03Z"
+  "generated_at": "2026-11-08T17:20:24Z"
 }
