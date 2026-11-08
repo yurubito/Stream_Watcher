@@ -37,7 +37,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T11:00:00Z",
+          "title": "なにしよっかな～【星街すいせい / ＃ほしまちすたじお】",
+          "video_id": "auw-e6pt6BY"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -59,7 +66,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【 #ホロ1GP 】アーカイブ残るよなぁ？！　競馬勝ちます。【ホロライブと名乗りたい】",
+          "video_id": "MgPlox_h_Oo"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -619,5 +633,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T08:40:23Z"
+  "generated_at": "2026-11-08T08:50:39Z"
 }
