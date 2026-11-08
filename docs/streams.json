@@ -177,14 +177,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T11:30:00Z",
-          "title": "【ホロ鯖ARK】カワウソ先生！最終日！悔いない日にする！【白銀ノエル/ホロライブ】",
-          "video_id": "MXQsHh2c76Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T11:32:52Z",
+        "title": "【ホロ鯖ARK】カワウソ先生！最終日！悔いない日にする！【白銀ノエル/ホロライブ】",
+        "video_id": "MXQsHh2c76Q"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -623,5 +621,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T11:10:28Z"
+  "generated_at": "2026-11-08T11:40:30Z"
 }
