@@ -427,14 +427,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T20:05:00Z",
-          "title": "【GAME】ANNOUNCEMENT!!! GAME! WOAH! what could it be!?!?",
-          "video_id": "3mu5oQREf0U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T20:08:04Z",
+        "title": "【GAME】ANNOUNCEMENT!!! GAME! WOAH! what could it be!?!?",
+        "video_id": "3mu5oQREf0U"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -494,5 +492,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T20:00:52Z"
+  "generated_at": "2026-11-08T20:10:25Z"
 }
