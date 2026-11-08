@@ -138,11 +138,6 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-08T04:02:54Z",
-        "title": "#3【ついにポッドレーサー】『スター・ウォーズ：ギャラクティック・レーサー』遊ぶ！！",
-        "video_id": "PuzU1g9zOhk"
-      },
       "name": "戌神ころね",
       "upcoming": [
         {
@@ -575,14 +570,12 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T10:00:00Z",
-          "title": "【Dressmaker】 CHALLENGE: MAKING DRESSES FOR EACH OTHER!! w/ @JurardTRexford !! 【Kureiji Ollie】",
-          "video_id": "f8SUT6ci8aA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T10:13:20Z",
+        "title": "【Dressmaker】 CHALLENGE: MAKING DRESSES FOR EACH OTHER!! w/ @JurardTRexford !! 【Kureiji Ollie】",
+        "video_id": "f8SUT6ci8aA"
+      },
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -620,5 +613,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T10:10:27Z"
+  "generated_at": "2026-11-08T10:20:25Z"
 }
