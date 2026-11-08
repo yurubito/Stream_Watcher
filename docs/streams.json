@@ -203,11 +203,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-08T15:31:37Z",
-        "title": "風真いろはの #ねるまえらじお 📻❣ #28",
-        "video_id": "9q9cuuYv-R8"
-      },
       "name": "風真いろは",
       "upcoming": [
         {
@@ -262,11 +257,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-08T14:04:51Z",
-        "title": "【2周年カウントダウン】解像度を高め一緒に迎えよう❕💙浮気シート【水宮枢／ホロライブ】",
-        "video_id": "cI_ViZ2xV7A"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -453,11 +443,6 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-08T14:02:03Z",
-        "title": "【UNDERTALE】 IT'S TIME TO DIE, UNDYNE THE UNDYING!",
-        "video_id": "iR8rFscN03M"
-      },
       "name": "ラオーラ・パンテーラ"
     },
     {
@@ -506,5 +491,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T16:01:00Z"
+  "generated_at": "2026-11-08T16:10:25Z"
 }
