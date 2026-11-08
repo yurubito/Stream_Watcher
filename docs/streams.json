@@ -87,11 +87,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-11-08T09:33:56Z",
-        "title": "【#ホロ1GP 】大勝目指していくしゅばあああああああああああああああああああああああああああああああああああ！！！！【ホロライブ/大空スバル】",
-        "video_id": "jLtxfahJsKE"
-      },
       "name": "大空スバル"
     },
     {
@@ -379,6 +374,11 @@
       "name": "森カリオペ",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-09T01:00:00Z",
+          "title": "【member's only】chill hang out and chatting your ears off!! #calliolive",
+          "video_id": "O_5zhRE7P38"
+        },
+        {
           "scheduled_at": "2026-11-10T01:00:00Z",
           "title": "【GODHAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
           "video_id": "pcmJoVYzV00"
@@ -534,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T13:10:26Z"
+  "generated_at": "2026-11-08T13:20:28Z"
 }
