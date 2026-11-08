@@ -482,12 +482,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-08T00:02:56Z",
-        "title": "【The Legend of Zelda: Ocarina of Time Remake】HEY LISTEN (to my ocarina)",
-        "video_id": "1lnTcqnqB-o"
-      },
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T15:00:00Z",
+          "title": "【DETROIT: BECOME HUMAN】OH LAWD DETROIT BECOMIN WITH @holoen_ceciliaimmergreen​",
+          "video_id": "bldM9O_zXD8"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -507,7 +509,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T22:00:00Z",
+          "title": "【#WORLDS2026】WE'RE MAKING IT TO WORLDS!!!!!",
+          "video_id": "D4hu48ehy3c"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -517,7 +526,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T14:00:00Z",
+          "title": "【UNDERTALE】 IT'S TIME TO DIE, UNDYNE THE UNDYING!",
+          "video_id": "iR8rFscN03M"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -565,5 +581,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T03:50:29Z"
+  "generated_at": "2026-11-08T07:00:58Z"
 }
