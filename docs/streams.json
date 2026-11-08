@@ -361,14 +361,7 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T09:00:00Z",
-          "title": "【 #ホロ1GP 】どぱ予想家です！！！ここでも勝つぞ！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "k8HVxzKkvJI"
-        }
-      ]
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -610,5 +603,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T08:10:29Z"
+  "generated_at": "2026-11-08T08:11:45Z"
 }
