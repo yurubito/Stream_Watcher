@@ -90,7 +90,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-08T09:00:00Z",
-          "title": "【】【ホロライブ/大空スバル】",
+          "title": "【#ホロ1GP 】大勝目指していくしゅばあああああああああああああああああああああああああああああああああああ！！！！【ホロライブ/大空スバル】",
           "video_id": "8llnciIkv8I"
         }
       ]
@@ -361,16 +361,18 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T09:00:00Z",
+          "title": "【 #ホロ1GP 】どぱ予想家です！！！ここでも勝つぞ！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "k8HVxzKkvJI"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-08T03:03:00Z",
-        "title": "【#ホロ鯖ARK】最終日！試練の洞窟に挑戦！！初めてのホロ鯖ARK！！＃31【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "nRIayZMdLmA"
-      },
       "name": "綺々羅々ヴィヴィ",
       "upcoming": [
         {
@@ -608,5 +610,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T08:00:52Z"
+  "generated_at": "2026-11-08T08:10:29Z"
 }
