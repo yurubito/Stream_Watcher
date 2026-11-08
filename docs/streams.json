@@ -284,13 +284,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-08T14:04:51Z",
+        "title": "【2周年カウントダウン】解像度を高め一緒に迎えよう❕💙浮気シート【水宮枢／ホロライブ】",
+        "video_id": "cI_ViZ2xV7A"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T14:00:00Z",
-          "title": "【2周年カウントダウン】解像度を高め一緒に迎えよう❕💙浮気シート【水宮枢／ホロライブ】",
-          "video_id": "cI_ViZ2xV7A"
-        },
         {
           "scheduled_at": "2026-11-11T13:00:00Z",
           "title": "【#9】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
@@ -456,14 +456,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T14:00:00Z",
-          "title": "【UNDERTALE】 IT'S TIME TO DIE, UNDYNE THE UNDYING!",
-          "video_id": "iR8rFscN03M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T14:02:03Z",
+        "title": "【UNDERTALE】 IT'S TIME TO DIE, UNDYNE THE UNDYING!",
+        "video_id": "iR8rFscN03M"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -511,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T14:00:50Z"
+  "generated_at": "2026-11-08T14:10:21Z"
 }
