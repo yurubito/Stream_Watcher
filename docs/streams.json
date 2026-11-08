@@ -157,14 +157,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T01:00:00Z",
-          "title": "【朝活雑談】15時間半ARK配信して起きれるのかだんちょ...？【白銀ノエル/ホロライブ】",
-          "video_id": "ITPrSx_TY3k"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T01:00:12Z",
+        "title": "【朝活雑談】15時間半ARK配信して起きれるのかだんちょ...？【白銀ノエル/ホロライブ】",
+        "video_id": "ITPrSx_TY3k"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -235,13 +233,13 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-08T01:06:06Z",
+        "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！これはとんでもない神ゲーだ…【鷹嶺ルイ/ホロライブ】ネタバレあり",
+        "video_id": "YnpgOMIHGsU"
+      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T01:00:00Z",
-          "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！これはとんでもない神ゲーだ…【鷹嶺ルイ/ホロライブ】ネタバレあり",
-          "video_id": "YnpgOMIHGsU"
-        },
         {
           "scheduled_at": "2026-11-08T05:30:00Z",
           "title": "【 アンゼンチン共和国杯＋みやこS 】久々のG2とG3で久々的中を狙え！【鷹嶺ルイ/ホロライブ】",
@@ -418,13 +416,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-11-08T01:32:02Z",
+        "title": "【ZELDA: MAJORA'S MASK】only game I wanna play right now sorry.... (part 4) #calliolive",
+        "video_id": "6AQ-ghYOxmc"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T01:00:00Z",
-          "title": "【ZELDA: MAJORA'S MASK】only game I wanna play right now sorry.... (part 4) #calliolive",
-          "video_id": "6AQ-ghYOxmc"
-        },
         {
           "scheduled_at": "2026-11-10T01:00:00Z",
           "title": "【GODHAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
@@ -557,5 +555,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-07T21:01:01Z"
+  "generated_at": "2026-11-08T01:50:31Z"
 }
