@@ -271,11 +271,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-08T12:12:27Z",
-        "title": "【#ホロ鯖ARK】ついに２周年迎える！！！初めてのホロ鯖ARK！！＃3２【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "mXehF9q1FGI"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -379,11 +374,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-08T15:01:54Z",
-        "title": "【DETROIT: BECOME HUMAN】OH LAWD DETROIT BECOMIN WITH @holoen_ceciliaimmergreen​",
-        "video_id": "bldM9O_zXD8"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -490,5 +480,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T19:10:23Z"
+  "generated_at": "2026-11-08T19:20:32Z"
 }
