@@ -245,18 +245,8 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-08T01:06:06Z",
-        "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！これはとんでもない神ゲーだ…【鷹嶺ルイ/ホロライブ】ネタバレあり",
-        "video_id": "YnpgOMIHGsU"
-      },
       "name": "鷹嶺ルイ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T05:30:00Z",
-          "title": "【 アンゼンチン共和国杯＋みやこS 】久々のG2とG3で久々的中を狙え！【鷹嶺ルイ/ホロライブ】",
-          "video_id": "QxIn9xCPHjk"
-        },
         {
           "scheduled_at": "2026-11-08T08:00:00Z",
           "title": "【爆飲み！】好みのワインが分かる⁉ワイン飲み比べでホロ酔いに…🍷【ルイ姉、今日なにする？】#8",
@@ -593,5 +583,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T07:10:23Z"
+  "generated_at": "2026-11-08T07:30:41Z"
 }
