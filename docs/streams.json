@@ -65,11 +65,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-08T12:00:15Z",
-        "title": "【飲酒雑談】🏮まちゅらでん🐚マシュマロ雑談！【ホロライブ/夏色まつり】",
-        "video_id": "SkTcCa4b3QA"
-      },
       "name": "夏色まつり",
       "upcoming": [
         {
@@ -366,14 +361,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T13:00:00Z",
-          "title": "#6 最終回？遂にすべての謎が明かされるとき…！！  | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "aLoVNTHo0_4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T12:58:16Z",
+        "title": "#6 最終回？遂にすべての謎が明かされるとき…！！  | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "aLoVNTHo0_4"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -510,11 +503,6 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-08T10:13:20Z",
-        "title": "【Dressmaker】 CHALLENGE: MAKING DRESSES FOR EACH OTHER!! w/ @JurardTRexford !! 【Kureiji Ollie】",
-        "video_id": "f8SUT6ci8aA"
-      },
       "name": "クレイジー・オリー"
     },
     {
@@ -548,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T12:30:53Z"
+  "generated_at": "2026-11-08T13:00:57Z"
 }
