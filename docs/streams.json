@@ -141,7 +141,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T09:00:00Z",
+          "title": "God knows / 姫森ルーナ (cover)【#姫森ルーナ生誕ロックLIVE】",
+          "video_id": "BUt6If2a6ic"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -488,5 +495,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T18:30:40Z"
+  "generated_at": "2026-11-08T18:50:29Z"
 }
