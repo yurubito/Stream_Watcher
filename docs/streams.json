@@ -264,14 +264,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T16:45:00Z",
-          "title": "【F1同時視聴】ブラジルGP！決勝！！天気どうなる！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "oEgq83vyQ0U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-08T16:45:39Z",
+        "title": "【F1同時視聴】ブラジルGP！決勝！！天気どうなる！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "oEgq83vyQ0U"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -313,11 +311,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-08T12:58:16Z",
-        "title": "#6 最終回？遂にすべての謎が明かされるとき…！！  | 都市伝説解体センター　※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "aLoVNTHo0_4"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -486,5 +479,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T16:31:03Z"
+  "generated_at": "2026-11-08T16:50:25Z"
 }
