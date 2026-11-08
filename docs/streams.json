@@ -72,13 +72,13 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-11-08T12:00:15Z",
+        "title": "【飲酒雑談】🏮まちゅらでん🐚マシュマロ雑談！【ホロライブ/夏色まつり】",
+        "video_id": "SkTcCa4b3QA"
+      },
       "name": "夏色まつり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-08T12:00:00Z",
-          "title": "【飲酒雑談】🏮まちゅらでん🐚マシュマロ雑談！【ホロライブ/夏色まつり】",
-          "video_id": "SkTcCa4b3QA"
-        },
         {
           "scheduled_at": "2026-11-11T13:00:00Z",
           "title": "【APEX】ゴジラコラボと聞いて！よぴぴといくぞ～！【ホロライブ/夏色まつり】",
@@ -621,5 +621,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T11:40:30Z"
+  "generated_at": "2026-11-08T12:00:44Z"
 }
