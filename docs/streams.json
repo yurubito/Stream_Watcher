@@ -39,7 +39,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-08T11:00:00Z",
-          "title": "なにしよっかな～【星街すいせい / ＃ほしまちすたじお】",
+          "title": "【絶対遵守】ここはどこ……？？私はライブ会場にいたはずでは……？？【星街すいせい / ＃ほしまちすたじお】",
           "video_id": "auw-e6pt6BY"
         }
       ]
@@ -372,7 +372,14 @@
         "title": "【 #ホロ1GP 】 的中100％！豪運のヴィヴィ！ラッキッキー💸【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
         "video_id": "v4nKi8VJY1g"
       },
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-08T12:00:00Z",
+          "title": "【#ホロ鯖ARK】ついに２周年迎える！！！初めてのホロ鯖ARK！！＃3２【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "mXehF9q1FGI"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -559,7 +566,7 @@
       "name": "クレイジー・オリー",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-08T11:00:00Z",
+          "scheduled_at": "2026-11-08T10:00:00Z",
           "title": "【Dressmaker】 CHALLENGE: MAKING DRESSES FOR EACH OTHER!! HE WILL BE WEARING THEM!! 【Kureiji Ollie】",
           "video_id": "f8SUT6ci8aA"
         }
@@ -601,5 +608,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T09:10:22Z"
+  "generated_at": "2026-11-08T09:20:39Z"
 }
