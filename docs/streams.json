@@ -345,11 +345,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-11-09T01:39:51Z",
-        "title": "≪Yakuza 7: Like a Dragon≫ what even is yakuza 7...First Playthrough #9【SPOILER WARNING】",
-        "video_id": "6uFTFwee0bA"
-      },
       "name": "ハコス・ベールズ"
     },
     {
@@ -360,26 +355,17 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T03:00:00Z",
-          "title": "【PEAK】Showing my kouhai what peak looks like",
-          "video_id": "X2guMrZF6_M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T03:23:48Z",
+        "title": "【PEAK】Showing my kouhai what peak looks like",
+        "video_id": "X2guMrZF6_M"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T01:00:00Z",
-          "title": "I haven't sewn anything since middle school | Dressmaker",
-          "video_id": "6eaSJws0QFU"
-        }
-      ]
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -471,5 +457,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T01:50:22Z"
+  "generated_at": "2026-11-09T05:00:55Z"
 }
