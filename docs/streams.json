@@ -124,7 +124,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T10:00:00Z",
+          "title": "【 雑談-Freetalk- 】　#Towavel 旅行に行きたい欲をみんなに託す‼️【常闇トワ/ホロライブ】",
+          "video_id": "PBH5PxiQPx4"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -135,6 +142,11 @@
           "scheduled_at": "2026-11-09T09:00:00Z",
           "title": "God knows / 姫森ルーナ (cover)【#姫森ルーナ生誕ロックLIVE】",
           "video_id": "BUt6If2a6ic"
+        },
+        {
+          "scheduled_at": "2026-11-09T10:00:00Z",
+          "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃３【姫森ルーナ/ホロライブ】",
+          "video_id": "ZYw6Nedy9KQ"
         }
       ]
     },
@@ -257,11 +269,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-09T03:01:21Z",
-        "title": "過酷な山登りゲーム「PEAK」のじゃEnglishで挑む！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-        "video_id": "JyHztd5iGqs"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -291,11 +298,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-09T03:01:28Z",
-        "title": "【EN】FULL SQUAD!!!!! IT'S FINALLY HAPPENING!!  | PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
-        "video_id": "Rgqok3L-_Sw"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
@@ -457,5 +459,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T06:40:24Z"
+  "generated_at": "2026-11-09T08:00:52Z"
 }
