@@ -106,7 +106,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T12:00:00Z",
+          "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "7Xixsn616uM"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -451,5 +458,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T09:10:26Z"
+  "generated_at": "2026-11-09T09:20:42Z"
 }
