@@ -211,7 +211,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T12:00:00Z",
+          "title": "【完全初見】大妖精って…誰！？！ ゼルダの伝説 時のオカリナ part4【一条莉々華/hololive ReGLOSS】",
+          "video_id": "2h5zCDLxXrA"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -432,5 +439,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T14:50:34Z"
+  "generated_at": "2026-11-09T15:01:08Z"
 }
