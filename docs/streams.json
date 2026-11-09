@@ -315,7 +315,7 @@
       "name": "百灯キョーコ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-09T12:00:00Z",
+          "scheduled_at": "2026-11-09T12:30:00Z",
           "title": "【OW】”最狂”の暖色さんチームで突撃だーーー！！  | Overwatch【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "Cdp-8nmEQCA"
         }
@@ -413,7 +413,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T12:00:00Z",
+          "title": "#MMMalas : IT'S MONDAY AGAIN ?!?!",
+          "video_id": "Bd-1ZS70cUk"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -463,5 +470,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T11:01:09Z"
+  "generated_at": "2026-11-09T11:30:50Z"
 }
