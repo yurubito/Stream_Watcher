@@ -248,14 +248,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T14:00:00Z",
-          "title": "【#FG2周年】FG2周年応援枠【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "3hoVc1RCFko"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T14:27:17Z",
+        "title": "【#FG2周年】FG2周年応援枠【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "3hoVc1RCFko"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -439,5 +437,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T14:20:38Z"
+  "generated_at": "2026-11-09T14:30:43Z"
 }
