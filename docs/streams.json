@@ -150,14 +150,12 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T10:00:00Z",
-          "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃３【姫森ルーナ/ホロライブ】",
-          "video_id": "ZYw6Nedy9KQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T09:57:48Z",
+        "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃３【姫森ルーナ/ホロライブ】",
+        "video_id": "ZYw6Nedy9KQ"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -192,13 +190,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-09T10:00:25Z",
+        "title": "【初コラボ】理系女子あるあるは一致するのか⁉️実験🧪📡【宙科そぴあ・博衣こより/ホロライブ】",
+        "video_id": "FTW0Gruwm8U"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T10:00:00Z",
-          "title": "【初コラボ】理系女子あるあるは一致するのか⁉️実験🧪📡【宙科そぴあ・博衣こより/ホロライブ】",
-          "video_id": "FTW0Gruwm8U"
-        },
         {
           "scheduled_at": "2026-11-09T22:00:00Z",
           "title": "【 #朝こよ 】今週は大忙し！な週の火曜日の朝は朝こよ～！☀ #306 【博衣こより/hololive】",
@@ -278,14 +276,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T10:00:00Z",
-          "title": "【🔒メン限】(かわいくない)日記公開、まったりお絵描きなのじゃ！【ホロライブ/熱千めら】",
-          "video_id": "kUTVT1tQyWA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T09:58:41Z",
+        "title": "【🔒メン限】(かわいくない)日記公開、まったりお絵描きなのじゃ！【ホロライブ/熱千めら】",
+        "video_id": "kUTVT1tQyWA"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -465,5 +461,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T09:50:26Z"
+  "generated_at": "2026-11-09T10:00:52Z"
 }
