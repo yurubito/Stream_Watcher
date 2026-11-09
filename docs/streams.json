@@ -243,6 +243,11 @@
       "name": "水宮枢",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-10T13:00:00Z",
+          "title": "【 #ホロREPO 】れぽのまき！すう視点【水宮枢／ホロライブDEV_IS】",
+          "video_id": "YTj3UpmVrbs"
+        },
+        {
           "scheduled_at": "2026-11-11T13:00:00Z",
           "title": "【#9】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
           "video_id": "FYeElr0BDi0"
@@ -441,7 +446,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T05:00:00Z",
+          "title": "【Shroom and Gloom】checking map 2!! hmm what now",
+          "video_id": "CVVyTYmmgN8"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -449,5 +461,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T17:10:31Z"
+  "generated_at": "2026-11-09T17:20:29Z"
 }
