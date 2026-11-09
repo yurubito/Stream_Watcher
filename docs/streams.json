@@ -77,11 +77,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-08T22:30:23Z",
-        "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
-        "video_id": "V46fDZ87LFc"
-      },
       "name": "大神ミオ"
     },
     {
@@ -296,12 +291,17 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-09T03:01:28Z",
+        "title": "【EN】FULL SQUAD!!!!! IT'S FINALLY HAPPENING!!  | PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
+        "video_id": "Rgqok3L-_Sw"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-09T03:00:00Z",
-          "title": "【EN】FULL SQUAD!!!!! IT'S FINALLY HAPPENING!!  | PEAK【Hyakuto Kyoko/Hololive/ASOBI★MAWARI-TAI!】",
-          "video_id": "Rgqok3L-_Sw"
+          "scheduled_at": "2026-11-09T12:00:00Z",
+          "title": "【OW】”最狂”の暖色さんチームで突撃だーーー！！  | Overwatch【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "Cdp-8nmEQCA"
         }
       ]
     },
@@ -432,7 +432,14 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ"
+      "name": "ベスティア・ゼータ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T13:00:00Z",
+          "title": "【Solo Shift! Karaoke】iya iya #bozet 👩‍🍳🍳",
+          "video_id": "d00W-TVA01U"
+        }
+      ]
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -450,5 +457,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T06:30:45Z"
+  "generated_at": "2026-11-09T06:40:24Z"
 }
