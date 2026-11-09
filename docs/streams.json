@@ -143,13 +143,13 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-11-09T09:00:09Z",
+        "title": "God knows / 姫森ルーナ (cover)【#姫森ルーナ生誕ロックLIVE】",
+        "video_id": "BUt6If2a6ic"
+      },
       "name": "姫森ルーナ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T09:00:00Z",
-          "title": "God knows / 姫森ルーナ (cover)【#姫森ルーナ生誕ロックLIVE】",
-          "video_id": "BUt6If2a6ic"
-        },
         {
           "scheduled_at": "2026-11-09T10:00:00Z",
           "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃３【姫森ルーナ/ホロライブ】",
@@ -237,13 +237,13 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-09T08:55:12Z",
+        "title": "【 ２周年記念歌枠 】二周年だー！！告知もあるぞー！！【虎金妃笑虎】",
+        "video_id": "WYg7Qpux_mA"
+      },
       "name": "虎金妃笑虎",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T09:00:00Z",
-          "title": "【 ２周年記念歌枠 】二周年だー！！告知もあるぞー！！【虎金妃笑虎】",
-          "video_id": "WYg7Qpux_mA"
-        },
         {
           "scheduled_at": "2026-11-09T10:05:00Z",
           "title": "🐯",
@@ -456,5 +456,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T08:30:50Z"
+  "generated_at": "2026-11-09T09:00:55Z"
 }
