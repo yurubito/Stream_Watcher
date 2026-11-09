@@ -316,11 +316,6 @@
       "name": "森カリオペ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-09T01:00:00Z",
-          "title": "【member's only】chill hang out and chatting your ears off!! #calliolive",
-          "video_id": "O_5zhRE7P38"
-        },
-        {
           "scheduled_at": "2026-11-10T01:00:00Z",
           "title": "【GODHAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
           "video_id": "pcmJoVYzV00"
@@ -415,7 +410,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-14T13:00:00Z",
-          "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCREPRISE",
+          "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCREPRISE【日本語字幕付き】",
           "video_id": "RFKeljZW5s0"
         }
       ]
@@ -478,5 +473,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-08T23:20:47Z"
+  "generated_at": "2026-11-09T01:40:25Z"
 }
