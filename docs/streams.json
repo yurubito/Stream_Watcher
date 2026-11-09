@@ -91,7 +91,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-10T11:00:00Z",
-          "title": "【 #ホロゆび相撲最強決定戦 】参加者発表!!抽選会するぞ～～～～!!👈👈✦| Nintendo Switch Sports Resort【 猫又おかゆ/ホロライブ 】",
+          "title": "【 #ホロゆび相撲 】参加者発表!!抽選会するぞ～～～～!!👈👈✦| Nintendo Switch Sports Resort【 猫又おかゆ/ホロライブ 】",
           "video_id": "tqApYULd07s"
         },
         {
@@ -345,7 +345,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T03:00:00Z",
+          "title": "【SOUL CHAINED】WE ARE PASSION",
+          "video_id": "hwRDqS5YND4"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -430,5 +437,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T16:40:27Z"
+  "generated_at": "2026-11-09T16:50:24Z"
 }
