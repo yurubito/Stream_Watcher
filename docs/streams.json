@@ -33,7 +33,14 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール"
+      "name": "アキ・ローゼンタール",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T14:40:00Z",
+          "title": "【#アキちょこナイパレ｜第60回】恋人には束縛されたい派🆚自由がいい派  あなたはどっち？｜シスターローズの懺悔室🌹～深夜のひとくちラジオ～",
+          "video_id": "-Hat1gYDP7U"
+        }
+      ]
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -137,11 +144,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-09T09:57:48Z",
-        "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃３【姫森ルーナ/ホロライブ】",
-        "video_id": "ZYw6Nedy9KQ"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -287,7 +289,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T03:00:00Z",
+          "title": "【EN&JP】Chained + Soullike game!! 鎖に繋がれてソウルライクゲーム！ | Soul Chained【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "vK_G9vi58ok"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -424,5 +433,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T15:20:33Z"
+  "generated_at": "2026-11-09T15:30:42Z"
 }
