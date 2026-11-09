@@ -357,11 +357,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-09T03:23:48Z",
-        "title": "【PEAK】Showing my kouhai what peak looks like",
-        "video_id": "X2guMrZF6_M"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -459,5 +454,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T08:00:52Z"
+  "generated_at": "2026-11-09T08:10:24Z"
 }
