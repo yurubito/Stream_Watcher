@@ -262,16 +262,16 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-09T03:01:21Z",
+        "title": "過酷な山登りゲーム「PEAK」のじゃEnglishで挑む！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "JyHztd5iGqs"
+      },
       "name": "熱千めら",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-09T03:00:00Z",
-          "title": "過酷な山登りゲーム「PEAK」のじゃEnglishで挑む！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-          "video_id": "JyHztd5iGqs"
-        },
-        {
           "scheduled_at": "2026-11-09T10:00:00Z",
-          "title": "【🔒メン限】まったりお絵描き配信なのじゃ！【ホロライブ/熱千めら】",
+          "title": "【🔒メン限】(かわいくない)日記公開、まったりお絵描きなのじゃ！【ホロライブ/熱千めら】",
           "video_id": "kUTVT1tQyWA"
         }
       ]
@@ -380,11 +380,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-08T22:00:53Z",
-        "title": "【#WORLDS2026】WE'RE MAKING IT TO WORLDS!!!!!",
-        "video_id": "D4hu48ehy3c"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -442,14 +437,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T03:00:00Z",
-          "title": "【PEAK】PEJUANG MONDAY PEAK with Koseki Kyoko Knoja",
-          "video_id": "O3I0BcLkFGc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T03:00:25Z",
+        "title": "【PEAK】PEJUANG MONDAY PEAK with Koseki Kyoko Knoja",
+        "video_id": "O3I0BcLkFGc"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -457,5 +450,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T05:00:55Z"
+  "generated_at": "2026-11-09T06:30:45Z"
 }
