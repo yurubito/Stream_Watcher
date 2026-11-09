@@ -267,7 +267,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T14:00:00Z",
+          "title": "【メンバー限定】２周年ありがとう！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "i7vpe8NZF-c"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -458,5 +465,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T13:10:27Z"
+  "generated_at": "2026-11-09T13:40:30Z"
 }
