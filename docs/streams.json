@@ -260,6 +260,11 @@
       "name": "輪堂千速",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-10T03:00:00Z",
+          "title": "【Soul Chained】#2 鎖に繋がれて運命共同体！！！！！【Koseki Bijou/百灯キョーコ/#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "FyNJO0aVBEc"
+        },
+        {
           "scheduled_at": "2026-11-10T10:00:00Z",
           "title": "【同時視聴】『楽園追放』莉々華先輩と一緒に見よう！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
           "video_id": "bd5nR7lYsU8"
@@ -468,5 +473,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T17:30:56Z"
+  "generated_at": "2026-11-09T17:50:35Z"
 }
