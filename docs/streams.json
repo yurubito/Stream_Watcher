@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-09T13:03:03Z",
-        "title": "【GeoGuessr】日本の酷道・険道【ホロライブ / AZKi】",
-        "video_id": "yYinXVLf5OM"
-      },
       "name": "AZKi"
     },
     {
@@ -57,6 +52,11 @@
       "group": "JP 1期生",
       "name": "夏色まつり",
       "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T09:00:00Z",
+          "title": "【VALORANT】この中で一番初心者だったりします✌【ホロライブ/夏色まつり】",
+          "video_id": "lbi8UiWi4zs"
+        },
         {
           "scheduled_at": "2026-11-11T13:00:00Z",
           "title": "【APEX】ゴジラコラボと聞いて！よぴぴといくぞ～！【ホロライブ/夏色まつり】",
@@ -428,5 +428,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T15:40:41Z"
+  "generated_at": "2026-11-09T15:50:36Z"
 }
