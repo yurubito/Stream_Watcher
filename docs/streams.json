@@ -58,6 +58,11 @@
           "video_id": "lbi8UiWi4zs"
         },
         {
+          "scheduled_at": "2026-11-10T13:00:00Z",
+          "title": "【R.E.P.O.】フルパきちゃ～！！#ホロREPO【ホロライブ/夏色まつり】",
+          "video_id": "mwrHpbDojIM"
+        },
+        {
           "scheduled_at": "2026-11-11T13:00:00Z",
           "title": "【APEX】ゴジラコラボと聞いて！よぴぴといくぞ～！【ホロライブ/夏色まつり】",
           "video_id": "2Sj0u-KdEsQ"
@@ -345,7 +350,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T03:00:00Z",
+          "title": "【SOUL CHAINED】WE ARE PASSION",
+          "video_id": "hwRDqS5YND4"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -437,5 +449,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T17:01:02Z"
+  "generated_at": "2026-11-09T17:10:31Z"
 }
