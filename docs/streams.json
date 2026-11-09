@@ -114,14 +114,12 @@
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T14:00:00Z",
-          "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
-          "video_id": "IaykJO_fKmg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T14:01:20Z",
+        "title": "【RATATAN】ローグライクなリズムゲーを遊んでいくぅ～！【不知火フレア/ホロライブ】※ネタバレ注意",
+        "video_id": "IaykJO_fKmg"
+      },
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -262,14 +260,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T14:10:00Z",
-          "title": "【メンバー限定】２周年ライブ打ち上げ！！いつもありがとう！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "i7vpe8NZF-c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T14:05:17Z",
+        "title": "【メンバー限定】２周年ライブ打ち上げ！！いつもありがとう！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "i7vpe8NZF-c"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -440,14 +436,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T14:00:00Z",
-          "title": "【Solo Shift! Karaoke】iya iya #bozet 👩‍🍳🍳",
-          "video_id": "d00W-TVA01U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T14:10:12Z",
+        "title": "【Solo Shift! Karaoke】iya iya #bozet 👩‍🍳🍳",
+        "video_id": "d00W-TVA01U"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -460,5 +454,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T14:00:51Z"
+  "generated_at": "2026-11-09T14:10:40Z"
 }
