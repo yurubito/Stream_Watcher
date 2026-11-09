@@ -106,14 +106,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T12:00:00Z",
-          "title": "絶対に行ってはいけない『奥ヶ淵商店街』に行くぞおおおおおおおおおおおおおおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "7Xixsn616uM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T12:00:24Z",
+        "title": "絶対に行ってはいけない『奥ヶ淵商店街』に行くぞおおおおおおおおおおおおおおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "7Xixsn616uM"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -138,11 +136,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-09T10:05:06Z",
-        "title": "【 雑談-Freetalk- 】　#Towavel 旅行に行きたい欲をみんなに託す‼️【常闇トワ/ホロライブ】",
-        "video_id": "PBH5PxiQPx4"
-      },
       "name": "常闇トワ"
     },
     {
@@ -408,14 +401,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T12:00:00Z",
-          "title": "#MMMalas : IT'S MONDAY AGAIN ?!?!",
-          "video_id": "Bd-1ZS70cUk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T11:58:34Z",
+        "title": "#MMMalas : IT'S MONDAY AGAIN ?!?!",
+        "video_id": "Bd-1ZS70cUk"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -465,5 +456,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T11:40:26Z"
+  "generated_at": "2026-11-09T12:00:49Z"
 }
