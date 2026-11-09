@@ -260,11 +260,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-09T14:05:17Z",
-        "title": "【メンバー限定】２周年ライブ打ち上げ！！いつもありがとう！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "i7vpe8NZF-c"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -359,11 +354,6 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-09T12:55:05Z",
-        "title": "Good morning, Darling~ did you sleep well? | ASMR",
-        "video_id": "Nbck0MbQRnA"
-      },
       "name": "ネリッサ・レイヴンクロフト"
     },
     {
@@ -401,11 +391,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-09T11:58:34Z",
-        "title": "#MMMalas : IT'S MONDAY AGAIN ?!?!",
-        "video_id": "Bd-1ZS70cUk"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -454,5 +439,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T14:10:40Z"
+  "generated_at": "2026-11-09T14:20:38Z"
 }
