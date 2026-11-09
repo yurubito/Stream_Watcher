@@ -91,7 +91,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-10T11:00:00Z",
-          "title": "【 #ホロゆび相撲最強決定戦 】抽選会するぞ～～～～!!👈👈✦| Nintendo Switch Sports Resort【 猫又おかゆ/ホロライブ 】",
+          "title": "【 #ホロゆび相撲最強決定戦 】参加者発表!!抽選会するぞ～～～～!!👈👈✦| Nintendo Switch Sports Resort【 猫又おかゆ/ホロライブ 】",
           "video_id": "tqApYULd07s"
         },
         {
@@ -284,7 +284,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T09:00:00Z",
+          "title": "【VALORANT】先輩方と初フルパ！！かっこいいところをみせるぞ！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "8OrDic721VM"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -433,5 +440,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T16:00:55Z"
+  "generated_at": "2026-11-09T16:10:28Z"
 }
