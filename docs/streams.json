@@ -156,14 +156,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T12:00:00Z",
-          "title": "VALORANT明日コラボだからエイム高めていく！！！！！【 桃鈴ねね / hololive 】",
-          "video_id": "ZHe_A8YQDfY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T12:10:33Z",
+        "title": "VALORANT明日コラボだからエイム高めていく！！！！！【 桃鈴ねね / hololive 】",
+        "video_id": "ZHe_A8YQDfY"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -362,7 +360,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T13:00:00Z",
+          "title": "Good morning, Darling~ did you sleep well? | ASMR",
+          "video_id": "Nbck0MbQRnA"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -454,5 +459,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T12:10:24Z"
+  "generated_at": "2026-11-09T12:20:40Z"
 }
