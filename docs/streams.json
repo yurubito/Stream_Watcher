@@ -257,7 +257,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T10:00:00Z",
+          "title": "【同時視聴】『楽園追放』莉々華先輩と一緒に見よう！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "bd5nR7lYsU8"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -461,5 +468,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T17:20:29Z"
+  "generated_at": "2026-11-09T17:30:56Z"
 }
