@@ -345,14 +345,7 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T03:00:00Z",
-          "title": "【SOUL CHAINED】WE ARE PASSION",
-          "video_id": "hwRDqS5YND4"
-        }
-      ]
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -389,7 +382,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T14:00:00Z",
+          "title": "【Pokémon Emerald Nuzlocke】 Victory Road and the Pokémon League Await!",
+          "video_id": "oaZxyiBKnyA"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -437,5 +437,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T16:50:24Z"
+  "generated_at": "2026-11-09T17:01:02Z"
 }
