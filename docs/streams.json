@@ -222,7 +222,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T12:00:00Z",
+          "title": "【完全初見】二つ目の宝石をゲットするぞ～～。 ゼルダの伝説 時のオカリナ part3【一条莉々華/hololive ReGLOSS】",
+          "video_id": "uHKdQs4goqM"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -449,5 +456,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T10:15:38Z"
+  "generated_at": "2026-11-09T10:50:29Z"
 }
