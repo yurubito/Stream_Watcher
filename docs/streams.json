@@ -196,7 +196,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T09:00:00Z",
+          "title": "【VALORANT】再インストールしました(^o^)存在していたはずの記憶をもとにがんばります🔥【風真いろは/ホロライブ】",
+          "video_id": "PMiMH0svbKY"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -206,11 +213,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-09T12:00:46Z",
-        "title": "【完全初見】二つ目の宝石をゲットするぞ～～。 ゼルダの伝説 時のオカリナ part3【一条莉々華/hololive ReGLOSS】",
-        "video_id": "uHKdQs4goqM"
-      },
       "name": "一条莉々華"
     },
     {
@@ -437,5 +439,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T14:30:43Z"
+  "generated_at": "2026-11-09T14:40:39Z"
 }
