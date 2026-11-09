@@ -163,7 +163,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T12:00:00Z",
+          "title": "VALORANT明日コラボだからエイム高めていく！！！！！【 桃鈴ねね / hololive 】",
+          "video_id": "ZHe_A8YQDfY"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -235,11 +242,6 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-09T10:05:06Z",
-        "title": "🐯",
-        "video_id": "IHm3yvo50Dw"
-      },
       "name": "虎金妃笑虎"
     },
     {
@@ -267,11 +269,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-09T09:58:41Z",
-        "title": "【🔒メン限】(かわいくない)日記公開、まったりお絵描きなのじゃ！【ホロライブ/熱千めら】",
-        "video_id": "kUTVT1tQyWA"
-      },
       "name": "熱千めら"
     },
     {
@@ -452,5 +449,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T10:10:28Z"
+  "generated_at": "2026-11-09T10:15:38Z"
 }
