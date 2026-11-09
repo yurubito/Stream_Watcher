@@ -161,11 +161,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-09T12:10:33Z",
-        "title": "VALORANT明日コラボだからエイム高めていく！！！！！【 桃鈴ねね / hololive 】",
-        "video_id": "ZHe_A8YQDfY"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -325,7 +320,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-10T01:00:00Z",
-          "title": "【GODHAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
+          "title": "【GOD HAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
           "video_id": "pcmJoVYzV00"
         }
       ]
@@ -465,5 +460,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T13:40:30Z"
+  "generated_at": "2026-11-09T13:50:40Z"
 }
