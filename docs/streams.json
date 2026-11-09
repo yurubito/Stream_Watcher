@@ -345,14 +345,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T01:00:00Z",
-          "title": "≪Yakuza 7: Like a Dragon≫ what even is yakuza 7...First Playthrough #9【SPOILER WARNING】",
-          "video_id": "6uFTFwee0bA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T01:39:51Z",
+        "title": "≪Yakuza 7: Like a Dragon≫ what even is yakuza 7...First Playthrough #9【SPOILER WARNING】",
+        "video_id": "6uFTFwee0bA"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -473,5 +471,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T01:40:25Z"
+  "generated_at": "2026-11-09T01:50:22Z"
 }
