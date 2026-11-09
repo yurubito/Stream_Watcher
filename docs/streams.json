@@ -110,7 +110,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-09T12:00:00Z",
-          "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+          "title": "絶対に行ってはいけない『奥ヶ淵商店街』に行くぞおおおおおおおおおおおおおおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】",
           "video_id": "7Xixsn616uM"
         }
       ]
@@ -266,7 +266,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-09T14:00:00Z",
+          "title": "【#FG2周年】FG2周年応援枠【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "3hoVc1RCFko"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -296,7 +303,7 @@
       "name": "鈴鳴つづり",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-09T12:00:00Z",
+          "scheduled_at": "2026-11-09T12:30:00Z",
           "title": "【オーバーウォッチ　勝利数４５／５０】ついに５０勝を迎えるオーバーウォッチ!!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
           "video_id": "Vh-YGhqy_Mo"
         }
@@ -456,5 +463,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T10:50:29Z"
+  "generated_at": "2026-11-09T11:01:09Z"
 }
