@@ -138,14 +138,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T10:00:00Z",
-          "title": "【 雑談-Freetalk- 】　#Towavel 旅行に行きたい欲をみんなに託す‼️【常闇トワ/ホロライブ】",
-          "video_id": "PBH5PxiQPx4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-09T10:05:06Z",
+        "title": "【 雑談-Freetalk- 】　#Towavel 旅行に行きたい欲をみんなに託す‼️【常闇トワ/ホロライブ】",
+        "video_id": "PBH5PxiQPx4"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -238,18 +236,11 @@
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
       "live": {
-        "started_at": "2026-11-09T08:55:12Z",
-        "title": "【 ２周年記念歌枠 】二周年だー！！告知もあるぞー！！【虎金妃笑虎】",
-        "video_id": "WYg7Qpux_mA"
+        "started_at": "2026-11-09T10:05:06Z",
+        "title": "🐯",
+        "video_id": "IHm3yvo50Dw"
       },
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-09T10:05:00Z",
-          "title": "🐯",
-          "video_id": "IHm3yvo50Dw"
-        }
-      ]
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -461,5 +452,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T10:00:52Z"
+  "generated_at": "2026-11-09T10:10:28Z"
 }
