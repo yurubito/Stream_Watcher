@@ -18,14 +18,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T12:00:00Z",
-          "title": "【Soul Chained】#みこスバ 鎖友になりながら戦うにぇええええええええええええ！！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "4WUK7l5adOg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T12:07:13Z",
+        "title": "【Soul Chained】#みこスバ 鎖友になりながら戦うにぇええええええええええええ！！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "4WUK7l5adOg"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -111,11 +109,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-10T11:00:05Z",
-        "title": "【 #ホロゆび相撲 】参加者発表!!抽選会するぞ～～～～!!👈👈✦| Nintendo Switch Sports Resort【 猫又おかゆ/ホロライブ 】",
-        "video_id": "tqApYULd07s"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -192,7 +185,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T13:00:00Z",
+          "title": "【夜雑談】音質バカ悪いけど雑談してみよっか【​雪花ラミィ /ホロライブ】",
+          "video_id": "nTG0puOQkfQ"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -217,14 +217,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T12:00:00Z",
-          "title": "【 オフコラボ 】ユニバで買ってきた例のグミなら、さすがに怖がるやろ！【#いぬたかししの怖がらせ隊/ホロライブ】",
-          "video_id": "BYMnrRjbZAQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T12:03:49Z",
+        "title": "【 オフコラボ 】ユニバで買ってきた例のグミなら、さすがに怖がるやろ！【#いぬたかししの怖がらせ隊/ホロライブ】",
+        "video_id": "BYMnrRjbZAQ"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -453,26 +451,22 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T12:00:00Z",
-          "title": "【BOMBANANA!】 HOLORO BUT AIRPLANE MODE!! 【Kureiji Ollie】",
-          "video_id": "Eo-KYLCU10g"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T12:01:15Z",
+        "title": "【BOMBANANA!】 HOLORO BUT AIRPLANE MODE!! 【Kureiji Ollie】",
+        "video_id": "Eo-KYLCU10g"
+      },
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T12:00:00Z",
-          "title": "【BOMBANANA!】HOLORO SWEEP, NO EXPLOSION GUARANTEED【hololive holoro | Anya Melfissa】",
-          "video_id": "kHR3VjaW4bA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T12:01:30Z",
+        "title": "【BOMBANANA!】HOLORO SWEEP, NO EXPLOSION GUARANTEED【hololive holoro | Anya Melfissa】",
+        "video_id": "kHR3VjaW4bA"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -507,5 +501,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T12:00:59Z"
+  "generated_at": "2026-11-10T12:10:26Z"
 }
