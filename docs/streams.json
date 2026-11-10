@@ -119,6 +119,11 @@
       "name": "猫又おかゆ",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-11T11:00:00Z",
+          "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
+          "video_id": "2c2qahpayxk"
+        },
+        {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
           "video_id": "JTRI5dPcho0"
@@ -319,14 +324,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T12:30:00Z",
-          "title": "【メン限】すきなことをしてしゃべるるるる【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "BZgPDZ5tjIE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T12:33:57Z",
+        "title": "【メン限】すきなことをしてしゃべるるるる【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "BZgPDZ5tjIE"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -522,5 +525,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T12:30:39Z"
+  "generated_at": "2026-11-10T12:40:27Z"
 }
