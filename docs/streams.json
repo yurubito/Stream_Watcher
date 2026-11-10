@@ -22,7 +22,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-10T12:00:00Z",
-          "title": "【#みこスバ】【ホロライブ/さくらみこ】",
+          "title": "【Soul Chained】#みこスバ 鎖友になりながら戦うにぇええええええええええええ！！！！！！【ホロライブ/さくらみこ】",
           "video_id": "4WUK7l5adOg"
         }
       ]
@@ -302,26 +302,22 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T10:00:00Z",
-          "title": "【同時視聴会】新作映画直前！映画『楽園追放』莉々華先輩と一緒に見よう！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "bd5nR7lYsU8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T09:59:54Z",
+        "title": "【同時視聴会】新作映画直前！映画『楽園追放』莉々華先輩と一緒に見よう！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "bd5nR7lYsU8"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T10:00:00Z",
-          "title": "【凸待ち】重大告知あり！㊗️2周年突発凸待ち！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-          "video_id": "qPmmRBA9yHE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T10:00:24Z",
+        "title": "【凸待ち】重大告知あり！㊗️2周年突発凸待ち！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+        "video_id": "qPmmRBA9yHE"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -504,5 +500,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T09:50:31Z"
+  "generated_at": "2026-11-10T10:01:00Z"
 }
