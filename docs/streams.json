@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T13:30:00Z",
+          "title": "【配信予定地】【ときのそら/ホロライブ】",
+          "video_id": "mc6OqEBnNCA"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -295,13 +302,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-10T13:00:50Z",
+        "title": "【 #ホロREPO 】れぽのまき！すう視点【水宮枢／ホロライブDEV_IS】",
+        "video_id": "YTj3UpmVrbs"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T13:00:00Z",
-          "title": "【 #ホロREPO 】れぽのまき！すう視点【水宮枢／ホロライブDEV_IS】",
-          "video_id": "YTj3UpmVrbs"
-        },
         {
           "scheduled_at": "2026-11-11T13:00:00Z",
           "title": "【#9】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
@@ -448,14 +455,12 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T13:00:00Z",
-          "title": "【Graveyard Keeper】Continue my journey for becoming a graveyard keeper!【hololive | moona】",
-          "video_id": "ZrL_Wtc2yZk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T13:00:58Z",
+        "title": "【Graveyard Keeper】Continue my journey for becoming a graveyard keeper!【hololive | moona】",
+        "video_id": "ZrL_Wtc2yZk"
+      },
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -515,5 +520,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T13:00:56Z"
+  "generated_at": "2026-11-10T13:10:38Z"
 }
