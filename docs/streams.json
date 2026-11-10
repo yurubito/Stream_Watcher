@@ -324,11 +324,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-10T12:33:57Z",
-        "title": "【メン限】すきなことをしてしゃべるるるる【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "BZgPDZ5tjIE"
-      },
       "name": "輪堂千速"
     },
     {
@@ -465,7 +460,14 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ"
+      "name": "ムーナ・ホシノヴァ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T13:00:00Z",
+          "title": "【Graveyard Keeper】Continue my journey for becoming a graveyard keeper!【hololive | moona】",
+          "video_id": "ZrL_Wtc2yZk"
+        }
+      ]
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -525,5 +527,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T12:40:27Z"
+  "generated_at": "2026-11-10T12:50:26Z"
 }
