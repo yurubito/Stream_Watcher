@@ -451,7 +451,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T12:00:00Z",
+          "title": "【BOMBANANA!】 HOLORO BUT AIRPLANE MODE!! 【Kureiji Ollie】",
+          "video_id": "Eo-KYLCU10g"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -500,5 +507,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T11:20:38Z"
+  "generated_at": "2026-11-10T11:40:33Z"
 }
