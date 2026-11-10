@@ -411,14 +411,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T14:00:00Z",
-          "title": "【Pokémon Emerald Nuzlocke】 Victory Road and the Pokémon League Await!",
-          "video_id": "oaZxyiBKnyA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T14:01:47Z",
+        "title": "【Pokémon Emerald Nuzlocke】 Victory Road and the Pokémon League Await!",
+        "video_id": "oaZxyiBKnyA"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -443,31 +441,16 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-10T12:01:15Z",
-        "title": "【BOMBANANA!】 HOLORO BUT AIRPLANE MODE!! 【Kureiji Ollie】",
-        "video_id": "Eo-KYLCU10g"
-      },
       "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-10T12:01:30Z",
-        "title": "【BOMBANANA!】HOLORO SWEEP, NO EXPLOSION GUARANTEED【hololive holoro | Anya Melfissa】",
-        "video_id": "kHR3VjaW4bA"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-10T12:00:41Z",
-        "title": "【BOMBANANA!】Holoro Monkey Business 3【Pavolia Reine/hololive】",
-        "video_id": "wf0Re4u84vk"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -493,5 +476,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T14:00:56Z"
+  "generated_at": "2026-11-10T14:10:33Z"
 }
