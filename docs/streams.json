@@ -57,11 +57,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-10T09:02:55Z",
-        "title": "【VALORANT】この中で一番初心者だったりします✌【ホロライブ/夏色まつり】",
-        "video_id": "lbi8UiWi4zs"
-      },
       "name": "夏色まつり",
       "upcoming": [
         {
@@ -206,11 +201,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-10T09:00:41Z",
-        "title": "【 VALORANT 】うまい人たちの中で輝く下手な人【 桃鈴ねね / hololive 】",
-        "video_id": "XhBSBiLT21c"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -517,5 +507,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T10:30:43Z"
+  "generated_at": "2026-11-10T10:37:25Z"
 }
