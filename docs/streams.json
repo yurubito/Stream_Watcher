@@ -382,13 +382,13 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-11-10T20:09:57Z",
+        "title": "【BASTION】PLAYING MY FAVOURITE CHILDHOOD GAME AND MAKING YOU WATCH CAUSE IT'S MY BDAY WEEK! #CCWEEK",
+        "video_id": "CMfH_e1UXrY"
+      },
       "name": "セシリア・イマーグリーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T20:10:00Z",
-          "title": "【BASTION】PLAYING MY FAVOURITE CHILDHOOD GAME AND MAKING YOU WATCH CAUSE IT'S MY BDAY WEEK! #CCWEEK",
-          "video_id": "CMfH_e1UXrY"
-        },
         {
           "scheduled_at": "2026-11-14T13:00:00Z",
           "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCREPRISE【日本語字幕付き】",
@@ -466,5 +466,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T19:20:32Z"
+  "generated_at": "2026-11-10T20:10:28Z"
 }
