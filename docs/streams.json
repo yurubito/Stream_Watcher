@@ -257,13 +257,13 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-10T03:01:41Z",
+        "title": "【Soul Chained】#2 鎖に繋がれて運命共同体！！！！！【Koseki Bijou/百灯キョーコ/#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "FyNJO0aVBEc"
+      },
       "name": "輪堂千速",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T03:00:00Z",
-          "title": "【Soul Chained】#2 鎖に繋がれて運命共同体！！！！！【Koseki Bijou/百灯キョーコ/#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "FyNJO0aVBEc"
-        },
         {
           "scheduled_at": "2026-11-10T10:00:00Z",
           "title": "【同時視聴】『楽園追放』莉々華先輩と一緒に見よう！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
@@ -308,14 +308,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T03:00:00Z",
-          "title": "【EN&JP】Chained + Soullike game!! 鎖に繋がれてソウルライクゲーム！ | Soul Chained【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "vK_G9vi58ok"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T03:03:58Z",
+        "title": "【EN&JP】Chained + Soullike game!! 鎖に繋がれてソウルライクゲーム！ | Soul Chained【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "vK_G9vi58ok"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -325,14 +323,12 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T01:00:00Z",
-          "title": "【GOD HAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
-          "video_id": "pcmJoVYzV00"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T01:00:11Z",
+        "title": "【GOD HAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
+        "video_id": "pcmJoVYzV00"
+      },
+      "name": "森カリオペ"
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -367,14 +363,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T03:00:00Z",
-          "title": "【SOUL CHAINED】WE ARE PASSION",
-          "video_id": "hwRDqS5YND4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T03:01:48Z",
+        "title": "【SOUL CHAINED】WE ARE PASSION",
+        "video_id": "hwRDqS5YND4"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -473,5 +467,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-09T23:20:36Z"
+  "generated_at": "2026-11-10T03:10:28Z"
 }
