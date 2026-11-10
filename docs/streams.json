@@ -242,7 +242,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T03:00:00Z",
+          "title": "【定期配信＃50】水曜(木曜)のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
+          "video_id": "U-Epanxn7IA"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -462,5 +469,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T17:30:46Z"
+  "generated_at": "2026-11-10T17:40:28Z"
 }
