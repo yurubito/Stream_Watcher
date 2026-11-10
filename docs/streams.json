@@ -180,11 +180,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-10T11:05:29Z",
-        "title": "【 STREET FIGHTER 6 】立川さんに5勝ボコボコしたら告知スル！【常闇トワ/ホロライブ】",
-        "video_id": "Yt1ksPD19UU"
-      },
       "name": "常闇トワ"
     },
     {
@@ -245,6 +240,11 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-11-10T13:15:16Z",
+        "title": "【 R.E.P.O. 】お宝を沢山集めてお金持ちになる！【音乃瀬奏】#ReGLOSS",
+        "video_id": "ylu_LekLETs"
+      },
       "name": "音乃瀬奏"
     },
     {
@@ -319,11 +319,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-10T11:01:34Z",
-        "title": "【#ホロドリ】ストーリー進めながら、セリフ読みチャレンジ!!!!【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "hGtVdl_6KN4"
-      },
       "name": "宙科そぴあ"
     },
     {
@@ -505,5 +500,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T13:20:41Z"
+  "generated_at": "2026-11-10T13:30:44Z"
 }
