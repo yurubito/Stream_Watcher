@@ -468,7 +468,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T12:00:00Z",
+          "title": "【BOMBANANA!】Holoro Monkey Business 3【Pavolia Reine/hololive】",
+          "video_id": "wf0Re4u84vk"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -493,5 +500,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T11:10:32Z"
+  "generated_at": "2026-11-10T11:20:38Z"
 }
