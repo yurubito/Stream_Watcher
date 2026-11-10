@@ -89,7 +89,24 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T13:00:00Z",
+          "title": "【#生スバル】ロックマンXやるしゅばああああああああああああああああああああああああああああああああ！！！：Mega Man X Legacy Collection【ホロライブ/大空スバル】",
+          "video_id": "d0Jnxy5RZ8w"
+        },
+        {
+          "scheduled_at": "2026-11-12T12:00:00Z",
+          "title": "【#スバおか】戦国時代サバイバルシュミレーター【ホロライブ/大空スバル】",
+          "video_id": "RyumNFImeWU"
+        },
+        {
+          "scheduled_at": "2026-11-13T12:00:00Z",
+          "title": "【#最終回】攻殻機動隊STAND ALONE COMPLEX！！！同時視聴するしゅばああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+          "video_id": "17tiBNZbJro"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -500,5 +517,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T10:01:00Z"
+  "generated_at": "2026-11-10T10:20:30Z"
 }
