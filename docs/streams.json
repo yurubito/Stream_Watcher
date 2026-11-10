@@ -7,7 +7,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-10T13:30:00Z",
-          "title": "【配信予定地】【ときのそら/ホロライブ】",
+          "title": "＃１【ゼルダの伝説 時のオカリナ】リメイクされた！！遊んじゃうぞ！！【ときのそら/ホロライブ】",
           "video_id": "mc6OqEBnNCA"
         }
       ]
@@ -145,11 +145,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-10T11:02:59Z",
-        "title": "【切り抜き鑑賞会】みんなでホロ鯖ARKの切り抜き観るぞおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "alsfEuuWYYY"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -235,11 +230,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-10T12:03:49Z",
-        "title": "【 オフコラボ 】ユニバで買ってきた例のグミなら、さすがに怖がるやろ！【#いぬたかししの怖がらせ隊/ホロライブ】",
-        "video_id": "BYMnrRjbZAQ"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -255,11 +245,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-10T13:00:19Z",
-        "title": "【 R.E.P.O. 】お宝を沢山集めてお金持ちになる！【音乃瀬奏】#ReGLOSS",
-        "video_id": "U6DYgg1GQ-8"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -520,5 +505,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T13:10:38Z"
+  "generated_at": "2026-11-10T13:20:41Z"
 }
