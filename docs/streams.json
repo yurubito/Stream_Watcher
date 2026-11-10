@@ -240,6 +240,11 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-10T03:20:04Z",
+        "title": "【雑談】話すよーーーーーーーー【水宮枢／ホロライブ】",
+        "video_id": "9thpKuQctd8"
+      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -266,7 +271,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-10T10:00:00Z",
-          "title": "【同時視聴】『楽園追放』莉々華先輩と一緒に見よう！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "title": "【同時視聴会】新作映画直前！映画『楽園追放』莉々華先輩と一緒に見よう！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
           "video_id": "bd5nR7lYsU8"
         }
       ]
@@ -467,5 +472,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-10T03:10:28Z"
+  "generated_at": "2026-11-10T04:40:25Z"
 }
