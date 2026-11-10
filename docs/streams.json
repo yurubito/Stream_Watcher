@@ -442,14 +442,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T05:00:00Z",
-          "title": "【Shroom and Gloom】checking map 2!! hmm what now",
-          "video_id": "CVVyTYmmgN8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T04:44:51Z",
+        "title": "【Shroom and Gloom】checking map 2!! hmm what now",
+        "video_id": "CVVyTYmmgN8"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -457,5 +455,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-10T04:50:24Z"
+  "generated_at": "2026-11-10T07:20:24Z"
 }
