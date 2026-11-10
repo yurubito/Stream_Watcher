@@ -13,7 +13,14 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi"
+      "name": "AZKi",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T10:00:00Z",
+          "title": "【オフコラボ】#あずめら 国道トレカ開封！？～推し国道を見つけよう～【ホロライブ / AZKi / 熱千めら】",
+          "video_id": "AhCOzPaFyh4"
+        }
+      ]
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -312,7 +319,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T12:30:00Z",
+          "title": "【メン限】すきなことをしてしゃべるるるる【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "BZgPDZ5tjIE"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -508,5 +522,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T12:20:26Z"
+  "generated_at": "2026-11-10T12:30:39Z"
 }
