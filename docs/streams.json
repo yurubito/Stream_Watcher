@@ -175,14 +175,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T09:00:00Z",
-          "title": "【 VALORANT 】うまい人たちの中で輝く下手な人【 桃鈴ねね / hololive 】",
-          "video_id": "XhBSBiLT21c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T09:00:41Z",
+        "title": "【 VALORANT 】うまい人たちの中で輝く下手な人【 桃鈴ねね / hololive 】",
+        "video_id": "XhBSBiLT21c"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -333,14 +331,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T09:00:00Z",
-          "title": "【VALORANT】先輩方と初フルパ！！かっこいいところをみせるぞ！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "8OrDic721VM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T09:00:33Z",
+        "title": "【VALORANT】先輩方と初フルパ！！かっこいいところをみせるぞ！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "8OrDic721VM"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -494,5 +490,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T08:00:57Z"
+  "generated_at": "2026-11-10T09:00:52Z"
 }
