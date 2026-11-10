@@ -158,7 +158,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T13:00:00Z",
+          "title": "寒　寒　🐙　寒　寒　(・o・🍬)【姫森ルーナ/ホロライブ】",
+          "video_id": "HX9_090YcGI"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -168,7 +175,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T09:00:00Z",
+          "title": "【 VALORANT 】うまい人たちの中で輝く下手な人【 桃鈴ねね / hololive 】",
+          "video_id": "XhBSBiLT21c"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -188,7 +202,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T12:00:00Z",
+          "title": "【 オフコラボ 】ユニバで買ってきた例のグミなら、さすがに怖がるやろ！【#いぬたかししの怖がらせ隊/ホロライブ】",
+          "video_id": "BYMnrRjbZAQ"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -237,7 +258,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T13:00:00Z",
+          "title": "【絨毯を洗うゲーム】久々のチルゲー🎵絨毯洗うど！【ホロライブ  響咲リオナ】",
+          "video_id": "ML-gaU1QP2o"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -247,11 +275,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-10T03:20:04Z",
-        "title": "【雑談】話すよーーーーーーーー【水宮枢／ホロライブ】",
-        "video_id": "9thpKuQctd8"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -281,7 +304,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T10:00:00Z",
+          "title": "【凸待ち】重大告知あり！㊗️2周年突発凸待ち！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+          "video_id": "qPmmRBA9yHE"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -325,11 +355,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-10T01:00:11Z",
-        "title": "【GOD HAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive",
-        "video_id": "pcmJoVYzV00"
-      },
       "name": "森カリオペ"
     },
     {
@@ -459,8 +484,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T13:00:00Z",
+          "title": "【Lyric MV】Switch It Up - Kobo Kanaeru",
+          "video_id": "yVyjAo6j43U"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-11-10T07:30:42Z"
+  "generated_at": "2026-11-10T08:00:57Z"
 }
