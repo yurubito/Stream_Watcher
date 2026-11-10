@@ -133,14 +133,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T11:00:00Z",
-          "title": "【切り抜き鑑賞会】みんなでホロ鯖ARKの切り抜き観るぞおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "alsfEuuWYYY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T11:02:59Z",
+        "title": "【切り抜き鑑賞会】みんなでホロ鯖ARKの切り抜き観るぞおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "alsfEuuWYYY"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -172,14 +170,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T11:00:00Z",
-          "title": "【 STREET FIGHTER 6 】立川さんに5勝ボコボコしたら告知スル！【常闇トワ/ホロライブ】",
-          "video_id": "Yt1ksPD19UU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T11:05:29Z",
+        "title": "【 STREET FIGHTER 6 】立川さんに5勝ボコボコしたら告知スル！【常闇トワ/ホロライブ】",
+        "video_id": "Yt1ksPD19UU"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -314,11 +310,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-10T10:00:24Z",
-        "title": "【凸待ち】重大告知あり！㊗️2周年突発凸待ち！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-        "video_id": "qPmmRBA9yHE"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -329,14 +320,12 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T11:00:00Z",
-          "title": "【#ホロドリ】ストーリー進めながら、セリフ読みチャレンジ!!!!【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "hGtVdl_6KN4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T11:01:34Z",
+        "title": "【#ホロドリ】ストーリー進めながら、セリフ読みチャレンジ!!!!【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "hGtVdl_6KN4"
+      },
+      "name": "宙科そぴあ"
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -504,5 +493,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T11:01:04Z"
+  "generated_at": "2026-11-10T11:10:32Z"
 }
