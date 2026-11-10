@@ -467,7 +467,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T12:00:00Z",
+          "title": "【BOMBANANA!】HOLORO SWEEP, NO EXPLOSION GUARANTEED【hololive holoro | Anya Melfissa】",
+          "video_id": "kHR3VjaW4bA"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -497,5 +504,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T09:20:40Z"
+  "generated_at": "2026-11-10T09:50:31Z"
 }
