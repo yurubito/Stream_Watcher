@@ -57,13 +57,13 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-11-10T09:02:55Z",
+        "title": "【VALORANT】この中で一番初心者だったりします✌【ホロライブ/夏色まつり】",
+        "video_id": "lbi8UiWi4zs"
+      },
       "name": "夏色まつり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T09:00:00Z",
-          "title": "【VALORANT】この中で一番初心者だったりします✌【ホロライブ/夏色まつり】",
-          "video_id": "lbi8UiWi4zs"
-        },
         {
           "scheduled_at": "2026-11-10T13:00:00Z",
           "title": "【R.E.P.O.】フルパきちゃ～！！#ホロREPO【ホロライブ/夏色まつり】",
@@ -121,7 +121,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T11:00:00Z",
+          "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "alsfEuuWYYY"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -217,14 +224,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-10T09:00:00Z",
-          "title": "【VALORANT】再インストールしました(^o^)存在していたはずの記憶をもとにがんばります🔥【風真いろは/ホロライブ】",
-          "video_id": "PMiMH0svbKY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-10T09:02:51Z",
+        "title": "【VALORANT】再インストールしました(^o^)存在していたはずの記憶をもとにがんばります🔥【風真いろは/ホロライブ】",
+        "video_id": "PMiMH0svbKY"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -490,5 +495,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T09:00:52Z"
+  "generated_at": "2026-11-10T09:10:37Z"
 }
