@@ -283,6 +283,11 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-10T21:58:43Z",
+        "title": "【のじゃEnglish】ENGLISH STUDY noja!【ホロライブ/アソビ★まわり隊！/熱千めら】",
+        "video_id": "q3gGvOxaJ7o"
+      },
       "name": "熱千めら"
     },
     {
@@ -473,5 +478,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T22:00:50Z"
+  "generated_at": "2026-11-10T22:10:29Z"
 }
