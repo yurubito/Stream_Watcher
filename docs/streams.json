@@ -383,6 +383,11 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-10T20:10:00Z",
+          "title": "【BASTION】PLAYING MY FAVOURITE CHILDHOOD GAME AND MAKING YOU WATCH CAUSE IT'S MY BDAY WEEK! #CCWEEK",
+          "video_id": "CMfH_e1UXrY"
+        },
+        {
           "scheduled_at": "2026-11-14T13:00:00Z",
           "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCREPRISE【日本語字幕付き】",
           "video_id": "RFKeljZW5s0"
@@ -459,5 +464,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T18:30:42Z"
+  "generated_at": "2026-11-10T18:50:33Z"
 }
