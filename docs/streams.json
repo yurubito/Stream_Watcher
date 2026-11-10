@@ -160,7 +160,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-10T11:00:00Z",
+          "title": "【 STREET FIGHTER 6 】立川さんに5勝ボコボコしたら告知スル！【常闇トワ/ホロライブ】",
+          "video_id": "Yt1ksPD19UU"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -475,11 +482,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-10T04:44:51Z",
-        "title": "【Shroom and Gloom】checking map 2!! hmm what now",
-        "video_id": "CVVyTYmmgN8"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -495,5 +497,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T09:10:37Z"
+  "generated_at": "2026-11-10T09:20:40Z"
 }
