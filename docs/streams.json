@@ -254,7 +254,14 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T12:00:00Z",
+          "title": "【単発予定】サムネ変更前枠予定地【水宮枢／ホロライブ】",
+          "video_id": "Q94508R1j1M"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -349,11 +356,6 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-11-11T17:56:51Z",
-        "title": "【Golden Joystick Awards】Watchalong Grab Your Popcorn",
-        "video_id": "1sVm1G6hrVs"
-      },
       "name": "オーロ・クロニー"
     },
     {
@@ -371,12 +373,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-11T17:52:54Z",
-        "title": "44th Annual Golden Joystick Awards (2026)",
-        "video_id": "I-gZeuWTNsg"
-      },
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T01:00:00Z",
+          "title": "You can call me 'UNCLE'【Sunset Summit】",
+          "video_id": "zdRBTgdgmKA"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -427,13 +431,13 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-11-11T20:27:16Z",
+        "title": "【MY BIRTHDAY!】YOUTUBE vs TWITCH vs TWITTER【THE ULTIMATE CC QUIZ】#CCWEEK",
+        "video_id": "2owfKLjUgaw"
+      },
       "name": "セシリア・イマーグリーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T20:30:00Z",
-          "title": "【MY BIRTHDAY!】YOUTUBE vs TWITCH vs TWITTER【THE ULTIMATE CC QUIZ】#CCWEEK",
-          "video_id": "2owfKLjUgaw"
-        },
         {
           "scheduled_at": "2026-11-14T13:00:00Z",
           "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCREPRISE【日本語字幕付き】",
@@ -459,11 +463,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-11T18:00:53Z",
-        "title": "【Golden Joystick Awards 2026 】Let us shall see！【 iofi / hololive】",
-        "video_id": "6V7jIZvSGZ8"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -474,11 +473,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-11T17:56:10Z",
-        "title": "【#GoldenJoystickAwards】Checking Out The Golden Joystick Awards With Reine!【hololive | Anya Melfissa】",
-        "video_id": "1sYErO3RtU8"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -494,11 +488,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-11T17:59:55Z",
-        "title": "【WATCHALONG】time to watch Golden Joystick Awards 2026 and say YAY together",
-        "video_id": "GhE0UoLdiBQ"
-      },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
         {
@@ -521,5 +510,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T20:10:33Z"
+  "generated_at": "2026-11-11T20:57:42Z"
 }
