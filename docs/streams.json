@@ -225,7 +225,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T13:00:00Z",
+          "title": "らでんそぴあコラボ",
+          "video_id": "UgBhb0UpOrQ"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -294,7 +301,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T03:00:00Z",
+          "title": "【EN】#9 WE ARE FINALLY HERE!!! | Cuphead【Hyakuto Kyoko/Hololive】",
+          "video_id": "3IcHXdagtas"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -431,11 +445,6 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-11T13:00:45Z",
-        "title": "【 APEX LEGENDS 】Husband is here!【 iofi / hololive】",
-        "video_id": "pvLYCKVe5co"
-      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
         {
@@ -512,5 +521,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T15:30:43Z"
+  "generated_at": "2026-11-11T15:50:33Z"
 }
