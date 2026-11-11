@@ -315,6 +315,11 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
+      "live": {
+        "started_at": "2026-11-11T02:59:45Z",
+        "title": "【手元カメラ】FLOW GLOW一番くじ＆ホロ活グッズの実物を最速チェック！【#昼ホロ / #井月みちる】",
+        "video_id": "Dv0NxydLR28"
+      },
       "name": "井月みちる"
     },
     {
@@ -476,5 +481,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T02:10:27Z"
+  "generated_at": "2026-11-11T03:30:41Z"
 }
