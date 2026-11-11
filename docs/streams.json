@@ -337,14 +337,12 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T17:55:00Z",
-          "title": "【Golden Joystick Awards】Watchalong Grab Your Popcorn",
-          "video_id": "1sVm1G6hrVs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T17:56:51Z",
+        "title": "【Golden Joystick Awards】Watchalong Grab Your Popcorn",
+        "video_id": "1sVm1G6hrVs"
+      },
+      "name": "オーロ・クロニー"
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -361,14 +359,12 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T18:00:00Z",
-          "title": "44th Annual Golden Joystick Awards (2026)",
-          "video_id": "I-gZeuWTNsg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T17:52:54Z",
+        "title": "44th Annual Golden Joystick Awards (2026)",
+        "video_id": "I-gZeuWTNsg"
+      },
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -461,14 +457,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T17:55:00Z",
-          "title": "【#GoldenJoystickAwards】Checking Out The Golden Joystick Awards With Reine!【hololive | Anya Melfissa】",
-          "video_id": "1sYErO3RtU8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T17:56:10Z",
+        "title": "【#GoldenJoystickAwards】Checking Out The Golden Joystick Awards With Reine!【hololive | Anya Melfissa】",
+        "video_id": "1sYErO3RtU8"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -484,17 +478,12 @@
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
       "live": {
-        "started_at": "2026-11-11T13:00:30Z",
-        "title": "【Super Bunny Man】SMITTEN trying to do teamwork......................... it failed",
-        "video_id": "LamvKoqWVsk"
+        "started_at": "2026-11-11T17:59:55Z",
+        "title": "【WATCHALONG】time to watch Golden Joystick Awards 2026 and say YAY together",
+        "video_id": "GhE0UoLdiBQ"
       },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T18:00:00Z",
-          "title": "【WATCHALONG】time to watch Golden Joystick Awards 2026 and say YAY together",
-          "video_id": "GhE0UoLdiBQ"
-        },
         {
           "scheduled_at": "2026-11-12T13:08:00Z",
           "title": "【Farm & Feast】THIS GAME IS FINALLY RELEASED!!! HYPPEEEEEEE",
@@ -515,5 +504,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T17:40:29Z"
+  "generated_at": "2026-11-11T18:00:45Z"
 }
