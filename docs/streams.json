@@ -296,14 +296,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T13:00:00Z",
-          "title": "#9 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "_hHR4qUU4rM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T12:59:41Z",
+        "title": "#9 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "_hHR4qUU4rM"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -404,6 +402,11 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-11T20:00:00Z",
+          "title": "【MY BIRTHDAY!】YOUTUBE vs TWITCH vs TWITTER【THE ULTIMATE CC QUIZ】#CCWEEK",
+          "video_id": "2owfKLjUgaw"
+        },
+        {
           "scheduled_at": "2026-11-14T13:00:00Z",
           "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCREPRISE【日本語字幕付き】",
           "video_id": "RFKeljZW5s0"
@@ -428,13 +431,13 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-11-11T13:00:45Z",
+        "title": "【 APEX LEGENDS 】Husband is here!【 iofi / hololive】",
+        "video_id": "pvLYCKVe5co"
+      },
       "name": "アイラニ・イオフィフティーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T13:00:00Z",
-          "title": "【 APEX LEGENDS 】Husband is here!【 iofi / hololive】",
-          "video_id": "pvLYCKVe5co"
-        },
         {
           "scheduled_at": "2026-11-11T18:00:00Z",
           "title": "【Golden Joystick Awards 2026 】Let us shall see！【 iofi / hololive】",
@@ -472,13 +475,13 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-11-11T13:00:30Z",
+        "title": "【Super Bunny Man】SMITTEN trying to do teamwork......................... it failed",
+        "video_id": "LamvKoqWVsk"
+      },
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T13:00:00Z",
-          "title": "【Super Bunny Man】SMITTEN trying to do teamwork......................... it failed",
-          "video_id": "LamvKoqWVsk"
-        },
         {
           "scheduled_at": "2026-11-11T18:00:00Z",
           "title": "【WATCHALONG】time to watch Golden Joystick Awards 2026 and say YAY together",
@@ -504,5 +507,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T12:50:25Z"
+  "generated_at": "2026-11-11T13:01:03Z"
 }
