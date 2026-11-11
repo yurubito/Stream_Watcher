@@ -341,7 +341,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T15:00:00Z",
+          "title": "キツネノマド(Queen Fox) || HAKOS BAELZ COVER 【#ReCOLOR3D】",
+          "video_id": "zA9gwT6y1ps"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -419,11 +426,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-11T13:14:47Z",
-        "title": "Chill Night Gaming : Lil Gator Game",
-        "video_id": "l4Lz9WpaTk4"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -515,5 +517,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T15:00:50Z"
+  "generated_at": "2026-11-11T15:20:28Z"
 }
