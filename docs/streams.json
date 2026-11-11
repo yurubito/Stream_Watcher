@@ -104,13 +104,13 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-11T11:01:04Z",
+        "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
+        "video_id": "2c2qahpayxk"
+      },
       "name": "猫又おかゆ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T11:00:00Z",
-          "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
-          "video_id": "2c2qahpayxk"
-        },
         {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
@@ -121,14 +121,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T11:00:00Z",
-          "title": "とんかつ屋になるブー🐖",
-          "video_id": "9BXpRAhYcjo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T11:01:58Z",
+        "title": "とんかつ屋になるブー🐖",
+        "video_id": "9BXpRAhYcjo"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -476,5 +474,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T11:00:48Z"
+  "generated_at": "2026-11-11T11:10:38Z"
 }
