@@ -294,7 +294,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T13:00:00Z",
+          "title": "#9 最強担当、いざ参る！！※ネタバレあり | 鬼武者 Way of the Sword 【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "_hHR4qUU4rM"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -474,5 +481,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T10:20:29Z"
+  "generated_at": "2026-11-11T10:30:35Z"
 }
