@@ -419,14 +419,12 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T22:00:00Z",
-          "title": "I'm doodling YOUR Original Characters!!!!",
-          "video_id": "h8_2CtnhOvQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T22:04:21Z",
+        "title": "I'm doodling YOUR Original Characters!!!!",
+        "video_id": "h8_2CtnhOvQ"
+      },
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -510,5 +508,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T20:57:42Z"
+  "generated_at": "2026-11-11T22:10:25Z"
 }
