@@ -308,11 +308,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-11-11T02:59:45Z",
-        "title": "【手元カメラ】FLOW GLOW一番くじ＆ホロ活グッズの実物を最速チェック！【#昼ホロ / #井月みちる】",
-        "video_id": "Dv0NxydLR28"
-      },
       "name": "井月みちる"
     },
     {
@@ -380,11 +375,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-11T02:01:09Z",
-        "title": "【DEADLOCK】MORE DEADLOCK MORE DEADLOCK MORE DEADLOCK @HyakutoKyoko​",
-        "video_id": "tNpNejI5B0Q"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -460,6 +450,16 @@
           "scheduled_at": "2026-11-11T13:00:00Z",
           "title": "【Super Bunny Man】SMITTEN trying to do teamwork......................... it failed",
           "video_id": "LamvKoqWVsk"
+        },
+        {
+          "scheduled_at": "2026-11-11T18:00:00Z",
+          "title": "【WATCHALONG】time to watch Golden Joystick Awards 2026 and say YAY together",
+          "video_id": "GhE0UoLdiBQ"
+        },
+        {
+          "scheduled_at": "2026-11-12T13:08:00Z",
+          "title": "【Farm & Feast】THIS GAME IS FINALLY RELEASED!!! HYPPEEEEEEE",
+          "video_id": "1DgmM6D8jo8"
         }
       ]
     },
@@ -476,5 +476,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T04:40:26Z"
+  "generated_at": "2026-11-11T08:00:53Z"
 }
