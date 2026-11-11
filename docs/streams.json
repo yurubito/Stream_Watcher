@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-11T10:00:35Z",
-        "title": "【オフコラボ】#あずめら 国道トレカ開封！？～推し国道を見つけよう～【ホロライブ / AZKi / 熱千めら】",
-        "video_id": "AhCOzPaFyh4"
-      },
       "name": "AZKi"
     },
     {
@@ -191,7 +186,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T14:00:00Z",
+          "title": "【メンバーシップ限定】最近いろいろあったぜ 【鷹嶺ルイ/ホロライブ】",
+          "video_id": "txxqDL6L_hA"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -474,5 +476,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T11:10:38Z"
+  "generated_at": "2026-11-11T11:20:24Z"
 }
