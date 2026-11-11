@@ -283,7 +283,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T10:00:00Z",
+          "title": "サラマンダーから見た人間社会の「空気読み。3」【ホロライブ/熱千めら】",
+          "video_id": "87_E4xb__H0"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -476,5 +483,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T08:00:53Z"
+  "generated_at": "2026-11-11T08:10:22Z"
 }
