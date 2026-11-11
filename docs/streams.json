@@ -203,14 +203,7 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T23:00:00Z",
-          "title": "【朝活】朝、お茶をｼﾊﾞｰｷながらおはなしする人🍵【風真いろは/ホロライブ】",
-          "video_id": "0QHAcaOXA9g"
-        }
-      ]
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -232,14 +225,7 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T13:00:00Z",
-          "title": "らでんそぴあコラボ",
-          "video_id": "UgBhb0UpOrQ"
-        }
-      ]
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -481,11 +467,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-11T13:38:38Z",
-        "title": "More Egg Making!!!! - Omelet You Cook【Pavolia Reine/hololive】",
-        "video_id": "wK5_1tPTAr4"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -528,5 +509,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T16:00:58Z"
+  "generated_at": "2026-11-11T16:10:26Z"
 }
