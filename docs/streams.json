@@ -72,11 +72,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-11-11T14:10:33Z",
-        "title": "【#生スバル】ロックマンXやるしゅばああああああああああああああああああああああああああああああああ！！！：Mega Man X Legacy Collection【ホロライブ/大空スバル】",
-        "video_id": "d0Jnxy5RZ8w"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -203,7 +198,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T23:00:00Z",
+          "title": "【朝活】朝、お茶をｼﾊﾞｰｷながらおはなしする人🍵【風真いろは/ホロライブ】",
+          "video_id": "0QHAcaOXA9g"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -225,7 +227,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T13:00:00Z",
+          "title": "らでんそぴあコラボ",
+          "video_id": "UgBhb0UpOrQ"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -289,7 +298,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T12:00:00Z",
+          "title": "【時のオカリナ  リメイク】#ゼルダの伝説　#３ 探検したり少しストーリー進めたり！！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "9I6sokoCjhA"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -509,5 +525,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T16:10:26Z"
+  "generated_at": "2026-11-11T16:20:27Z"
 }
