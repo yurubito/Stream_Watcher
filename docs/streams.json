@@ -315,14 +315,12 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T00:00:00Z",
-          "title": "【ZELDA: MAJORA'S MASK】you've wet mith a ferrible tate (part 5) #calliolive",
-          "video_id": "zF5ciNsNvKE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T00:00:12Z",
+        "title": "【ZELDA: MAJORA'S MASK】you've wet mith a ferrible tate (part 5) #calliolive",
+        "video_id": "zF5ciNsNvKE"
+      },
+      "name": "森カリオペ"
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -473,5 +471,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-10T23:23:13Z"
+  "generated_at": "2026-11-11T00:00:45Z"
 }
