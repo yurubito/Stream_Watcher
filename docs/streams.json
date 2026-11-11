@@ -325,11 +325,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-11T00:00:12Z",
-        "title": "【ZELDA: MAJORA'S MASK】you've wet mith a ferrible tate (part 5) #calliolive",
-        "video_id": "zF5ciNsNvKE"
-      },
       "name": "森カリオペ"
     },
     {
@@ -466,7 +461,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T13:00:00Z",
+          "title": "【Super Bunny Man】SMITTEN trying to do teamwork......................... it failed",
+          "video_id": "LamvKoqWVsk"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -481,5 +483,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T03:30:41Z"
+  "generated_at": "2026-11-11T04:30:47Z"
 }
