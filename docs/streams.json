@@ -333,7 +333,14 @@
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "group": "EN Promise",
-      "name": "オーロ・クロニー"
+      "name": "オーロ・クロニー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T17:55:00Z",
+          "title": "【Golden Joystick Awards】Watchalong Grab Your Popcorn",
+          "video_id": "1sVm1G6hrVs"
+        }
+      ]
     },
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -360,7 +367,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T01:00:00Z",
+          "title": "BACK TO THE FARM... | Harvest Moon 64",
+          "video_id": "ENowkQRJ0to"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -483,5 +497,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T11:40:30Z"
+  "generated_at": "2026-11-11T12:20:26Z"
 }
