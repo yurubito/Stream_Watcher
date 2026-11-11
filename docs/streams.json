@@ -50,14 +50,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T13:00:00Z",
-          "title": "【APEX】ゴジラコラボと聞いて！よぴぴといくぞ～！【ホロライブ/夏色まつり】",
-          "video_id": "2Sj0u-KdEsQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T13:01:00Z",
+        "title": "【APEX】ゴジラコラボと聞いて！よぴぴといくぞ～！【ホロライブ/夏色まつり】",
+        "video_id": "2Sj0u-KdEsQ"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -421,7 +419,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T13:15:00Z",
+          "title": "Chill Night Gaming : Lil Gator Game",
+          "video_id": "l4Lz9WpaTk4"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -507,5 +512,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T13:01:03Z"
+  "generated_at": "2026-11-11T13:10:32Z"
 }
