@@ -97,6 +97,11 @@
       "name": "猫又おかゆ",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-12T11:00:00Z",
+          "title": "スバおか配信予定地🍙🚑",
+          "video_id": "qwY4M_HC98s"
+        },
+        {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
           "video_id": "JTRI5dPcho0"
@@ -509,5 +514,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T18:10:26Z"
+  "generated_at": "2026-11-11T18:50:29Z"
 }
