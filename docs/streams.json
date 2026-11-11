@@ -327,7 +327,14 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖"
+      "name": "一伊那尓栖",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T01:00:00Z",
+          "title": "【Dressmaker】Wake Up, Makes A Dress, Goes Back To Sleep",
+          "video_id": "vkM-6kWOSGE"
+        }
+      ]
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -440,14 +447,12 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T18:00:00Z",
-          "title": "【Golden Joystick Awards 2026 】Let us shall see！【 iofi / hololive】",
-          "video_id": "6V7jIZvSGZ8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T18:00:53Z",
+        "title": "【Golden Joystick Awards 2026 】Let us shall see！【 iofi / hololive】",
+        "video_id": "6V7jIZvSGZ8"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -504,5 +509,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T18:00:45Z"
+  "generated_at": "2026-11-11T18:10:26Z"
 }
