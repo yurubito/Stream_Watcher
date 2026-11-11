@@ -468,7 +468,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T17:55:00Z",
+          "title": "【#GoldenJoystickAwards】Checking Out The Golden Joystick Awards With Reine!【hololive | Anya Melfissa】",
+          "video_id": "1sYErO3RtU8"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -520,5 +527,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T13:40:25Z"
+  "generated_at": "2026-11-11T13:50:25Z"
 }
