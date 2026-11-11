@@ -77,13 +77,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-11-11T14:10:33Z",
+        "title": "【#生スバル】ロックマンXやるしゅばああああああああああああああああああああああああああああああああ！！！：Mega Man X Legacy Collection【ホロライブ/大空スバル】",
+        "video_id": "d0Jnxy5RZ8w"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T14:00:00Z",
-          "title": "【#生スバル】ロックマンXやるしゅばああああああああああああああああああああああああああああああああ！！！：Mega Man X Legacy Collection【ホロライブ/大空スバル】",
-          "video_id": "d0Jnxy5RZ8w"
-        },
         {
           "scheduled_at": "2026-11-12T12:00:00Z",
           "title": "【#スバおか】戦国時代サバイバルシュミレーター【ホロライブ/大空スバル】",
@@ -104,11 +104,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-11T11:01:04Z",
-        "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
-        "video_id": "2c2qahpayxk"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -198,11 +193,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-11T14:06:39Z",
-        "title": "【メンバーシップ限定】最近いろいろあったぜ 【鷹嶺ルイ/ホロライブ】",
-        "video_id": "txxqDL6L_hA"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -525,5 +515,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T14:10:27Z"
+  "generated_at": "2026-11-11T14:20:31Z"
 }
