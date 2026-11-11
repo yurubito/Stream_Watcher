@@ -278,7 +278,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T09:00:00Z",
+          "title": "【#ホロゆび相撲 】Nintendo Switch Sports Resort！大会前に練習しちゃお！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+          "video_id": "tKf1DL_B_Y4"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -466,5 +473,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T00:10:26Z"
+  "generated_at": "2026-11-11T00:40:26Z"
 }
