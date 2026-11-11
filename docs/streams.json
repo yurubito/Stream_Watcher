@@ -203,7 +203,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T23:00:00Z",
+          "title": "【朝活】朝、お茶をｼﾊﾞｰｷながらおはなしする人🍵【風真いろは/ホロライブ】",
+          "video_id": "0QHAcaOXA9g"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -521,5 +528,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T15:50:33Z"
+  "generated_at": "2026-11-11T16:00:58Z"
 }
