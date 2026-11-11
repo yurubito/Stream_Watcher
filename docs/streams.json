@@ -387,14 +387,12 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-11T02:00:00Z",
-          "title": "【DEADLOCK】MORE DEADLOCK MORE DEADLOCK MORE DEADLOCK @HyakutoKyoko​",
-          "video_id": "tNpNejI5B0Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T02:01:09Z",
+        "title": "【DEADLOCK】MORE DEADLOCK MORE DEADLOCK MORE DEADLOCK @HyakutoKyoko​",
+        "video_id": "tNpNejI5B0Q"
+      },
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -478,5 +476,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T02:00:43Z"
+  "generated_at": "2026-11-11T02:10:27Z"
 }
