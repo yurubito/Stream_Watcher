@@ -295,7 +295,14 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "name": "宙科そぴあ"
+      "name": "宙科そぴあ",
+      "upcoming": [
+        {
+          "scheduled_at": "2028-06-12T15:00:00Z",
+          "title": "【フリーチャット】そぴあのお知らせ掲示板【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "XRJ-pUOo7gU"
+        }
+      ]
     },
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
@@ -483,5 +490,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T08:10:22Z"
+  "generated_at": "2026-11-11T08:40:36Z"
 }
