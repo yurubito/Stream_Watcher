@@ -57,11 +57,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-11T13:01:00Z",
-        "title": "【APEX】ゴジラコラボと聞いて！よぴぴといくぞ～！【ホロライブ/夏色まつり】",
-        "video_id": "2Sj0u-KdEsQ"
-      },
       "name": "夏色まつり"
     },
     {
@@ -515,5 +510,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T14:20:31Z"
+  "generated_at": "2026-11-11T14:30:46Z"
 }
