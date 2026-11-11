@@ -455,7 +455,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-11T13:30:00Z",
+          "title": "More Egg Making!!!! - Omelet You Cook【Pavolia Reine/hololive】",
+          "video_id": "wK5_1tPTAr4"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -497,5 +504,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T12:20:26Z"
+  "generated_at": "2026-11-11T12:50:25Z"
 }
