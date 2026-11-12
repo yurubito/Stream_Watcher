@@ -312,14 +312,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T03:00:00Z",
-          "title": "【EN】#9 WE ARE FINALLY HERE!!! | Cuphead【Hyakuto Kyoko/Hololive】",
-          "video_id": "3IcHXdagtas"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T03:00:33Z",
+        "title": "【EN】#9 WE ARE FINALLY HERE!!! | Cuphead【Hyakuto Kyoko/Hololive】",
+        "video_id": "3IcHXdagtas"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -410,11 +408,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-11T22:04:21Z",
-        "title": "I'm doodling YOUR Original Characters!!!!",
-        "video_id": "h8_2CtnhOvQ"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -494,5 +487,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T04:50:24Z"
+  "generated_at": "2026-11-12T05:10:26Z"
 }
