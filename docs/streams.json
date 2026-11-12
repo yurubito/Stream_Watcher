@@ -207,7 +207,14 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T10:00:00Z",
+          "title": "【気のせいすぎるRPG】すぎるRPGの新作がきたあああああああああああああ気がする。【博衣こより/ホロライブ】",
+          "video_id": "oGrYP8AILrI"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -251,7 +258,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T10:00:00Z",
+          "title": "【脱毛サロンシュミレーター】どうも天才脱毛師のリオナです！【ホロライブ  響咲リオナ】",
+          "video_id": "oZPC-5ShX50"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -278,7 +292,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T09:00:00Z",
+          "title": "【３Dコラボ】ちはヴィヴィでガチバトル！Nintendo Switch Sports Resort【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #輪堂千速 】",
+          "video_id": "Cg4yJRgjKKM"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -319,11 +340,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-12T03:00:33Z",
-        "title": "【EN】#9 WE ARE FINALLY HERE!!! | Cuphead【Hyakuto Kyoko/Hololive】",
-        "video_id": "3IcHXdagtas"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -334,7 +350,14 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T01:00:00Z",
+          "title": "【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with  ⁨@NinomaeInanis⁩  !! #calliolive #PR",
+          "video_id": "EGyR-p-dwc4"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -383,11 +406,6 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-11T23:59:01Z",
-        "title": "【The Legend of Zelda: Ocarina of Time Remake】I wonder what's for dinner",
-        "video_id": "BuWqK7b2llg"
-      },
       "name": "古石ビジュー"
     },
     {
@@ -424,7 +442,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-14T13:00:00Z",
-          "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCREPRISE【日本語字幕付き】",
+          "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
           "video_id": "RFKeljZW5s0"
         }
       ]
@@ -494,5 +512,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T05:20:29Z"
+  "generated_at": "2026-11-12T08:00:53Z"
 }
