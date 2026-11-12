@@ -185,7 +185,14 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ"
+      "name": "尾丸ポルカ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T10:00:00Z",
+          "title": "【ポルカの伝説】入れ替えて答えて！ホロメンアナグラムクイズ！",
+          "video_id": "oYTKz2Gb2vo"
+        }
+      ]
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -487,5 +494,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T05:10:26Z"
+  "generated_at": "2026-11-12T05:20:29Z"
 }
