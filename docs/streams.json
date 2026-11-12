@@ -153,19 +153,24 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T10:00:00Z",
+          "title": "胸枕、最高！！！【ギリギリわるくないわため】 #ギリわる",
+          "video_id": "jLeGubsh1rk"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T10:00:00Z",
-          "title": "【 STREET FIGHTER 6 】SCARZCUP TeamLeshar 顔合わせ【常闇トワ/ホロライブ】",
-          "video_id": "Pjtnu8pdor0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T10:01:14Z",
+        "title": "【 STREET FIGHTER 6 】SCARZCUP TeamLeshar 顔合わせ【常闇トワ/ホロライブ】",
+        "video_id": "Pjtnu8pdor0"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -215,7 +220,14 @@
         "title": "【気のせいすぎるRPG】すぎるRPGの新作がきたあああああああああああああ気がする。【博衣こより/ホロライブ】",
         "video_id": "oGrYP8AILrI"
       },
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T13:00:00Z",
+          "title": "【PUBG MOBILE】クソザコエイムなこよが、まさかのPUBGさんとコラボ～～～ッ！？？？？【博衣こより/ホロライブ】",
+          "video_id": "GHNsyGLAUMg"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -521,5 +533,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T10:00:45Z"
+  "generated_at": "2026-11-12T10:10:25Z"
 }
