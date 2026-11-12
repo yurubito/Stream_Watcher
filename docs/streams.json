@@ -356,6 +356,11 @@
           "scheduled_at": "2026-11-15T01:00:00Z",
           "title": "≪Yakuza 7: Like a Dragon≫ THE EYEBROWS ARE DIFFERENT...First Playthrough #10【SPOILER WARNING】",
           "video_id": "A_mH8BzbqYY"
+        },
+        {
+          "scheduled_at": "2026-11-16T03:00:00Z",
+          "title": "≪OFF-COLLAB KARAOKE・歌枠≫ just two gals singing some anisongs + ANNOUNCEMENT! #RoadToREGALIA",
+          "video_id": "VqkiTQbWk0c"
         }
       ]
     },
@@ -428,6 +433,11 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-12T20:00:00Z",
+          "title": "【TIERLIST】Nah, I'd win (against all of them) #CCWEEK",
+          "video_id": "oBTnjJoVtP0"
+        },
+        {
           "scheduled_at": "2026-11-14T13:00:00Z",
           "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
           "video_id": "RFKeljZW5s0"
@@ -490,5 +500,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-12T15:50:26Z"
+  "generated_at": "2026-11-12T16:10:32Z"
 }
