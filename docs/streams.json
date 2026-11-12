@@ -23,11 +23,6 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-12T09:40:05Z",
-        "title": "【冒頭無料配信】HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 福岡公演",
-        "video_id": "T1BY7ClURCQ"
-      },
       "name": "星街すいせい"
     },
     {
@@ -110,7 +105,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-12T12:00:00Z",
-          "title": "#スバおか 戦国時代に行くってよ",
+          "title": "#スバおか 戦国時代に行くってよ─────★",
           "video_id": "qwY4M_HC98s"
         },
         {
@@ -305,11 +300,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-12T09:00:12Z",
-        "title": "【３Dコラボ】ちはヴィヴィでガチバトル！Nintendo Switch Sports Resort【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #輪堂千速 】",
-        "video_id": "Cg4yJRgjKKM"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -535,5 +525,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T10:20:26Z"
+  "generated_at": "2026-11-12T10:50:28Z"
 }
