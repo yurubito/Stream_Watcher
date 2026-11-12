@@ -388,13 +388,13 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-11-12T00:54:55Z",
+        "title": "BACK TO THE FARM... | Harvest Moon 64",
+        "video_id": "ENowkQRJ0to"
+      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T01:00:00Z",
-          "title": "BACK TO THE FARM... | Harvest Moon 64",
-          "video_id": "ENowkQRJ0to"
-        },
         {
           "scheduled_at": "2026-11-14T02:00:00Z",
           "title": "Winds of Change | Shattered Legends | Episode 1",
@@ -499,5 +499,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T00:50:24Z"
+  "generated_at": "2026-11-12T01:00:50Z"
 }
