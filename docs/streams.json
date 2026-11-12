@@ -94,7 +94,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T11:00:00Z",
+          "title": "【Don't Let It Starve】お弁当ならまかせろ！！！！！！！【ホロライブ/大神ミオ】",
+          "video_id": "dHBY3jqeYRA"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -195,11 +202,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-12T10:00:07Z",
-        "title": "【ポルカの伝説】入れ替えて答えて！ホロメンアナグラムクイズ！",
-        "video_id": "oYTKz2Gb2vo"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -533,5 +535,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T10:10:25Z"
+  "generated_at": "2026-11-12T10:20:26Z"
 }
