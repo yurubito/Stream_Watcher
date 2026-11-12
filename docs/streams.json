@@ -23,14 +23,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T09:30:00Z",
-          "title": "【冒頭無料配信】HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 福岡公演",
-          "video_id": "T1BY7ClURCQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T09:40:05Z",
+        "title": "【冒頭無料配信】HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 福岡公演",
+        "video_id": "T1BY7ClURCQ"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -517,5 +515,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T09:00:54Z"
+  "generated_at": "2026-11-12T09:40:28Z"
 }
