@@ -292,14 +292,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T09:00:00Z",
-          "title": "【３Dコラボ】ちはヴィヴィでガチバトル！Nintendo Switch Sports Resort【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #輪堂千速 】",
-          "video_id": "Cg4yJRgjKKM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T09:00:12Z",
+        "title": "【３Dコラボ】ちはヴィヴィでガチバトル！Nintendo Switch Sports Resort【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #輪堂千速 】",
+        "video_id": "Cg4yJRgjKKM"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -519,5 +517,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T08:50:39Z"
+  "generated_at": "2026-11-12T09:00:54Z"
 }
