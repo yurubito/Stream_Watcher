@@ -271,11 +271,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-12T10:00:09Z",
-        "title": "【脱毛サロンシュミレーター】どうも天才脱毛師のリオナです！【ホロライブ  響咲リオナ】",
-        "video_id": "oZPC-5ShX50"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -534,5 +529,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T12:10:29Z"
+  "generated_at": "2026-11-12T12:20:29Z"
 }
