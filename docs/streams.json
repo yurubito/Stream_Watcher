@@ -244,7 +244,14 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T13:00:00Z",
+          "title": "【めっちゃカメレオン】大人数でも全員みつける✋すう視点【水宮枢／ホロライブ】",
+          "video_id": "haXn0kVN9uo"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -500,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-12T16:10:32Z"
+  "generated_at": "2026-11-12T16:20:36Z"
 }
