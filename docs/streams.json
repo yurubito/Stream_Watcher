@@ -92,11 +92,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-12T11:00:18Z",
-        "title": "【Don't Let It Starve】お弁当ならまかせろ！！！！！！！【ホロライブ/大神ミオ】",
-        "video_id": "dHBY3jqeYRA"
-      },
       "name": "大神ミオ"
     },
     {
@@ -272,11 +267,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-12T12:03:36Z",
-        "title": "【マリオカート8DX】マリカしよ【水宮枢／ホロライブ】",
-        "video_id": "Q94508R1j1M"
-      },
       "name": "水宮枢"
     },
     {
@@ -509,5 +499,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-12T13:10:32Z"
+  "generated_at": "2026-11-12T13:40:31Z"
 }
