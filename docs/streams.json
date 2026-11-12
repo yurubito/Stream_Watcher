@@ -190,14 +190,12 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "name": "尾丸ポルカ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T10:00:00Z",
-          "title": "【ポルカの伝説】入れ替えて答えて！ホロメンアナグラムクイズ！",
-          "video_id": "oYTKz2Gb2vo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T10:00:07Z",
+        "title": "【ポルカの伝説】入れ替えて答えて！ホロメンアナグラムクイズ！",
+        "video_id": "oYTKz2Gb2vo"
+      },
+      "name": "尾丸ポルカ"
     },
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
@@ -212,14 +210,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T10:00:00Z",
-          "title": "【気のせいすぎるRPG】すぎるRPGの新作がきたあああああああああああああ気がする。【博衣こより/ホロライブ】",
-          "video_id": "oGrYP8AILrI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T09:59:24Z",
+        "title": "【気のせいすぎるRPG】すぎるRPGの新作がきたあああああああああああああ気がする。【博衣こより/ホロライブ】",
+        "video_id": "oGrYP8AILrI"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -263,14 +259,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T10:00:00Z",
-          "title": "【脱毛サロンシュミレーター】どうも天才脱毛師のリオナです！【ホロライブ  響咲リオナ】",
-          "video_id": "oZPC-5ShX50"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T10:00:09Z",
+        "title": "【脱毛サロンシュミレーター】どうも天才脱毛師のリオナです！【ホロライブ  響咲リオナ】",
+        "video_id": "oZPC-5ShX50"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -307,14 +301,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T10:00:00Z",
-          "title": "サラマンダーから見た人間社会の「空気読み。3」【ホロライブ/熱千めら】",
-          "video_id": "87_E4xb__H0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T09:58:35Z",
+        "title": "サラマンダーから見た人間社会の「空気読み。3」【ホロライブ/熱千めら】",
+        "video_id": "87_E4xb__H0"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -443,7 +435,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T22:00:00Z",
+          "title": "【TRAILS IN THE SKY: 1ST CHAPTER】LETS START TOURNAMENT ARC!!!!",
+          "video_id": "NIu4TRnmERk"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -522,5 +521,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T09:50:27Z"
+  "generated_at": "2026-11-12T10:00:45Z"
 }
