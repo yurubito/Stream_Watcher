@@ -308,11 +308,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-12T09:58:35Z",
-        "title": "サラマンダーから見た人間社会の「空気読み。3」【ホロライブ/熱千めら】",
-        "video_id": "87_E4xb__H0"
-      },
       "name": "熱千めら"
     },
     {
@@ -496,7 +491,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T11:30:00Z",
+          "title": "Let Me Listen to Your Troubles - Coffee Talk Tokyo【Pavolia Reine/hololive】",
+          "video_id": "hPq5PfEkLdI"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -528,5 +530,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T11:10:28Z"
+  "generated_at": "2026-11-12T11:30:44Z"
 }
