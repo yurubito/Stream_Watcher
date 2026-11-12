@@ -383,14 +383,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T00:00:00Z",
-          "title": "【The Legend of Zelda: Ocarina of Time Remake】I wonder what's for dinner",
-          "video_id": "BuWqK7b2llg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-11T23:59:01Z",
+        "title": "【The Legend of Zelda: Ocarina of Time Remake】I wonder what's for dinner",
+        "video_id": "BuWqK7b2llg"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -501,5 +499,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-11T23:00:54Z"
+  "generated_at": "2026-11-12T00:00:50Z"
 }
