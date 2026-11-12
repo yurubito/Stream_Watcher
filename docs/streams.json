@@ -299,7 +299,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T03:00:00Z",
+          "title": "【EN】Horror game... but cozy!? Sounds great!! | The Plant Shop【Hyakuto Kyoko/Hololive】",
+          "video_id": "KnnG-0TPxj8"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -320,6 +327,11 @@
           "scheduled_at": "2026-11-14T04:30:00Z",
           "title": "【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive",
           "video_id": "tQYcVwPhcKI"
+        },
+        {
+          "scheduled_at": "2026-11-15T00:00:00Z",
+          "title": "【DRAWING WITH...】...mori calliope? #calliolive #PR #DesktopMate",
+          "video_id": "I3hlBx8MeQE"
         }
       ]
     },
@@ -484,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-12T14:20:26Z"
+  "generated_at": "2026-11-12T14:30:47Z"
 }
