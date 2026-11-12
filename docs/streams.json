@@ -394,6 +394,11 @@
           "scheduled_at": "2026-11-12T01:00:00Z",
           "title": "BACK TO THE FARM... | Harvest Moon 64",
           "video_id": "ENowkQRJ0to"
+        },
+        {
+          "scheduled_at": "2026-11-14T02:00:00Z",
+          "title": "Winds of Change | Shattered Legends | Episode 1",
+          "video_id": "TZro-823L38"
         }
       ]
     },
@@ -494,5 +499,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T00:20:32Z"
+  "generated_at": "2026-11-12T00:50:24Z"
 }
