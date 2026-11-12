@@ -474,7 +474,14 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー"
+      "name": "クレイジー・オリー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T13:00:00Z",
+          "title": "【MECCHA CHAMELEON】 BIG COLLAB!! TIME FOR ZOMBIE CAMOUFLAGE!! 【Kureiji Ollie】",
+          "video_id": "P0Kkuvovr04"
+        }
+      ]
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
@@ -507,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-12T16:20:36Z"
+  "generated_at": "2026-11-12T16:50:31Z"
 }
