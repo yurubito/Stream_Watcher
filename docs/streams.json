@@ -65,11 +65,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-11-12T12:01:15Z",
-        "title": "【#スバおか】戦国時代サバイバルシュミレーターやるしゅばあああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "RyumNFImeWU"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -87,11 +82,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-12T12:00:14Z",
-        "title": "#スバおか 戦国時代に行くってよ─────★",
-        "video_id": "qwY4M_HC98s"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -232,11 +222,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-12T13:05:45Z",
-        "title": "らでんそぴあコラボ",
-        "video_id": "UgBhb0UpOrQ"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -364,6 +349,11 @@
           "scheduled_at": "2026-11-14T01:00:00Z",
           "title": "≪Ring Fit Adventure≫ Defeating Dragaux to save REGALIA! #RoadToREGALIA",
           "video_id": "P-fdVPfHOIM"
+        },
+        {
+          "scheduled_at": "2026-11-15T01:00:00Z",
+          "title": "≪Yakuza 7: Like a Dragon≫ THE EYEBROWS ARE DIFFERENT...First Playthrough #10【SPOILER WARNING】",
+          "video_id": "A_mH8BzbqYY"
         }
       ]
     },
@@ -496,5 +486,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-12T14:50:35Z"
+  "generated_at": "2026-11-12T15:00:53Z"
 }
