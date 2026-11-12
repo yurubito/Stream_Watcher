@@ -45,14 +45,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T11:00:00Z",
-          "title": "【FINAL FANTASY XIV】続✕3!! 極マウント周回で阿鼻叫喚しよう　※ネタバレあり※【ホロライブ/白上フブ/風真いろは】",
-          "video_id": "0dla05cbNY8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T11:08:11Z",
+        "title": "【FINAL FANTASY XIV】続✕3!! 極マウント周回で阿鼻叫喚しよう　※ネタバレあり※【ホロライブ/白上フブ/風真いろは】",
+        "video_id": "0dla05cbNY8"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -121,13 +119,13 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-11-12T11:00:51Z",
+        "title": "【気のせいすぎるRPG】神ゲーの予感は気のせいではなさそう【ホロライブ/兎田ぺこら】",
+        "video_id": "kyMhlh8MGDE"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T11:00:00Z",
-          "title": "【気のせいすぎるRPG】神ゲーの予感は気のせいではなさそう【ホロライブ/兎田ぺこら】",
-          "video_id": "kyMhlh8MGDE"
-        },
         {
           "scheduled_at": "2026-11-12T13:00:00Z",
           "title": "#3【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
@@ -530,5 +528,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T11:00:47Z"
+  "generated_at": "2026-11-12T11:10:28Z"
 }
