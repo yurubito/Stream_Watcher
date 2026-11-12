@@ -340,7 +340,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T13:00:00Z",
+          "title": "デス桃太郎！？カオスな予感しかしない旅に…デスどんぶらこ～～！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "6_tVlAOOnxE"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -512,5 +519,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T08:00:53Z"
+  "generated_at": "2026-11-12T08:40:29Z"
 }
