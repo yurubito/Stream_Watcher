@@ -89,14 +89,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T11:00:00Z",
-          "title": "【Don't Let It Starve】お弁当ならまかせろ！！！！！！！【ホロライブ/大神ミオ】",
-          "video_id": "dHBY3jqeYRA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T11:00:18Z",
+        "title": "【Don't Let It Starve】お弁当ならまかせろ！！！！！！！【ホロライブ/大神ミオ】",
+        "video_id": "dHBY3jqeYRA"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -177,7 +175,14 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ"
+      "name": "姫森ルーナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T10:00:00Z",
+          "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃４【姫森ルーナ/ホロライブ】",
+          "video_id": "Vo9WRfC5jxc"
+        }
+      ]
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -525,5 +530,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T10:50:28Z"
+  "generated_at": "2026-11-12T11:00:47Z"
 }
