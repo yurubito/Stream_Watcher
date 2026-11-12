@@ -52,7 +52,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T11:00:00Z",
+          "title": "【FINAL FANTASY XIV】続✕3!! 極マウント周回で阿鼻叫喚しよう　※ネタバレあり※【ホロライブ/白上フブ/風真いろは】",
+          "video_id": "0dla05cbNY8"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -497,5 +504,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T01:10:30Z"
+  "generated_at": "2026-11-12T03:10:26Z"
 }
