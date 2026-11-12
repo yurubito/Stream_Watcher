@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T13:00:00Z",
-          "title": "【ホロライブドリームス】イオフィちゃんがきたぞおおおおお！！【ときのそら/ホロライブ】",
-          "video_id": "sQ7IjfpOzpA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T12:59:46Z",
+        "title": "【ホロライブドリームス】イオフィちゃんがきたぞおおおおお！！【ときのそら/ホロライブ】",
+        "video_id": "sQ7IjfpOzpA"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -126,14 +124,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T13:00:00Z",
-          "title": "#3【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
-          "video_id": "hRrLTHudlN8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T12:56:47Z",
+        "title": "#3【初見】『無職転生 Ⅱ ~異世界行ったら本気だす~』2期 同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "hRrLTHudlN8"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -217,11 +213,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-12T09:59:24Z",
-        "title": "【気のせいすぎるRPG】すぎるRPGの新作がきたあああああああああああああ気がする。【博衣こより/ホロライブ】",
-        "video_id": "oGrYP8AILrI"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -330,14 +321,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T13:00:00Z",
-          "title": "デス桃太郎！？カオスな予感しかしない旅に…デスどんぶらこ～～！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "6_tVlAOOnxE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T12:59:36Z",
+        "title": "デス桃太郎！？カオスな予感しかしない旅に…デスどんぶらこ～～！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "6_tVlAOOnxE"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -521,15 +510,13 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T13:00:00Z",
-          "title": "【Lyric MV】Switch It Up - Kobo Kanaeru",
-          "video_id": "yVyjAo6j43U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T13:00:10Z",
+        "title": "【Lyric MV】Switch It Up - Kobo Kanaeru",
+        "video_id": "yVyjAo6j43U"
+      },
+      "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-12T12:50:37Z"
+  "generated_at": "2026-11-12T13:00:48Z"
 }
