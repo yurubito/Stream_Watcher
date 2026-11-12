@@ -418,6 +418,11 @@
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-13T01:00:00Z",
+          "title": "Advent's back at it again! | Sunset Summit",
+          "video_id": "Pj8-ZLo5uTY"
+        },
+        {
           "scheduled_at": "2026-11-14T02:00:00Z",
           "title": "Winds of Change | Shattered Legends | Episode 1",
           "video_id": "TZro-823L38"
@@ -466,7 +471,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T12:00:00Z",
+          "title": "Tim S.A.R. memanshiiingggggggg @sammybollivienn @sayaayaaulya",
+          "video_id": "JTSNH_p__p4"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -491,14 +503,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-12T11:30:00Z",
-          "title": "Let Me Listen to Your Troubles - Coffee Talk Tokyo【Pavolia Reine/hololive】",
-          "video_id": "hPq5PfEkLdI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-12T11:30:58Z",
+        "title": "Let Me Listen to Your Troubles - Coffee Talk Tokyo【Pavolia Reine/hololive】",
+        "video_id": "hPq5PfEkLdI"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -530,5 +540,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T11:30:44Z"
+  "generated_at": "2026-11-12T11:40:37Z"
 }
