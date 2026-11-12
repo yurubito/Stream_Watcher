@@ -119,11 +119,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-12T11:00:51Z",
-        "title": "【気のせいすぎるRPG】神ゲーの予感は気のせいではなさそう【ホロライブ/兎田ぺこら】",
-        "video_id": "kyMhlh8MGDE"
-      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
@@ -529,5 +524,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T12:20:29Z"
+  "generated_at": "2026-11-12T12:30:40Z"
 }
