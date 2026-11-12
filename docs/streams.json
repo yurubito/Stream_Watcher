@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-12T13:00:00Z",
+          "title": "【ホロライブドリームス】イオフィちゃんがきたぞおおおおお！！【ときのそら/ホロライブ】",
+          "video_id": "sQ7IjfpOzpA"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -524,5 +531,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-12T12:30:40Z"
+  "generated_at": "2026-11-12T12:50:37Z"
 }
