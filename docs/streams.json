@@ -69,14 +69,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【めっちゃカメレオン】灯台下暗し～！！【ホロライブ/夏色まつり】",
-          "video_id": "YKxMu86GO1g"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T13:00:15Z",
+        "title": "【めっちゃカメレオン】灯台下暗し～！！【ホロライブ/夏色まつり】",
+        "video_id": "YKxMu86GO1g"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -165,14 +163,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【 めっちゃカメレオン 】何気に、わためぇ初めちゃカメです！ﾄﾞｷﾄﾞｷ...！！！【角巻わため/ホロライブ４期生】",
-          "video_id": "YZh1vbE9mHU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T13:00:15Z",
+        "title": "【 めっちゃカメレオン 】何気に、わためぇ初めちゃカメです！ﾄﾞｷﾄﾞｷ...！！！【角巻わため/ホロライブ４期生】",
+        "video_id": "YZh1vbE9mHU"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -244,13 +240,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-13T13:00:15Z",
+        "title": "【PUBG MOBILE】クソザコエイムなこよが、まさかのPUBGさんとコラボ～～～ッ！？？？？【博衣こより/ホロライブ】",
+        "video_id": "GHNsyGLAUMg"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【PUBG MOBILE】クソザコエイムなこよが、まさかのPUBGさんとコラボ～～～ッ！？？？？【博衣こより/ホロライブ】",
-          "video_id": "GHNsyGLAUMg"
-        },
         {
           "scheduled_at": "2026-11-14T02:00:00Z",
           "title": "【空の軌跡 the 2nd】完全初見！第7章やってくぞおおおおお！！！ #8 【博衣こより/ホロライブ】※ネタバレあり",
@@ -266,14 +262,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【 めっちゃカメレオン 】お絵描きしてかくれんぼ！【音乃瀬奏】#ReGLOSS",
-          "video_id": "iXvyuuPr2E4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T13:01:01Z",
+        "title": "【 めっちゃカメレオン 】お絵描きしてかくれんぼ！【音乃瀬奏】#ReGLOSS",
+        "video_id": "iXvyuuPr2E4"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -288,14 +282,12 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【ホロライブ麻雀 -ホロじゃん-】先行プレイやってみよー！！！【儒烏風亭らでん #ReGLOSS 】",
-          "video_id": "fVZ-DDD2N0c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T13:01:15Z",
+        "title": "【ホロライブ麻雀 -ホロじゃん-】先行プレイやってみよー！！！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "fVZ-DDD2N0c"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -315,14 +307,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【めっちゃカメレオン】大人数でも全員みつける✋すう視点【水宮枢／ホロライブ】",
-          "video_id": "haXn0kVN9uo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T13:00:16Z",
+        "title": "【めっちゃカメレオン】大人数でも全員みつける✋すう視点【水宮枢／ホロライブ】",
+        "video_id": "haXn0kVN9uo"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -356,13 +346,13 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-13T13:01:16Z",
+        "title": "【めっちゃカメレオン】カモフラージュも科学っ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "y7XSwAlbWT0"
+      },
       "name": "宙科そぴあ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【めっちゃカメレオン】カモフラージュも科学っ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "y7XSwAlbWT0"
-        },
         {
           "scheduled_at": "2028-06-12T15:00:00Z",
           "title": "【フリーチャット】そぴあのお知らせ掲示板【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
@@ -388,13 +378,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-11-13T12:58:55Z",
+        "title": "【Meccha Chameleon】best hunter pov #calliolive",
+        "video_id": "k7VJs1kk8-c"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【Meccha Chameleon】best hunter pov #calliolive",
-          "video_id": "k7VJs1kk8-c"
-        },
         {
           "scheduled_at": "2026-11-14T04:30:00Z",
           "title": "【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive",
@@ -538,26 +528,22 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "name": "クレイジー・オリー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【MECCHA CHAMELEON】 BIG COLLAB!! TIME FOR ZOMBIE CAMOUFLAGE!! 【Kureiji Ollie】",
-          "video_id": "P0Kkuvovr04"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T13:00:31Z",
+        "title": "【MECCHA CHAMELEON】 BIG COLLAB!! TIME FOR ZOMBIE CAMOUFLAGE!! 【Kureiji Ollie】",
+        "video_id": "P0Kkuvovr04"
+      },
+      "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:00:00Z",
-          "title": "【Meccha Chameleon】BIG CHAMELEON COLLAB! みんなとめっちゃカメレオン！【hololive holoro | Anya Melfissa】",
-          "video_id": "D1O7D1qyqEA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T13:00:34Z",
+        "title": "【Meccha Chameleon】BIG CHAMELEON COLLAB! みんなとめっちゃカメレオン！【hololive holoro | Anya Melfissa】",
+        "video_id": "D1O7D1qyqEA"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -580,7 +566,7 @@
       "name": "カエラ・コヴァルスキア",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-13T13:00:00Z",
+          "scheduled_at": "2026-11-13T13:15:00Z",
           "title": "【over the hill】OFFROAD WITH SKJ",
           "video_id": "JVpNiISgTk0"
         }
@@ -592,5 +578,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T12:50:54Z"
+  "generated_at": "2026-11-13T13:02:06Z"
 }
