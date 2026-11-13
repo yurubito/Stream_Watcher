@@ -172,11 +172,6 @@
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-13T10:00:20Z",
-        "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃４【姫森ルーナ/ホロライブ】",
-        "video_id": "Vo9WRfC5jxc"
-      },
       "name": "姫森ルーナ"
     },
     {
@@ -251,11 +246,6 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-13T12:01:03Z",
-        "title": "【完全初見】大妖精って…誰！？！ ゼルダの伝説 時のオカリナ part4【一条莉々華/hololive ReGLOSS】",
-        "video_id": "2h5zCDLxXrA"
-      },
       "name": "一条莉々華"
     },
     {
@@ -527,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T15:54:53Z"
+  "generated_at": "2026-11-13T16:04:44Z"
 }
