@@ -62,7 +62,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T13:00:00Z",
+          "title": "【めっちゃカメレオン】灯台下暗し～！！【ホロライブ/夏色まつり】",
+          "video_id": "YKxMu86GO1g"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -260,7 +267,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T13:00:00Z",
+          "title": "【 めっちゃカメレオン 】【音乃瀬奏】#ReGLOSS",
+          "video_id": "iXvyuuPr2E4"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -582,5 +596,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T10:10:38Z"
+  "generated_at": "2026-11-13T10:30:53Z"
 }
