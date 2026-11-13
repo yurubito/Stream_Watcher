@@ -278,7 +278,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T10:00:00Z",
+          "title": "二人なら…いけるか…?! 幽霊調査ホラゲ「Phasmophobia」【ホロライブ/百灯キョーコ/熱千めら】",
+          "video_id": "xebosvJFBR0"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -410,14 +417,7 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T01:00:00Z",
-          "title": "【SUNSET SUMMIT】ADVENT ON TOP",
-          "video_id": "6Y44pwznOBc"
-        }
-      ]
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -531,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T03:20:21Z"
+  "generated_at": "2026-11-13T03:40:25Z"
 }
