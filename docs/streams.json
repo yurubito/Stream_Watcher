@@ -454,13 +454,13 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-11-13T17:12:54Z",
+        "title": "【JOHN WICK】Forcing you to watch my fav action flick with me cause it's my bday (week) #CCWEEK",
+        "video_id": "nSbZ7y6C7vk"
+      },
       "name": "セシリア・イマーグリーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T17:10:00Z",
-          "title": "【JOHN WICK】Forcing you to watch my fav action flick with me cause it's my bday (week) #CCWEEK",
-          "video_id": "nSbZ7y6C7vk"
-        },
         {
           "scheduled_at": "2026-11-14T13:00:00Z",
           "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
@@ -524,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T17:04:20Z"
+  "generated_at": "2026-11-13T17:23:47Z"
 }
