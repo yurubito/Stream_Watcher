@@ -74,7 +74,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T15:30:00Z",
+          "title": "【FINAL FANTASY XIV】深夜の初見の極ゴルベーザ　※ネタバレあり※【ホロライブ/白上フブキ】",
+          "video_id": "yj4tqoAyCRU"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -116,11 +123,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-13T12:00:03Z",
-        "title": "【 ONE PIECE 海のごちそうレストラン 】麦わら一味とレストラン経営するぞ!🍖! ※ネタバレあり【 猫又おかゆ/ホロライブ 】",
-        "video_id": "qr77W-ixPIU"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -406,11 +408,6 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-11-13T15:00:10Z",
-        "title": "キツネノマド(Queen Fox) || HAKOS BAELZ COVER 【#ReCOLOR3D】",
-        "video_id": "zA9gwT6y1ps"
-      },
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
@@ -547,5 +544,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T15:01:29Z"
+  "generated_at": "2026-11-13T15:10:54Z"
 }
