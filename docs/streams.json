@@ -40,7 +40,14 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと"
+      "name": "赤井はあと",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T10:00:00Z",
+          "title": "【宮城】過去最大にミスった・・・【ホロライブ/赤井はあと】",
+          "video_id": "dTwnhH-Clko"
+        }
+      ]
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -273,7 +280,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T09:30:00Z",
+          "title": "【絶対遵守】「禁止行為」を一度でも犯すとその瞬間に即ゲームオーバー！？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW #輪堂千速 】",
+          "video_id": "RZ4uNWTCXhI"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -314,13 +328,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-13T02:59:46Z",
+        "title": "【EN】Horror game... but cozy!? Sounds great!! | The Plant Shop【Hyakuto Kyoko/Hololive】",
+        "video_id": "KnnG-0TPxj8"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T03:00:00Z",
-          "title": "【EN】Horror game... but cozy!? Sounds great!! | The Plant Shop【Hyakuto Kyoko/Hololive】",
-          "video_id": "KnnG-0TPxj8"
-        },
         {
           "scheduled_at": "2026-11-13T10:00:00Z",
           "title": "【コラボ】 同期にはかっこつけたい Phasmophobia　【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -331,16 +345,16 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
+      "live": {
+        "started_at": "2026-11-13T02:55:33Z",
+        "title": "【スマホで参戦】ReGLOSS ARライブ「X-ReCHORD」リアルとバーチャルが交差する新体験！【#昼ホロ / #花園さやか】",
+        "video_id": "2Yp9XN9_NlU"
+      },
       "name": "井月みちる"
     },
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-13T00:59:58Z",
-        "title": "【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with  ⁨@NinomaeInanis⁩  !! #calliolive #PR",
-        "video_id": "EGyR-p-dwc4"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -408,9 +422,9 @@
       "name": "シオリ・ノヴェラ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-13T01:00:00Z",
-          "title": "You can call me 'UNCLE'【Sunset Summit】",
-          "video_id": "zdRBTgdgmKA"
+          "scheduled_at": "2026-11-14T00:00:00Z",
+          "title": "Framing your soul because it's so cute! 【Soulframe】#ad",
+          "video_id": "4wP4ogdy814"
         }
       ]
     },
@@ -422,11 +436,6 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-13T00:56:08Z",
-        "title": "Advent's back at it again! | Sunset Summit",
-        "video_id": "Pj8-ZLo5uTY"
-      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
         {
@@ -531,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T03:40:25Z"
+  "generated_at": "2026-11-13T04:10:22Z"
 }
