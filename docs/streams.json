@@ -69,14 +69,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T15:30:00Z",
-          "title": "【FINAL FANTASY XIV】深夜の初見の極ゴルベーザ　※ネタバレあり※【ホロライブ/白上フブキ】",
-          "video_id": "yj4tqoAyCRU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T15:33:35Z",
+        "title": "【FINAL FANTASY XIV】深夜の初見の極ゴルベーザ　※ネタバレあり※【ホロライブ/白上フブキ】",
+        "video_id": "yj4tqoAyCRU"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -534,5 +532,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T15:32:43Z"
+  "generated_at": "2026-11-13T15:41:51Z"
 }
