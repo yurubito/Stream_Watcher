@@ -59,11 +59,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-13T15:33:35Z",
-        "title": "【FINAL FANTASY XIV】深夜の初見の極ゴルベーザ　※ネタバレあり※【ホロライブ/白上フブキ】",
-        "video_id": "yj4tqoAyCRU"
-      },
       "name": "白上フブキ"
     },
     {
@@ -471,7 +466,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T14:00:00Z",
+          "title": "【UNDERTALE】this is the end, is it not???【Genocide Run】",
+          "video_id": "bGVYY8c_0Ek"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -524,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T17:23:47Z"
+  "generated_at": "2026-11-13T17:43:01Z"
 }
