@@ -145,11 +145,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-13T11:59:43Z",
-        "title": "浮気した夫に全部吐かせる。【ホロライブ/兎田ぺこら】",
-        "video_id": "ejlKD5gtjLc"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -335,11 +330,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-13T13:01:16Z",
-        "title": "【めっちゃカメレオン】カモフラージュも科学っ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "y7XSwAlbWT0"
-      },
       "name": "宙科そぴあ",
       "upcoming": [
         {
@@ -363,6 +353,11 @@
           "scheduled_at": "2026-11-14T03:00:00Z",
           "title": "【EN】BACK TO FNAF... AGAIN!!!!!!  | Five Nights at Freddy's 3【Hyakuto Kyoko/Hololive】",
           "video_id": "iREhG0-br1g"
+        },
+        {
+          "scheduled_at": "2026-11-14T13:30:00Z",
+          "title": "#7 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "Qub3zqdk8NQ"
         }
       ]
     },
@@ -552,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T14:20:49Z"
+  "generated_at": "2026-11-13T14:30:58Z"
 }
