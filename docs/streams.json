@@ -198,7 +198,14 @@
         "title": "【夜雑談】告知あり！！今年の生誕、アレやります【​雪花ラミィ /ホロライブ】",
         "video_id": "1yEvpTM1GGk"
       },
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T14:30:00Z",
+          "title": "【晩酌】生誕前夜祭！！誕生日カウントダウン！！【​雪花ラミィ /ホロライブ】",
+          "video_id": "Mj_V7G27VvA"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -260,7 +267,7 @@
       "name": "一条莉々華",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-12T12:00:00Z",
+          "scheduled_at": "2026-11-13T12:00:00Z",
           "title": "【完全初見】大妖精って…誰！？！ ゼルダの伝説 時のオカリナ part4【一条莉々華/hololive ReGLOSS】",
           "video_id": "2h5zCDLxXrA"
         }
@@ -331,6 +338,11 @@
           "scheduled_at": "2026-11-13T10:00:00Z",
           "title": "二人なら…いけるか…?! 幽霊調査ホラゲ「Phasmophobia」【ホロライブ/百灯キョーコ/熱千めら】",
           "video_id": "xebosvJFBR0"
+        },
+        {
+          "scheduled_at": "2026-11-14T11:00:00Z",
+          "title": "デビュー前配信テストぶりの「一致するまで終われまテン!!」【ホロライブ/アソビ★まわり隊！/熱千めら/百灯キョーコ/鈴鳴つづり/宙科そぴあ】",
+          "video_id": "oRV2KMNdaIE"
         }
       ]
     },
@@ -577,5 +589,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T09:01:00Z"
+  "generated_at": "2026-11-13T09:20:39Z"
 }
