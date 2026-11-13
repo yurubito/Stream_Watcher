@@ -25,11 +25,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-13T12:06:01Z",
-        "title": "【脱毛サロンシミュレーター】オープン記念！初回無料！※ただし責任は負いかねます【ホロライブ/さくらみこ】",
-        "video_id": "G15pU4xmTVk"
-      },
       "name": "さくらみこ"
     },
     {
@@ -271,7 +266,19 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢"
+      "name": "水宮枢",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T14:00:00Z",
+          "title": "【#10】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
+          "video_id": "zptsMXYZunc"
+        },
+        {
+          "scheduled_at": "2026-11-15T13:00:00Z",
+          "title": "【 #ころすう 】圧×圧 初マシュマロ対談コラボ🐶🩵【水宮枢／ホロライブ】",
+          "video_id": "Mfa13xlRqYw"
+        }
+      ]
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -517,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T16:04:44Z"
+  "generated_at": "2026-11-13T16:14:22Z"
 }
