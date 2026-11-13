@@ -148,7 +148,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T10:00:00Z",
+          "title": "【 セルフ3D 】はじめ先生に『Deep Dive』の振付をレッスンしてもらいます！！🕺【常闇トワ/ホロライブ】",
+          "video_id": "tQU2ejMcXWc"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -322,13 +329,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-11-13T00:59:58Z",
+        "title": "【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with  ⁨@NinomaeInanis⁩  !! #calliolive #PR",
+        "video_id": "EGyR-p-dwc4"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T01:00:00Z",
-          "title": "【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with  ⁨@NinomaeInanis⁩  !! #calliolive #PR",
-          "video_id": "EGyR-p-dwc4"
-        },
         {
           "scheduled_at": "2026-11-14T04:30:00Z",
           "title": "【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive",
@@ -415,13 +422,13 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-11-13T00:56:08Z",
+        "title": "Advent's back at it again! | Sunset Summit",
+        "video_id": "Pj8-ZLo5uTY"
+      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T01:00:00Z",
-          "title": "Advent's back at it again! | Sunset Summit",
-          "video_id": "Pj8-ZLo5uTY"
-        },
         {
           "scheduled_at": "2026-11-14T02:00:00Z",
           "title": "Winds of Change | Shattered Legends | Episode 1",
@@ -432,14 +439,12 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "name": "フワワ＆モココ・アビスガード",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T01:00:00Z",
-          "title": "【SUNSET SUMMIT COLLAB】what waits for us at the top of the summit? 🐾  #holoAdvent 【FUWAWA SOLO】",
-          "video_id": "H6VK2m70bns"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T00:56:15Z",
+        "title": "【SUNSET SUMMIT COLLAB】what waits for us at the top of the summit? 🐾  #holoAdvent 【FUWAWA SOLO】",
+        "video_id": "H6VK2m70bns"
+      },
+      "name": "フワワ＆モココ・アビスガード"
     },
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
@@ -531,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T00:20:41Z"
+  "generated_at": "2026-11-13T01:40:31Z"
 }
