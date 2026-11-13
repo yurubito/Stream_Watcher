@@ -13,6 +13,11 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-13T13:58:50Z",
+        "title": "【 歌枠】NO37 新曲がでたりわちゃ学イベントあったりてんてこ森だからうたう 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+        "video_id": "wgT-WyXsJp0"
+      },
       "name": "ロボ子さん"
     },
     {
@@ -160,7 +165,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T01:00:00Z",
+          "title": "【#ホロわちゃ学園祭_DAY1】わちゃわちゃ学園祭！フリーチャット枠(あとからさんまになります！)【白銀ノエル/ホロライブ】",
+          "video_id": "Oda2RadTrm8"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -242,11 +254,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-13T13:00:15Z",
-        "title": "【PUBG MOBILE】クソザコエイムなこよが、まさかのPUBGさんとコラボ～～～ッ！？？？？【博衣こより/ホロライブ】",
-        "video_id": "GHNsyGLAUMg"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -370,7 +377,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T03:00:00Z",
+          "title": "【EN】BACK TO FNAF... AGAIN!!!!!!  | Five Nights at Freddy's 3【Hyakuto Kyoko/Hololive】",
+          "video_id": "iREhG0-br1g"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -550,11 +564,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-13T09:30:33Z",
-        "title": "The Roottrees are Dead and the Peafowl Investigates【Pavolia Reine/hololive】",
-        "video_id": "gqCTvTulDD0"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -578,5 +587,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T14:01:48Z"
+  "generated_at": "2026-11-13T14:10:36Z"
 }
