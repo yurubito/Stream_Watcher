@@ -79,11 +79,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-13T13:00:15Z",
-        "title": "【めっちゃカメレオン】灯台下暗し～！！【ホロライブ/夏色まつり】",
-        "video_id": "YKxMu86GO1g"
-      },
       "name": "夏色まつり"
     },
     {
@@ -182,11 +177,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-13T13:00:15Z",
-        "title": "【 めっちゃカメレオン 】何気に、わためぇ初めちゃカメです！ﾄﾞｷﾄﾞｷ...！！！【角巻わため/ホロライブ４期生】",
-        "video_id": "YZh1vbE9mHU"
-      },
       "name": "角巻わため"
     },
     {
@@ -271,11 +261,6 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-13T13:01:01Z",
-        "title": "【 めっちゃカメレオン 】お絵描きしてかくれんぼ！【音乃瀬奏】#ReGLOSS",
-        "video_id": "iXvyuuPr2E4"
-      },
       "name": "音乃瀬奏"
     },
     {
@@ -316,11 +301,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-13T13:00:16Z",
-        "title": "【めっちゃカメレオン】大人数でも全員みつける✋すう視点【水宮枢／ホロライブ】",
-        "video_id": "haXn0kVN9uo"
-      },
       "name": "水宮枢"
     },
     {
@@ -394,11 +374,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-13T12:58:55Z",
-        "title": "【Meccha Chameleon】best hunter pov #calliolive",
-        "video_id": "k7VJs1kk8-c"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -544,21 +519,11 @@
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-13T13:00:31Z",
-        "title": "【MECCHA CHAMELEON】 BIG COLLAB!! TIME FOR ZOMBIE CAMOUFLAGE!! 【Kureiji Ollie】",
-        "video_id": "P0Kkuvovr04"
-      },
       "name": "クレイジー・オリー"
     },
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-13T13:00:34Z",
-        "title": "【Meccha Chameleon】BIG CHAMELEON COLLAB! みんなとめっちゃカメレオン！【hololive holoro | Anya Melfissa】",
-        "video_id": "D1O7D1qyqEA"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -587,5 +552,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T14:10:36Z"
+  "generated_at": "2026-11-13T14:20:49Z"
 }
