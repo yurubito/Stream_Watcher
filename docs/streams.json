@@ -86,7 +86,24 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T01:00:00Z",
+          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+          "video_id": "QAH7ekY_etM"
+        },
+        {
+          "scheduled_at": "2026-11-14T04:00:00Z",
+          "title": "【#3】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
+          "video_id": "CQWlLtX_zkQ"
+        },
+        {
+          "scheduled_at": "2026-11-15T04:00:00Z",
+          "title": "【#4】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
+          "video_id": "wXq2w7pB_AU"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -449,13 +466,13 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-13T17:12:54Z",
-        "title": "【JOHN WICK】Forcing you to watch my fav action flick with me cause it's my bday (week) #CCWEEK",
-        "video_id": "nSbZ7y6C7vk"
-      },
       "name": "セシリア・イマーグリーン",
       "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T20:00:00Z",
+          "title": "【DARK SOULS 3】Forcing @holoen_gigimurin to play my favourite game #CCWEEK",
+          "video_id": "1xBIgoPZYCM"
+        },
         {
           "scheduled_at": "2026-11-14T13:00:00Z",
           "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
@@ -526,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T17:43:01Z"
+  "generated_at": "2026-11-13T19:20:37Z"
 }
