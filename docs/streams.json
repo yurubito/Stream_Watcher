@@ -29,7 +29,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-13T12:00:00Z",
-          "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】",
+          "title": "【脱毛サロンシミュレーター】オープン記念！初回無料！※ただし責任は負いかねます【ホロライブ/さくらみこ】",
           "video_id": "G15pU4xmTVk"
         }
       ]
@@ -117,13 +117,13 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-13T12:00:03Z",
+        "title": "【 ONE PIECE 海のごちそうレストラン 】麦わら一味とレストラン経営するぞ!🍖! ※ネタバレあり【 猫又おかゆ/ホロライブ 】",
+        "video_id": "qr77W-ixPIU"
+      },
       "name": "猫又おかゆ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T12:00:00Z",
-          "title": "【 ONE PIECE 海のごちそうレストラン 】麦わら一味とレストラン経営するぞ!🍖! ※ネタバレあり【 猫又おかゆ/ホロライブ 】",
-          "video_id": "qr77W-ixPIU"
-        },
         {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
@@ -139,14 +139,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T12:00:00Z",
-          "title": "浮気した夫に全部吐かせる。【ホロライブ/兎田ぺこら】",
-          "video_id": "ejlKD5gtjLc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T11:59:43Z",
+        "title": "浮気した夫に全部吐かせる。【ホロライブ/兎田ぺこら】",
+        "video_id": "ejlKD5gtjLc"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -352,11 +350,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-13T09:58:42Z",
-        "title": "二人なら…いけるか…?! 幽霊調査ホラゲ「Phasmophobia」【ホロライブ/百灯キョーコ/熱千めら】",
-        "video_id": "xebosvJFBR0"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -595,7 +588,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T13:00:00Z",
+          "title": "【over the hill】OFFROAD WITH SKJ",
+          "video_id": "JVpNiISgTk0"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -603,5 +603,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T11:40:32Z"
+  "generated_at": "2026-11-13T12:00:54Z"
 }
