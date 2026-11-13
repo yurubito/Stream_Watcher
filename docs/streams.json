@@ -13,14 +13,12 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T10:00:00Z",
-          "title": "【もうすぐアレ】告知する！！！！！！！！！！！～最近の話を添えて～【ホロライブ / AZKi】",
-          "video_id": "f3aMm--VG3c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T10:00:35Z",
+        "title": "【もうすぐアレ】告知する！！！！！！！！！！！～最近の話を添えて～【ホロライブ / AZKi】",
+        "video_id": "f3aMm--VG3c"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -159,13 +157,13 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-11-13T10:00:11Z",
+        "title": "胸枕、最高！！！【ギリギリわるくないわため】 #ギリわる",
+        "video_id": "jLeGubsh1rk"
+      },
       "name": "角巻わため",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T10:00:00Z",
-          "title": "胸枕、最高！！！【ギリギリわるくないわため】 #ギリわる",
-          "video_id": "jLeGubsh1rk"
-        },
         {
           "scheduled_at": "2026-11-13T13:00:00Z",
           "title": "【 めっちゃカメレオン 】何気に、わためぇ初めちゃカメです！ﾄﾞｷﾄﾞｷ...！！！【角巻わため/ホロライブ４期生】",
@@ -176,26 +174,22 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T10:00:00Z",
-          "title": "【 セルフ3D 】はじめ先生に『Deep Dive』の振付をレッスンしてもらいます！！🕺【常闇トワ/ホロライブ】",
-          "video_id": "tQU2ejMcXWc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T10:00:03Z",
+        "title": "【 セルフ3D 】はじめ先生に『Deep Dive』の振付をレッスンしてもらいます！！🕺【常闇トワ/ホロライブ】",
+        "video_id": "tQU2ejMcXWc"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "group": "JP 4期生",
-      "name": "姫森ルーナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T10:00:00Z",
-          "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃４【姫森ルーナ/ホロライブ】",
-          "video_id": "Vo9WRfC5jxc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T10:00:20Z",
+        "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃４【姫森ルーナ/ホロライブ】",
+        "video_id": "Vo9WRfC5jxc"
+      },
+      "name": "姫森ルーナ"
     },
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -347,13 +341,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-13T09:58:42Z",
+        "title": "二人なら…いけるか…?! 幽霊調査ホラゲ「Phasmophobia」【ホロライブ/百灯キョーコ/熱千めら】",
+        "video_id": "xebosvJFBR0"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T10:00:00Z",
-          "title": "二人なら…いけるか…?! 幽霊調査ホラゲ「Phasmophobia」【ホロライブ/百灯キョーコ/熱千めら】",
-          "video_id": "xebosvJFBR0"
-        },
         {
           "scheduled_at": "2026-11-14T11:00:00Z",
           "title": "デビュー前配信テストぶりの「一致するまで終われまテン!!」【ホロライブ/アソビ★まわり隊！/熱千めら/百灯キョーコ/鈴鳴つづり/宙科そぴあ】",
@@ -391,14 +385,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T10:00:00Z",
-          "title": "【コラボ】 同期にはかっこつけたい Phasmophobia　【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "MwiemBxlBVo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T09:58:43Z",
+        "title": "【コラボ】 同期にはかっこつけたい Phasmophobia　【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "MwiemBxlBVo"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -600,5 +592,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T09:50:41Z"
+  "generated_at": "2026-11-13T10:00:53Z"
 }
