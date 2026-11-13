@@ -564,14 +564,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T09:30:00Z",
-          "title": "The Roottrees are Dead and the Peafowl Investigates【Pavolia Reine/hololive】",
-          "video_id": "gqCTvTulDD0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T09:30:33Z",
+        "title": "The Roottrees are Dead and the Peafowl Investigates【Pavolia Reine/hololive】",
+        "video_id": "gqCTvTulDD0"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -589,5 +587,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T09:20:39Z"
+  "generated_at": "2026-11-13T09:30:51Z"
 }
