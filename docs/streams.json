@@ -288,7 +288,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T13:00:00Z",
+          "title": "【ホロライブ麻雀 -ホロじゃん-】先行プレイやってみよー！！！【儒烏風亭らでん #ReGLOSS 】",
+          "video_id": "fVZ-DDD2N0c"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -585,5 +592,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T12:20:41Z"
+  "generated_at": "2026-11-13T12:50:54Z"
 }
