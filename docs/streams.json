@@ -466,13 +466,13 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-11-13T20:16:20Z",
+        "title": "【DARK SOULS 3】Forcing @holoen_gigimurin to play my favourite game #CCWEEK",
+        "video_id": "1xBIgoPZYCM"
+      },
       "name": "セシリア・イマーグリーン",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T20:15:00Z",
-          "title": "【DARK SOULS 3】Forcing @holoen_gigimurin to play my favourite game #CCWEEK",
-          "video_id": "1xBIgoPZYCM"
-        },
         {
           "scheduled_at": "2026-11-14T13:00:00Z",
           "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
@@ -538,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T20:01:07Z"
+  "generated_at": "2026-11-13T20:20:42Z"
 }
