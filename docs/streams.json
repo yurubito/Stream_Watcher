@@ -125,7 +125,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T12:00:00Z",
+          "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "ejlKD5gtjLc"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -204,6 +211,16 @@
           "scheduled_at": "2026-11-14T14:30:00Z",
           "title": "【晩酌】生誕前夜祭！！誕生日カウントダウン！！【​雪花ラミィ /ホロライブ】",
           "video_id": "Mj_V7G27VvA"
+        },
+        {
+          "scheduled_at": "2026-11-15T12:00:00Z",
+          "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』重大告知あり！！【 雪花ラミィ /ホロライブ】",
+          "video_id": "pnIli_xfMzc"
+        },
+        {
+          "scheduled_at": "2026-11-15T13:10:00Z",
+          "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』メンバー限定配信【 雪花ラミィ /ホロライブ】",
+          "video_id": "xTjkcJjjw3w"
         }
       ]
     },
@@ -583,5 +600,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T09:40:25Z"
+  "generated_at": "2026-11-13T09:50:41Z"
 }
