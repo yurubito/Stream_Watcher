@@ -342,6 +342,11 @@
       "name": "宙科そぴあ",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-13T13:00:00Z",
+          "title": "【めっちゃカメレオン】カモフラージュも科学っ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "y7XSwAlbWT0"
+        },
+        {
           "scheduled_at": "2028-06-12T15:00:00Z",
           "title": "【フリーチャット】そぴあのお知らせ掲示板【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "XRJ-pUOo7gU"
@@ -549,7 +554,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-13T09:30:00Z",
+          "title": "The Roottrees are Dead and the Peafowl Investigates【Pavolia Reine/hololive】",
+          "video_id": "gqCTvTulDD0"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -567,5 +579,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T08:00:52Z"
+  "generated_at": "2026-11-13T08:40:32Z"
 }
