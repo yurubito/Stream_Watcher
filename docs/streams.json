@@ -406,13 +406,13 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
+      "live": {
+        "started_at": "2026-11-13T15:00:10Z",
+        "title": "キツネノマド(Queen Fox) || HAKOS BAELZ COVER 【#ReCOLOR3D】",
+        "video_id": "zA9gwT6y1ps"
+      },
       "name": "ハコス・ベールズ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T15:00:00Z",
-          "title": "キツネノマド(Queen Fox) || HAKOS BAELZ COVER 【#ReCOLOR3D】",
-          "video_id": "zA9gwT6y1ps"
-        },
         {
           "scheduled_at": "2026-11-14T01:00:00Z",
           "title": "≪Ring Fit Adventure≫ Defeating Dragaux to save REGALIA! #RoadToREGALIA",
@@ -547,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T14:30:58Z"
+  "generated_at": "2026-11-13T15:01:29Z"
 }
