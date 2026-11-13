@@ -157,11 +157,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-13T10:00:11Z",
-        "title": "胸枕、最高！！！【ギリギリわるくないわため】 #ギリわる",
-        "video_id": "jLeGubsh1rk"
-      },
       "name": "角巻わため",
       "upcoming": [
         {
@@ -194,11 +189,6 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-13T09:00:10Z",
-        "title": "【夜雑談】告知あり！！今年の生誕、アレやります【​雪花ラミィ /ホロライブ】",
-        "video_id": "1yEvpTM1GGk"
-      },
       "name": "雪花ラミィ",
       "upcoming": [
         {
@@ -592,5 +582,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T10:00:53Z"
+  "generated_at": "2026-11-13T10:10:38Z"
 }
