@@ -13,11 +13,6 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-13T13:58:50Z",
-        "title": "【 歌枠】NO37 新曲がでたりわちゃ学イベントあったりてんてこ森だからうたう 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-        "video_id": "wgT-WyXsJp0"
-      },
       "name": "ロボ子さん"
     },
     {
@@ -273,11 +268,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-13T13:01:15Z",
-        "title": "【ホロライブ麻雀 -ホロじゃん-】先行プレイやってみよー！！！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "fVZ-DDD2N0c"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -544,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T15:21:19Z"
+  "generated_at": "2026-11-13T15:32:43Z"
 }
