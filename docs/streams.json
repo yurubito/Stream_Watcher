@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-13T13:30:00Z",
-          "title": "＃２【ゼルダの伝説 時のオカリナ】村と探索に勤しむ回にしたい。【ときのそら/ホロライブ】",
-          "video_id": "CJes5BDeZHo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-13T13:32:26Z",
+        "title": "＃２【ゼルダの伝説 時のオカリナ】村と探索に勤しむ回にしたい。【ときのそら/ホロライブ】",
+        "video_id": "CJes5BDeZHo"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -135,7 +133,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T11:00:00Z",
+          "title": "【バイオハザード HDリマスター】ジル編、クリアまで突っ走る！！（よゆー）",
+          "video_id": "49pkUAMPDGY"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -578,5 +583,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T13:20:48Z"
+  "generated_at": "2026-11-13T13:40:51Z"
 }
