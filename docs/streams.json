@@ -275,7 +275,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T14:00:00Z",
+          "title": "【わちゃわちゃ学園祭】わちゃわちゃ見る枠【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "8QqmuUHhKcI"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -540,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-13T04:10:22Z"
+  "generated_at": "2026-11-13T06:10:27Z"
 }
