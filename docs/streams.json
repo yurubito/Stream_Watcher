@@ -13,13 +13,13 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-14T14:30:50Z",
+        "title": "【もうすぐ8周年】一緒に迎えるカウントダウン！！！！！#AZKi8周年【ホロライブ / AZKi】",
+        "video_id": "Z2GnGIUnB-0"
+      },
       "name": "AZKi",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T14:30:00Z",
-          "title": "【もうすぐ8周年】一緒に迎えるカウントダウン！！！！！#AZKi8周年【ホロライブ / AZKi】",
-          "video_id": "Z2GnGIUnB-0"
-        },
         {
           "scheduled_at": "2026-11-15T03:00:00Z",
           "title": "【#AZKi8周年】8周年記念！88曲耐久歌枠💥🎤8つの重大告知もあります！！！！！【ホロライブ / AZKi】",
@@ -62,11 +62,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-14T11:01:17Z",
-        "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.56　※ネタバレあり※ 【ホロライブ/白上フブキ】",
-        "video_id": "VoMKIHPR4WI"
-      },
       "name": "白上フブキ"
     },
     {
@@ -237,7 +232,24 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T00:00:00Z",
+          "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！モンゾーラ島の再建をするぞぉ！！！【鷹嶺ルイ/ホロライブ】ネタバレあり",
+          "video_id": "JGWJZgmi5S4"
+        },
+        {
+          "scheduled_at": "2026-11-15T05:30:00Z",
+          "title": "【 エリザベス女王杯 】久々的中をしたい。どうしても。【鷹嶺ルイ/ホロライブ】",
+          "video_id": "07uC8LL9cAY"
+        },
+        {
+          "scheduled_at": "2026-11-15T08:00:00Z",
+          "title": "【 #ホロ1GP 】先週のホロ1グランプリの切り抜き鑑賞会！裏話も話すぞ～！！ 【鷹嶺ルイ/ホロライブ】",
+          "video_id": "0Heo2FKeE9Q"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -517,14 +529,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T14:30:00Z",
-          "title": "SHORT STREAM Daitaku Helios Please Come Home (Umamusume: Pretty Derby)【Pavolia Reine/hololive】",
-          "video_id": "Yzq289teEsA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-14T14:31:22Z",
+        "title": "SHORT STREAM Daitaku Helios Please Come Home (Umamusume: Pretty Derby)【Pavolia Reine/hololive】",
+        "video_id": "Yzq289teEsA"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -542,5 +552,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T14:30:37Z"
+  "generated_at": "2026-11-14T14:40:43Z"
 }
