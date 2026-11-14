@@ -521,11 +521,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-14T14:31:22Z",
-        "title": "SHORT STREAM Daitaku Helios Please Come Home (Umamusume: Pretty Derby)【Pavolia Reine/hololive】",
-        "video_id": "Yzq289teEsA"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -544,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T15:30:36Z"
+  "generated_at": "2026-11-14T15:40:31Z"
 }
