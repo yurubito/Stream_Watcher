@@ -249,11 +249,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-14T11:12:17Z",
-        "title": "【#ホロドリ】枠ｶﾞﾁｬには失敗してもホロドリｶﾞﾁｬは優勝したい【風真いろは/ホロライブ】",
-        "video_id": "Rtv47UZkhmk"
-      },
       "name": "風真いろは"
     },
     {
@@ -534,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T12:40:24Z"
+  "generated_at": "2026-11-14T12:50:38Z"
 }
