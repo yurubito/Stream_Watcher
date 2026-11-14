@@ -105,11 +105,6 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-11-14T04:26:32Z",
-        "title": "【#3】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
-        "video_id": "CQWlLtX_zkQ"
-      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -531,14 +526,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T09:30:00Z",
-          "title": "The Roottrees are Dead and I'm Still Guessing What This Guy's Occupation is【Pavolia Reine/hololive】",
-          "video_id": "6QmeK5VvvfQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-14T09:31:13Z",
+        "title": "The Roottrees are Dead and I'm Still Guessing What This Guy's Occupation is【Pavolia Reine/hololive】",
+        "video_id": "6QmeK5VvvfQ"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -556,5 +549,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T09:20:30Z"
+  "generated_at": "2026-11-14T09:40:24Z"
 }
