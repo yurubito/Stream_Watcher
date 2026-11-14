@@ -170,11 +170,6 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-14T14:30:09Z",
-        "title": "【晩酌】生誕前夜祭！！誕生日カウントダウン！！【​雪花ラミィ /ホロライブ】",
-        "video_id": "Mj_V7G27VvA"
-      },
       "name": "雪花ラミィ",
       "upcoming": [
         {
@@ -347,11 +342,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-14T13:29:14Z",
-        "title": "#7 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "Qub3zqdk8NQ"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -539,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T15:40:31Z"
+  "generated_at": "2026-11-14T15:50:31Z"
 }
