@@ -368,11 +368,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-14T04:34:55Z",
-        "title": "【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive",
-        "video_id": "tQYcVwPhcKI"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -454,7 +449,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T19:00:00Z",
+          "title": "【#WORLDS2026】LEGENDS NEVER DIE",
+          "video_id": "qhCOQm1N678"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -538,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T08:00:53Z"
+  "generated_at": "2026-11-14T08:10:37Z"
 }
