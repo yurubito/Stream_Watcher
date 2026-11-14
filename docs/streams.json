@@ -91,11 +91,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-14T14:01:25Z",
-        "title": "【雑談＆歌】まったり話しながら久々すぎる歌枠をやってみる【ホロライブ/大神ミオ】",
-        "video_id": "7VaJFM9GkFs"
-      },
       "name": "大神ミオ"
     },
     {
@@ -155,11 +150,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-14T11:20:07Z",
-        "title": "【 STREET FIGHTER 6 】SCARZCUP TeamLeshar すくりむ～【常闇トワ/ホロライブ】",
-        "video_id": "gWdsmruVdg4"
-      },
       "name": "常闇トワ"
     },
     {
@@ -529,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T15:50:31Z"
+  "generated_at": "2026-11-14T16:00:50Z"
 }
