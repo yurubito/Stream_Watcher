@@ -59,14 +59,12 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T10:00:00Z",
-          "title": "【宮城】過去最大にミスった・・・【ホロライブ/赤井はあと】",
-          "video_id": "dTwnhH-Clko"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-14T10:00:11Z",
+        "title": "【宮城】過去最大にミスった・・・【ホロライブ/赤井はあと】",
+        "video_id": "dTwnhH-Clko"
+      },
+      "name": "赤井はあと"
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -142,7 +140,7 @@
       "name": "戌神ころね",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-14T11:00:00Z",
+          "scheduled_at": "2026-11-14T12:00:00Z",
           "title": "【バイオハザード HDリマスター】ジル編、クリアまで突っ走る！！（よゆー）",
           "video_id": "49pkUAMPDGY"
         }
@@ -556,5 +554,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T09:50:37Z"
+  "generated_at": "2026-11-14T10:01:07Z"
 }
