@@ -450,7 +450,14 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト"
+      "name": "ネリッサ・レイヴンクロフト",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T01:00:00Z",
+          "title": "Finally letting you into a new room of my house | Bathroom BG Debut",
+          "video_id": "aYUQXTvo62s"
+        }
+      ]
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -549,5 +556,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T10:20:37Z"
+  "generated_at": "2026-11-14T10:40:32Z"
 }
