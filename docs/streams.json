@@ -257,6 +257,11 @@
       "name": "水宮枢",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-15T10:00:00Z",
+          "title": "【MIMESIS】珍しメンバーと行く久々ミメシス❕🩵【水宮枢／ホロライブ】",
+          "video_id": "k-fiYPedgwA"
+        },
+        {
           "scheduled_at": "2026-11-15T13:00:00Z",
           "title": "【 #ころすう 】圧×圧 初マシュマロ対談コラボ🐶🩵【水宮枢／ホロライブ】",
           "video_id": "Mfa13xlRqYw"
@@ -499,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T19:50:26Z"
+  "generated_at": "2026-11-14T19:56:35Z"
 }
