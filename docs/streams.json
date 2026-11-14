@@ -16,6 +16,11 @@
       "name": "AZKi",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-14T14:30:00Z",
+          "title": "【もうすぐ8周年】一緒に迎えるカウントダウン！！！！！#AZKi8周年【ホロライブ / AZKi】",
+          "video_id": "Z2GnGIUnB-0"
+        },
+        {
           "scheduled_at": "2026-11-15T03:00:00Z",
           "title": "【#AZKi8周年】8周年記念！88曲耐久歌枠💥🎤8つの重大告知もあります！！！！！【ホロライブ / AZKi】",
           "video_id": "0AmVXqb8DAo"
@@ -233,14 +238,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T02:00:00Z",
-          "title": "【空の軌跡 the 2nd】完全初見！第7章やってくぞおおおおお！！！ #8 【博衣こより/ホロライブ】※ネタバレあり",
-          "video_id": "vJcGjoZj3rA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-14T02:01:17Z",
+        "title": "【空の軌跡 the 2nd】完全初見！第7章やってくぞおおおおお！！！ #8 【博衣こより/ホロライブ】※ネタバレあり",
+        "video_id": "vJcGjoZj3rA"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -260,6 +263,11 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
+      "live": {
+        "started_at": "2026-11-14T07:50:40Z",
+        "title": "【ホロライブわちゃわちゃ学園祭】Day1同時視聴会場はこちらでん！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "7pF0MJMKAtI"
+      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -360,13 +368,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-11-14T04:34:55Z",
+        "title": "【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive",
+        "video_id": "tQYcVwPhcKI"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T04:30:00Z",
-          "title": "【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive",
-          "video_id": "tQYcVwPhcKI"
-        },
         {
           "scheduled_at": "2026-11-15T00:00:00Z",
           "title": "【DRAWING WITH...】...mori calliope? #calliolive #PR #DesktopMate",
@@ -400,11 +408,6 @@
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-14T01:00:00Z",
-          "title": "≪Ring Fit Adventure≫ Defeating Dragaux to save REGALIA! #RoadToREGALIA",
-          "video_id": "P-fdVPfHOIM"
-        },
-        {
           "scheduled_at": "2026-11-15T01:00:00Z",
           "title": "≪Yakuza 7: Like a Dragon≫ THE EYEBROWS ARE DIFFERENT...First Playthrough #10【SPOILER WARNING】",
           "video_id": "A_mH8BzbqYY"
@@ -419,12 +422,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-13T23:56:00Z",
-        "title": "Framing your soul because it's so cute! 【Soulframe】#ad",
-        "video_id": "4wP4ogdy814"
-      },
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T22:00:00Z",
+          "title": "Crossing fingers for a good ending despite the sass 【OPUS: Prism Peak】❗Spoilers",
+          "video_id": "A7md2snxL6w"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -434,14 +439,7 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T02:00:00Z",
-          "title": "Winds of Change | Shattered Legends | Episode 1",
-          "video_id": "TZro-823L38"
-        }
-      ]
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -510,7 +508,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T09:30:00Z",
+          "title": "The Roottrees are Dead and I'm Still Guessing What This Guy's Occupation is【Pavolia Reine/hololive】",
+          "video_id": "6QmeK5VvvfQ"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -533,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T07:20:34Z"
+  "generated_at": "2026-11-14T08:00:53Z"
 }
