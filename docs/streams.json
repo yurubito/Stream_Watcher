@@ -364,7 +364,14 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS"
+      "name": "IRyS",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T16:45:00Z",
+          "title": "【pop'n music Lively】ふーたんと深夜のポプ会! A relaxing Pop'n Music session w/ Flare :D",
+          "video_id": "caCNa767k6Y"
+        }
+      ]
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -519,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T16:00:50Z"
+  "generated_at": "2026-11-14T16:30:52Z"
 }
