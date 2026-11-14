@@ -252,14 +252,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T11:00:00Z",
-          "title": "【#ホロドリ】ｶﾞﾁｬｧ・・・・ひえ・・・ロボ子先輩お願いします・・・【風真いろは/ホロライブ】",
-          "video_id": "uf-RnnFyX_E"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-14T11:00:20Z",
+        "title": "【#ホロドリ】ｶﾞﾁｬｧ・・・・ひえ・・・ロボ子先輩お願いします・・・【風真いろは/ホロライブ】",
+        "video_id": "uf-RnnFyX_E"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -274,11 +272,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-14T07:50:40Z",
-        "title": "【ホロライブわちゃわちゃ学園祭】Day1同時視聴会場はこちらでん！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "7pF0MJMKAtI"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -333,14 +326,12 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T11:00:00Z",
-          "title": "ホロライブ新ユニットの「一致するまで終われまテン!!」【ホロライブ/アソビ★まわり隊！/熱千めら/百灯キョーコ/鈴鳴つづり/宙科そぴあ】",
-          "video_id": "oRV2KMNdaIE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-14T10:58:58Z",
+        "title": "ホロライブ新ユニットの「一致するまで終われまテン!!」【ホロライブ/アソビ★まわり隊！/熱千めら/百灯キョーコ/鈴鳴つづり/宙科そぴあ】",
+        "video_id": "oRV2KMNdaIE"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -551,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T10:50:29Z"
+  "generated_at": "2026-11-14T11:00:44Z"
 }
