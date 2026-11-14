@@ -398,7 +398,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T00:00:00Z",
+          "title": "【The Legend of Zelda: Ocarina of Time Remake】Janondorf of the Jerudo",
+          "video_id": "lZUwwHkYW7I"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -502,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T19:01:10Z"
+  "generated_at": "2026-11-14T19:20:27Z"
 }
