@@ -106,14 +106,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T14:00:00Z",
-          "title": "【雑談＆歌】まったり話しながら久々すぎる歌枠をやってみる【ホロライブ/大神ミオ】",
-          "video_id": "7VaJFM9GkFs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-14T14:01:25Z",
+        "title": "【雑談＆歌】まったり話しながら久々すぎる歌枠をやってみる【ホロライブ/大神ミオ】",
+        "video_id": "7VaJFM9GkFs"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -318,7 +316,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T10:00:00Z",
+          "title": "ホロライブの音ゲー「ホロドリ」初見プレイなのじゃ！！！【アソビ★まわり隊！/熱千めら】",
+          "video_id": "YL-6y3sZnbs"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -455,23 +460,18 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-14T13:00:11Z",
-        "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
-        "video_id": "RFKeljZW5s0"
-      },
       "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
+      "live": {
+        "started_at": "2026-11-14T14:05:20Z",
+        "title": "【UNDERTALE】this is the end, is it not???【Genocide Run】",
+        "video_id": "bGVYY8c_0Ek"
+      },
       "name": "ラオーラ・パンテーラ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T14:00:00Z",
-          "title": "【UNDERTALE】this is the end, is it not???【Genocide Run】",
-          "video_id": "bGVYY8c_0Ek"
-        },
         {
           "scheduled_at": "2026-11-15T04:00:00Z",
           "title": "【COOKING STREAM】Kyoko will teach me to cook Omurice!",
@@ -532,5 +532,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T14:01:11Z"
+  "generated_at": "2026-11-14T14:10:28Z"
 }
