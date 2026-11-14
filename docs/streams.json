@@ -106,11 +106,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-14T11:02:00Z",
-        "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #01【 猫又おかゆ/ホロライブ 】",
-        "video_id": "VKZZmT7gllw"
-      },
       "name": "猫又おかゆ",
       "upcoming": [
         {
@@ -303,6 +298,11 @@
       "group": "DEV_IS FLOW GLOW",
       "name": "輪堂千速",
       "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T05:30:00Z",
+          "title": "【競馬/エリザベス女王杯】みるよおおお【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "J10gU822nZY"
+        },
         {
           "scheduled_at": "2026-11-15T07:15:00Z",
           "title": "【わちゃわちゃ学園祭】DAY2同時視聴！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
@@ -542,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T15:10:24Z"
+  "generated_at": "2026-11-14T15:15:59Z"
 }
