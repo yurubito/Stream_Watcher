@@ -59,11 +59,6 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-14T10:00:11Z",
-        "title": "【宮城】過去最大にミスった・・・【ホロライブ/赤井はあと】",
-        "video_id": "dTwnhH-Clko"
-      },
       "name": "赤井はあと"
     },
     {
@@ -554,5 +549,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T10:01:07Z"
+  "generated_at": "2026-11-14T10:10:45Z"
 }
