@@ -188,7 +188,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T11:30:00Z",
+          "title": "【 STREET FIGHTER 6 】SCARZCUP TeamLeshar すくりむ～【常闇トワ/ホロライブ】",
+          "video_id": "gWdsmruVdg4"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -554,5 +561,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T08:50:40Z"
+  "generated_at": "2026-11-14T09:00:51Z"
 }
