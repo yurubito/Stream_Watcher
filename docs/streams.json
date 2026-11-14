@@ -59,7 +59,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T11:00:00Z",
+          "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.56　※ネタバレあり※ 【ホロライブ/白上フブキ】",
+          "video_id": "VoMKIHPR4WI"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -344,11 +351,6 @@
       "name": "百灯キョーコ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-14T03:00:00Z",
-          "title": "【EN】BACK TO FNAF... AGAIN!!!!!!  | Five Nights at Freddy's 3【Hyakuto Kyoko/Hololive】",
-          "video_id": "iREhG0-br1g"
-        },
-        {
           "scheduled_at": "2026-11-14T13:30:00Z",
           "title": "#7 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "Qub3zqdk8NQ"
@@ -523,6 +525,11 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
+      "live": {
+        "started_at": "2026-11-14T06:00:08Z",
+        "title": "【Combolands: Roguelike Citybuilder】so little time today but i wanna try this 🛖",
+        "video_id": "OOBZD9AEatA"
+      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -531,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T06:30:31Z"
+  "generated_at": "2026-11-14T07:10:25Z"
 }
