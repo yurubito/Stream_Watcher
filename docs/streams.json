@@ -457,14 +457,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T13:00:00Z",
-          "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
-          "video_id": "RFKeljZW5s0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-14T13:00:11Z",
+        "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
+        "video_id": "RFKeljZW5s0"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -529,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T12:50:38Z"
+  "generated_at": "2026-11-14T13:00:56Z"
 }
