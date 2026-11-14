@@ -64,14 +64,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T11:00:00Z",
-          "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.56　※ネタバレあり※ 【ホロライブ/白上フブキ】",
-          "video_id": "VoMKIHPR4WI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-14T11:01:17Z",
+        "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.56　※ネタバレあり※ 【ホロライブ/白上フブキ】",
+        "video_id": "VoMKIHPR4WI"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -115,13 +113,13 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-14T11:02:00Z",
+        "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #01【 猫又おかゆ/ホロライブ 】",
+        "video_id": "VKZZmT7gllw"
+      },
       "name": "猫又おかゆ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T11:00:00Z",
-          "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #01【 猫又おかゆ/ホロライブ 】",
-          "video_id": "VKZZmT7gllw"
-        },
         {
           "scheduled_at": "2026-12-07T09:00:00Z",
           "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
@@ -252,11 +250,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-14T11:00:20Z",
-        "title": "【#ホロドリ】ｶﾞﾁｬｧ・・・・ひえ・・・ロボ子先輩お願いします・・・【風真いろは/ホロライブ】",
-        "video_id": "uf-RnnFyX_E"
-      },
       "name": "風真いろは"
     },
     {
@@ -312,7 +305,7 @@
       "name": "輪堂千速",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-14T14:00:00Z",
+          "scheduled_at": "2026-11-15T03:00:00Z",
           "title": "【わちゃわちゃ学園祭】わちゃわちゃ見る枠【#輪堂千速 / #hololive #FLOWGLOW 】",
           "video_id": "8QqmuUHhKcI"
         }
@@ -542,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T11:00:44Z"
+  "generated_at": "2026-11-14T11:10:28Z"
 }
