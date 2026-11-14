@@ -516,11 +516,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-14T09:31:13Z",
-        "title": "The Roottrees are Dead and I'm Still Guessing What This Guy's Occupation is【Pavolia Reine/hololive】",
-        "video_id": "6QmeK5VvvfQ"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -539,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T12:30:42Z"
+  "generated_at": "2026-11-14T12:40:24Z"
 }
