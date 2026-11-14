@@ -30,7 +30,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-14T12:00:00Z",
+          "title": "【急募】スポーツの秋だ！ Switch Sports Resortで遊んでくれないか⁉【ホロライブ/さくらみこ】",
+          "video_id": "Pb9s7ZOu9GA"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -547,5 +554,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T08:40:30Z"
+  "generated_at": "2026-11-14T08:50:40Z"
 }
