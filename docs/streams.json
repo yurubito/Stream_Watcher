@@ -104,9 +104,9 @@
       "name": "猫又おかゆ",
       "upcoming": [
         {
-          "scheduled_at": "2026-12-07T09:00:00Z",
-          "title": "𖹭𖹭𖹭 新衣装グッズ2026‪‪‪‪ 販売中  | 12/7 18:00まで!! 𖹭𖹭𖹭",
-          "video_id": "JTRI5dPcho0"
+          "scheduled_at": "2026-11-15T11:00:00Z",
+          "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #02【 猫又おかゆ/ホロライブ 】",
+          "video_id": "Q4iThbjrF0Y"
         }
       ]
     },
@@ -294,6 +294,11 @@
       "name": "輪堂千速",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-15T05:30:00Z",
+          "title": "【競馬/エリザベス女王杯】みるよおおお【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "J10gU822nZY"
+        },
+        {
           "scheduled_at": "2026-11-15T07:15:00Z",
           "title": "【わちゃわちゃ学園祭】DAY2同時視聴！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
           "video_id": "8QqmuUHhKcI"
@@ -435,7 +440,14 @@
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "name": "フワワ＆モココ・アビスガード"
+      "name": "フワワ＆モココ・アビスガード",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T01:00:00Z",
+          "title": "【RISE OF THE RŌNIN】sharpening my BAUshido blade🐾🩵 【FUWAWA SOLO】",
+          "video_id": "XhcsV5w4vNM"
+        }
+      ]
     },
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
@@ -532,5 +544,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T15:20:24Z"
+  "generated_at": "2026-11-14T15:30:36Z"
 }
