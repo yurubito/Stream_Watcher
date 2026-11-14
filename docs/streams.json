@@ -284,13 +284,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-14T14:00:57Z",
+        "title": "【#10】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
+        "video_id": "zptsMXYZunc"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-14T14:00:00Z",
-          "title": "【#10】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
-          "video_id": "zptsMXYZunc"
-        },
         {
           "scheduled_at": "2026-11-15T13:00:00Z",
           "title": "【 #ころすう 】圧×圧 初マシュマロ対談コラボ🐶🩵【水宮枢／ホロライブ】",
@@ -532,5 +532,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-14T13:40:25Z"
+  "generated_at": "2026-11-14T14:01:11Z"
 }
