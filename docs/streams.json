@@ -84,14 +84,12 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T15:00:00Z",
-          "title": "【ARK:Survival Ascended】アストレオスで素材王修行2日目、拠点作りするのだ！【ホロライブ/癒月ちょこ】",
-          "video_id": "k_LRtkO8yxI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T15:01:43Z",
+        "title": "【ARK:Survival Ascended】アストレオスで素材王修行2日目、拠点作りするのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "k_LRtkO8yxI"
+      },
+      "name": "癒月ちょこ"
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -101,11 +99,6 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-15T13:01:07Z",
-        "title": "【Splatoon Raiders】スプラトゥーンやりすぎて軟骨ない狼のレイダース【ホロライブ/大神ミオ】",
-        "video_id": "zFsabtefDl8"
-      },
       "name": "大神ミオ",
       "upcoming": [
         {
@@ -118,11 +111,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-15T11:00:57Z",
-        "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #02【 猫又おかゆ/ホロライブ 】",
-        "video_id": "Q4iThbjrF0Y"
-      },
       "name": "猫又おかゆ"
     },
     {
@@ -466,5 +454,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T15:00:53Z"
+  "generated_at": "2026-11-15T15:10:35Z"
 }
