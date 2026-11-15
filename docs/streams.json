@@ -282,7 +282,14 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T12:00:00Z",
+          "title": "【member's only】look outside (REALLY don't though) #calliolive",
+          "video_id": "x71pYWcTqqg"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -416,5 +423,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T23:10:25Z"
+  "generated_at": "2026-11-15T23:20:28Z"
 }
