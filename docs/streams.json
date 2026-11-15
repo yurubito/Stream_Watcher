@@ -94,13 +94,13 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
+      "live": {
+        "started_at": "2026-11-15T13:01:07Z",
+        "title": "【Splatoon Raiders】スプラトゥーンやりすぎて軟骨ない狼のレイダース【ホロライブ/大神ミオ】",
+        "video_id": "zFsabtefDl8"
+      },
       "name": "大神ミオ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:00:00Z",
-          "title": "【Splatoon Raiders】スプラトゥーンやりすぎて軟骨ない狼のレイダース【ホロライブ/大神ミオ】",
-          "video_id": "zFsabtefDl8"
-        },
         {
           "scheduled_at": "2026-11-15T22:30:00Z",
           "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
@@ -167,18 +167,11 @@
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
       "live": {
-        "started_at": "2026-11-15T13:00:07Z",
-        "title": "【original MV】Braver【雪花ラミィ /ホロライブ】",
-        "video_id": "WUgMWQvCzig"
+        "started_at": "2026-11-15T13:10:20Z",
+        "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』メンバー限定配信【 雪花ラミィ /ホロライブ】",
+        "video_id": "xTjkcJjjw3w"
       },
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:10:00Z",
-          "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』メンバー限定配信【 雪花ラミィ /ホロライブ】",
-          "video_id": "xTjkcJjjw3w"
-        }
-      ]
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -275,14 +268,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:00:00Z",
-          "title": "【＃ホロドリ】ガチャ‼️★５引くぞおおおおお【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-          "video_id": "l16qcmopNys"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T13:01:11Z",
+        "title": "【＃ホロドリ】ガチャ‼️★５引くぞおおおおお【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+        "video_id": "l16qcmopNys"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -336,7 +327,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T18:00:00Z",
+          "title": "【AM BACK】yap time with TRAUMA 3d models✨ #kfp #キアライブ",
+          "video_id": "K9RZln0MW80"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -398,14 +396,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:05:00Z",
-          "title": "【DARK SOULS 3】PLAYING MY FAVOURITE GAME CAUSE IT'S MY BDAY(week)! #CCWEEK",
-          "video_id": "Vthypqd1Ni0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T13:09:52Z",
+        "title": "【DARK SOULS 3】PLAYING MY FAVOURITE GAME CAUSE IT'S MY BDAY(week)! #CCWEEK",
+        "video_id": "Vthypqd1Ni0"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -415,31 +411,32 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:00:00Z",
-          "title": "BOMBANANA with AREA15",
-          "video_id": "HolpZnNFoPI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T13:07:28Z",
+        "title": "BOMBANANA with AREA15",
+        "video_id": "HolpZnNFoPI"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
+      "live": {
+        "started_at": "2026-11-15T13:09:43Z",
+        "title": "【BOMBANANA!】AREA15 trying to guide eachother?!【hololive | moona】",
+        "video_id": "69FQ_jTU73E"
+      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:00:00Z",
-          "title": "【 BOMBANANA! 】BOOMBAYAH!【 iofi / hololive】",
-          "video_id": "JCR2UftWaEo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T13:07:34Z",
+        "title": "【 BOMBANANA! 】BOOMBAYAH!【 iofi / hololive】",
+        "video_id": "JCR2UftWaEo"
+      },
+      "name": "アイラニ・イオフィフティーン"
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -472,5 +469,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T13:00:47Z"
+  "generated_at": "2026-11-15T13:10:28Z"
 }
