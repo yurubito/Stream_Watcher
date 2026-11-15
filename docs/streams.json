@@ -345,7 +345,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T03:00:00Z",
+          "title": "【the cabin game】trapped with @KaelaKovalskia oh nooo~ the horror~~",
+          "video_id": "CrIEIMzlt1s"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -428,5 +435,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T17:40:32Z"
+  "generated_at": "2026-11-15T19:20:29Z"
 }
