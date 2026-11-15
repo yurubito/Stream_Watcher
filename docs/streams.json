@@ -195,6 +195,11 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-11-15T10:07:22Z",
+        "title": "【 MIMESIS 】大型アプデきちゃーーー！みんなでやる！！！【 桃鈴ねね / hololive 】",
+        "video_id": "zdby4ni6Gmg"
+      },
       "name": "桃鈴ねね"
     },
     {
@@ -509,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T10:10:25Z"
+  "generated_at": "2026-11-15T10:28:37Z"
 }
