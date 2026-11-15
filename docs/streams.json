@@ -265,7 +265,14 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏"
+      "name": "音乃瀬奏",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T09:00:00Z",
+          "title": "【 One Million Coins 】3rdオリ曲『アイシカケ』、100万再生ありがとう！の100万円集めます。【音乃瀬奏】#ReGLOSS",
+          "video_id": "RbzIf9P1-3c"
+        }
+      ]
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -505,5 +512,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T08:10:24Z"
+  "generated_at": "2026-11-15T08:20:30Z"
 }
