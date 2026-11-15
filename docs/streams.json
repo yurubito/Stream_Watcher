@@ -260,14 +260,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T09:00:00Z",
-          "title": "【 One Million Coins 】3rdオリ曲『アイシカケ』、100万再生ありがとう！の100万円集めます。【音乃瀬奏】#ReGLOSS",
-          "video_id": "RbzIf9P1-3c"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T09:01:25Z",
+        "title": "【 One Million Coins 】3rdオリ曲『アイシカケ』、100万再生ありがとう！の100万円集めます。【音乃瀬奏】#ReGLOSS",
+        "video_id": "RbzIf9P1-3c"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -365,7 +363,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T13:00:00Z",
+          "title": "【ホラゲ】今度こそ！！もうヤバそうな雰囲気しかしない銭湯に突入！！ | 地獄銭湯【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "91gNx20Oxho"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -502,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T09:00:46Z"
+  "generated_at": "2026-11-15T09:10:40Z"
 }
