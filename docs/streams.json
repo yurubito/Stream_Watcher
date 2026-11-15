@@ -282,11 +282,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-15T13:14:26Z",
-        "title": "【時のオカリナ  リメイク】#ゼルダの伝説　#５  ストーリー進めるぞ！！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "31Tfc9rz8mQ"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -396,31 +391,16 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-15T13:07:28Z",
-        "title": "BOMBANANA with AREA15",
-        "video_id": "HolpZnNFoPI"
-      },
       "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-15T13:09:43Z",
-        "title": "【BOMBANANA!】AREA15 trying to guide eachother?!【hololive | moona】",
-        "video_id": "69FQ_jTU73E"
-      },
       "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-15T13:07:34Z",
-        "title": "【 BOMBANANA! 】BOOMBAYAH!【 iofi / hololive】",
-        "video_id": "JCR2UftWaEo"
-      },
       "name": "アイラニ・イオフィフティーン"
     },
     {
@@ -454,5 +434,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T15:30:43Z"
+  "generated_at": "2026-11-15T15:40:28Z"
 }
