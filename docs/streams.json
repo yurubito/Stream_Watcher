@@ -167,17 +167,12 @@
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
       "live": {
-        "started_at": "2026-11-15T12:00:14Z",
-        "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』重大告知あり！！【 雪花ラミィ /ホロライブ】",
-        "video_id": "pnIli_xfMzc"
+        "started_at": "2026-11-15T13:00:07Z",
+        "title": "【original MV】Braver【雪花ラミィ /ホロライブ】",
+        "video_id": "WUgMWQvCzig"
       },
       "name": "雪花ラミィ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:00:00Z",
-          "title": "【original MV】Braver【雪花ラミィ /ホロライブ】",
-          "video_id": "WUgMWQvCzig"
-        },
         {
           "scheduled_at": "2026-11-15T13:10:00Z",
           "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』メンバー限定配信【 雪花ラミィ /ホロライブ】",
@@ -265,14 +260,12 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:00:00Z",
-          "title": "【 #ころすう 】圧×圧 初マシュマロ対談コラボ🐶🩵【水宮枢／ホロライブ】",
-          "video_id": "Mfa13xlRqYw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T13:00:30Z",
+        "title": "【 #ころすう 】圧×圧 初マシュマロ対談コラボ🐶🩵【水宮枢／ホロライブ】",
+        "video_id": "Mfa13xlRqYw"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -323,14 +316,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:00:00Z",
-          "title": "【ホラゲ】今度こそ！！もうヤバそうな雰囲気しかしない銭湯に突入！！ | 地獄銭湯【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "91gNx20Oxho"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T12:59:13Z",
+        "title": "【ホラゲ】今度こそ！！もうヤバそうな雰囲気しかしない銭湯に突入！！ | 地獄銭湯【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "91gNx20Oxho"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -410,7 +401,7 @@
       "name": "セシリア・イマーグリーン",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-15T13:00:00Z",
+          "scheduled_at": "2026-11-15T13:05:00Z",
           "title": "【DARK SOULS 3】PLAYING MY FAVOURITE GAME CAUSE IT'S MY BDAY(week)! #CCWEEK",
           "video_id": "Vthypqd1Ni0"
         }
@@ -436,14 +427,7 @@
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "group": "ID AREA15",
-      "name": "ムーナ・ホシノヴァ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:00:00Z",
-          "title": "【BOMBANANA!】AREA15 trying to guide eachother?!【hololive | moona】",
-          "video_id": "69FQ_jTU73E"
-        }
-      ]
+      "name": "ムーナ・ホシノヴァ"
     },
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -488,5 +472,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T12:50:41Z"
+  "generated_at": "2026-11-15T13:00:47Z"
 }
