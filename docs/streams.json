@@ -100,6 +100,11 @@
           "scheduled_at": "2026-11-15T13:00:00Z",
           "title": "【Splatoon Raiders】スプラトゥーンやりすぎて軟骨ない狼のレイダース【ホロライブ/大神ミオ】",
           "video_id": "zFsabtefDl8"
+        },
+        {
+          "scheduled_at": "2026-11-15T22:30:00Z",
+          "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
+          "video_id": "2eDChrtlUiY"
         }
       ]
     },
@@ -276,7 +281,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-15T13:00:00Z",
-          "title": "【】ホロドリガチャ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+          "title": "【＃ホロドリ】ガチャ‼️★５引くぞおおおおお【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
           "video_id": "l16qcmopNys"
         }
       ]
@@ -301,7 +306,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T13:15:00Z",
+          "title": "【時のオカリナ  リメイク】#ゼルダの伝説　#５  ストーリー進めるぞ！！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "31Tfc9rz8mQ"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -464,5 +476,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T12:20:24Z"
+  "generated_at": "2026-11-15T12:30:40Z"
 }
