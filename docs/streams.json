@@ -13,12 +13,17 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-15T03:00:51Z",
+        "title": "【#AZKi8周年】8周年記念！88曲耐久歌枠💥🎤8つの重大告知もあります！！！！！【ホロライブ / AZKi】",
+        "video_id": "0AmVXqb8DAo"
+      },
       "name": "AZKi",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-15T03:00:00Z",
-          "title": "【#AZKi8周年】8周年記念！88曲耐久歌枠💥🎤8つの重大告知もあります！！！！！【ホロライブ / AZKi】",
-          "video_id": "0AmVXqb8DAo"
+          "scheduled_at": "2026-11-18T10:00:00Z",
+          "title": "【ロケ企画】AZKi's LOCATION!  Vol.7 ～自然を満喫！あずのせで奏の森リゾートでゲスしてきた！～【#AZロケ】",
+          "video_id": "nW5eNn-G3MA"
         }
       ]
     },
@@ -30,7 +35,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T11:00:00Z",
+          "title": "【祝われたい🎉】ツアー完走‼おつかれさまああああああああああ【星街すいせい / ＃ほしまちすたじお】",
+          "video_id": "_DAtn-yPnaI"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -52,7 +64,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T10:00:00Z",
+          "title": "【 #フブみこさん】フブみこさん３Dゲーム対決!!※罰ゲーム＆ご褒美あり【ホロライブ/白上フブキ/さくらみこ】",
+          "video_id": "DO3jot8NuC0"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -79,14 +98,12 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T04:00:00Z",
-          "title": "【#4】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
-          "video_id": "wXq2w7pB_AU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T04:05:49Z",
+        "title": "【#4】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
+        "video_id": "1cMe5ErZ3vs"
+      },
+      "name": "大空スバル"
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -108,12 +125,26 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T08:00:00Z",
+          "title": "海怖いけど「アクアノートの休日」遊ぶ🐟",
+          "video_id": "9vqIZADqR7Y"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T10:00:00Z",
+          "title": "【コラボ】大型アプデが来たらしいミメシスをやるぞ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "a3dAtphBqZ0"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -123,14 +154,7 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T01:00:00Z",
-          "title": "【#ホロわちゃ学園祭_DAY1】わちゃわちゃ学園祭！フリーチャット枠(あとからさんまになります！)【白銀ノエル/ホロライブ】",
-          "video_id": "Oda2RadTrm8"
-        }
-      ]
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -145,6 +169,11 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-11-15T07:59:26Z",
+        "title": "【 STREET FIGHTER 6 】SCARZCUP2 TeamLeshar 本番‼️【常闇トワ/ホロライブ】",
+        "video_id": "TOQ6_I9JIDY"
+      },
       "name": "常闇トワ"
     },
     {
@@ -172,12 +201,26 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T10:00:00Z",
+          "title": "【 MIMESIS 】大型アプデきちゃーーー！みんなでやる！！！【 桃鈴ねね / hololive 】",
+          "video_id": "FP2T8k0Zd0o"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T09:00:00Z",
+          "title": "【古今東西ダービー】お題にそった名付けセンスで馬の強さが決まる競馬ゲーム【獅白ぼたん/ホロライブ】",
+          "video_id": "MPRzSqwBtmY"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -195,16 +238,6 @@
       "name": "鷹嶺ルイ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-15T00:00:00Z",
-          "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！モンゾーラ島の再建をするぞぉ！！！【鷹嶺ルイ/ホロライブ】ネタバレあり",
-          "video_id": "JGWJZgmi5S4"
-        },
-        {
-          "scheduled_at": "2026-11-15T05:30:00Z",
-          "title": "【 エリザベス女王杯 】久々的中をしたい。どうしても。【鷹嶺ルイ/ホロライブ】",
-          "video_id": "07uC8LL9cAY"
-        },
-        {
           "scheduled_at": "2026-11-15T08:00:00Z",
           "title": "【 #ホロ1GP 】先週のホロ1グランプリの切り抜き鑑賞会！裏話も話すぞ～！！ 【鷹嶺ルイ/ホロライブ】",
           "video_id": "0Heo2FKeE9Q"
@@ -219,7 +252,19 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T15:30:00Z",
+          "title": "風真いろはの #ねるまえらじお 📻❣ #29",
+          "video_id": "O4-DN5oHUGM"
+        },
+        {
+          "scheduled_at": "2026-11-15T23:00:00Z",
+          "title": "【メン限】メン限月曜日討伐朝活☀04【風真いろは/ホロライブ】",
+          "video_id": "KpRtAaOQ8YU"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -244,7 +289,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T10:00:00Z",
+          "title": "【MIMESIS】ひさびさMIMESIS！アプデもきたらしい？？【ホロライブ  響咲リオナ】",
+          "video_id": "z1n320Ug5RQ"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -271,19 +323,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T05:30:00Z",
-          "title": "【競馬/エリザベス女王杯】みるよおおお【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "J10gU822nZY"
-        },
-        {
-          "scheduled_at": "2026-11-15T07:15:00Z",
-          "title": "【わちゃわちゃ学園祭】DAY2同時視聴！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "8QqmuUHhKcI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T07:17:48Z",
+        "title": "【わちゃわちゃ学園祭】DAY2同時視聴！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "8QqmuUHhKcI"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -332,14 +377,7 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T00:00:00Z",
-          "title": "【DRAWING WITH...】...mori calliope? #calliolive #PR #DesktopMate",
-          "video_id": "I3hlBx8MeQE"
-        }
-      ]
+      "name": "森カリオペ"
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -367,11 +405,6 @@
       "name": "ハコス・ベールズ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-15T01:00:00Z",
-          "title": "≪Yakuza 7: Like a Dragon≫ THE EYEBROWS ARE DIFFERENT...First Playthrough #10【SPOILER WARNING】",
-          "video_id": "A_mH8BzbqYY"
-        },
-        {
           "scheduled_at": "2026-11-16T03:00:00Z",
           "title": "≪OFF-COLLAB KARAOKE・歌枠≫ just two gals singing some anisongs + ANNOUNCEMENT! #RoadToREGALIA",
           "video_id": "VqkiTQbWk0c"
@@ -386,38 +419,22 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T00:00:00Z",
-          "title": "【The Legend of Zelda: Ocarina of Time Remake】Janondorf of the Jerudo",
-          "video_id": "lZUwwHkYW7I"
-        }
-      ]
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T01:00:00Z",
-          "title": "Finally letting you into a new room of my house | Bathroom BG Debut",
-          "video_id": "aYUQXTvo62s"
-        }
-      ]
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "group": "EN Advent",
-      "name": "フワワ＆モココ・アビスガード",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T01:00:00Z",
-          "title": "【RISE OF THE RŌNIN】sharpening my BAUshido blade🐾🩵 【FUWAWA SOLO】",
-          "video_id": "XhcsV5w4vNM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T00:55:08Z",
+        "title": "【RISE OF THE RŌNIN】sharpening my BAUshido blade🐾🩵 【FUWAWA SOLO】",
+        "video_id": "XhcsV5w4vNM"
+      },
+      "name": "フワワ＆モココ・アビスガード"
     },
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
@@ -427,29 +444,24 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-14T18:59:35Z",
-        "title": "【#WORLDS2026】LEGENDS NEVER DIE",
-        "video_id": "qhCOQm1N678"
-      },
       "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T13:00:00Z",
+          "title": "【DARK SOULS 3】PLAYING MY FAVOURITE GAME CAUSE IT'S MY BDAY(week)! #CCWEEK",
+          "video_id": "Vthypqd1Ni0"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T04:00:00Z",
-          "title": "【COOKING STREAM】Kyoko will teach me to cook Omurice!",
-          "video_id": "-haVXf58eTs"
-        }
-      ]
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -497,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T00:50:22Z"
+  "generated_at": "2026-11-15T08:00:52Z"
 }
