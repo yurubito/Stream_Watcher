@@ -206,14 +206,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T09:30:00Z",
-          "title": "【古今東西ダービー】お題にそった名付けセンスで馬の強さが決まる競馬ゲーム【獅白ぼたん/ホロライブ】",
-          "video_id": "MPRzSqwBtmY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T09:30:54Z",
+        "title": "【古今東西ダービー】お題にそった名付けセンスで馬の強さが決まる競馬ゲーム【獅白ぼたん/ホロライブ】",
+        "video_id": "MPRzSqwBtmY"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -507,5 +505,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T09:30:39Z"
+  "generated_at": "2026-11-15T09:40:38Z"
 }
