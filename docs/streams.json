@@ -7,7 +7,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-15T14:00:00Z",
-          "title": "【配信予定地】【ときのそら/ホロライブ】",
+          "title": "【雑談】いろいろありましたね！！【ときのそら/ホロライブ】",
           "video_id": "uQUCdUcXpTQ"
         }
       ]
@@ -86,13 +86,13 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-11-15T13:59:57Z",
+        "title": "【Freetalk】深夜のちょこっと雑談📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "XlDnC24OVqk"
+      },
       "name": "癒月ちょこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T14:00:00Z",
-          "title": "【Freetalk】深夜のちょこっと雑談📣 【ホロライブ/癒月ちょこ】",
-          "video_id": "XlDnC24OVqk"
-        },
         {
           "scheduled_at": "2026-11-15T15:00:00Z",
           "title": "【ARK:Survival Ascended】アストレオスで素材王修行2日目、拠点作りするのだ！【ホロライブ/癒月ちょこ】",
@@ -478,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T13:50:25Z"
+  "generated_at": "2026-11-15T14:00:48Z"
 }
