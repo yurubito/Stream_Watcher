@@ -191,13 +191,13 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-15T15:30:07Z",
+        "title": "風真いろはの #ねるまえらじお 📻❣ #29",
+        "video_id": "O4-DN5oHUGM"
+      },
       "name": "風真いろは",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T15:30:00Z",
-          "title": "風真いろはの #ねるまえらじお 📻❣ #29",
-          "video_id": "O4-DN5oHUGM"
-        },
         {
           "scheduled_at": "2026-11-15T23:00:00Z",
           "title": "【メン限】メン限月曜日討伐朝活☀04【風真いろは/ホロライブ】",
@@ -454,5 +454,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T15:10:35Z"
+  "generated_at": "2026-11-15T15:30:43Z"
 }
