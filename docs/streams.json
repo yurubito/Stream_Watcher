@@ -151,11 +151,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-15T07:59:26Z",
-        "title": "【 STREET FIGHTER 6 】SCARZCUP2 TeamLeshar 本番‼️【常闇トワ/ホロライブ】",
-        "video_id": "TOQ6_I9JIDY"
-      },
       "name": "常闇トワ"
     },
     {
@@ -166,11 +161,6 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-15T13:10:20Z",
-        "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』メンバー限定配信【 雪花ラミィ /ホロライブ】",
-        "video_id": "xTjkcJjjw3w"
-      },
       "name": "雪花ラミィ"
     },
     {
@@ -295,14 +285,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T13:15:00Z",
-          "title": "【時のオカリナ  リメイク】#ゼルダの伝説　#５  ストーリー進めるぞ！！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "31Tfc9rz8mQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T13:14:26Z",
+        "title": "【時のオカリナ  リメイク】#ゼルダの伝説　#５  ストーリー進めるぞ！！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "31Tfc9rz8mQ"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -469,5 +457,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T13:10:28Z"
+  "generated_at": "2026-11-15T13:20:25Z"
 }
