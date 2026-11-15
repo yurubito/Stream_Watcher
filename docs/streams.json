@@ -21,6 +21,11 @@
       "name": "AZKi",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-16T10:00:00Z",
+          "title": "画面の中と向こうの君へ / AZKi (official)",
+          "video_id": "IqN0XeMdGU4"
+        },
+        {
           "scheduled_at": "2026-11-18T10:00:00Z",
           "title": "【ロケ企画】AZKi's LOCATION!  Vol.7 ～自然を満喫！あずのせで奏の森リゾートでゲスしてきた！～【#AZロケ】",
           "video_id": "nW5eNn-G3MA"
@@ -64,14 +69,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T10:00:00Z",
-          "title": "【 #フブみこさん】フブみこさん３Dゲーム対決!!※罰ゲーム＆ご褒美あり【ホロライブ/白上フブキ/さくらみこ】",
-          "video_id": "DO3jot8NuC0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T09:59:41Z",
+        "title": "【 #フブみこさん】フブみこさん３Dゲーム対決!!※罰ゲーム＆ご褒美あり【ホロライブ/白上フブキ/さくらみこ】",
+        "video_id": "DO3jot8NuC0"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -130,14 +133,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T10:00:00Z",
-          "title": "【コラボ】大型アプデが来たらしいミメシスをやるぞ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "a3dAtphBqZ0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T09:59:38Z",
+        "title": "【コラボ】自分たちの「声と行動を真似する敵」が混ざっているゲームをやるぞ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "a3dAtphBqZ0"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -194,14 +195,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T10:00:00Z",
-          "title": "【 MIMESIS 】大型アプデきちゃーーー！みんなでやる！！！【 桃鈴ねね / hololive 】",
-          "video_id": "FP2T8k0Zd0o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T10:00:29Z",
+        "title": "【 MIMESIS 】大型アプデきちゃーーー！みんなでやる！！！【 桃鈴ねね / hololive 】",
+        "video_id": "FP2T8k0Zd0o"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -283,14 +282,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T10:00:00Z",
-          "title": "【MIMESIS】ひさびさMIMESIS！アプデもきたらしい？？【ホロライブ  響咲リオナ】",
-          "video_id": "z1n320Ug5RQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T10:00:16Z",
+        "title": "【MIMESIS】ひさびさMIMESIS！アプデもきたらしい？？【ホロライブ  響咲リオナ】",
+        "video_id": "z1n320Ug5RQ"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -300,13 +297,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-15T10:00:16Z",
+        "title": "【MIMESIS】珍しメンバーと行く久々ミメシス❕🩵【水宮枢／ホロライブ】",
+        "video_id": "k-fiYPedgwA"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T10:00:00Z",
-          "title": "【MIMESIS】珍しメンバーと行く久々ミメシス❕🩵【水宮枢／ホロライブ】",
-          "video_id": "k-fiYPedgwA"
-        },
         {
           "scheduled_at": "2026-11-15T13:00:00Z",
           "title": "【 #ころすう 】圧×圧 初マシュマロ対談コラボ🐶🩵【水宮枢／ホロライブ】",
@@ -327,19 +324,24 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T13:00:00Z",
+          "title": "【】ホロドリガチャ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+          "video_id": "l16qcmopNys"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T10:00:00Z",
-          "title": "ホロライブの音ゲー「ホロドリ」楽曲オタクが初見プレイなのじゃ！！！【アソビ★まわり隊！/熱千めら】",
-          "video_id": "YL-6y3sZnbs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T09:58:37Z",
+        "title": "ホロライブの音ゲー「ホロドリ」楽曲オタクが初見プレイなのじゃ！！！【アソビ★まわり隊！/熱千めら】",
+        "video_id": "YL-6y3sZnbs"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -472,7 +474,14 @@
     {
       "channel_id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "group": "ID AREA15",
-      "name": "アイラニ・イオフィフティーン"
+      "name": "アイラニ・イオフィフティーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T13:00:00Z",
+          "title": "【 BOMBANANA! 】BOOMBAYAH!【 iofi / hololive】",
+          "video_id": "JCR2UftWaEo"
+        }
+      ]
     },
     {
       "channel_id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -505,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T09:40:38Z"
+  "generated_at": "2026-11-15T10:01:09Z"
 }
