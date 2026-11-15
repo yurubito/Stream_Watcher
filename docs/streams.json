@@ -40,14 +40,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T11:00:00Z",
-          "title": "【祝われたい🎉】ツアー完走‼おつかれさまああああああああああ【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "_DAtn-yPnaI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T11:04:55Z",
+        "title": "【祝われたい🎉】ツアー完走‼おつかれさまああああああああああ【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "_DAtn-yPnaI"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -111,14 +109,12 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T11:00:00Z",
-          "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #02【 猫又おかゆ/ホロライブ 】",
-          "video_id": "Q4iThbjrF0Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T11:00:57Z",
+        "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #02【 猫又おかゆ/ホロライブ 】",
+        "video_id": "Q4iThbjrF0Y"
+      },
+      "name": "猫又おかゆ"
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -309,11 +305,6 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-15T07:17:48Z",
-        "title": "【わちゃわちゃ学園祭】DAY2同時視聴！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "8QqmuUHhKcI"
-      },
       "name": "輪堂千速"
     },
     {
@@ -516,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T11:00:59Z"
+  "generated_at": "2026-11-15T11:10:24Z"
 }
