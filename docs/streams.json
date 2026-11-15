@@ -3,11 +3,6 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-15T14:07:30Z",
-        "title": "【雑談】いろいろありましたね！！【ときのそら/ホロライブ】",
-        "video_id": "uQUCdUcXpTQ"
-      },
       "name": "ときのそら"
     },
     {
@@ -191,11 +186,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-15T15:30:07Z",
-        "title": "風真いろはの #ねるまえらじお 📻❣ #29",
-        "video_id": "O4-DN5oHUGM"
-      },
       "name": "風真いろは",
       "upcoming": [
         {
@@ -434,5 +424,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T15:40:28Z"
+  "generated_at": "2026-11-15T16:10:26Z"
 }
