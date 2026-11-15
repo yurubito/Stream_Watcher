@@ -79,7 +79,19 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "name": "癒月ちょこ"
+      "name": "癒月ちょこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T14:00:00Z",
+          "title": "【Freetalk】深夜のちょこっと雑談📣 【ホロライブ/癒月ちょこ】",
+          "video_id": "XlDnC24OVqk"
+        },
+        {
+          "scheduled_at": "2026-11-15T15:00:00Z",
+          "title": "【ARK:Survival Ascended】アストレオスで素材王修行2日目、拠点作りするのだ！【ホロライブ/癒月ちょこ】",
+          "video_id": "k_LRtkO8yxI"
+        }
+      ]
     },
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -452,5 +464,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T13:30:42Z"
+  "generated_at": "2026-11-15T13:40:23Z"
 }
