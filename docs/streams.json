@@ -3,7 +3,14 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら"
+      "name": "ときのそら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T14:00:00Z",
+          "title": "【配信予定地】【ときのそら/ホロライブ】",
+          "video_id": "uQUCdUcXpTQ"
+        }
+      ]
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -225,7 +232,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T12:00:00Z",
+          "title": "【#ホロじゃん リリース直前真剣勝負！！】アキこよりりらでんで麻雀最強を決める✨【一条莉々華/hololive ReGLOSS】",
+          "video_id": "7Q0cSJ5Qa00"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -464,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T13:40:23Z"
+  "generated_at": "2026-11-15T13:50:25Z"
 }
