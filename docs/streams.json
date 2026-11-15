@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T14:00:00Z",
-          "title": "【雑談】いろいろありましたね！！【ときのそら/ホロライブ】",
-          "video_id": "uQUCdUcXpTQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-15T14:07:30Z",
+        "title": "【雑談】いろいろありましたね！！【ときのそら/ホロライブ】",
+        "video_id": "uQUCdUcXpTQ"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -264,11 +262,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-15T13:00:30Z",
-        "title": "【 #ころすう 】圧×圧 初マシュマロ対談コラボ🐶🩵【水宮枢／ホロライブ】",
-        "video_id": "Mfa13xlRqYw"
-      },
       "name": "水宮枢"
     },
     {
@@ -478,5 +471,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T14:00:48Z"
+  "generated_at": "2026-11-15T14:10:28Z"
 }
