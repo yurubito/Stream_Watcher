@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-15T03:00:51Z",
-        "title": "【#AZKi8周年】8周年記念！88曲耐久歌枠💥🎤8つの重大告知もあります！！！！！【ホロライブ / AZKi】",
-        "video_id": "0AmVXqb8DAo"
-      },
       "name": "AZKi",
       "upcoming": [
         {
@@ -99,7 +94,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T13:00:00Z",
+          "title": "【Splatoon Raiders】スプラトゥーンやりすぎて軟骨ない狼のレイダース【ホロライブ/大神ミオ】",
+          "video_id": "zFsabtefDl8"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -119,11 +121,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-15T09:59:38Z",
-        "title": "【コラボ】自分たちの「声と行動を真似する敵」が混ざっているゲームをやるぞ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "a3dAtphBqZ0"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -164,13 +161,13 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-11-15T12:00:14Z",
+        "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』重大告知あり！！【 雪花ラミィ /ホロライブ】",
+        "video_id": "pnIli_xfMzc"
+      },
       "name": "雪花ラミィ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-15T12:00:00Z",
-          "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』重大告知あり！！【 雪花ラミィ /ホロライブ】",
-          "video_id": "pnIli_xfMzc"
-        },
         {
           "scheduled_at": "2026-11-15T13:10:00Z",
           "title": "【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』メンバー限定配信【 雪花ラミィ /ホロライブ】",
@@ -181,11 +178,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-15T10:07:22Z",
-        "title": "【 MIMESIS 】大型アプデきちゃーーー！みんなでやる！！！【 桃鈴ねね / hololive 】",
-        "video_id": "zdby4ni6Gmg"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -253,11 +245,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-15T10:00:16Z",
-        "title": "【MIMESIS】ひさびさMIMESIS！アプデもきたらしい？？【ホロライブ  響咲リオナ】",
-        "video_id": "z1n320Ug5RQ"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -268,11 +255,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-15T10:00:16Z",
-        "title": "【MIMESIS】珍しメンバーと行く久々ミメシス❕🩵【水宮枢／ホロライブ】",
-        "video_id": "k-fiYPedgwA"
-      },
       "name": "水宮枢",
       "upcoming": [
         {
@@ -487,5 +469,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T11:50:23Z"
+  "generated_at": "2026-11-15T12:00:44Z"
 }
