@@ -84,11 +84,6 @@
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
       "group": "JP 2期生",
-      "live": {
-        "started_at": "2026-11-15T13:59:57Z",
-        "title": "【Freetalk】深夜のちょこっと雑談📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "XlDnC24OVqk"
-      },
       "name": "癒月ちょこ",
       "upcoming": [
         {
@@ -471,5 +466,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T14:10:28Z"
+  "generated_at": "2026-11-15T15:00:53Z"
 }
