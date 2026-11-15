@@ -459,7 +459,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-15T13:00:00Z",
+          "title": "BOMBANANA with AREA15",
+          "video_id": "HolpZnNFoPI"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -509,5 +516,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-15T10:50:36Z"
+  "generated_at": "2026-11-15T11:00:59Z"
 }
