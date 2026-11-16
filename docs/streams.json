@@ -76,7 +76,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T13:00:00Z",
+          "title": "【R.E.P.O.】子供たちといくぞ！！#ホロREPO【ホロライブ/夏色まつり】",
+          "video_id": "pfuaRb9HmeM"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -208,7 +215,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-16T10:00:00Z",
-          "title": "【実は〇〇〇】コ。 -こよりの初公開情報について-【博衣こより/ホロライブ】",
+          "title": "【 #こより実は 〇〇〇】コ。 -こよりの初公開情報について-【博衣こより/ホロライブ】",
           "video_id": "COLL7CHAtLY"
         },
         {
@@ -328,7 +335,14 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり"
+      "name": "鈴鳴つづり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T13:00:00Z",
+          "title": "【R.E.P.O.】R.E.P.Oがきたああああ！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "bQh2bdQkd5c"
+        }
+      ]
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -419,7 +433,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T22:00:00Z",
+          "title": "【TRAILS IN THE SKY: 1ST CHAPTER】a royal banquet and its all for ME!!!!!",
+          "video_id": "9FxpC10Iqnc"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -484,5 +505,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T08:30:41Z"
+  "generated_at": "2026-11-16T08:40:23Z"
 }
