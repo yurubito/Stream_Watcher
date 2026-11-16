@@ -204,14 +204,12 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T11:00:00Z",
-          "title": "【 バイオハザード6 】ポンコツ同士でも1日でクリアできるんですか？クリス・ピアーズ編【#みこったかにぇ/ホロライブ】ネタバレあり",
-          "video_id": "sa_soQ5X4cE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T11:00:00Z",
+        "title": "【 バイオハザード6 】ポンコツ同士でも1日でクリアできるんですか？クリス・ピアーズ編【#みこったかにぇ/ホロライブ】ネタバレあり",
+        "video_id": "sa_soQ5X4cE"
+      },
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -539,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T10:10:37Z"
+  "generated_at": "2026-11-16T11:00:53Z"
 }
