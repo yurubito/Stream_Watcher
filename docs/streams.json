@@ -222,6 +222,11 @@
           "scheduled_at": "2026-11-16T12:00:00Z",
           "title": "【ホロじゃん】先行コラボ‼️公式番組出た4人で麻雀打つぞ打つぞ打つぞ！！！🀄✨【博衣こより視点/ホロライブ】",
           "video_id": "3O0mWNSEw1c"
+        },
+        {
+          "scheduled_at": "2026-11-16T22:00:00Z",
+          "title": "【 #朝こよ 】今週もバタバタ⁉️だけど頑張りたい火曜日の朝は朝こよ～！☀ #307 【博衣こより/hololive】",
+          "video_id": "OXeLe6O_LQI"
         }
       ]
     },
@@ -257,7 +262,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T12:00:00Z",
+          "title": "【ホロライブ麻雀 -ホロじゃん-】あの日の4人で先行プレイします！！！【儒烏風亭らでん #ReGLOSS 】",
+          "video_id": "3Kgs5rsITD4"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -479,5 +491,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T08:01:03Z"
+  "generated_at": "2026-11-16T08:20:31Z"
 }
