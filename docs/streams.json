@@ -30,7 +30,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T11:00:00Z",
+          "title": "【バイオハザード６】ポンコツバイオでゆくクリス・ピアーズ編クリア耐久【ホロライブ/#みこったかにぇ】",
+          "video_id": "Xw-VRQo2AvA"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -111,12 +118,26 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T11:00:00Z",
+          "title": "【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "zFbMAcjuADY"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
       "group": "JP 3期生",
-      "name": "不知火フレア"
+      "name": "不知火フレア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T12:00:00Z",
+          "title": "【#不知火フレア新衣装】お久しぶりのかわいい新衣装🎀どんな感じかな～？【不知火フレア/ホロライブ】",
+          "video_id": "D52QsD82-9g"
+        }
+      ]
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -190,12 +211,31 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T10:00:00Z",
+          "title": "【実は〇〇〇】コ。 -こよりの初公開情報について-【博衣こより/ホロライブ】",
+          "video_id": "COLL7CHAtLY"
+        },
+        {
+          "scheduled_at": "2026-11-16T12:00:00Z",
+          "title": "【ホロじゃん】先行コラボ‼️公式番組出た4人で麻雀打つぞ打つぞ打つぞ！！！🀄✨【博衣こより視点/ホロライブ】",
+          "video_id": "3O0mWNSEw1c"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T10:00:00Z",
+          "title": "【オフコラボ】正解しないとたべれません🍪 #ホロ都道府県クッキーバトル 🔥熱千めらVS鈴鳴つづり【風真いろは/ホロライブ】",
+          "video_id": "Kpe1dOPOntI"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -242,12 +282,26 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T13:00:00Z",
+          "title": "【】よていち【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "W-LIi3bf-Yw"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T09:00:00Z",
+          "title": "【気のせいすぎるRPG】最新作！〇〇すぎるRPGやるぞおおお【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+          "video_id": "dxls8zS9AbY"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -279,11 +333,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-11-16T02:56:45Z",
-        "title": "【初の単独ライブ】いろはにほへっとあやふぶみ、有明アリーナ2DAYS開催決定！【#昼ホロ / #風白ゆき】",
-        "video_id": "Veq6wvZ83Ow"
-      },
       "name": "井月みちる"
     },
     {
@@ -328,14 +377,7 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T03:00:00Z",
-          "title": "≪OFF-COLLAB KARAOKE・歌枠≫ just two gals singing some anisongs + ANNOUNCEMENT! #RoadToREGALIA",
-          "video_id": "VqkiTQbWk0c"
-        }
-      ]
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -352,14 +394,7 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T03:00:00Z",
-          "title": "【the cabin game】trapped with @KaelaKovalskia oh nooo~ the horror~~",
-          "video_id": "CrIEIMzlt1s"
-        }
-      ]
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -384,7 +419,14 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン"
+      "name": "セシリア・イマーグリーン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T16:00:00Z",
+          "title": "【BLOODBORNE】 @holoen_raorapanthera I BELIEVE IN YOU!",
+          "video_id": "tkwzJvnIUm0"
+        }
+      ]
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -429,14 +471,7 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T03:00:00Z",
-          "title": "【the cabin game】KOSEKI BIJOU loves horror game. but is this a horro game?【GRINDSTONE】",
-          "video_id": "T1g0vNaH7As"
-        }
-      ]
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -444,5 +479,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T05:30:44Z"
+  "generated_at": "2026-11-16T08:01:03Z"
 }
