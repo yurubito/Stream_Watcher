@@ -72,14 +72,12 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T13:00:00Z",
-          "title": "【R.E.P.O.】子供たちといくぞ！！#ホロREPO【ホロライブ/夏色まつり】",
-          "video_id": "pfuaRb9HmeM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T13:00:18Z",
+        "title": "【R.E.P.O.】子供たちといくぞ！！#ホロREPO【ホロライブ/夏色まつり】",
+        "video_id": "pfuaRb9HmeM"
+      },
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -129,14 +127,7 @@
         "title": "【#不知火フレア新衣装】お久しぶりのかわいい新衣装🎀どんな感じかな～？【不知火フレア/ホロライブ】",
         "video_id": "D52QsD82-9g"
       },
-      "name": "不知火フレア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T13:00:00Z",
-          "title": "祭囃子/ 不知火フレア(Cover)",
-          "video_id": "ifJl7HArfro"
-        }
-      ]
+      "name": "不知火フレア"
     },
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -284,26 +275,22 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "name": "水宮枢",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T13:00:00Z",
-          "title": "【 #ホロREPO 】れぽのまき！すう視点【水宮枢／ホロライブDEV_IS】",
-          "video_id": "cTVfAX7A1IY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T13:01:02Z",
+        "title": "【 #ホロREPO 】れぽのまき！すう視点【水宮枢／ホロライブDEV_IS】",
+        "video_id": "cTVfAX7A1IY"
+      },
+      "name": "水宮枢"
     },
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T13:00:00Z",
-          "title": "【タンポポは耐える。】ド根性タンポポ！！！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "W-LIi3bf-Yw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T12:59:58Z",
+        "title": "【タンポポは耐える。】ド根性タンポポ！！！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "W-LIi3bf-Yw"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -522,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T12:40:41Z"
+  "generated_at": "2026-11-16T13:01:09Z"
 }
