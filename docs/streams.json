@@ -30,14 +30,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T11:00:00Z",
-          "title": "【バイオハザード６】ポンコツバイオでゆくクリス・ピアーズ編クリア耐久【ホロライブ/#みこったかにぇ】",
-          "video_id": "Xw-VRQo2AvA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T11:02:44Z",
+        "title": "【バイオハザード６】ポンコツバイオでゆくクリス・ピアーズ編クリア耐久【ホロライブ/#みこったかにぇ】",
+        "video_id": "Xw-VRQo2AvA"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -64,14 +62,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T11:00:00Z",
-          "title": "【Japanese Ramen Simulator】本店より発展した「ド珍らーめん　はなれ」で真面目に営業をする【ホロライブ/白上フブキ】",
-          "video_id": "yQnfpYZxZXA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T11:00:56Z",
+        "title": "【Japanese Ramen Simulator】本店より発展した「ド珍らーめん　はなれ」で真面目に営業をする【ホロライブ/白上フブキ】",
+        "video_id": "yQnfpYZxZXA"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -118,14 +114,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T11:00:00Z",
-          "title": "【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "zFbMAcjuADY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T11:01:00Z",
+        "title": "【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "zFbMAcjuADY"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -537,5 +531,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T11:00:53Z"
+  "generated_at": "2026-11-16T11:10:29Z"
 }
