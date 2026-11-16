@@ -76,14 +76,7 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T09:00:00Z",
-          "title": "【#ホロわちゃ学園祭_DAY2】交流場所【ホロライブ/夏色まつり】",
-          "video_id": "7SnU1D-4cYg"
-        }
-      ]
+      "name": "夏色まつり"
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -491,5 +484,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T08:20:31Z"
+  "generated_at": "2026-11-16T08:30:41Z"
 }
