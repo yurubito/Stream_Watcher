@@ -270,7 +270,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T03:00:00Z",
+          "title": "【EN】Just need to stay quiet... sounds easy...right? | Don't Scream【Hyakuto Kyoko/Hololive】",
+          "video_id": "F5ks3-zMDlE"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -452,5 +459,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T17:00:54Z"
+  "generated_at": "2026-11-16T17:10:40Z"
 }
