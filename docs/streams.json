@@ -216,7 +216,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T08:00:00Z",
+          "title": "【気のせいすぎるRPG】気のせい！？杞憂民はとりこぼしませんよ✌【ホロライブ  響咲リオナ】",
+          "video_id": "wW7KkmEfDgw"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -445,5 +452,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T16:20:51Z"
+  "generated_at": "2026-11-16T17:00:54Z"
 }
