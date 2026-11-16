@@ -118,6 +118,11 @@
           "scheduled_at": "2026-11-17T10:00:00Z",
           "title": "角巻わため NEWシングル『リスポーン!!』クロスフェード - 2026年12月23日発売💿",
           "video_id": "JsXfN6wCWvU"
+        },
+        {
+          "scheduled_at": "2026-11-17T13:00:00Z",
+          "title": "【 #凶乱令嬢 】1~6話同時視聴✨『凶乱令嬢 ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』【角巻わため/ホロライブ４期生】",
+          "video_id": "hOeOle6ngSU"
         }
       ]
     },
@@ -171,14 +176,12 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T22:00:00Z",
-          "title": "【 #朝こよ 】今週もバタバタ⁉️だけど頑張りたい火曜日の朝は朝こよ～！☀ #307 【博衣こより/hololive】",
-          "video_id": "OXeLe6O_LQI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T22:01:58Z",
+        "title": "【 #朝こよ 】今週もバタバタ⁉️だけど頑張りたい火曜日の朝は朝こよ～！☀ #307 【博衣こより/hololive】",
+        "video_id": "OXeLe6O_LQI"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -374,14 +377,12 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T22:00:00Z",
-          "title": "【TRAILS IN THE SKY: 1ST CHAPTER】a royal banquet and its all for ME!!!!!",
-          "video_id": "9FxpC10Iqnc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T22:04:58Z",
+        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】a royal banquet and its all for ME!!!!!",
+        "video_id": "9FxpC10Iqnc"
+      },
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -458,5 +459,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T21:10:49Z"
+  "generated_at": "2026-11-16T22:10:33Z"
 }
