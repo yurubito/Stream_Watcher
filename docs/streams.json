@@ -325,14 +325,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T09:00:00Z",
-          "title": "【気のせいすぎるRPG】最新作！〇〇すぎるRPGやるぞおおお【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-          "video_id": "dxls8zS9AbY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T09:00:11Z",
+        "title": "【気のせいすぎるRPG】最新作！〇〇すぎるRPGやるぞおおお【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+        "video_id": "dxls8zS9AbY"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -529,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T08:50:33Z"
+  "generated_at": "2026-11-16T09:00:53Z"
 }
