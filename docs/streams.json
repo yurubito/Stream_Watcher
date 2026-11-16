@@ -62,11 +62,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-16T13:00:18Z",
-        "title": "【R.E.P.O.】子供たちといくぞ！！#ホロREPO【ホロライブ/夏色まつり】",
-        "video_id": "pfuaRb9HmeM"
-      },
       "name": "夏色まつり"
     },
     {
@@ -236,11 +231,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-16T13:01:02Z",
-        "title": "【 #ホロREPO 】れぽのまき！すう視点【水宮枢／ホロライブDEV_IS】",
-        "video_id": "cTVfAX7A1IY"
-      },
       "name": "水宮枢"
     },
     {
@@ -278,11 +268,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-16T13:01:47Z",
-        "title": "【R.E.P.O.】R.E.P.Oがきたああああ！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "bQh2bdQkd5c"
-      },
       "name": "鈴鳴つづり"
     },
     {
@@ -477,5 +462,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T15:50:33Z"
+  "generated_at": "2026-11-16T16:00:54Z"
 }
