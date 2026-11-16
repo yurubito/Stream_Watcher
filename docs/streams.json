@@ -112,7 +112,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T10:00:00Z",
+          "title": "角巻わため NEWシングル『リスポーン!!』クロスフェード - 2026年12月23日発売💿",
+          "video_id": "JsXfN6wCWvU"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -296,11 +303,6 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-16T18:11:15Z",
-        "title": "【AM BACK】yap time with TRAUMA 3d models✨ #kfp #キアライブ",
-        "video_id": "K9RZln0MW80"
-      },
       "name": "小鳥遊キアラ"
     },
     {
@@ -456,5 +458,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T20:20:38Z"
+  "generated_at": "2026-11-16T21:10:49Z"
 }
