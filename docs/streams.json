@@ -216,11 +216,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-16T13:07:34Z",
-        "title": "【R.E.P.O. 】今日もレポ！！今日は可愛いコスメ欲しい・・・【ホロライブ  響咲リオナ】",
-        "video_id": "MO-CjgI14os"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -268,11 +263,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-16T13:01:15Z",
-        "title": "【雑談】最近のコラボの話とか、今後やりたいゲームの話とか！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "Ly5pX6N2958"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -378,14 +368,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T16:10:00Z",
-          "title": "【BLOODBORNE】 @holoen_raorapanthera I BELIEVE IN YOU!",
-          "video_id": "tkwzJvnIUm0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T16:16:04Z",
+        "title": "【BLOODBORNE】 @holoen_raorapanthera I BELIEVE IN YOU!",
+        "video_id": "tkwzJvnIUm0"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -457,5 +445,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T16:10:36Z"
+  "generated_at": "2026-11-16T16:20:51Z"
 }
