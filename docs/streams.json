@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-16T13:01:08Z",
-        "title": "【振り返り】8周年ありがとう！！！！！！88曲やり遂げた！！！！！！！！！！【ホロライブ / AZKi】",
-        "video_id": "OufwmksKxbg"
-      },
       "name": "AZKi",
       "upcoming": [
         {
@@ -45,7 +40,14 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "name": "アキ・ローゼンタール"
+      "name": "アキ・ローゼンタール",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-23T14:40:00Z",
+          "title": "【#アキちょこナイパレ｜第61回】５00万円を今もらう派-vs-10年後に1000万円もらう派  あなたはどっち？｜ちょこのお悩み相談室💋～深夜のひとくちラジオ～",
+          "video_id": "3WeD0WJUGxM"
+        }
+      ]
     },
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -100,11 +102,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-16T11:01:00Z",
-        "title": "【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "zFbMAcjuADY"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -355,7 +352,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T00:00:00Z",
+          "title": "【FORTNITE】HATSUNE MIKU",
+          "video_id": "qIOZShVkRTk"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -473,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T15:20:29Z"
+  "generated_at": "2026-11-16T15:30:57Z"
 }
