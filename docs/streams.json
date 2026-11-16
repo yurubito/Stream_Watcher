@@ -16,11 +16,6 @@
       "name": "AZKi",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-16T10:00:00Z",
-          "title": "画面の中と向こうの君へ / AZKi (official)",
-          "video_id": "IqN0XeMdGU4"
-        },
-        {
           "scheduled_at": "2026-11-16T13:00:00Z",
           "title": "【振り返り】8周年ありがとう！！！！！！88曲やり遂げた！！！！！！！！！！【ホロライブ / AZKi】",
           "video_id": "OufwmksKxbg"
@@ -141,6 +136,11 @@
           "scheduled_at": "2026-11-16T12:00:00Z",
           "title": "【#不知火フレア新衣装】お久しぶりのかわいい新衣装🎀どんな感じかな～？【不知火フレア/ホロライブ】",
           "video_id": "D52QsD82-9g"
+        },
+        {
+          "scheduled_at": "2026-11-16T13:00:00Z",
+          "title": "祭囃子/ 不知火フレア(Cover)",
+          "video_id": "ifJl7HArfro"
         }
       ]
     },
@@ -216,13 +216,13 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
+      "live": {
+        "started_at": "2026-11-16T09:59:23Z",
+        "title": "【 #こより実は 〇〇〇】コ。 -こよりの初公開情報について-【博衣こより/ホロライブ】",
+        "video_id": "COLL7CHAtLY"
+      },
       "name": "博衣こより",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T10:00:00Z",
-          "title": "【 #こより実は 〇〇〇】コ。 -こよりの初公開情報について-【博衣こより/ホロライブ】",
-          "video_id": "COLL7CHAtLY"
-        },
         {
           "scheduled_at": "2026-11-16T12:00:00Z",
           "title": "【ホロじゃん】先行コラボ‼️公式番組出た4人で麻雀打つぞ打つぞ打つぞ！！！🀄✨【博衣こより視点/ホロライブ】",
@@ -509,7 +509,19 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T09:00:00Z",
+          "title": "Drawing My Own Fish and Taking Care of Them in DRAWQUARIUM【Pavolia Reine/hololive】",
+          "video_id": "7lCfOwO_w2M"
+        },
+        {
+          "scheduled_at": "2026-11-19T09:00:00Z",
+          "title": "DUPERY - Solo Deduction Roguelite Where Everyone is a Suspect【Pavolia Reine/hololive】",
+          "video_id": "AyGCfrXj_SU"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -527,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T09:00:53Z"
+  "generated_at": "2026-11-16T10:10:37Z"
 }
