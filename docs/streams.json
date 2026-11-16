@@ -247,14 +247,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T12:00:00Z",
-          "title": "【#ホロじゃん リリース直前真剣勝負！！】アキこよりりらでんで麻雀最強を決める✨【一条莉々華/hololive ReGLOSS】",
-          "video_id": "7Q0cSJ5Qa00"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T12:00:41Z",
+        "title": "【#ホロじゃん リリース直前真剣勝負！！】アキこよりりらでんで麻雀最強を決める✨【一条莉々華/hololive ReGLOSS】",
+        "video_id": "7Q0cSJ5Qa00"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -317,11 +315,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-16T09:00:11Z",
-        "title": "【気のせいすぎるRPG】最新作！〇〇すぎるRPGやるぞおおお【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-        "video_id": "dxls8zS9AbY"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -476,14 +469,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T12:15:00Z",
-          "title": "#MMMalas : IT'S NOVEMBER MALAS",
-          "video_id": "TCJz7tPIjMw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T11:59:11Z",
+        "title": "#MMMalas : IT'S NOVEMBER MALAS",
+        "video_id": "TCJz7tPIjMw"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -538,5 +529,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T11:50:38Z"
+  "generated_at": "2026-11-16T12:00:50Z"
 }
