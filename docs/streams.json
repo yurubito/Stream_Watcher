@@ -57,7 +57,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T11:00:00Z",
+          "title": "【Japanese Ramen Simulator】本店より発展した「ド珍らーめん　はなれ」で真面目に営業をする【ホロライブ/白上フブキ】",
+          "video_id": "yQnfpYZxZXA"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -437,5 +444,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T04:00:45Z"
+  "generated_at": "2026-11-16T05:30:44Z"
 }
