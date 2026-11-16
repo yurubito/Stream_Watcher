@@ -130,14 +130,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-16T15:00:00Z",
-          "title": "【雑談＆お礼】わちゃ学にカフェイン11に、お疲れさMonday...【角巻わため/ホロライブ４期生】",
-          "video_id": "jGRroUnW-GU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T15:09:53Z",
+        "title": "【雑談＆お礼】わちゃ学にカフェイン11に、お疲れさMonday...【角巻わため/ホロライブ４期生】",
+        "video_id": "jGRroUnW-GU"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -480,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T14:40:42Z"
+  "generated_at": "2026-11-16T15:10:26Z"
 }
