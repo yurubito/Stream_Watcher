@@ -25,11 +25,6 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-16T11:02:44Z",
-        "title": "【バイオハザード６】ポンコツバイオでゆくクリス・ピアーズ編クリア耐久【ホロライブ/#みこったかにぇ】",
-        "video_id": "Xw-VRQo2AvA"
-      },
       "name": "さくらみこ"
     },
     {
@@ -162,11 +157,6 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-16T11:00:00Z",
-        "title": "【 バイオハザード6 】ポンコツ同士でも1日でクリアできるんですか？クリス・ピアーズ編【#みこったかにぇ/ホロライブ】ネタバレあり",
-        "video_id": "sa_soQ5X4cE"
-      },
       "name": "鷹嶺ルイ"
     },
     {
@@ -471,5 +461,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T17:30:43Z"
+  "generated_at": "2026-11-16T17:50:36Z"
 }
