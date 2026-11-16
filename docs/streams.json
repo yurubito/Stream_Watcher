@@ -48,6 +48,11 @@
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-16T12:00:00Z",
+          "title": "【#ホロじゃん 】🀄麻雀コラボでりべんじ🀄w/こより、らでん、りりか【ホロライブ/アキロゼ】",
+          "video_id": "zgUs9Rg3ln4"
+        },
+        {
           "scheduled_at": "2026-11-16T14:40:00Z",
           "title": "【#アキちょこナイパレ｜第60回】恋人には束縛されたい派🆚自由がいい派  あなたはどっち？｜シスターローズの懺悔室🌹～深夜のひとくちラジオ～",
           "video_id": "-Hat1gYDP7U"
@@ -476,7 +481,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-16T12:15:00Z",
+          "title": "#MMMalas : IT'S NOVEMBER MALAS",
+          "video_id": "TCJz7tPIjMw"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -531,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T11:10:29Z"
+  "generated_at": "2026-11-16T11:30:40Z"
 }
