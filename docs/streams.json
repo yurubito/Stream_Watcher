@@ -45,11 +45,6 @@
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-16T12:01:05Z",
-        "title": "【#ホロじゃん 】🀄麻雀コラボでりべんじ🀄w/こより、らでん、りりか【ホロライブ/アキロゼ】",
-        "video_id": "zgUs9Rg3ln4"
-      },
       "name": "アキ・ローゼンタール",
       "upcoming": [
         {
@@ -194,11 +189,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-16T12:01:00Z",
-        "title": "【ホロじゃん】先行コラボ‼️公式番組出た4人で麻雀打つぞ打つぞ打つぞ！！！🀄✨【博衣こより視点/ホロライブ】",
-        "video_id": "3O0mWNSEw1c"
-      },
       "name": "博衣こより",
       "upcoming": [
         {
@@ -238,11 +228,6 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-16T12:01:02Z",
-        "title": "【ホロライブ麻雀 -ホロじゃん-】あの日の4人で先行プレイします！！！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "3Kgs5rsITD4"
-      },
       "name": "儒烏風亭らでん"
     },
     {
@@ -498,5 +483,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T13:10:29Z"
+  "generated_at": "2026-11-16T13:20:25Z"
 }
