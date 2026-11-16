@@ -272,6 +272,11 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
+      "live": {
+        "started_at": "2026-11-16T02:56:45Z",
+        "title": "【初の単独ライブ】いろはにほへっとあやふぶみ、有明アリーナ2DAYS開催決定！【#昼ホロ / #風白ゆき】",
+        "video_id": "Veq6wvZ83Ow"
+      },
       "name": "井月みちる"
     },
     {
@@ -432,5 +437,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T02:10:34Z"
+  "generated_at": "2026-11-16T04:00:45Z"
 }
