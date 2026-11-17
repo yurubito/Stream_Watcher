@@ -54,14 +54,12 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T10:00:00Z",
-          "title": "四国一周、すんぞ？【ホロライブ/赤井はあと】",
-          "video_id": "zogVnXIWkOM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T10:00:10Z",
+        "title": "四国一周、すんぞ？【ホロライブ/赤井はあと】",
+        "video_id": "zogVnXIWkOM"
+      },
+      "name": "赤井はあと"
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -144,14 +142,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T10:00:00Z",
-          "title": "【気のせいすぎるRPG】だんちょ大好き〇〇すぎるRPGの最新作！！やる太郎！【白銀ノエル/ホロライブ】",
-          "video_id": "DaEPX7odn3U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T10:00:28Z",
+        "title": "【気のせいすぎるRPG】だんちょ大好き〇〇すぎるRPGの最新作！！やる太郎！【白銀ノエル/ホロライブ】",
+        "video_id": "DaEPX7odn3U"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -161,13 +157,13 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-11-17T10:00:11Z",
+        "title": "角巻わため NEWシングル『リスポーン!!』クロスフェード - 2026年12月23日発売💿",
+        "video_id": "JsXfN6wCWvU"
+      },
       "name": "角巻わため",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T10:00:00Z",
-          "title": "角巻わため NEWシングル『リスポーン!!』クロスフェード - 2026年12月23日発売💿",
-          "video_id": "JsXfN6wCWvU"
-        },
         {
           "scheduled_at": "2026-11-17T13:00:00Z",
           "title": "【 #凶乱令嬢 】1~6話同時視聴✨『凶乱令嬢 ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』【角巻わため/ホロライブ４期生】",
@@ -532,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T09:50:25Z"
+  "generated_at": "2026-11-17T10:00:56Z"
 }
