@@ -59,7 +59,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T12:00:00Z",
+          "title": "【#ホロじゃん】４人でいざホロじゃん対決！！！！【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
+          "video_id": "iUF7uNJVLMQ"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -474,5 +481,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T02:01:44Z"
+  "generated_at": "2026-11-17T02:30:38Z"
 }
