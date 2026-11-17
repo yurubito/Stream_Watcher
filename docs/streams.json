@@ -59,14 +59,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T12:00:00Z",
-          "title": "【#ホロじゃん】４人でいざホロじゃん対決！！カスタムルールでカオス麻雀！！【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
-          "video_id": "iUF7uNJVLMQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T12:01:25Z",
+        "title": "【#ホロじゃん】４人でいざホロじゃん対決！！カスタムルールでカオス麻雀！！【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
+        "video_id": "iUF7uNJVLMQ"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -96,14 +94,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T12:00:00Z",
-          "title": "【ホロじゃん】うちは鳴かないみぉ～～～ん（たぶん）【大神ミオ視点】",
-          "video_id": "rUEyequT3ro"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T12:01:35Z",
+        "title": "【ホロじゃん】うちは鳴かないみぉ～～～ん（たぶん）【大神ミオ視点】",
+        "video_id": "rUEyequT3ro"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -266,13 +262,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-17T12:01:51Z",
+        "title": "【 #ホロドリ 】ガチャ🍁俺の女なので10連✋【水宮枢／ホロライブ】",
+        "video_id": "baMdEDpZGHo"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T12:00:00Z",
-          "title": "【 #ホロドリ 】ガチャ🍁俺の女なので10連✋【水宮枢／ホロライブ】",
-          "video_id": "baMdEDpZGHo"
-        },
         {
           "scheduled_at": "2026-11-19T13:00:00Z",
           "title": "【妖怪ウォッチ1】#1 妖怪ウォッチの世界楽しむぞ〜❕※ネタバレ有り【水宮枢／ホロライブ】",
@@ -288,11 +284,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-17T12:00:47Z",
-        "title": "【メンバー限定】ナイショだよ💖【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-        "video_id": "g2giVzrLkF0"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -509,5 +500,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T12:00:55Z"
+  "generated_at": "2026-11-17T12:10:31Z"
 }
