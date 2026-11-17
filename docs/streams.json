@@ -111,7 +111,14 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら"
+      "name": "兎田ぺこら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T11:00:00Z",
+          "title": "#2【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "YW6mbD3_ktI"
+        }
+      ]
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -466,5 +473,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T05:00:50Z"
+  "generated_at": "2026-11-17T05:30:35Z"
 }
