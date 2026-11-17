@@ -347,14 +347,12 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T02:00:00Z",
-          "title": "An Evil Sentient Board Game Wants to Play 【Invokyr】",
-          "video_id": "GRh8oUOsuBo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T01:59:23Z",
+        "title": "An Evil Sentient Board Game Wants to Play 【Invokyr】",
+        "video_id": "GRh8oUOsuBo"
+      },
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -369,14 +367,12 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "name": "ネリッサ・レイヴンクロフト",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T02:00:00Z",
-          "title": "WEEEEE COLLABO | Invokyr",
-          "video_id": "G0xxEWoSAVs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T01:59:25Z",
+        "title": "WEEEEE COLLABO | Invokyr",
+        "video_id": "G0xxEWoSAVs"
+      },
+      "name": "ネリッサ・レイヴンクロフト"
     },
     {
       "channel_id": "UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -480,5 +476,5 @@
       ]
     }
   ],
-  "generated_at": "2026-11-17T01:50:26Z"
+  "generated_at": "2026-11-17T02:00:44Z"
 }
