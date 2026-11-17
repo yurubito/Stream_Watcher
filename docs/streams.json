@@ -47,7 +47,14 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "name": "赤井はあと"
+      "name": "赤井はあと",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T10:00:00Z",
+          "title": "四国一周、すんぞ？【ホロライブ/赤井はあと】",
+          "video_id": "zogVnXIWkOM"
+        }
+      ]
     },
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -452,5 +459,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T00:00:47Z"
+  "generated_at": "2026-11-17T01:10:35Z"
 }
