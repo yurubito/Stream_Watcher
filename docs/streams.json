@@ -284,7 +284,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T03:00:00Z",
+          "title": "【EN】LET'S TALK!!! *Membership-only【Hyakuto Kyoko/Hololive】",
+          "video_id": "Me0R4otfPSk"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -343,7 +350,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T05:00:00Z",
+          "title": "【FORTNITE】MIKU",
+          "video_id": "THV68_R0s0k"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -442,5 +456,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T15:40:30Z"
+  "generated_at": "2026-11-17T16:01:03Z"
 }
