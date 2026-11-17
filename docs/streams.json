@@ -30,7 +30,14 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい"
+      "name": "星街すいせい",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T10:00:00Z",
+          "title": "【星街すいせい / ＃ほしまちすたじお】",
+          "video_id": "0KsNimlruNw"
+        }
+      ]
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -248,14 +255,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T08:00:00Z",
-          "title": "【気のせいすぎるRPG】気のせい！？杞憂民はとりこぼしませんよ✌【ホロライブ  響咲リオナ】",
-          "video_id": "wW7KkmEfDgw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T08:00:41Z",
+        "title": "【気のせいすぎるRPG】気のせい！？杞憂民はとりこぼしませんよ✌【ホロライブ  響咲リオナ】",
+        "video_id": "wW7KkmEfDgw"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -328,11 +333,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-17T02:59:55Z",
-        "title": "【EN】Just need to stay quiet... sounds easy...right? | Don't Scream【Hyakuto Kyoko/Hololive】",
-        "video_id": "F5ks3-zMDlE"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -412,7 +412,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T20:00:00Z",
+          "title": "【FINAL FANTASY XIV】LET'S GO INTO THE CRYSTAL TOWER!!! #ad",
+          "video_id": "SPJ0efWHFdY"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -489,5 +496,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T07:50:24Z"
+  "generated_at": "2026-11-17T08:00:54Z"
 }
