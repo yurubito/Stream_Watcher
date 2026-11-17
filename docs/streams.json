@@ -166,14 +166,12 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T13:00:00Z",
-          "title": "【浮気した夫に全部吐かせる】自白しろ！！！！！！！！！！！！【​雪花ラミィ /ホロライブ】",
-          "video_id": "jen4ZAgJzvc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T13:00:13Z",
+        "title": "【浮気した夫に全部吐かせる】自白しろ！！！！！！！！！！！！【​雪花ラミィ /ホロライブ】",
+        "video_id": "jen4ZAgJzvc"
+      },
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -230,7 +228,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T03:30:00Z",
+          "title": "これが限界飯かぁ…【#一条莉々華の限界飯】",
+          "video_id": "DneczIf74WU"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -301,13 +306,13 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-17T12:59:48Z",
+        "title": "【BOMBANANA】この3人なら爆弾解除も余裕では？？【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "4VuHSX-Dp7g"
+      },
       "name": "宙科そぴあ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T13:00:00Z",
-          "title": "【BOMBANANA】この3人なら爆弾解除も余裕では？？【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "4VuHSX-Dp7g"
-        },
         {
           "scheduled_at": "2028-06-12T15:00:00Z",
           "title": "【フリーチャット】そぴあのお知らせ掲示板【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
@@ -323,14 +328,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T13:00:00Z",
-          "title": "【コラボ】 見えない担当・聞こえない担当・しゃべれない担当の３人で仲良く爆弾解除！| Bombanana　【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "149WOmAvjAA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T12:59:17Z",
+        "title": "【コラボ】 見えない担当・聞こえない担当・しゃべれない担当の３人で仲良く爆弾解除！| Bombanana　【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "149WOmAvjAA"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -458,14 +461,12 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T13:00:00Z",
-          "title": "【BOMBANANA!】可愛い後輩二人と爆弾解除＾＾ Time for More Bomb Defusing!【hololive holoro | Anya Melfissa】",
-          "video_id": "ti1qSczi33s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T13:00:27Z",
+        "title": "【BOMBANANA!】可愛い後輩二人と爆弾解除＾＾ Time for More Bomb Defusing!【hololive holoro | Anya Melfissa】",
+        "video_id": "ti1qSczi33s"
+      },
+      "name": "アーニャ・メルフィッサ"
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -482,14 +483,12 @@
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "group": "ID holoh3ro",
-      "name": "ベスティア・ゼータ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T13:00:00Z",
-          "title": "【Warota: I Live Next to The Demon King's Castle LOL】????????????",
-          "video_id": "NW2YDP9OctY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T13:00:24Z",
+        "title": "【Warota: I Live Next to The Demon King's Castle LOL】????????????",
+        "video_id": "NW2YDP9OctY"
+      },
+      "name": "ベスティア・ゼータ"
     },
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -502,5 +501,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T12:50:30Z"
+  "generated_at": "2026-11-17T13:00:54Z"
 }
