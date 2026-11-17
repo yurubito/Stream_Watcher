@@ -83,7 +83,14 @@
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "group": "JP 2期生",
-      "name": "百鬼あやめ"
+      "name": "百鬼あやめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T11:00:00Z",
+          "title": "【雑談】やっと話せる時がきましたね。【百鬼あやめ/ホロライブ】",
+          "video_id": "5c1t3P3zrAs"
+        }
+      ]
     },
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
@@ -530,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T09:30:38Z"
+  "generated_at": "2026-11-17T09:40:26Z"
 }
