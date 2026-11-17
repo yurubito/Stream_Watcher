@@ -266,7 +266,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T08:00:00Z",
+          "title": "【ヨッシーアイランド】完全初見！人生初のスーパーマリオ ヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "yppSXXxygvA"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -463,8 +470,15 @@
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
       "group": "ID holoh3ro",
-      "name": "こぼ・かなえる"
+      "name": "こぼ・かなえる",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T02:00:00Z",
+          "title": "【Invokyr】This is gonna be interesting!! The game!!!",
+          "video_id": "HHG4YJEA4Ek"
+        }
+      ]
     }
   ],
-  "generated_at": "2026-11-17T01:40:26Z"
+  "generated_at": "2026-11-17T01:50:26Z"
 }
