@@ -202,7 +202,14 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T09:00:00Z",
+          "title": "爆裂愛してる / 緑仙×如月れん×鷹嶺ルイ×樋口楓×輪堂千速 (cover)",
+          "video_id": "rpZ4x18Zuv4"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -281,14 +288,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T12:00:00Z",
-          "title": "【メンバー限定】ナイショだよ💖【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-          "video_id": "g2giVzrLkF0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T12:00:47Z",
+        "title": "【メンバー限定】ナイショだよ💖【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+        "video_id": "g2giVzrLkF0"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -504,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T11:50:38Z"
+  "generated_at": "2026-11-17T12:00:55Z"
 }
