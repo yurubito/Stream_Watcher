@@ -81,14 +81,12 @@
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "group": "JP 2期生",
-      "name": "百鬼あやめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T11:00:00Z",
-          "title": "【雑談】やっと話せる時がきましたね。【百鬼あやめ/ホロライブ】",
-          "video_id": "5c1t3P3zrAs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T11:01:50Z",
+        "title": "【雑談】やっと話せる時がきましたね。【百鬼あやめ/ホロライブ】",
+        "video_id": "5c1t3P3zrAs"
+      },
+      "name": "百鬼あやめ"
     },
     {
       "channel_id": "UC1suqwovbL1kzsoaZgFZLKg",
@@ -224,11 +222,6 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-17T10:11:09Z",
-        "title": "【オフコラボ】正解しないとたべれません🍪 #ホロ都道府県クッキーバトル 🔥熱千めらVS鈴鳴つづり【風真いろは/ホロライブ】",
-        "video_id": "Kpe1dOPOntI"
-      },
       "name": "風真いろは"
     },
     {
@@ -290,7 +283,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-17T12:00:00Z",
-          "title": "【メンバー限定】【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+          "title": "【メンバー限定】ナイショだよ💖【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
           "video_id": "g2giVzrLkF0"
         }
       ]
@@ -509,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T11:00:56Z"
+  "generated_at": "2026-11-17T11:10:28Z"
 }
