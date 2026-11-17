@@ -179,14 +179,7 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T09:00:00Z",
-          "title": "爆裂愛してる / 緑仙×如月れん×鷹嶺ルイ×樋口楓×輪堂千速 (cover)",
-          "video_id": "rpZ4x18Zuv4"
-        }
-      ]
+      "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -474,5 +467,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T14:20:36Z"
+  "generated_at": "2026-11-17T14:30:52Z"
 }
