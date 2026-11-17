@@ -174,7 +174,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T13:00:00Z",
+          "title": "【浮気した夫に全部吐かせる】自白しろ！！！！！！！！！！！！【​雪花ラミィ /ホロライブ】",
+          "video_id": "jen4ZAgJzvc"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -338,7 +345,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T13:00:00Z",
+          "title": "【コラボ】 見えない担当・聞こえない担当・しゃべれない担当の３人で仲良く爆弾解除！| Bombanana　【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "149WOmAvjAA"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -501,5 +515,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T08:10:28Z"
+  "generated_at": "2026-11-17T08:40:28Z"
 }
