@@ -299,7 +299,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T22:00:00Z",
+          "title": "【のじゃEnglish】ENGLISH STUDY noja!【ホロライブ/熱千めら】",
+          "video_id": "QclGfuKx8XI"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -482,5 +489,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T06:30:48Z"
+  "generated_at": "2026-11-17T07:30:43Z"
 }
