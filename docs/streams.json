@@ -338,14 +338,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T00:00:00Z",
-          "title": "【FORTNITE】HATSUNE MIKU",
-          "video_id": "qIOZShVkRTk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-16T23:56:27Z",
+        "title": "【FORTNITE】HATSUNE MIKU",
+        "video_id": "qIOZShVkRTk"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -454,5 +452,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-16T23:10:50Z"
+  "generated_at": "2026-11-17T00:00:47Z"
 }
