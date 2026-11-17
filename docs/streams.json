@@ -98,7 +98,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T12:00:00Z",
+          "title": "【ホロじゃん】うちは鳴かないみぉ～～～ん（たぶん）【大神ミオ視点】",
+          "video_id": "rUEyequT3ro"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -483,13 +490,13 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
+      "live": {
+        "started_at": "2026-11-17T09:00:50Z",
+        "title": "Drawing My Own Fish and Taking Care of Them in DRAWQUARIUM【Pavolia Reine/hololive】",
+        "video_id": "7lCfOwO_w2M"
+      },
       "name": "パヴォリア・レイネ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T09:00:00Z",
-          "title": "Drawing My Own Fish and Taking Care of Them in DRAWQUARIUM【Pavolia Reine/hololive】",
-          "video_id": "7lCfOwO_w2M"
-        },
         {
           "scheduled_at": "2026-11-19T09:00:00Z",
           "title": "DUPERY - Solo Deduction Roguelite Where Everyone is a Suspect【Pavolia Reine/hololive】",
@@ -520,5 +527,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T08:50:40Z"
+  "generated_at": "2026-11-17T09:00:57Z"
 }
