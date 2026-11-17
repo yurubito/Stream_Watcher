@@ -92,7 +92,14 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ"
+      "name": "猫又おかゆ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T12:00:00Z",
+          "title": "夏滑り込みで失礼します✋",
+          "video_id": "sWrhXV4CdCI"
+        }
+      ]
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -479,5 +486,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T13:50:33Z"
+  "generated_at": "2026-11-17T14:01:04Z"
 }
