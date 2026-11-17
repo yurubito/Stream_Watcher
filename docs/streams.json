@@ -25,7 +25,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T12:00:00Z",
+          "title": "【GTAV】もうすぐ新作来る前にたくさん遊びたい！【ホロライブ/さくらみこ】",
+          "video_id": "GoIVhKFeicc"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -118,14 +125,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T11:00:00Z",
-          "title": "#2【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "YW6mbD3_ktI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T11:00:36Z",
+        "title": "#2【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "YW6mbD3_ktI"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -281,7 +286,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T12:00:00Z",
+          "title": "【メンバー限定】【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+          "video_id": "g2giVzrLkF0"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -497,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T10:50:27Z"
+  "generated_at": "2026-11-17T11:00:56Z"
 }
