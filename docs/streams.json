@@ -37,11 +37,6 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-17T10:01:45Z",
-        "title": "【Japanese Ramen Simulator】なんでうちはいつもﾜﾝｵﾍﾟなの❓【星街すいせい / ＃ほしまちすたじお】",
-        "video_id": "0KsNimlruNw"
-      },
       "name": "星街すいせい"
     },
     {
@@ -247,7 +242,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T03:00:00Z",
+          "title": "【定期配信＃51】水曜(木曜)のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
+          "video_id": "QGfmzfkru00"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -502,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T11:10:28Z"
+  "generated_at": "2026-11-17T11:50:38Z"
 }
