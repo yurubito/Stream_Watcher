@@ -433,7 +433,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T13:00:00Z",
+          "title": "【Japanese Ramen Simulator】Kaela. I Heard This Game Has Gambling. Kaela.【hololive | Anya Melfissa】",
+          "video_id": "k8vgMXW762Y"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -463,5 +470,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T18:00:59Z"
+  "generated_at": "2026-11-17T18:40:29Z"
 }
