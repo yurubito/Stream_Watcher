@@ -63,7 +63,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-17T12:00:00Z",
-          "title": "【#ホロじゃん】４人でいざホロじゃん対決！！！！【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
+          "title": "【#ホロじゃん】４人でいざホロじゃん対決！！カスタムルールでカオス麻雀！！【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
           "video_id": "iUF7uNJVLMQ"
         }
       ]
@@ -389,7 +389,14 @@
     {
       "channel_id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "group": "EN Justice",
-      "name": "エリザベス・ローズ・ブラッドフレイム"
+      "name": "エリザベス・ローズ・ブラッドフレイム",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T20:00:00Z",
+          "title": "🔴LIVE |【FINAL FANTASY XIV Online】Palace of the Dead & Crystal Tower🌱 | #ad 💄👧 (Spoiler Alert)",
+          "video_id": "cszLyRCGvT4"
+        }
+      ]
     },
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
@@ -481,5 +488,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T02:30:38Z"
+  "generated_at": "2026-11-17T02:50:34Z"
 }
