@@ -25,14 +25,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T12:00:00Z",
-          "title": "【GTAV】もうすぐ新作来る前にたくさん遊びたい！【ホロライブ/さくらみこ】",
-          "video_id": "GoIVhKFeicc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T12:12:17Z",
+        "title": "【GTAV】もうすぐ新作来る前にたくさん遊びたい！【ホロライブ/さくらみこ】",
+        "video_id": "GoIVhKFeicc"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -129,11 +127,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-17T10:00:28Z",
-        "title": "【気のせいすぎるRPG】だんちょ大好き〇〇すぎるRPGの最新作！！やる太郎！【白銀ノエル/ホロライブ】",
-        "video_id": "DaEPX7odn3U"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -500,5 +493,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T12:10:31Z"
+  "generated_at": "2026-11-17T12:20:24Z"
 }
