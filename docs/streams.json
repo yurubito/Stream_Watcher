@@ -59,11 +59,6 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-17T03:32:31Z",
-        "title": "【R.E.P.O.】SOLO　R.E.P.O.　Lv.76【ホロライブ/白上フブキ】",
-        "video_id": "jSmtukKiX-A"
-      },
       "name": "白上フブキ",
       "upcoming": [
         {
@@ -346,7 +341,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T17:00:00Z",
+          "title": "【Fire Emblem: Fortune's Weave】END OF THEODORA PART 1 !!!! and more Dietrich? #kfp #キアライブ",
+          "video_id": "YimMbCb3fV0"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -480,5 +482,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T05:40:31Z"
+  "generated_at": "2026-11-17T06:30:48Z"
 }
