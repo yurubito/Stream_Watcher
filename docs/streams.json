@@ -30,14 +30,12 @@
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "group": "JP 0期生",
-      "name": "星街すいせい",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T10:00:00Z",
-          "title": "【Japanese Ramen Simulator】なんでうちはいつもﾜﾝｵﾍﾟなの❓【星街すいせい / ＃ほしまちすたじお】",
-          "video_id": "0KsNimlruNw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T10:01:45Z",
+        "title": "【Japanese Ramen Simulator】なんでうちはいつもﾜﾝｵﾍﾟなの❓【星街すいせい / ＃ほしまちすたじお】",
+        "video_id": "0KsNimlruNw"
+      },
+      "name": "星街すいせい"
     },
     {
       "channel_id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -54,11 +52,6 @@
     {
       "channel_id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-17T10:00:10Z",
-        "title": "四国一周、すんぞ？【ホロライブ/赤井はあと】",
-        "video_id": "zogVnXIWkOM"
-      },
       "name": "赤井はあと"
     },
     {
@@ -157,11 +150,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-17T10:00:11Z",
-        "title": "角巻わため NEWシングル『リスポーン!!』クロスフェード - 2026年12月23日発売💿",
-        "video_id": "JsXfN6wCWvU"
-      },
       "name": "角巻わため",
       "upcoming": [
         {
@@ -221,24 +209,17 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-17T09:02:23Z",
-        "title": "【 #ホロドリ 】豪華賞品ありの企画を発表しちゃいます！【鷹嶺ルイ/ホロライブ】",
-        "video_id": "eyyK63D59xw"
-      },
       "name": "鷹嶺ルイ"
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T10:00:00Z",
-          "title": "【絶対遵守】ルールを破ったら即終了⁉️クリア耐久！！！【博衣こより/ホロライブ】",
-          "video_id": "1I-X8pZ3Fu8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T10:01:30Z",
+        "title": "【絶対遵守】ルールを破ったら即終了⁉️クリア耐久！！！【博衣こより/ホロライブ】",
+        "video_id": "1I-X8pZ3Fu8"
+      },
+      "name": "博衣こより"
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -528,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T10:00:56Z"
+  "generated_at": "2026-11-17T10:10:25Z"
 }
