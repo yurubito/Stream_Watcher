@@ -34,7 +34,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-17T10:00:00Z",
-          "title": "【星街すいせい / ＃ほしまちすたじお】",
+          "title": "【Japanese Ramen Simulator】なんでうちはいつもﾜﾝｵﾍﾟなの❓【星街すいせい / ＃ほしまちすたじお】",
           "video_id": "0KsNimlruNw"
         }
       ]
@@ -279,11 +279,6 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-17T08:00:41Z",
-        "title": "【気のせいすぎるRPG】気のせい！？杞憂民はとりこぼしませんよ✌【ホロライブ  響咲リオナ】",
-        "video_id": "wW7KkmEfDgw"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -537,5 +532,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T09:40:26Z"
+  "generated_at": "2026-11-17T09:50:25Z"
 }
