@@ -144,14 +144,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-17T13:00:00Z",
-          "title": "【 #凶乱令嬢 】1~6話同時視聴✨『凶乱令嬢 ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』【角巻わため/ホロライブ４期生】",
-          "video_id": "hOeOle6ngSU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-17T13:02:51Z",
+        "title": "【 #凶乱令嬢 】1~6話同時視聴✨『凶乱令嬢 ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』【角巻わため/ホロライブ４期生】",
+        "video_id": "hOeOle6ngSU"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -501,5 +499,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T13:00:54Z"
+  "generated_at": "2026-11-17T13:10:36Z"
 }
