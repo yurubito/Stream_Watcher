@@ -128,7 +128,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T10:00:00Z",
+          "title": "【気のせいすぎるRPG】だんちょ大好き〇〇すぎるRPGの最新作！！やる太郎！【白銀ノエル/ホロライブ】",
+          "video_id": "DaEPX7odn3U"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -473,5 +480,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T05:30:35Z"
+  "generated_at": "2026-11-17T05:40:31Z"
 }
