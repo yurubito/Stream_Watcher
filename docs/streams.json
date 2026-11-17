@@ -193,6 +193,11 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-11-17T09:05:04Z",
+        "title": "【脱毛サロンシミュレーター】おけけをなーいないする仕事に就いたよ♪【 桃鈴ねね / hololive 】",
+        "video_id": "P8iMyfGffkA"
+      },
       "name": "桃鈴ねね"
     },
     {
@@ -518,5 +523,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T09:10:30Z"
+  "generated_at": "2026-11-17T09:20:24Z"
 }
