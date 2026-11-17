@@ -357,7 +357,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T22:00:00Z",
+          "title": "Reacting to an Otome Game with Yanderes 【Members Only】",
+          "video_id": "fi7NG8Z90cs"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -394,11 +401,6 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "live": {
-        "started_at": "2026-11-16T22:04:58Z",
-        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】a royal banquet and its all for ME!!!!!",
-        "video_id": "9FxpC10Iqnc"
-      },
       "name": "ジジ・ムリン"
     },
     {
@@ -476,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T04:00:45Z"
+  "generated_at": "2026-11-17T04:10:40Z"
 }
