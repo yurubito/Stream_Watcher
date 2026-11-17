@@ -451,7 +451,14 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "name": "アーニャ・メルフィッサ"
+      "name": "アーニャ・メルフィッサ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-17T13:00:00Z",
+          "title": "【BOMBANANA!】可愛い後輩二人と爆弾解除＾＾ Time for More Bomb Defusing!【hololive holoro | Anya Melfissa】",
+          "video_id": "ti1qSczi33s"
+        }
+      ]
     },
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -488,5 +495,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-17T12:30:55Z"
+  "generated_at": "2026-11-17T12:40:27Z"
 }
