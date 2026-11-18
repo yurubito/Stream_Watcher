@@ -361,7 +361,14 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ"
+      "name": "シオリ・ノヴェラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T00:00:00Z",
+          "title": "I need fiddy gold【Withering Rooms】",
+          "video_id": "ZhwssVc0az0"
+        }
+      ]
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -465,5 +472,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T01:30:44Z"
+  "generated_at": "2026-11-18T02:40:29Z"
 }
