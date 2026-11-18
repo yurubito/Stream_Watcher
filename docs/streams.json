@@ -263,7 +263,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T12:00:00Z",
+          "title": "【 ＃ホロ7DTD 】初めての7 Days to Die！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "oXfefvzpPwo"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -481,5 +488,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T19:50:35Z"
+  "generated_at": "2026-11-18T20:50:45Z"
 }
