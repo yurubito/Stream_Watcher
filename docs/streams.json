@@ -262,13 +262,13 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-18T13:31:52Z",
+        "title": "【絶対遵守】絶対にまもらなきゃらしい…？？【水宮枢／ホロライブ】",
+        "video_id": "Gs3tXlsxnIA"
+      },
       "name": "水宮枢",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T13:30:00Z",
-          "title": "【絶対遵守】絶対にまもらなきゃらしい…？？【水宮枢／ホロライブ】",
-          "video_id": "Gs3tXlsxnIA"
-        },
         {
           "scheduled_at": "2026-11-19T13:00:00Z",
           "title": "【妖怪ウォッチ1】#1 妖怪ウォッチの世界楽しむぞ〜❕※ネタバレ有り【水宮枢／ホロライブ】",
@@ -284,11 +284,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-18T08:12:12Z",
-        "title": "【ヨッシーアイランド】完全初見！人生初のスーパーマリオ ヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "ZH3biE2zD00"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -509,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T13:30:51Z"
+  "generated_at": "2026-11-18T13:40:33Z"
 }
