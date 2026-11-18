@@ -352,14 +352,12 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T05:00:00Z",
-          "title": "【FORTNITE】MIKU",
-          "video_id": "THV68_R0s0k"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T05:05:11Z",
+        "title": "【FORTNITE】MIKU",
+        "video_id": "THV68_R0s0k"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -465,5 +463,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T04:40:31Z"
+  "generated_at": "2026-11-18T05:10:32Z"
 }
