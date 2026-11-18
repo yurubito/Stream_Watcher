@@ -24,6 +24,11 @@
           "scheduled_at": "2026-11-18T12:30:00Z",
           "title": "【マリオカート8DX】３位以内だけ喋れる全集中マリオカート！！！！！！！！！！【ホロライブ/さくらみこ】",
           "video_id": "G9-WAiZKFjA"
+        },
+        {
+          "scheduled_at": "2026-11-18T14:30:00Z",
+          "title": "【GTAⅥ】待望の発売日！０時解禁の瞬間を迎えるにぇえええええええええ！！！【ホロライブ/さくらみこ】",
+          "video_id": "sIlqNWV6il0"
         }
       ]
     },
@@ -339,11 +344,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-11-18T08:57:37Z",
-        "title": "【同時視聴】一緒に夢見ていいですか！？【＃holoAN/＃ときのそら】",
-        "video_id": "CYfp6yC7uow"
-      },
       "name": "井月みちる"
     },
     {
@@ -405,7 +405,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T13:00:00Z",
+          "title": "【DEEP DISH DUNGEON】EATING GOOD WITH @holoen_ceciliaimmergreen AND @NinomaeInanis",
+          "video_id": "2i6a9BDr60E"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -518,5 +525,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T11:20:31Z"
+  "generated_at": "2026-11-18T11:30:36Z"
 }
