@@ -28,14 +28,12 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T14:30:00Z",
-          "title": "【GTAⅥ】待望の発売日！０時解禁の瞬間を迎えるにぇえええええええええ！！！【ホロライブ/さくらみこ】",
-          "video_id": "sIlqNWV6il0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T14:32:35Z",
+        "title": "【GTAⅥ】待望の発売日！０時解禁の瞬間を迎えるにぇえええええええええ！！！【ホロライブ/さくらみこ】",
+        "video_id": "sIlqNWV6il0"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -171,11 +169,6 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-18T13:00:11Z",
-        "title": "【振り返り雑談】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』振り返る！！【​雪花ラミィ /ホロライブ】",
-        "video_id": "MWxtOl16Dtw"
-      },
       "name": "雪花ラミィ"
     },
     {
@@ -306,11 +299,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-18T12:04:28Z",
-        "title": "【飲酒オフコラボ】初飲酒🍺キョーコに見守ってもらうのじゃ【ホロライブ/百灯キョーコ/熱千めら】",
-        "video_id": "Hh0IwJFFq1c"
-      },
       "name": "熱千めら",
       "upcoming": [
         {
@@ -325,6 +313,11 @@
       "group": "アソビ★まわり隊！",
       "name": "宙科そぴあ",
       "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T11:00:00Z",
+          "title": "【雑談】宇宙＆先輩方について語りたいっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "vWZGK_nD5bY"
+        },
         {
           "scheduled_at": "2028-06-12T15:00:00Z",
           "title": "【フリーチャット】そぴあのお知らせ掲示板【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
@@ -519,5 +512,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T14:20:42Z"
+  "generated_at": "2026-11-18T14:40:40Z"
 }
