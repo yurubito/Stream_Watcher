@@ -162,11 +162,6 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-18T10:59:46Z",
-        "title": "【 初対談 】千速とトワでお互いに質問してみた‼️告知あり🔥🔥【常闇トワ/ホロライブ】",
-        "video_id": "f-4X9GFI-Gc"
-      },
       "name": "常闇トワ"
     },
     {
@@ -177,7 +172,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T13:00:00Z",
+          "title": "【振り返り雑談】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』振り返る！！【​雪花ラミィ /ホロライブ】",
+          "video_id": "MWxtOl16Dtw"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -261,6 +263,11 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-18T11:45:08Z",
+        "title": "【 歌謡曲歌枠 】懐メロ曲いっぱい歌うわよ～🐯【虎金妃笑虎】",
+        "video_id": "92SrzQO8rJs"
+      },
       "name": "虎金妃笑虎"
     },
     {
@@ -532,5 +539,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T11:40:26Z"
+  "generated_at": "2026-11-18T12:01:09Z"
 }
