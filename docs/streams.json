@@ -459,7 +459,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T03:00:00Z",
+          "title": "【Spelunky 2】hello is this supposed to be a rage game?",
+          "video_id": "MRlOwNv6GUo"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -467,5 +474,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T18:30:53Z"
+  "generated_at": "2026-11-18T19:20:34Z"
 }
