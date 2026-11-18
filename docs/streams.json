@@ -455,7 +455,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T13:00:00Z",
+          "title": "【Japanese Ramen Simulator】WAKE UP! OMET IS BACK BEFORE GTA VI!!!",
+          "video_id": "8YCSRGp1Brs"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -463,5 +470,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T06:00:52Z"
+  "generated_at": "2026-11-18T06:10:29Z"
 }
