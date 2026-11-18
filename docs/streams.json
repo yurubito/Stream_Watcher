@@ -273,7 +273,14 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速"
+      "name": "輪堂千速",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T12:30:00Z",
+          "title": "【マリオカート8DX】しゃべらせろ！！！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
+          "video_id": "8v_G4fz90sI"
+        }
+      ]
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -511,5 +518,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T10:01:07Z"
+  "generated_at": "2026-11-18T10:30:35Z"
 }
