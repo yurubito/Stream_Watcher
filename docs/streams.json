@@ -218,7 +218,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T13:00:00Z",
+          "title": "【オフコラボ】セルフ3Dで#SSholoX 格付けバトル🔥",
+          "video_id": "t6BO3oyVbqE"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -512,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T14:40:40Z"
+  "generated_at": "2026-11-18T14:50:26Z"
 }
