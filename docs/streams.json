@@ -364,7 +364,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T00:00:00Z",
+          "title": "【Grand Theft Auto VI】A MENACE TO SOCIETY",
+          "video_id": "5EbZlXQyVzA"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -431,11 +438,6 @@
     {
       "channel_id": "UC727SQYUvx5pDDGQpTICNWg",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-18T13:06:16Z",
-        "title": "【Japanese Ramen Simulator】Kaela. I Heard This Game Has Gambling. Kaela.【hololive | Anya Melfissa】",
-        "video_id": "k8vgMXW762Y"
-      },
       "name": "アーニャ・メルフィッサ"
     },
     {
@@ -458,11 +460,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-18T13:02:15Z",
-        "title": "【Japanese Ramen Simulator】WAKE UP! OMET IS BACK BEFORE GTA VI!!!",
-        "video_id": "8YCSRGp1Brs"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -471,5 +468,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T16:00:47Z"
+  "generated_at": "2026-11-18T16:20:31Z"
 }
