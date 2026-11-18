@@ -13,6 +13,11 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-18T14:04:04Z",
+        "title": "【 歌枠】ウィスパー系の優しい歌うたいたいヨル【ホロライブ/ ロボ子さん #ロボ子生放送】",
+        "video_id": "kFEOWsCKPTU"
+      },
       "name": "ロボ子さん"
     },
     {
@@ -99,7 +104,14 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ"
+      "name": "猫又おかゆ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T12:00:00Z",
+          "title": "【 #ホロ7DTD  】みんなでゾンビに立ち向かえ!!🧟🔥【 猫又おかゆ視点/ホロライブ 】",
+          "video_id": "1TEs3v4hA78"
+        }
+      ]
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -240,7 +252,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T13:00:00Z",
+          "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
+          "video_id": "sKNE1uaZtRs"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -430,14 +449,12 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T14:00:00Z",
-          "title": "【UNDERTALE】determination【Genocide Run】",
-          "video_id": "FwO22w4SsEg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T14:14:19Z",
+        "title": "【UNDERTALE】determination【Genocide Run】",
+        "video_id": "FwO22w4SsEg"
+      },
+      "name": "ラオーラ・パンテーラ"
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -502,5 +519,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T14:10:27Z"
+  "generated_at": "2026-11-18T14:20:42Z"
 }
