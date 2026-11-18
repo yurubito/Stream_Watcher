@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T07:00:00Z",
+          "title": "【 雑談】わちゃ学やら微熱やらホログラやらいろいろおつかれさまああ【ホロライブ/ ロボ子さん #ロボ子生放送】",
+          "video_id": "UnKaVCoOZDM"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -470,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T06:10:29Z"
+  "generated_at": "2026-11-18T06:20:33Z"
 }
