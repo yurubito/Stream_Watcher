@@ -332,7 +332,14 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖"
+      "name": "一伊那尓栖",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T23:00:00Z",
+          "title": "【Slay the Spire 2】WAH and WAHWAH!!!",
+          "video_id": "9WH8DMp3iOc"
+        }
+      ]
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -468,5 +475,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T16:20:31Z"
+  "generated_at": "2026-11-18T16:40:38Z"
 }
