@@ -57,7 +57,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T13:00:00Z",
+          "title": "【鳴潮】リナシータ編進めるぞ～！！【ホロライブ/夏色まつり】",
+          "video_id": "pe5fK7hWy1k"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -487,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T08:40:39Z"
+  "generated_at": "2026-11-18T08:50:30Z"
 }
