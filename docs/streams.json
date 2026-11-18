@@ -60,11 +60,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-18T13:02:49Z",
-        "title": "【鳴潮】リナシータ編進めるぞ～！！【ホロライブ/夏色まつり】",
-        "video_id": "pe5fK7hWy1k"
-      },
       "name": "夏色まつり"
     },
     {
@@ -119,11 +114,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-18T11:00:01Z",
-        "title": "#3【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "TC-_uORgJug"
-      },
       "name": "兎田ぺこら"
     },
     {
@@ -362,11 +352,6 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "live": {
-        "started_at": "2026-11-18T12:01:26Z",
-        "title": "【Hololive Dreams / #ホロドリ】NEW GACHA? IRyS EVENT? NEW SONG?! IRySイベントも新曲も出た！！ガチャも回すぞ！！",
-        "video_id": "KrkWpzWknMc"
-      },
       "name": "IRyS"
     },
     {
@@ -506,5 +491,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T15:20:31Z"
+  "generated_at": "2026-11-18T15:30:52Z"
 }
