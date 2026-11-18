@@ -331,26 +331,22 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T23:00:00Z",
-          "title": "【SLAY THE SPIRE II】takotori slaying time!!  #kfp #キアライブ",
-          "video_id": "XJOBPzUgFGQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T23:00:14Z",
+        "title": "【SLAY THE SPIRE II】takotori slaying time!!  #kfp #キアライブ",
+        "video_id": "XJOBPzUgFGQ"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T23:00:00Z",
-          "title": "【Slay the Spire 2】WAH and WAHWAH!!!",
-          "video_id": "9WH8DMp3iOc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T23:00:07Z",
+        "title": "【Slay the Spire 2】WAH and WAHWAH!!!",
+        "video_id": "9WH8DMp3iOc"
+      },
+      "name": "一伊那尓栖"
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -486,5 +482,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T21:10:48Z"
+  "generated_at": "2026-11-18T23:01:02Z"
 }
