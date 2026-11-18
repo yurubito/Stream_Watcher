@@ -109,14 +109,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T03:00:00Z",
-          "title": "【ホロドリ】ぺこらっちょガチャきた～！！お昼休みにガチャする太郎！！【白銀ノエル/ホロライブ】",
-          "video_id": "IhTQFdOE6Sc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T03:01:28Z",
+        "title": "【ホロドリ】ぺこらっちょガチャきた～！！お昼休みにガチャする太郎！！【白銀ノエル/ホロライブ】",
+        "video_id": "IhTQFdOE6Sc"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -222,14 +220,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T03:00:00Z",
-          "title": "【定期配信＃51】水曜(木曜)のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
-          "video_id": "QGfmzfkru00"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T03:01:18Z",
+        "title": "【定期配信＃51】水曜(木曜)のお昼の１２時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
+        "video_id": "QGfmzfkru00"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -302,11 +298,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-18T02:59:31Z",
-        "title": "【EN】LET'S TALK!!! *Membership-only【Hyakuto Kyoko/Hololive】",
-        "video_id": "Me0R4otfPSk"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -477,5 +468,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T03:01:02Z"
+  "generated_at": "2026-11-18T03:10:35Z"
 }
