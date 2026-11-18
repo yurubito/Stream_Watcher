@@ -129,7 +129,14 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ"
+      "name": "常闇トワ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T11:00:00Z",
+          "title": "【 初対談 】千速とトワでお互いに質問してみた‼️告知あり🔥🔥【常闇トワ/ホロライブ】",
+          "video_id": "f-4X9GFI-Gc"
+        }
+      ]
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -487,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T07:00:44Z"
+  "generated_at": "2026-11-18T07:40:44Z"
 }
