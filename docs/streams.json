@@ -293,11 +293,6 @@
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
-      "live": {
-        "started_at": "2026-11-18T02:57:44Z",
-        "title": "【読書の秋】儒烏風亭らでんの推薦図書を読もう！【#昼ホロ / #井月みちる】",
-        "video_id": "gvdagwQgn-k"
-      },
       "name": "井月みちる",
       "upcoming": [
         {
@@ -463,5 +458,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T05:10:32Z"
+  "generated_at": "2026-11-18T05:20:31Z"
 }
