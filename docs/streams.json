@@ -84,7 +84,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T12:00:00Z",
+          "title": "【 #ホロ7DTD 】初心者３人、経験者２人の物語がはじまるッ【大神ミオ視点】",
+          "video_id": "yuLlvdYwtng"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -342,7 +349,14 @@
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "name": "一伊那尓栖"
+      "name": "一伊那尓栖",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T13:00:00Z",
+          "title": "【Deep Dish Dungeon】WE ARE HUNGRY @KosekiBijou @holoen_ceciliaimmergreen",
+          "video_id": "RHN2OjNmTzU"
+        }
+      ]
     },
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -492,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T09:10:44Z"
+  "generated_at": "2026-11-18T09:50:29Z"
 }
