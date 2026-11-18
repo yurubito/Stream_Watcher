@@ -125,14 +125,12 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "name": "兎田ぺこら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T11:00:00Z",
-          "title": "#3【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "TC-_uORgJug"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T11:00:01Z",
+        "title": "#3【初見】人生初の『ゼルダの伝説 時のオカリナ』で遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "TC-_uORgJug"
+      },
+      "name": "兎田ぺこら"
     },
     {
       "channel_id": "UCvInZx9h3jC2JzsIzoOebWg",
@@ -157,14 +155,12 @@
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
       "group": "JP 4期生",
-      "name": "常闇トワ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T11:00:00Z",
-          "title": "【 初対談 】千速とトワでお互いに質問してみた‼️告知あり🔥🔥【常闇トワ/ホロライブ】",
-          "video_id": "f-4X9GFI-Gc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T10:59:46Z",
+        "title": "【 初対談 】千速とトワでお互いに質問してみた‼️告知あり🔥🔥【常闇トワ/ホロライブ】",
+        "video_id": "f-4X9GFI-Gc"
+      },
+      "name": "常闇トワ"
     },
     {
       "channel_id": "UCa9Y57gfeY0Zro_noHRVrnw",
@@ -525,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T10:50:41Z"
+  "generated_at": "2026-11-18T11:00:55Z"
 }
