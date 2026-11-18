@@ -116,14 +116,12 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T13:00:00Z",
-          "title": "ハローCHUCHELちゃん♡",
-          "video_id": "4zygg3Jx9Ic"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T13:00:44Z",
+        "title": "ハローCHUCHELちゃん♡",
+        "video_id": "4zygg3Jx9Ic"
+      },
+      "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -175,14 +173,12 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T13:00:00Z",
-          "title": "【振り返り雑談】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』振り返る！！【​雪花ラミィ /ホロライブ】",
-          "video_id": "MWxtOl16Dtw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T13:00:11Z",
+        "title": "【振り返り雑談】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』振り返る！！【​雪花ラミィ /ホロライブ】",
+        "video_id": "MWxtOl16Dtw"
+      },
+      "name": "雪花ラミィ"
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -230,6 +226,11 @@
           "scheduled_at": "2026-11-18T13:00:00Z",
           "title": "【Membership Only】11月のナイショのお話💗甘々（かもしれない）雑談💗【博衣こより/ホロライブ】",
           "video_id": "XXP_Rk6g6gU"
+        },
+        {
+          "scheduled_at": "2026-11-19T10:00:00Z",
+          "title": "【 #ホロじゃん 】1位獲らないと告知できません！？だけど1時間以内に告知したい告知枠！！！【博衣こより/ホロライブ】",
+          "video_id": "_X97yrqlpeQ"
         }
       ]
     },
@@ -266,11 +267,6 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-18T11:45:08Z",
-        "title": "【 歌謡曲歌枠 】懐メロ曲いっぱい歌うわよ～🐯【虎金妃笑虎】",
-        "video_id": "92SrzQO8rJs"
-      },
       "name": "虎金妃笑虎"
     },
     {
@@ -342,14 +338,12 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "name": "鈴鳴つづり",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T13:00:00Z",
-          "title": "【時のオカリナ  リメイク】#ゼルダの伝説#６  ついに３つそろった...対戦するのか！？【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "QWdN0b96eRk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T12:59:25Z",
+        "title": "【時のオカリナ  リメイク】#ゼルダの伝説#６  ついに３つそろった...対戦するのか！？【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "QWdN0b96eRk"
+      },
+      "name": "鈴鳴つづり"
     },
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
@@ -497,7 +491,7 @@
       "name": "アーニャ・メルフィッサ",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-18T13:00:00Z",
+          "scheduled_at": "2026-11-18T13:05:00Z",
           "title": "【Japanese Ramen Simulator】Kaela. I Heard This Game Has Gambling. Kaela.【hololive | Anya Melfissa】",
           "video_id": "k8vgMXW762Y"
         }
@@ -538,5 +532,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T12:40:33Z"
+  "generated_at": "2026-11-18T13:01:05Z"
 }
