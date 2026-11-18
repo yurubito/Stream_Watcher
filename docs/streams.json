@@ -18,13 +18,13 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-18T12:31:48Z",
+        "title": "【マリオカート8DX】３位以内だけ喋れる全集中マリオカート！！！！！！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "G9-WAiZKFjA"
+      },
       "name": "さくらみこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T12:30:00Z",
-          "title": "【マリオカート8DX】３位以内だけ喋れる全集中マリオカート！！！！！！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "G9-WAiZKFjA"
-        },
         {
           "scheduled_at": "2026-11-18T14:30:00Z",
           "title": "【GTAⅥ】待望の発売日！０時解禁の瞬間を迎えるにぇえええええええええ！！！【ホロライブ/さくらみこ】",
@@ -293,14 +293,12 @@
     {
       "channel_id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "group": "DEV_IS FLOW GLOW",
-      "name": "輪堂千速",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T12:30:00Z",
-          "title": "【マリオカート8DX】しゃべらせろ！！！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】【#輪堂千速 / #hololive #FLOWGLOW 】",
-          "video_id": "8v_G4fz90sI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T12:31:01Z",
+        "title": "【マリオカート8DX】しゃべらせろ！！！！！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "8v_G4fz90sI"
+      },
+      "name": "輪堂千速"
     },
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
@@ -540,5 +538,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T12:30:49Z"
+  "generated_at": "2026-11-18T12:40:33Z"
 }
