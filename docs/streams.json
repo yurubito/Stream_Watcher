@@ -13,11 +13,6 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "live": {
-        "started_at": "2026-11-18T10:00:08Z",
-        "title": "【ロケ企画】AZKi's LOCATION!  Vol.7 ～自然を満喫！あずのせで奏の森リゾートでゲスしてきた！～【#AZロケ】",
-        "video_id": "nW5eNn-G3MA"
-      },
       "name": "AZKi"
     },
     {
@@ -180,13 +175,13 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
+      "live": {
+        "started_at": "2026-11-18T11:01:41Z",
+        "title": "死んだらキャラが消える協力型ゾンビサバイボー！－No More Room in Hell 2【獅白ぼたん/ホロライブ】",
+        "video_id": "wkgcandT76I"
+      },
       "name": "獅白ぼたん",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T11:00:00Z",
-          "title": "死んだらキャラが消える協力型ゾンビサバイボー！－No More Room in Hell 2【獅白ぼたん/ホロライブ】",
-          "video_id": "wkgcandT76I"
-        },
         {
           "scheduled_at": "2026-11-19T09:00:00Z",
           "title": "アンノウン・マザーグース / 獅白ぼたん(cover)",
@@ -376,7 +371,14 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS"
+      "name": "IRyS",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T12:00:00Z",
+          "title": "【Hololive Dreams / #ホロドリ】NEW GACHA? IRyS EVENT? NEW SONG?! IRySイベントも新曲も出た！！ガチャも回すぞ！！",
+          "video_id": "KrkWpzWknMc"
+        }
+      ]
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -521,5 +523,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T11:00:55Z"
+  "generated_at": "2026-11-18T11:10:30Z"
 }
