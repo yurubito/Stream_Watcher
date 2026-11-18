@@ -409,14 +409,12 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T21:00:00Z",
-          "title": "【HEAVY RAIN】I'M DA ORIGAMI KILLER!!!!!!!!!",
-          "video_id": "Nn_IvHYNHR8"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T21:02:19Z",
+        "title": "【HEAVY RAIN】I'M DA ORIGAMI KILLER!!!!!!!!!",
+        "video_id": "Nn_IvHYNHR8"
+      },
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -488,5 +486,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T20:50:45Z"
+  "generated_at": "2026-11-18T21:10:48Z"
 }
