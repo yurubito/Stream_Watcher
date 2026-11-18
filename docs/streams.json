@@ -18,7 +18,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T12:00:00Z",
+          "title": "【GTAⅥ】待望の発売日！ついに始まるみこのバイアスシティ生活！！！！！【ホロライブ/さくらみこ】",
+          "video_id": "3pAas4_m9YM"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -465,5 +472,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T17:30:42Z"
+  "generated_at": "2026-11-18T17:40:30Z"
 }
