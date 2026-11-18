@@ -198,14 +198,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T03:30:00Z",
-          "title": "これが限界飯かぁ…【#一条莉々華の限界飯】",
-          "video_id": "DneczIf74WU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T03:30:10Z",
+        "title": "これが限界飯かぁ…【#一条莉々華の限界飯】",
+        "video_id": "DneczIf74WU"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -257,7 +255,14 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ"
+      "name": "綺々羅々ヴィヴィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-18T08:00:00Z",
+          "title": "【ヨッシーアイランド】完全初見！人生初のスーパーマリオ ヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+          "video_id": "ZH3biE2zD00"
+        }
+      ]
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -468,5 +473,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T03:10:35Z"
+  "generated_at": "2026-11-18T03:30:44Z"
 }
