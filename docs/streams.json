@@ -302,7 +302,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T03:00:00Z",
+          "title": "【EN】TREASURE OR DEATH!? | Spelunky 2【Hyakuto Kyoko/Hololive】",
+          "video_id": "E_NlOzdU9Lg"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -474,5 +481,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T19:20:34Z"
+  "generated_at": "2026-11-18T19:50:35Z"
 }
