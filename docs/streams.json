@@ -108,14 +108,12 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T12:00:00Z",
-          "title": "夏滑り込みで失礼します✋",
-          "video_id": "sWrhXV4CdCI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T12:01:43Z",
+        "title": "夏滑り込みで失礼します✋",
+        "video_id": "sWrhXV4CdCI"
+      },
+      "name": "猫又おかゆ"
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -312,13 +310,13 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-18T12:04:28Z",
+        "title": "【飲酒オフコラボ】初飲酒🍺キョーコに見守ってもらうのじゃ【ホロライブ/百灯キョーコ/熱千めら】",
+        "video_id": "Hh0IwJFFq1c"
+      },
       "name": "熱千めら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T12:00:00Z",
-          "title": "【飲酒オフコラボ】初飲酒🍺キョーコに見守ってもらうのじゃ【ホロライブ/百灯キョーコ/熱千めら】",
-          "video_id": "Hh0IwJFFq1c"
-        },
         {
           "scheduled_at": "2026-11-19T10:00:00Z",
           "title": "楽曲オタクの歌枠なのじゃ！【ホロライブ/熱千めら】",
@@ -385,14 +383,12 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T12:00:00Z",
-          "title": "【Hololive Dreams / #ホロドリ】NEW GACHA? IRyS EVENT? NEW SONG?! IRySイベントも新曲も出た！！ガチャも回すぞ！！",
-          "video_id": "KrkWpzWknMc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T12:01:26Z",
+        "title": "【Hololive Dreams / #ホロドリ】NEW GACHA? IRyS EVENT? NEW SONG?! IRySイベントも新曲も出た！！ガチャも回すぞ！！",
+        "video_id": "KrkWpzWknMc"
+      },
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -539,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T12:01:09Z"
+  "generated_at": "2026-11-18T12:10:37Z"
 }
