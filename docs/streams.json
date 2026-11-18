@@ -302,25 +302,23 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T03:00:00Z",
-          "title": "【EN】LET'S TALK!!! *Membership-only【Hyakuto Kyoko/Hololive】",
-          "video_id": "Me0R4otfPSk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T02:59:31Z",
+        "title": "【EN】LET'S TALK!!! *Membership-only【Hyakuto Kyoko/Hololive】",
+        "video_id": "Me0R4otfPSk"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "group": "holoAN",
+      "live": {
+        "started_at": "2026-11-18T02:57:44Z",
+        "title": "【読書の秋】儒烏風亭らでんの推薦図書を読もう！【#昼ホロ / #井月みちる】",
+        "video_id": "gvdagwQgn-k"
+      },
       "name": "井月みちる",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T03:00:00Z",
-          "title": "【読書の秋】儒烏風亭らでんの推薦図書を読もう！【#昼ホロ / #井月みちる】",
-          "video_id": "gvdagwQgn-k"
-        },
         {
           "scheduled_at": "2026-11-18T09:00:00Z",
           "title": "【同時視聴】一緒に夢見ていいですか！？【＃holoAN/＃ときのそら】",
@@ -479,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T02:50:30Z"
+  "generated_at": "2026-11-18T03:01:02Z"
 }
