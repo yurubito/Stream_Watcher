@@ -57,14 +57,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T12:30:00Z",
-          "title": "【マリオカート8DX】４以下の人は無言を貫くマリオカート【ホロライブ/白上フブキ/さくらみこ/輪堂千速】",
-          "video_id": "iKhjVwoXrEk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T12:30:32Z",
+        "title": "【マリオカート8DX】４以下の人は無言を貫くマリオカート【ホロライブ/白上フブキ/さくらみこ/輪堂千速】",
+        "video_id": "iKhjVwoXrEk"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -542,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T12:20:33Z"
+  "generated_at": "2026-11-18T12:30:49Z"
 }
