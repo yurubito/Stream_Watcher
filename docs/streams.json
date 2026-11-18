@@ -3,14 +3,12 @@
     {
       "channel_id": "UCp6993wxpyDPHUpavwDFqgg",
       "group": "JP 0期生",
-      "name": "ときのそら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-18T14:00:00Z",
-          "title": "【配信予定地】【ときのそら/ホロライブ】",
-          "video_id": "W9sdsmlryIg"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-18T13:59:34Z",
+        "title": "【歌とか楽器】歌うならピアノかアカペラになるでしょう【ときのそら/ホロライブ】",
+        "video_id": "W9sdsmlryIg"
+      },
+      "name": "ときのそら"
     },
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -509,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-18T13:50:27Z"
+  "generated_at": "2026-11-18T14:01:04Z"
 }
