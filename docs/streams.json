@@ -415,7 +415,14 @@
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "group": "EN Justice",
-      "name": "ラオーラ・パンテーラ"
+      "name": "ラオーラ・パンテーラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T14:00:00Z",
+          "title": "【Grand Theft Auto VI】CRIMES FOR JUSTICE!",
+          "video_id": "xSLaxE4YH0Y"
+        }
+      ]
     },
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -462,14 +469,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T03:00:00Z",
-          "title": "【Spelunky 2】hello is this supposed to be a rage game?",
-          "video_id": "MRlOwNv6GUo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T03:02:59Z",
+        "title": "【Spelunky 2】hello is this supposed to be a rage game?",
+        "video_id": "MRlOwNv6GUo"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -477,5 +482,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T03:00:50Z"
+  "generated_at": "2026-11-19T03:10:28Z"
 }
