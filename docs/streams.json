@@ -101,14 +101,12 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T12:00:00Z",
-          "title": "【 #ホロ7DTD  】みんなでゾンビに立ち向かえ!!🧟🔥【 猫又おかゆ視点/ホロライブ 】",
-          "video_id": "1TEs3v4hA78"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T11:59:31Z",
+        "title": "【 #ホロ7DTD  】みんなでゾンビに立ち向かえ!!🧟🔥【 猫又おかゆ視点/ホロライブ 】",
+        "video_id": "1TEs3v4hA78"
+      },
+      "name": "猫又おかゆ"
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -497,5 +495,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T11:40:38Z"
+  "generated_at": "2026-11-19T12:00:59Z"
 }
