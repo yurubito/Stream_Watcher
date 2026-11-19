@@ -22,7 +22,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-19T12:00:00Z",
-          "title": "【GTAⅥ】待望の発売日！ついに始まるみこのバイアスシティ生活！！！！！【ホロライブ/さくらみこ】",
+          "title": "【GTAⅥ】待望の発売日！ついに始まるみこのバイスシティ生活！！！！！【ホロライブ/さくらみこ】",
           "video_id": "3pAas4_m9YM"
         }
       ]
@@ -368,11 +368,6 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-18T23:56:42Z",
-        "title": "I need fiddy gold【Withering Rooms】",
-        "video_id": "ZhwssVc0az0"
-      },
       "name": "シオリ・ノヴェラ"
     },
     {
@@ -482,5 +477,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T03:10:28Z"
+  "generated_at": "2026-11-19T03:40:27Z"
 }
