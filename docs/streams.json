@@ -177,11 +177,6 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-19T09:00:07Z",
-        "title": "アンノウン・マザーグース / 獅白ぼたん(cover)",
-        "video_id": "dNI9zh3zq_Q"
-      },
       "name": "獅白ぼたん"
     },
     {
@@ -356,6 +351,11 @@
           "scheduled_at": "2026-11-19T23:00:00Z",
           "title": "【ZELDA: MAJORA'S MASK】oops! all majora! (part 7) #calliolive",
           "video_id": "-7bwpOUVrNo"
+        },
+        {
+          "scheduled_at": "2026-11-21T04:00:00Z",
+          "title": "【Grand Theft Auto VI】i will try this new game by rockstar #calliolive",
+          "video_id": "_XgsO_az3MI"
         }
       ]
     },
@@ -503,5 +503,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T09:00:51Z"
+  "generated_at": "2026-11-19T09:10:26Z"
 }
