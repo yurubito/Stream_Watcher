@@ -200,7 +200,14 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "name": "博衣こより"
+      "name": "博衣こより",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-22T10:00:00Z",
+          "title": "【 #ホロじゃんエンジョイ杯 】リリース直前！優勝目指して麻雀を楽しもう！【本配信/ホロライブ】",
+          "video_id": "q5Pw7TBGesE"
+        }
+      ]
     },
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -495,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T11:10:33Z"
+  "generated_at": "2026-11-19T11:20:26Z"
 }
