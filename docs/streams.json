@@ -13,26 +13,22 @@
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "group": "JP 0期生",
-      "name": "AZKi",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T12:00:00Z",
-          "title": "【#ホロ7DTD】はじめての7 Days to Die！生き残りたい――DAY1【ホロライブ / AZKi】",
-          "video_id": "vnOhAveMDB0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T12:01:31Z",
+        "title": "【#ホロ7DTD】はじめての7 Days to Die！生き残りたい――DAY1【ホロライブ / AZKi】",
+        "video_id": "vnOhAveMDB0"
+      },
+      "name": "AZKi"
     },
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T12:00:00Z",
-          "title": "【GTAⅥ】待望の発売日！ついに始まるみこのバイスシティ生活！！！！！【ホロライブ/さくらみこ】",
-          "video_id": "3pAas4_m9YM"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T12:03:19Z",
+        "title": "【GTAⅥ】待望の発売日！ついに始まるみこのバイスシティ生活！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "3pAas4_m9YM"
+      },
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -89,14 +85,12 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T12:00:00Z",
-          "title": "【 #ホロ7DTD 】初心者３人、経験者２人の物語がはじまるッ【大神ミオ視点】",
-          "video_id": "yuLlvdYwtng"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T12:03:14Z",
+        "title": "【 #ホロ7DTD 】初心者３人、経験者２人の物語がはじまるッ【大神ミオ視点】",
+        "video_id": "yuLlvdYwtng"
+      },
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -111,23 +105,18 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-19T10:59:56Z",
-        "title": "【神回】フガフガ",
-        "video_id": "YEfXEooSwOQ"
-      },
       "name": "戌神ころね"
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-11-19T12:01:07Z",
+        "title": "【#ホロ7DTD】みんなで7 Days to Dieやる🧟DAY1 ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "xm0ZxpDQYJg"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T12:00:00Z",
-          "title": "【#ホロ7DTD】みんなで7 Days to Dieやる🧟DAY1 ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "xm0ZxpDQYJg"
-        },
         {
           "scheduled_at": "2026-11-26T12:00:00Z",
           "title": "お知らせ",
@@ -227,14 +216,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T12:00:00Z",
-          "title": "【完全初見】宝石集まったああああ！！！！ With ゼルダの伝説 時のオカリナ part5【一条莉々華/hololive ReGLOSS】",
-          "video_id": "OglyEa3WIUY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T12:01:12Z",
+        "title": "【完全初見】宝石集まったああああ！！！！ With ゼルダの伝説 時のオカリナ part5【一条莉々華/hololive ReGLOSS】",
+        "video_id": "OglyEa3WIUY"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -283,14 +270,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T12:00:00Z",
-          "title": "【 ＃ホロ7DTD 】初めての7 Days to Die！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "oXfefvzpPwo"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T12:01:03Z",
+        "title": "【 ＃ホロ7DTD 】初めての7 Days to Die！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "oXfefvzpPwo"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -447,7 +432,14 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス"
+      "name": "アユンダ・リス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T12:30:00Z",
+          "title": "driiiiiviiiiiiiiiiiiiiiiiiiing with @sammybollivienn",
+          "video_id": "uRfoBjEW-oY"
+        }
+      ]
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -495,5 +487,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T12:00:59Z"
+  "generated_at": "2026-11-19T12:10:26Z"
 }
