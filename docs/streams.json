@@ -115,7 +115,14 @@
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "group": "JP ゲーマーズ",
-      "name": "戌神ころね"
+      "name": "戌神ころね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T11:00:00Z",
+          "title": "【神回】フガフガ",
+          "video_id": "YEfXEooSwOQ"
+        }
+      ]
     },
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -502,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T10:00:54Z"
+  "generated_at": "2026-11-19T10:10:24Z"
 }
