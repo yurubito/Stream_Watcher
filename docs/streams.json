@@ -375,14 +375,12 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T22:00:00Z",
-          "title": "【TRAILS IN THE SKY: 1ST CHAPTER】the end of our...first chapter.....",
-          "video_id": "5OuKBxNjb-I"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T22:04:29Z",
+        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】the end of our...first chapter.....",
+        "video_id": "5OuKBxNjb-I"
+      },
+      "name": "ジジ・ムリン"
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -447,5 +445,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T19:10:44Z"
+  "generated_at": "2026-11-19T22:10:35Z"
 }
