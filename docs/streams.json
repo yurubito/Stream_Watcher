@@ -124,7 +124,7 @@
       "upcoming": [
         {
           "scheduled_at": "2026-11-19T12:00:00Z",
-          "title": "【#ホロ7DTD】7 Days to Die！！！！！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+          "title": "【#ホロ7DTD】みんなで7 Days to Dieやる🧟DAY1 ぺこ！【ホロライブ/兎田ぺこら】",
           "video_id": "xm0ZxpDQYJg"
         }
       ]
@@ -337,11 +337,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-19T03:00:25Z",
-        "title": "【EN】TREASURE OR DEATH!? | Spelunky 2【Hyakuto Kyoko/Hololive】",
-        "video_id": "E_NlOzdU9Lg"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -485,11 +480,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-19T03:02:59Z",
-        "title": "【Spelunky 2】hello is this supposed to be a rage game?",
-        "video_id": "MRlOwNv6GUo"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -498,5 +488,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T06:30:49Z"
+  "generated_at": "2026-11-19T07:10:22Z"
 }
