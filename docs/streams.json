@@ -206,14 +206,12 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T13:00:00Z",
-          "title": "【オフコラボ】セルフ3Dで#SSholoX 格付けバトル🔥",
-          "video_id": "t6BO3oyVbqE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T13:03:22Z",
+        "title": "【オフコラボ】セルフ3Dで#SSholoX 格付けバトル🔥",
+        "video_id": "t6BO3oyVbqE"
+      },
+      "name": "風真いろは"
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -238,14 +236,12 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T13:00:00Z",
-          "title": "【】おしゃべりしよおお！！！【轟はじめ/ReGLOSS】",
-          "video_id": "sKNE1uaZtRs"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T13:00:54Z",
+        "title": "【】おしゃべりしよおお！！！【轟はじめ/ReGLOSS】",
+        "video_id": "sKNE1uaZtRs"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -290,11 +286,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-19T11:00:21Z",
-        "title": "【雑談】宇宙＆先輩方について語りたいっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "vWZGK_nD5bY"
-      },
       "name": "宙科そぴあ",
       "upcoming": [
         {
@@ -490,5 +481,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T13:00:57Z"
+  "generated_at": "2026-11-19T13:10:27Z"
 }
