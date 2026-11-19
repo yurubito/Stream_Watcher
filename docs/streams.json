@@ -143,6 +143,11 @@
           "scheduled_at": "2026-11-20T10:00:00Z",
           "title": "大ダジャレ大会開幕！【ギリギリわるくないわため】 #ギリわる",
           "video_id": "6mDmMvDsEpU"
+        },
+        {
+          "scheduled_at": "2026-11-20T13:00:00Z",
+          "title": "【メンバー限定配信】開設6年8ヶ月目！秘密雑談しよ💛【角巻わため/ホロライブ４期生】",
+          "video_id": "Lob3eXD7u38"
         }
       ]
     },
@@ -231,11 +236,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-19T13:00:54Z",
-        "title": "【】おしゃべりしよおお！！！【轟はじめ/ReGLOSS】",
-        "video_id": "sKNE1uaZtRs"
-      },
       "name": "轟はじめ"
     },
     {
@@ -453,7 +453,14 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ"
+      "name": "パヴォリア・レイネ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T03:00:00Z",
+          "title": "Escape Simulator 2 with @HyakutoKyoko !! Seek a Way Out【Pavolia Reine/hololive】",
+          "video_id": "tkg6ih6B98U"
+        }
+      ]
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -471,5 +478,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T13:40:27Z"
+  "generated_at": "2026-11-19T14:00:59Z"
 }
