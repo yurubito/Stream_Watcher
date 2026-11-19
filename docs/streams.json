@@ -326,7 +326,14 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS"
+      "name": "IRyS",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T03:00:00Z",
+          "title": "【3D KARAOKE】Singing w/ Friends to celebrate my ANNIVERSARY?! + ANNOUNCEMENT #5YearENCore",
+          "video_id": "sSkB-FmWpeA"
+        }
+      ]
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -450,5 +457,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T16:40:33Z"
+  "generated_at": "2026-11-19T16:50:34Z"
 }
