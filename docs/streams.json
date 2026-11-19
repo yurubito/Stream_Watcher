@@ -189,11 +189,6 @@
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-19T10:00:07Z",
-        "title": "【ポルカの伝説】ホロメンの後輩で来てほしい野菜",
-        "video_id": "MD8WSyRrG7U"
-      },
       "name": "尾丸ポルカ"
     },
     {
@@ -509,5 +504,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T10:10:24Z"
+  "generated_at": "2026-11-19T10:20:42Z"
 }
