@@ -177,14 +177,12 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T09:00:00Z",
-          "title": "アンノウン・マザーグース / 獅白ぼたん(cover)",
-          "video_id": "dNI9zh3zq_Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T09:00:07Z",
+        "title": "アンノウン・マザーグース / 獅白ぼたん(cover)",
+        "video_id": "dNI9zh3zq_Q"
+      },
+      "name": "獅白ぼたん"
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -352,7 +350,14 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "name": "森カリオペ"
+      "name": "森カリオペ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-19T23:00:00Z",
+          "title": "【ZELDA: MAJORA'S MASK】oops! all majora! (part 7) #calliolive",
+          "video_id": "-7bwpOUVrNo"
+        }
+      ]
     },
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -475,14 +480,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T09:00:00Z",
-          "title": "DUPERY - Solo Deduction Roguelite Where Everyone is a Suspect【Pavolia Reine/hololive】",
-          "video_id": "AyGCfrXj_SU"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T09:00:38Z",
+        "title": "DUPERY - Solo Deduction Roguelite Where Everyone is a Suspect【Pavolia Reine/hololive】",
+        "video_id": "AyGCfrXj_SU"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -500,5 +503,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T08:50:28Z"
+  "generated_at": "2026-11-19T09:00:51Z"
 }
