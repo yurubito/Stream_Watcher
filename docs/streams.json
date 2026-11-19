@@ -306,14 +306,12 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T19:00:00Z",
-          "title": "【GTA VI】FIRST TIME IN FLORIDA! where are the lion fish #kfp #キアライブ",
-          "video_id": "MosFAcoztMI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T19:02:20Z",
+        "title": "【GTA VI】FIRST TIME IN FLORIDA! where are the lion fish #kfp #キアライブ",
+        "video_id": "MosFAcoztMI"
+      },
+      "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -449,5 +447,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T18:50:34Z"
+  "generated_at": "2026-11-19T19:10:44Z"
 }
