@@ -284,13 +284,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-11-19T23:00:32Z",
+        "title": "【ZELDA: MAJORA'S MASK】oops! all majora! (part 7) #calliolive",
+        "video_id": "-7bwpOUVrNo"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T23:00:00Z",
-          "title": "【ZELDA: MAJORA'S MASK】oops! all majora! (part 7) #calliolive",
-          "video_id": "-7bwpOUVrNo"
-        },
         {
           "scheduled_at": "2026-11-21T04:00:00Z",
           "title": "【Grand Theft Auto VI】i will try this new game by rockstar #calliolive",
@@ -445,5 +445,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T22:10:35Z"
+  "generated_at": "2026-11-19T23:01:05Z"
 }
