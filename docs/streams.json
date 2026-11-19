@@ -126,6 +126,11 @@
           "scheduled_at": "2026-11-19T12:00:00Z",
           "title": "【#ホロ7DTD】みんなで7 Days to Dieやる🧟DAY1 ぺこ！【ホロライブ/兎田ぺこら】",
           "video_id": "xm0ZxpDQYJg"
+        },
+        {
+          "scheduled_at": "2026-11-26T12:00:00Z",
+          "title": "お知らせ",
+          "video_id": "lHy_EaFTUWM"
         }
       ]
     },
@@ -488,5 +493,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T07:10:22Z"
+  "generated_at": "2026-11-19T08:20:24Z"
 }
