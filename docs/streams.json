@@ -331,21 +331,11 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-18T23:00:14Z",
-        "title": "【SLAY THE SPIRE II】takotori slaying time!!  #kfp #キアライブ",
-        "video_id": "XJOBPzUgFGQ"
-      },
       "name": "小鳥遊キアラ"
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-18T23:00:07Z",
-        "title": "【Slay the Spire 2】WAH and WAHWAH!!!",
-        "video_id": "9WH8DMp3iOc"
-      },
       "name": "一伊那尓栖"
     },
     {
@@ -480,5 +470,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T01:20:25Z"
+  "generated_at": "2026-11-19T01:50:44Z"
 }
