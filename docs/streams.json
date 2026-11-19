@@ -59,14 +59,12 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-19T11:00:00Z",
-          "title": "【#5】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
-          "video_id": "1VIzNgacMEY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-19T11:04:03Z",
+        "title": "【#5】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
+        "video_id": "1VIzNgacMEY"
+      },
+      "name": "白上フブキ"
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -202,11 +200,6 @@
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "group": "JP holoX",
-      "live": {
-        "started_at": "2026-11-19T10:00:17Z",
-        "title": "【 #ホロじゃん 】お披露目もアリ！1位獲らないと告知できません！？だけど1時間以内に告知したい告知枠！！！【博衣こより/ホロライブ】",
-        "video_id": "_X97yrqlpeQ"
-      },
       "name": "博衣こより"
     },
     {
@@ -502,5 +495,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T11:01:05Z"
+  "generated_at": "2026-11-19T11:10:33Z"
 }
