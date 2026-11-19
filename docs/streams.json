@@ -268,7 +268,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T03:00:00Z",
+          "title": "【EN】CAN WE ESCAPE TOGETHER!? |  Escape Simulator 2【Hyakuto Kyoko/Hololive】",
+          "video_id": "AkkNeh3RTVw"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -441,5 +448,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-19T15:20:25Z"
+  "generated_at": "2026-11-19T15:31:31Z"
 }
