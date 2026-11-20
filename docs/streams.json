@@ -126,7 +126,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T13:00:00Z",
+          "title": "【牛丼店シミュレーター】牛丼大好き女騎士！世界一の牛丼屋さんを作りたい！！【白銀ノエル/ホロライブ】",
+          "video_id": "SIjCCuNV0ZQ"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -230,7 +237,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T11:00:00Z",
+          "title": "【とんかつシミュレーター】ワンオペでとんかつ屋さんになるでえ～！【ホロライブ  響咲リオナ】",
+          "video_id": "BLvpGlnWE0Y"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -455,5 +469,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T05:50:26Z"
+  "generated_at": "2026-11-20T06:10:31Z"
 }
