@@ -102,11 +102,6 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "live": {
-        "started_at": "2026-11-20T12:00:26Z",
-        "title": "浮気なんかしてないよね？？？",
-        "video_id": "ROHtRsXeOaE"
-      },
       "name": "猫又おかゆ"
     },
     {
@@ -154,14 +149,12 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T13:00:00Z",
-          "title": "【メンバー限定配信】開設6年8ヶ月目！秘密雑談しよ💛【角巻わため/ホロライブ４期生】",
-          "video_id": "Lob3eXD7u38"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T13:09:10Z",
+        "title": "【メンバー限定配信】開設6年8ヶ月目！秘密雑談しよ💛【角巻わため/ホロライブ４期生】",
+        "video_id": "Lob3eXD7u38"
+      },
+      "name": "角巻わため"
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -188,14 +181,12 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T13:00:00Z",
-          "title": "【 晩酌 】ねぽらぼ旅行、引っ越し、海外旅行などなど！！！！！【 桃鈴ねね / hololive 】",
-          "video_id": "PHR5fkY1t8Q"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T13:06:33Z",
+        "title": "【 晩酌 】ねぽらぼ旅行、引っ越し、海外旅行などなど！！！！！【 桃鈴ねね / hololive 】",
+        "video_id": "PHR5fkY1t8Q"
+      },
+      "name": "桃鈴ねね"
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -257,14 +248,12 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T13:00:00Z",
-          "title": "【BOMBANANA!】美術と惑星科学と民俗学で爆弾解除【儒烏風亭らでん #ReGLOSS 】",
-          "video_id": "HEbxkEWEX0A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T13:01:41Z",
+        "title": "【BOMBANANA!】美術と惑星科学と民俗学で爆弾解除【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "HEbxkEWEX0A"
+      },
+      "name": "儒烏風亭らでん"
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -340,14 +329,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T13:00:00Z",
-          "title": "【先行プレイ】こより先生に麻雀を教えてもらうよ～～！！ | ホロライブ麻雀【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "M8dGSv3lNsk"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T13:02:09Z",
+        "title": "【先行プレイ】こより先生に麻雀を教えてもらうよ～～！！ #キョーこよ  | ホロライブ麻雀【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "M8dGSv3lNsk"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -506,5 +493,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T13:00:56Z"
+  "generated_at": "2026-11-20T13:10:46Z"
 }
