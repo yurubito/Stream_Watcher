@@ -104,11 +104,6 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-20T09:30:55Z",
-        "title": "【切り抜きNG】hololive Next 2026.11.20 みんなで見るか！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "YFfMY2abxJA"
-      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
@@ -258,14 +253,12 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T11:00:00Z",
-          "title": "【とんかつシミュレーター】ワンオペでとんかつ屋さんになるでえ～！【ホロライブ  響咲リオナ】",
-          "video_id": "BLvpGlnWE0Y"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T11:00:16Z",
+        "title": "【とんかつシミュレーター】ワンオペでとんかつ屋さんになるでえ～！【ホロライブ  響咲リオナ】",
+        "video_id": "BLvpGlnWE0Y"
+      },
+      "name": "響咲リオナ"
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -497,5 +490,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T10:40:32Z"
+  "generated_at": "2026-11-20T11:01:07Z"
 }
