@@ -55,6 +55,11 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
+      "live": {
+        "started_at": "2026-11-20T12:49:04Z",
+        "title": "【R.E.P.O.】ソロREPOだにょい【ホロライブ/夏色まつり】",
+        "video_id": "uqiY10fl6FE"
+      },
       "name": "夏色まつり"
     },
     {
@@ -134,14 +139,12 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T13:00:00Z",
-          "title": "【牛丼店シミュレーター】牛丼大好き女騎士！世界一の牛丼屋さんを作りたい！！【白銀ノエル/ホロライブ】",
-          "video_id": "SIjCCuNV0ZQ"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T13:00:29Z",
+        "title": "【牛丼店シミュレーター】牛丼大好き女騎士！世界一の牛丼屋さんを作りたい！！【白銀ノエル/ホロライブ】",
+        "video_id": "SIjCCuNV0ZQ"
+      },
+      "name": "白銀ノエル"
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -266,23 +269,16 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T13:00:00Z",
-          "title": "【気のせいすぎるRPG】ホラー要素ある？？気のせい？？【轟はじめ/ReGLOSS】",
-          "video_id": "ZyV3OKUGP2o"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T13:00:37Z",
+        "title": "【気のせいすぎるRPG】ホラー要素ある？？気のせい？？【轟はじめ/ReGLOSS】",
+        "video_id": "ZyV3OKUGP2o"
+      },
+      "name": "轟はじめ"
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-20T11:00:16Z",
-        "title": "【とんかつシミュレーター】ワンオペでとんかつ屋さんになるでえ～！【ホロライブ  響咲リオナ】",
-        "video_id": "BLvpGlnWE0Y"
-      },
       "name": "響咲リオナ"
     },
     {
@@ -327,11 +323,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-20T11:02:53Z",
-        "title": "【Q REMASTERED】これが物理学博士の解き方です【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "WDAc21iPkRs"
-      },
       "name": "宙科そぴあ",
       "upcoming": [
         {
@@ -502,14 +493,12 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T13:08:00Z",
-          "title": "【Combolands: Roguelike Citybuilder】build build build 🛖",
-          "video_id": "H5ilGId9sOY"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T12:57:46Z",
+        "title": "【Combolands: Roguelike Citybuilder】build build build 🛖",
+        "video_id": "H5ilGId9sOY"
+      },
+      "name": "カエラ・コヴァルスキア"
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -517,5 +506,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T12:50:38Z"
+  "generated_at": "2026-11-20T13:00:56Z"
 }
