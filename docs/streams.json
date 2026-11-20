@@ -300,7 +300,14 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら"
+      "name": "熱千めら",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T04:00:00Z",
+          "title": "はじめてのMinecraftで冒険！アソビ★まわり隊！拠点作る【ホロライブ/熱千めら】",
+          "video_id": "inmap2iySzA"
+        }
+      ]
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
@@ -500,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T11:10:39Z"
+  "generated_at": "2026-11-20T11:40:36Z"
 }
