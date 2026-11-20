@@ -148,13 +148,13 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
+      "live": {
+        "started_at": "2026-11-20T10:00:07Z",
+        "title": "大ダジャレ大会開幕！【ギリギリわるくないわため】 #ギリわる",
+        "video_id": "6mDmMvDsEpU"
+      },
       "name": "角巻わため",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T10:00:00Z",
-          "title": "大ダジャレ大会開幕！【ギリギリわるくないわため】 #ギリわる",
-          "video_id": "6mDmMvDsEpU"
-        },
         {
           "scheduled_at": "2026-11-20T13:00:00Z",
           "title": "【メンバー限定配信】開設6年8ヶ月目！秘密雑談しよ💛【角巻わため/ホロライブ４期生】",
@@ -276,11 +276,6 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-20T08:45:34Z",
-        "title": "【ヨッシーアイランド】完全初見！人生初のスーパーマリオ ヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "zHUn5w4qrDc"
-      },
       "name": "綺々羅々ヴィヴィ"
     },
     {
@@ -481,5 +476,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T09:40:33Z"
+  "generated_at": "2026-11-20T10:01:08Z"
 }
