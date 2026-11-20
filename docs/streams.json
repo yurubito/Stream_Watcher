@@ -437,11 +437,6 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "live": {
-        "started_at": "2026-11-20T03:01:14Z",
-        "title": "Escape Simulator 2 with @HyakutoKyoko !! Seek a Way Out【Pavolia Reine/hololive】",
-        "video_id": "tkg6ih6B98U"
-      },
       "name": "パヴォリア・レイネ"
     },
     {
@@ -460,5 +455,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T05:20:24Z"
+  "generated_at": "2026-11-20T05:50:26Z"
 }
