@@ -182,7 +182,14 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "name": "桃鈴ねね"
+      "name": "桃鈴ねね",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T13:00:00Z",
+          "title": "【 晩酌 】ねぽらぼ旅行、引っ越し、海外旅行などなど！！！！！【 桃鈴ねね / hololive 】",
+          "video_id": "PHR5fkY1t8Q"
+        }
+      ]
     },
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -490,5 +497,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T10:32:18Z"
+  "generated_at": "2026-11-20T10:40:32Z"
 }
