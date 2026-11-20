@@ -102,7 +102,14 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ"
+      "name": "猫又おかゆ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T11:00:00Z",
+          "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #03【 猫又おかゆ/ホロライブ 】",
+          "video_id": "Pc4lDQDP_kc"
+        }
+      ]
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -263,7 +270,14 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎"
+      "name": "虎金妃笑虎",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T00:00:00Z",
+          "title": "【 ＃朝ガオ vol.20】朝、目が覚めるとそこには、誠麗しゅう虎がいた【虎金妃笑虎】",
+          "video_id": "WswkPUIX64M"
+        }
+      ]
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -369,7 +383,14 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ"
+      "name": "ハコス・ベールズ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T01:00:00Z",
+          "title": "≪Ring Fit Adventure≫ I AIN'T NO QUITTER. BUT I MAY CHEAT... slightly #RoadToREGALIA #sponsored",
+          "video_id": "Aot-odo5Vc4"
+        }
+      ]
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -481,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T13:20:33Z"
+  "generated_at": "2026-11-20T13:30:51Z"
 }
