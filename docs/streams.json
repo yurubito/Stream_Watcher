@@ -237,14 +237,12 @@
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "group": "DEV_IS ReGLOSS",
-      "name": "音乃瀬奏",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T14:30:00Z",
-          "title": "【 雑談 】リハーサルとミーグリしてきた！！！【音乃瀬奏】#ReGLOSS",
-          "video_id": "7sy-VCMi4J0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T14:30:09Z",
+        "title": "【 雑談 】リハーサルとミーグリしてきた！！！【音乃瀬奏】#ReGLOSS",
+        "video_id": "7sy-VCMi4J0"
+      },
+      "name": "音乃瀬奏"
     },
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
@@ -516,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T14:20:43Z"
+  "generated_at": "2026-11-20T14:30:44Z"
 }
