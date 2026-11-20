@@ -150,7 +150,14 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "name": "角巻わため"
+      "name": "角巻わため",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T10:00:00Z",
+          "title": "【 Japanese Ramen Simulator 】アキちゃんとラーメン屋さん開店！！！【角巻わため/ホロライブ４期生】",
+          "video_id": "k6fQMwzFPoM"
+        }
+      ]
     },
     {
       "channel_id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -540,5 +547,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T20:01:01Z"
+  "generated_at": "2026-11-20T22:10:29Z"
 }
