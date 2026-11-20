@@ -55,7 +55,14 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "name": "夏色まつり"
+      "name": "夏色まつり",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T10:00:00Z",
+          "title": "【セルフ3D】「お姉さま♡ラヴコール」の振り入れしちゃいます🛸💜 【ホロライブ/夏色まつり】",
+          "video_id": "-Qw0RCQAcco"
+        }
+      ]
     },
     {
       "channel_id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -494,5 +501,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T14:50:33Z"
+  "generated_at": "2026-11-20T15:01:03Z"
 }
