@@ -475,14 +475,12 @@
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
       "group": "EN Justice",
-      "name": "セシリア・イマーグリーン",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T20:00:00Z",
-          "title": "【3D LIVE BTS】LET'S LOOK BEHIND THE CURTAIN FOR EVERGREEN REPRISE!",
-          "video_id": "qLJUPGCUPO0"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T20:00:16Z",
+        "title": "【3D LIVE BTS】LET'S LOOK BEHIND THE CURTAIN FOR EVERGREEN REPRISE!",
+        "video_id": "qLJUPGCUPO0"
+      },
+      "name": "セシリア・イマーグリーン"
     },
     {
       "channel_id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -534,11 +532,6 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "live": {
-        "started_at": "2026-11-20T12:57:46Z",
-        "title": "【Combolands: Roguelike Citybuilder】build build build 🛖",
-        "video_id": "H5ilGId9sOY"
-      },
       "name": "カエラ・コヴァルスキア"
     },
     {
@@ -547,5 +540,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T18:40:38Z"
+  "generated_at": "2026-11-20T20:01:01Z"
 }
