@@ -19,18 +19,11 @@
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
       "live": {
-        "started_at": "2026-11-20T09:31:46Z",
-        "title": "【#hololiveNext】hololive Next 2026.11.20 みんなでみるにぇえええええええええ‼【ホロライブ/さくらみこ】",
-        "video_id": "Q_2HEo8UY2o"
+        "started_at": "2026-11-20T11:04:53Z",
+        "title": "#3【GTAⅥ】待望のついに始まるみこのバイスシティ生活！ DAY3 EliteMiko Life in Vice City 😎✌【ホロライブ/さくらみこ】",
+        "video_id": "WLiPEU84zj8"
       },
-      "name": "さくらみこ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T11:00:00Z",
-          "title": "【GTAⅥ】待望のついに始まるみこのバイスシティ生活！ DAY3 EliteMiko Life in Vice City 😎✌【ホロライブ/さくらみこ】",
-          "video_id": "WLiPEU84zj8"
-        }
-      ]
+      "name": "さくらみこ"
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -77,7 +70,24 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
-      "name": "大空スバル"
+      "name": "大空スバル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T01:00:00Z",
+          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+          "video_id": "ucnpIr_3n20"
+        },
+        {
+          "scheduled_at": "2026-11-21T04:00:00Z",
+          "title": "【#5】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
+          "video_id": "CrZaQWVWbPU"
+        },
+        {
+          "scheduled_at": "2026-11-22T04:00:00Z",
+          "title": "【#6】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
+          "video_id": "gC55Q3Uyh3w"
+        }
+      ]
     },
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
@@ -104,13 +114,13 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-11-20T11:01:54Z",
+        "title": "【GTA VI】ついに発売！今日から始まるバイスシティ生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "_qgCikLYrTo"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T11:00:00Z",
-          "title": "【GTA VI】ついに発売！今日から始まるバイスシティ生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "_qgCikLYrTo"
-        },
         {
           "scheduled_at": "2026-11-26T12:00:00Z",
           "title": "お知らせ",
@@ -295,13 +305,13 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-20T11:02:53Z",
+        "title": "【Q REMASTERED】これが物理学博士の解き方です【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "WDAc21iPkRs"
+      },
       "name": "宙科そぴあ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T11:00:00Z",
-          "title": "【Q REMASTERED】これが物理学博士の解き方です【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "WDAc21iPkRs"
-        },
         {
           "scheduled_at": "2028-06-12T15:00:00Z",
           "title": "【フリーチャット】そぴあのお知らせ掲示板【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
@@ -490,5 +500,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T11:01:07Z"
+  "generated_at": "2026-11-20T11:10:39Z"
 }
