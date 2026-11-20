@@ -272,14 +272,12 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T03:00:00Z",
-          "title": "【EN】CAN WE ESCAPE TOGETHER!? |  Escape Simulator 2【Hyakuto Kyoko/Hololive】",
-          "video_id": "AkkNeh3RTVw"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T03:01:19Z",
+        "title": "【EN】CAN WE ESCAPE TOGETHER!? |  Escape Simulator 2【Hyakuto Kyoko/Hololive】",
+        "video_id": "AkkNeh3RTVw"
+      },
+      "name": "百灯キョーコ"
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -321,14 +319,12 @@
     {
       "channel_id": "UC8rcEBzJSleTkf_-agPM20g",
       "group": "EN Promise",
-      "name": "IRyS",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T03:00:00Z",
-          "title": "【3D KARAOKE】Singing w/ Friends to celebrate my ANNIVERSARY?! + ANNOUNCEMENT #5YearENCore",
-          "video_id": "sSkB-FmWpeA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T03:03:24Z",
+        "title": "【3D KARAOKE】Singing w/ Friends to celebrate my ANNIVERSARY?! + ANNOUNCEMENT #5YearENCore",
+        "video_id": "sSkB-FmWpeA"
+      },
+      "name": "IRyS"
     },
     {
       "channel_id": "UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -427,14 +423,12 @@
     {
       "channel_id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "group": "ID holoro",
-      "name": "パヴォリア・レイネ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T03:00:00Z",
-          "title": "Escape Simulator 2 with @HyakutoKyoko !! Seek a Way Out【Pavolia Reine/hololive】",
-          "video_id": "tkg6ih6B98U"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T03:01:14Z",
+        "title": "Escape Simulator 2 with @HyakutoKyoko !! Seek a Way Out【Pavolia Reine/hololive】",
+        "video_id": "tkg6ih6B98U"
+      },
+      "name": "パヴォリア・レイネ"
     },
     {
       "channel_id": "UCTvHWSfBZgtxE4sILOaurIQ",
@@ -452,5 +446,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T03:00:50Z"
+  "generated_at": "2026-11-20T03:10:24Z"
 }
