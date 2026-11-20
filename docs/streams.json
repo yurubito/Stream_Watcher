@@ -170,7 +170,14 @@
     {
       "channel_id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "group": "JP 5期生",
-      "name": "雪花ラミィ"
+      "name": "雪花ラミィ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T11:00:00Z",
+          "title": "【#日本HPブラックフライデー】まがまが×莉々華で日本HPさん見返すぞ！♡【雪花ラミィ/桃鈴ねね/一条莉々華】",
+          "video_id": "3KhZt6F9mi8"
+        }
+      ]
     },
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
@@ -222,7 +229,14 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華"
+      "name": "一条莉々華",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T12:00:00Z",
+          "title": "【完全初見】賢者探しの旅、はじまる✨ With ゼルダの伝説 時のオカリナ part6【一条莉々華/hololive ReGLOSS】",
+          "video_id": "853akcL8CZI"
+        }
+      ]
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -471,5 +485,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T10:10:41Z"
+  "generated_at": "2026-11-20T10:20:35Z"
 }
