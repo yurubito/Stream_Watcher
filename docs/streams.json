@@ -112,6 +112,11 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-11-20T12:10:13Z",
+        "title": "【GTA VI】ついに発売！今日から始まるバイスシティ生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "9pgsqaOxo4U"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
@@ -214,6 +219,11 @@
       "group": "JP holoX",
       "name": "博衣こより",
       "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T02:00:00Z",
+          "title": "【マリオカート8DX】ソロライブ4日前に大会に出る女の練習🚗🚗🚗 #ホロ年末CUP2026 【博衣こより/ホロライブ】",
+          "video_id": "pDk-fn4yWwY"
+        },
         {
           "scheduled_at": "2026-11-22T10:00:00Z",
           "title": "【 #ホロじゃんエンジョイ杯 】リリース直前！優勝目指して麻雀を楽しもう！【本配信/ホロライブ】",
@@ -500,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T12:20:42Z"
+  "generated_at": "2026-11-20T12:30:44Z"
 }
