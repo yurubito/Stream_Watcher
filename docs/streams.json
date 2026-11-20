@@ -264,7 +264,14 @@
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
       "group": "DEV_IS FLOW GLOW",
-      "name": "響咲リオナ"
+      "name": "響咲リオナ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T11:00:00Z",
+          "title": "【One Million Coins】コイン拾いまくり女でーす✌【ホロライブ  響咲リオナ】",
+          "video_id": "KrGnr2zYf_w"
+        }
+      ]
     },
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
@@ -330,11 +337,6 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-20T13:02:09Z",
-        "title": "【先行プレイ】こより先生に麻雀を教えてもらうよ～～！！ #キョーこよ  | ホロライブ麻雀【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "M8dGSv3lNsk"
-      },
       "name": "百灯キョーコ"
     },
     {
@@ -501,5 +503,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T15:01:03Z"
+  "generated_at": "2026-11-20T15:10:36Z"
 }
