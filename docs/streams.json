@@ -106,7 +106,7 @@
       "group": "JP 3期生",
       "live": {
         "started_at": "2026-11-20T09:30:55Z",
-        "title": "hololive Next 2026.11.20 みんなで見るか！ぺこ！【ホロライブ/兎田ぺこら】",
+        "title": "【切り抜きNG】hololive Next 2026.11.20 みんなで見るか！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "YFfMY2abxJA"
       },
       "name": "兎田ぺこら",
@@ -148,11 +148,6 @@
     {
       "channel_id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "group": "JP 4期生",
-      "live": {
-        "started_at": "2026-11-20T10:00:07Z",
-        "title": "大ダジャレ大会開幕！【ギリギリわるくないわため】 #ギリわる",
-        "video_id": "6mDmMvDsEpU"
-      },
       "name": "角巻わため",
       "upcoming": [
         {
@@ -476,5 +471,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T10:01:08Z"
+  "generated_at": "2026-11-20T10:10:41Z"
 }
