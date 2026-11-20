@@ -55,11 +55,6 @@
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "group": "JP 1期生",
-      "live": {
-        "started_at": "2026-11-20T12:49:04Z",
-        "title": "【R.E.P.O.】ソロREPOだにょい【ホロライブ/夏色まつり】",
-        "video_id": "uqiY10fl6FE"
-      },
       "name": "夏色まつり"
     },
     {
@@ -136,11 +131,6 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "live": {
-        "started_at": "2026-11-20T13:00:29Z",
-        "title": "【牛丼店シミュレーター】牛丼大好き女騎士！世界一の牛丼屋さんを作りたい！！【白銀ノエル/ホロライブ】",
-        "video_id": "SIjCCuNV0ZQ"
-      },
       "name": "白銀ノエル"
     },
     {
@@ -178,11 +168,6 @@
     {
       "channel_id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "group": "JP 5期生",
-      "live": {
-        "started_at": "2026-11-20T13:06:33Z",
-        "title": "【 晩酌 】ねぽらぼ旅行、引っ越し、海外旅行などなど！！！！！【 桃鈴ねね / hololive 】",
-        "video_id": "PHR5fkY1t8Q"
-      },
       "name": "桃鈴ねね"
     },
     {
@@ -267,11 +252,6 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "live": {
-        "started_at": "2026-11-20T13:00:37Z",
-        "title": "【気のせいすぎるRPG】ホラー要素ある？？気のせい？？【轟はじめ/ReGLOSS】",
-        "video_id": "ZyV3OKUGP2o"
-      },
       "name": "轟はじめ"
     },
     {
@@ -514,5 +494,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T14:30:44Z"
+  "generated_at": "2026-11-20T14:50:33Z"
 }
