@@ -408,11 +408,6 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-20T10:12:47Z",
-        "title": "I survived.",
-        "video_id": "ztCoiCIemP8"
-      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
         {
@@ -505,5 +500,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T12:10:32Z"
+  "generated_at": "2026-11-20T12:20:42Z"
 }
