@@ -254,7 +254,14 @@
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "group": "DEV_IS ReGLOSS",
-      "name": "儒烏風亭らでん"
+      "name": "儒烏風亭らでん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T13:00:00Z",
+          "title": "【BOMBANANA!】美術と惑星科学と民俗学で爆弾解除【儒烏風亭らでん #ReGLOSS 】",
+          "video_id": "HEbxkEWEX0A"
+        }
+      ]
     },
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
@@ -510,5 +517,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T12:30:44Z"
+  "generated_at": "2026-11-20T12:50:38Z"
 }
