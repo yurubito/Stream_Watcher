@@ -315,7 +315,14 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T13:00:00Z",
+          "title": "【先行プレイ】こより先生に麻雀を教えてもらうよ～～！！ | ホロライブ麻雀【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "M8dGSv3lNsk"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -469,5 +476,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T06:50:28Z"
+  "generated_at": "2026-11-20T07:00:51Z"
 }
