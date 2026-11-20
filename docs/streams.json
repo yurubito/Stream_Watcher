@@ -197,7 +197,19 @@
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "group": "JP holoX",
-      "name": "鷹嶺ルイ"
+      "name": "鷹嶺ルイ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T03:00:00Z",
+          "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！モンゾーラ島クライマックス【鷹嶺ルイ/ホロライブ】ネタバレあり",
+          "video_id": "UNEAtDCQFeo"
+        },
+        {
+          "scheduled_at": "2026-11-21T10:00:00Z",
+          "title": "【 オフコラボ 】別々に商品買ったら何品揃う？？？推しのことなら自信あり？ ＃鷹偽タイガー【虎金妃笑虎/鷹嶺ルイ/ホロライブ】",
+          "video_id": "EHIhYF-bAIs"
+        }
+      ]
     },
     {
       "channel_id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -325,6 +337,11 @@
           "scheduled_at": "2026-11-21T04:00:00Z",
           "title": "【Minecraft】アソビ★まわり隊！で建築と冒険！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
           "video_id": "Zsd5ak7ZzmY"
+        },
+        {
+          "scheduled_at": "2026-11-21T12:00:00Z",
+          "title": "【Trees Hate You】ついに来た...！！絶対に倒されない！！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+          "video_id": "9HgDRTTPMTM"
         }
       ]
     },
@@ -518,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T17:50:40Z"
+  "generated_at": "2026-11-20T18:01:00Z"
 }
