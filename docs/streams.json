@@ -258,7 +258,14 @@
     {
       "channel_id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "group": "DEV_IS ReGLOSS",
-      "name": "轟はじめ"
+      "name": "轟はじめ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T13:00:00Z",
+          "title": "【気のせいすぎるRPG】ホラー要素ある？？気のせい？？【轟はじめ/ReGLOSS】",
+          "video_id": "ZyV3OKUGP2o"
+        }
+      ]
     },
     {
       "channel_id": "UC9LSiN9hXI55svYEBrrK-tw",
@@ -507,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T11:40:36Z"
+  "generated_at": "2026-11-20T11:50:36Z"
 }
