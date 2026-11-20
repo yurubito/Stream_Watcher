@@ -276,14 +276,12 @@
     {
       "channel_id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "綺々羅々ヴィヴィ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T08:45:00Z",
-          "title": "【ヨッシーアイランド】完全初見！人生初のスーパーマリオ ヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-          "video_id": "zHUn5w4qrDc"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T08:45:34Z",
+        "title": "【ヨッシーアイランド】完全初見！人生初のスーパーマリオ ヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "zHUn5w4qrDc"
+      },
+      "name": "綺々羅々ヴィヴィ"
     },
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
@@ -476,5 +474,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T08:40:33Z"
+  "generated_at": "2026-11-20T08:50:25Z"
 }
