@@ -225,7 +225,14 @@
     {
       "channel_id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "group": "JP holoX",
-      "name": "風真いろは"
+      "name": "風真いろは",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T09:00:00Z",
+          "title": "ドリームキャッチピュアいろは！ - アニメ尺ver/ 風真いろは(official)",
+          "video_id": "6nBnZCicBLk"
+        }
+      ]
     },
     {
       "channel_id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -502,5 +509,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T14:01:00Z"
+  "generated_at": "2026-11-20T14:10:40Z"
 }
