@@ -119,6 +119,11 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-11-20T13:26:13Z",
+        "title": "【GTA VI】ついに発売！今日から始まるバイスシティ生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "HD1RfWpmM2k"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
         {
@@ -502,5 +507,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T13:30:51Z"
+  "generated_at": "2026-11-20T13:40:48Z"
 }
