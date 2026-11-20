@@ -287,11 +287,6 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-20T13:12:38Z",
-        "title": "【妖怪ウォッチ1】#2 妖怪ウォッチの世界楽しむぞ〜❕※ネタバレ有り【水宮枢／ホロライブ】",
-        "video_id": "4-8PDq4tk3U"
-      },
       "name": "水宮枢"
     },
     {
@@ -348,7 +343,19 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "name": "百灯キョーコ"
+      "name": "百灯キョーコ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T04:00:00Z",
+          "title": "【マイクラ】実は未プレイ！？０からいろいろ覚えていくぞーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "XcNobZGLrB0"
+        },
+        {
+          "scheduled_at": "2026-11-21T13:00:00Z",
+          "title": "#7 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "video_id": "kiZFC1o7zrY"
+        }
+      ]
     },
     {
       "channel_id": "UCozx5csNhCx1wsVq3SZVkBQ",
@@ -535,5 +542,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T18:01:00Z"
+  "generated_at": "2026-11-20T18:20:39Z"
 }
