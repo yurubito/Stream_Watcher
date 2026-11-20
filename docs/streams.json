@@ -393,7 +393,14 @@
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー"
+      "name": "古石ビジュー",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T00:00:00Z",
+          "title": "【Grand Theft Auto VI】FLORIDA GEM ON THE LOOSE",
+          "video_id": "H2T4j8rdO5A"
+        }
+      ]
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -495,5 +502,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T16:00:52Z"
+  "generated_at": "2026-11-20T16:40:34Z"
 }
