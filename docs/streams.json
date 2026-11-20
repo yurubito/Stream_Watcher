@@ -18,13 +18,13 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
+      "live": {
+        "started_at": "2026-11-20T09:31:46Z",
+        "title": "【#hololiveNext】hololive Next 2026.11.20 みんなでみるにぇえええええええええ‼【ホロライブ/さくらみこ】",
+        "video_id": "Q_2HEo8UY2o"
+      },
       "name": "さくらみこ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T09:30:00Z",
-          "title": "【#hololiveNext】hololive Next 2026.11.20 みんなでみるにぇえええええええええ‼【ホロライブ/さくらみこ】",
-          "video_id": "Q_2HEo8UY2o"
-        },
         {
           "scheduled_at": "2026-11-20T11:00:00Z",
           "title": "【GTAⅥ】待望のついに始まるみこのバイスシティ生活！ DAY3 EliteMiko Life in Vice City 😎✌【ホロライブ/さくらみこ】",
@@ -104,13 +104,13 @@
     {
       "channel_id": "UC1DCedRgGHBdm81E1llLhOQ",
       "group": "JP 3期生",
+      "live": {
+        "started_at": "2026-11-20T09:30:55Z",
+        "title": "hololive Next 2026.11.20 みんなで見るか！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "YFfMY2abxJA"
+      },
       "name": "兎田ぺこら",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T09:30:00Z",
-          "title": "hololive Next 2026.11.20 みんなで見るか！ぺこ！【ホロライブ/兎田ぺこら】",
-          "video_id": "YFfMY2abxJA"
-        },
         {
           "scheduled_at": "2026-11-20T11:00:00Z",
           "title": "【GTA VI】ついに発売！今日から始まるバイスシティ生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
@@ -466,7 +466,14 @@
     {
       "channel_id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "group": "ID holoh3ro",
-      "name": "カエラ・コヴァルスキア"
+      "name": "カエラ・コヴァルスキア",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-20T13:08:00Z",
+          "title": "【Combolands: Roguelike Citybuilder】build build build 🛖",
+          "video_id": "H5ilGId9sOY"
+        }
+      ]
     },
     {
       "channel_id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -474,5 +481,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T09:00:50Z"
+  "generated_at": "2026-11-20T09:40:33Z"
 }
