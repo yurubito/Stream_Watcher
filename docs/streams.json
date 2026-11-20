@@ -97,14 +97,12 @@
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "group": "JP ゲーマーズ",
-      "name": "猫又おかゆ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T12:00:00Z",
-          "title": "浮気なんかしてないよね？？？",
-          "video_id": "ROHtRsXeOaE"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T12:00:26Z",
+        "title": "浮気なんかしてないよね？？？",
+        "video_id": "ROHtRsXeOaE"
+      },
+      "name": "猫又おかゆ"
     },
     {
       "channel_id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -241,14 +239,12 @@
     {
       "channel_id": "UCtyWhCj3AqKh2dXctLkDtng",
       "group": "DEV_IS ReGLOSS",
-      "name": "一条莉々華",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-20T12:00:00Z",
-          "title": "【完全初見】賢者探しの旅、はじまる✨ With ゼルダの伝説 時のオカリナ part6【一条莉々華/hololive ReGLOSS】",
-          "video_id": "853akcL8CZI"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T12:00:50Z",
+        "title": "【完全初見】賢者探しの旅、はじまる✨ With ゼルダの伝説 時のオカリナ part6【一条莉々華/hololive ReGLOSS】",
+        "video_id": "853akcL8CZI"
+      },
+      "name": "一条莉々華"
     },
     {
       "channel_id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -514,5 +510,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T11:50:36Z"
+  "generated_at": "2026-11-20T12:01:05Z"
 }
