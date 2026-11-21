@@ -135,7 +135,14 @@
     {
       "channel_id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "group": "JP 3期生",
-      "name": "白銀ノエル"
+      "name": "白銀ノエル",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T10:00:00Z",
+          "title": "【切り抜き視聴会】カワウソ先生(？)と一緒にホロ鯖ARKの切り抜きみよう～！！！🦦【白銀ノエル/ホロライブ】",
+          "video_id": "6SNcJKQG3Wc"
+        }
+      ]
     },
     {
       "channel_id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -304,25 +311,23 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "name": "熱千めら",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T04:00:00Z",
-          "title": "はじめてのMinecraftで冒険！アソビ★まわり隊！拠点作る【ホロライブ/熱千めら】",
-          "video_id": "inmap2iySzA"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-21T03:57:28Z",
+        "title": "はじめてのMinecraftで冒険！アソビ★まわり隊！拠点作る【ホロライブ/熱千めら】",
+        "video_id": "inmap2iySzA"
+      },
+      "name": "熱千めら"
     },
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-21T03:59:27Z",
+        "title": "【Minecraft】アソビ★まわり隊！で ホロ鯖マイクラ!!【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "2clIZv6usaA"
+      },
       "name": "宙科そぴあ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T04:00:00Z",
-          "title": "【Minecraft】アソビ★まわり隊！で ホロ鯖マイクラ!!【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "2clIZv6usaA"
-        },
         {
           "scheduled_at": "2028-06-12T15:00:00Z",
           "title": "【フリーチャット】そぴあのお知らせ掲示板【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
@@ -333,13 +338,13 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-21T03:59:10Z",
+        "title": "【Minecraft】アソビ★まわり隊！で建築と冒険！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
+        "video_id": "Zsd5ak7ZzmY"
+      },
       "name": "鈴鳴つづり",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T04:00:00Z",
-          "title": "【Minecraft】アソビ★まわり隊！で建築と冒険！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-          "video_id": "Zsd5ak7ZzmY"
-        },
         {
           "scheduled_at": "2026-11-21T12:00:00Z",
           "title": "【Trees Hate You】ついに来た...！！絶対に倒されない！！！　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
@@ -350,13 +355,13 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
+      "live": {
+        "started_at": "2026-11-21T03:59:17Z",
+        "title": "【マイクラ】実は未プレイ！？０からいろいろ覚えていくぞーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+        "video_id": "XcNobZGLrB0"
+      },
       "name": "百灯キョーコ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T04:00:00Z",
-          "title": "【マイクラ】実は未プレイ！？０からいろいろ覚えていくぞーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-          "video_id": "XcNobZGLrB0"
-        },
         {
           "scheduled_at": "2026-11-21T13:00:00Z",
           "title": "#7 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
@@ -372,13 +377,13 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
+      "live": {
+        "started_at": "2026-11-21T03:59:14Z",
+        "title": "【Grand Theft Auto VI】i will try this new game by rockstar #calliolive",
+        "video_id": "_XgsO_az3MI"
+      },
       "name": "森カリオペ",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T04:00:00Z",
-          "title": "【Grand Theft Auto VI】i will try this new game by rockstar #calliolive",
-          "video_id": "_XgsO_az3MI"
-        },
         {
           "scheduled_at": "2026-11-22T02:00:00Z",
           "title": "【MOUSE: P.I. for Hire】6 out of 10 too much cheese #calliolive",
@@ -429,11 +434,6 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
-      "live": {
-        "started_at": "2026-11-21T02:00:09Z",
-        "title": "Terror at the Brim | Shattered Legends | Episode 2",
-        "video_id": "tRnWGzjlqS0"
-      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
         {
@@ -526,5 +526,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T03:20:36Z"
+  "generated_at": "2026-11-21T04:00:49Z"
 }
