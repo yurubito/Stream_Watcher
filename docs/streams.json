@@ -79,13 +79,13 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-11-21T01:01:42Z",
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "ucnpIr_3n20"
+      },
       "name": "大空スバル",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T01:00:00Z",
-          "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-          "video_id": "ucnpIr_3n20"
-        },
         {
           "scheduled_at": "2026-11-21T04:00:00Z",
           "title": "【#5】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
@@ -289,11 +289,6 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "live": {
-        "started_at": "2026-11-21T00:00:10Z",
-        "title": "【 ＃朝ガオ vol.20】朝、目が覚めるとそこには、誠麗しゅう虎がいた【虎金妃笑虎】",
-        "video_id": "WswkPUIX64M"
-      },
       "name": "虎金妃笑虎"
     },
     {
@@ -424,14 +419,12 @@
     {
       "channel_id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "group": "EN Promise",
-      "name": "ハコス・ベールズ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T01:00:00Z",
-          "title": "≪Ring Fit Adventure≫ I AIN'T NO QUITTER. BUT I MAY CHEAT... slightly #RoadToREGALIA #sponsored",
-          "video_id": "Aot-odo5Vc4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-21T01:03:28Z",
+        "title": "≪Ring Fit Adventure≫ I AIN'T NO QUITTER. BUT I MAY CHEAT... slightly #RoadToREGALIA #sponsored",
+        "video_id": "Aot-odo5Vc4"
+      },
+      "name": "ハコス・ベールズ"
     },
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -548,5 +541,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T01:00:50Z"
+  "generated_at": "2026-11-21T01:10:46Z"
 }
