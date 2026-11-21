@@ -24,6 +24,11 @@
           "scheduled_at": "2026-11-21T10:00:00Z",
           "title": "【GTAⅥ】待望のついに始まるみこのバイスシティ生活！ DAY4 EliteMiko Life in Vice City 😎✌【ホロライブ/さくらみこ】",
           "video_id": "KM9PfRmQhWY"
+        },
+        {
+          "scheduled_at": "2026-11-22T09:00:00Z",
+          "title": "【#咲き乱れみこち】ファンに突撃インタビュー！さくらみこ 2nd Live “Blooming Parade!!”【ホロライブ/さくらみこ】",
+          "video_id": "s5J6gnDSq_k"
         }
       ]
     },
@@ -356,11 +361,6 @@
     {
       "channel_id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-21T03:59:27Z",
-        "title": "【Minecraft】アソビ★まわり隊！で ホロ鯖マイクラ!!【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "2clIZv6usaA"
-      },
       "name": "宙科そぴあ",
       "upcoming": [
         {
@@ -414,7 +414,14 @@
     {
       "channel_id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "group": "EN Myth",
-      "name": "小鳥遊キアラ"
+      "name": "小鳥遊キアラ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T17:00:00Z",
+          "title": "【ARKNIGHTS: ENDFIELD】reacting to the special program✨and checkin in on sidestories! #kfp #PR",
+          "video_id": "8CuOfp_a9og"
+        }
+      ]
     },
     {
       "channel_id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -486,11 +493,6 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "live": {
-        "started_at": "2026-11-21T04:08:27Z",
-        "title": "DRIVING DRIVING YUHUUUU @sammybollivienn @sayaayaaulya",
-        "video_id": "EK86_zSVsn4"
-      },
       "name": "アユンダ・リス"
     },
     {
@@ -534,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T08:10:36Z"
+  "generated_at": "2026-11-21T08:20:33Z"
 }
