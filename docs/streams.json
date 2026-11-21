@@ -82,9 +82,9 @@
       "name": "大空スバル",
       "upcoming": [
         {
-          "scheduled_at": "2026-11-21T04:00:00Z",
+          "scheduled_at": "2026-11-21T04:05:00Z",
           "title": "【#5】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
-          "video_id": "CrZaQWVWbPU"
+          "video_id": "ka0KXknnpOQ"
         },
         {
           "scheduled_at": "2026-11-22T04:00:00Z",
@@ -471,14 +471,12 @@
     {
       "channel_id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "group": "ID AREA15",
-      "name": "アユンダ・リス",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T04:00:00Z",
-          "title": "DRIVING DRIVING YUHUUUU @sammybollivienn @sayaayaaulya",
-          "video_id": "EK86_zSVsn4"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-21T04:08:27Z",
+        "title": "DRIVING DRIVING YUHUUUU @sammybollivienn @sayaayaaulya",
+        "video_id": "EK86_zSVsn4"
+      },
+      "name": "アユンダ・リス"
     },
     {
       "channel_id": "UCP0BspO_AMEe3aQqqpo89Dg",
@@ -526,5 +524,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T04:00:49Z"
+  "generated_at": "2026-11-21T04:10:29Z"
 }
