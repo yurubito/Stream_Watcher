@@ -52,7 +52,14 @@
     {
       "channel_id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "group": "JP 1期生",
-      "name": "白上フブキ"
+      "name": "白上フブキ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T11:00:00Z",
+          "title": "【AIドット絵バトル】最強の生物を創って闘わせる【ホロライブ/白上フブキ】",
+          "video_id": "9tmY34Oh-LU"
+        }
+      ]
     },
     {
       "channel_id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -514,5 +521,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T05:00:52Z"
+  "generated_at": "2026-11-21T05:50:29Z"
 }
