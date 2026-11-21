@@ -128,6 +128,11 @@
       "name": "兎田ぺこら",
       "upcoming": [
         {
+          "scheduled_at": "2026-11-21T10:00:00Z",
+          "title": "#1【GTA VI】マジで今日から始まるバイスシティ生活！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+          "video_id": "yBZhTtFrP64"
+        },
+        {
           "scheduled_at": "2026-11-26T12:00:00Z",
           "title": "お知らせ",
           "video_id": "lHy_EaFTUWM"
@@ -523,5 +528,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T06:40:36Z"
+  "generated_at": "2026-11-21T06:50:35Z"
 }
