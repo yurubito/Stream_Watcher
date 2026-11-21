@@ -220,7 +220,14 @@
     {
       "channel_id": "UCENwRMx5Yh42zWpzURebzTw",
       "group": "JP holoX",
-      "name": "ラプラス・ダークネス"
+      "name": "ラプラス・ダークネス",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-22T07:00:00Z",
+          "title": "【スマスロ】はじめてのスマスロモンキーターンⅤを配信！777TOWN.netでやるよ！【ラプラス・ダークネス/ホロライブ】",
+          "video_id": "-i9Jlb6Mb9E"
+        }
+      ]
     },
     {
       "channel_id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -528,5 +535,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T06:50:35Z"
+  "generated_at": "2026-11-21T07:10:31Z"
 }
