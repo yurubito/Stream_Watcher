@@ -189,7 +189,14 @@
     {
       "channel_id": "UCUKD-uaobj9jiqB-VXt71mA",
       "group": "JP 5期生",
-      "name": "獅白ぼたん"
+      "name": "獅白ぼたん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T09:00:00Z",
+          "title": "【GTA 6】13年ぶりの新作らしいぞ！（天下無双）【獅白ぼたん/ホロライブ】",
+          "video_id": "wc5dfUY9VPs"
+        }
+      ]
     },
     {
       "channel_id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -536,5 +543,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T00:01:01Z"
+  "generated_at": "2026-11-21T00:40:32Z"
 }
