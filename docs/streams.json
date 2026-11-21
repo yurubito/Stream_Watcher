@@ -103,7 +103,14 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ"
+      "name": "大神ミオ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T10:00:00Z",
+          "title": "ビギナーズハイ / 大神ミオ【Official MV】",
+          "video_id": "TZmaUP8ktzM"
+        }
+      ]
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -398,11 +405,6 @@
     {
       "channel_id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "group": "EN Myth",
-      "live": {
-        "started_at": "2026-11-21T03:59:14Z",
-        "title": "【Grand Theft Auto VI】i will try this new game by rockstar #calliolive",
-        "video_id": "_XgsO_az3MI"
-      },
       "name": "森カリオペ",
       "upcoming": [
         {
@@ -535,5 +537,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T07:10:31Z"
+  "generated_at": "2026-11-21T07:17:16Z"
 }
