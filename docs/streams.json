@@ -79,6 +79,11 @@
     {
       "channel_id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "group": "JP 2期生",
+      "live": {
+        "started_at": "2026-11-21T04:50:06Z",
+        "title": "【#魂の5】龍が如く維新極！やるしゅばああああああああああああああああああああああああああああああああああああ！！！！！：Like a Dragon: Ishin!【※ネタバレあり】",
+        "video_id": "sA5li9T9C_Q"
+      },
       "name": "大空スバル",
       "upcoming": [
         {
@@ -509,5 +514,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T04:50:37Z"
+  "generated_at": "2026-11-21T05:00:52Z"
 }
