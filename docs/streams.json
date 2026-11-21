@@ -299,6 +299,11 @@
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "group": "DEV_IS FLOW GLOW",
+      "live": {
+        "started_at": "2026-11-21T00:37:50Z",
+        "title": "【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢／ホロライブDEV_IS】",
+        "video_id": "Oo2gVVXafTk"
+      },
       "name": "水宮枢"
     },
     {
@@ -543,5 +548,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T00:40:32Z"
+  "generated_at": "2026-11-21T01:00:50Z"
 }
