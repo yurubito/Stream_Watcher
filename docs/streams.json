@@ -444,13 +444,13 @@
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "group": "EN Advent",
+      "live": {
+        "started_at": "2026-11-21T02:00:09Z",
+        "title": "Terror at the Brim | Shattered Legends | Episode 2",
+        "video_id": "tRnWGzjlqS0"
+      },
       "name": "ネリッサ・レイヴンクロフト",
       "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T02:00:00Z",
-          "title": "Terror at the Brim | Shattered Legends | Episode 2",
-          "video_id": "tRnWGzjlqS0"
-        },
         {
           "scheduled_at": "2026-11-22T01:00:00Z",
           "title": "Of Blood and Jailbirds | An Original Horror Story | Nerissa 2026 Birthday Celebration",
@@ -536,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T01:20:32Z"
+  "generated_at": "2026-11-21T02:01:06Z"
 }
