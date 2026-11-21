@@ -8,7 +8,14 @@
     {
       "channel_id": "UCDqI2jOz0weumE8s7paEk6g",
       "group": "JP 0期生",
-      "name": "ロボ子さん"
+      "name": "ロボ子さん",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T10:00:00Z",
+          "title": "【 カメラ有】１stアルバム販売中✨サインかいちゃうぞおおおお！！…サブスクで泣いたろぼちゃんの話もきいて👼【ホロライブ/ ロボ子さん #ロボ子生放送】",
+          "video_id": "SP2QBh7YktU"
+        }
+      ]
     },
     {
       "channel_id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -478,7 +485,14 @@
     {
       "channel_id": "UCDHABijvPBnJm7F-KlNME3w",
       "group": "EN Justice",
-      "name": "ジジ・ムリン"
+      "name": "ジジ・ムリン",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T22:00:00Z",
+          "title": "【SC KETCHUP】LET'S KETCHUP!",
+          "video_id": "tJoru1Dc5wQ"
+        }
+      ]
     },
     {
       "channel_id": "UCvN5h1ShZtc7nly3pezRayg",
@@ -536,5 +550,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T08:20:33Z"
+  "generated_at": "2026-11-21T08:50:44Z"
 }
