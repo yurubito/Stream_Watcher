@@ -103,14 +103,7 @@
     {
       "channel_id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "group": "JP ゲーマーズ",
-      "name": "大神ミオ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T10:00:00Z",
-          "title": "ビギナーズハイ / 大神ミオ【Official MV】",
-          "video_id": "TZmaUP8ktzM"
-        }
-      ]
+      "name": "大神ミオ"
     },
     {
       "channel_id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -537,5 +530,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T07:17:16Z"
+  "generated_at": "2026-11-21T07:20:28Z"
 }
