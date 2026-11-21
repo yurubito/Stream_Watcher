@@ -18,7 +18,14 @@
     {
       "channel_id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "group": "JP 0期生",
-      "name": "さくらみこ"
+      "name": "さくらみこ",
+      "upcoming": [
+        {
+          "scheduled_at": "2026-11-21T10:00:00Z",
+          "title": "【GTAⅥ】待望のついに始まるみこのバイスシティ生活！ DAY4 EliteMiko Life in Vice City 😎✌【ホロライブ/さくらみこ】",
+          "video_id": "KM9PfRmQhWY"
+        }
+      ]
     },
     {
       "channel_id": "UC5CwaMl1eIgY8h02uZw7u8A",
@@ -344,11 +351,6 @@
     {
       "channel_id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-21T03:57:28Z",
-        "title": "はじめてのMinecraftで冒険！アソビ★まわり隊！拠点作る【ホロライブ/熱千めら】",
-        "video_id": "inmap2iySzA"
-      },
       "name": "熱千めら"
     },
     {
@@ -371,11 +373,6 @@
     {
       "channel_id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-21T03:59:10Z",
-        "title": "【Minecraft】アソビ★まわり隊！で建築と冒険！！【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-        "video_id": "Zsd5ak7ZzmY"
-      },
       "name": "鈴鳴つづり",
       "upcoming": [
         {
@@ -388,16 +385,11 @@
     {
       "channel_id": "UCSjQDxud2HkAO2DVD3lwxmw",
       "group": "アソビ★まわり隊！",
-      "live": {
-        "started_at": "2026-11-21T03:59:17Z",
-        "title": "【マイクラ】実は未プレイ！？０からいろいろ覚えていくぞーー！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-        "video_id": "XcNobZGLrB0"
-      },
       "name": "百灯キョーコ",
       "upcoming": [
         {
           "scheduled_at": "2026-11-21T13:00:00Z",
-          "title": "#7 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "title": "#8 レベル上げ禁止！死んだら最初から！の縛りでダークソウル！！※ネタバレ注意【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
           "video_id": "kiZFC1o7zrY"
         }
       ]
@@ -542,5 +534,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-21T07:50:38Z"
+  "generated_at": "2026-11-21T08:10:36Z"
 }
