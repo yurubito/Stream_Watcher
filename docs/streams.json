@@ -282,14 +282,12 @@
     {
       "channel_id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "group": "DEV_IS FLOW GLOW",
-      "name": "虎金妃笑虎",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T00:00:00Z",
-          "title": "【 ＃朝ガオ vol.20】朝、目が覚めるとそこには、誠麗しゅう虎がいた【虎金妃笑虎】",
-          "video_id": "WswkPUIX64M"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-21T00:00:10Z",
+        "title": "【 ＃朝ガオ vol.20】朝、目が覚めるとそこには、誠麗しゅう虎がいた【虎金妃笑虎】",
+        "video_id": "WswkPUIX64M"
+      },
+      "name": "虎金妃笑虎"
     },
     {
       "channel_id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
@@ -426,26 +424,22 @@
     {
       "channel_id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "group": "EN Advent",
-      "name": "シオリ・ノヴェラ",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T00:00:00Z",
-          "title": "Drawing Dice Designs 【Misty Mountain Gaming】 #PR",
-          "video_id": "2HSZnGnZK6s"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T23:56:28Z",
+        "title": "Drawing Dice Designs 【Misty Mountain Gaming】 #PR",
+        "video_id": "2HSZnGnZK6s"
+      },
+      "name": "シオリ・ノヴェラ"
     },
     {
       "channel_id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "group": "EN Advent",
-      "name": "古石ビジュー",
-      "upcoming": [
-        {
-          "scheduled_at": "2026-11-21T00:00:00Z",
-          "title": "【Grand Theft Auto VI】FLORIDA GEM ON THE LOOSE",
-          "video_id": "H2T4j8rdO5A"
-        }
-      ]
+      "live": {
+        "started_at": "2026-11-20T23:58:36Z",
+        "title": "【Grand Theft Auto VI】FLORIDA GEM ON THE LOOSE",
+        "video_id": "H2T4j8rdO5A"
+      },
+      "name": "古石ビジュー"
     },
     {
       "channel_id": "UC_sFNM0z0MWm9A6WlKPuMMg",
@@ -542,5 +536,5 @@
       "name": "こぼ・かなえる"
     }
   ],
-  "generated_at": "2026-11-20T22:20:30Z"
+  "generated_at": "2026-11-21T00:01:01Z"
 }
